@@ -1,5 +1,4 @@
 Album: Moonslayer
-Directory: moonslayer-single
 Artists:
 - Raid
 Date: April 13, 2022
@@ -13,6 +12,12 @@ Cover Art File Extension: png
 Color: '#ac91ff'
 Groups:
 - Fandom
+Wallpaper Artists:
+- Raid
+- Lilithtreasure (edits for wiki)
+Wallpaper File Extension: png
+Wallpaper Style: |-
+    background-size: 698px 693px;
 Commentary: |-
    <i>Raid:</i> ([Bandcamp about blurb](https://rudecustard.bandcamp.com/track/moonslayer))
    An electronic jazz rock VGM type cover of Moonsetter by Toby Fox.<br>
@@ -20,7 +25,7 @@ Commentary: |-
 
    <i>Raid:</i> ([Bandcamp credits blurb](https://rudecustard.bandcamp.com/track/moonslayer))
    Arrangement, performance, recording, and mixing by me<br>
-   Original tune by Toby Fox
+   Original tune by [[artist:toby-fox]]
 
    <i>Raid:</i> ([YouTube description](https://www.youtube.com/watch?v=K9KKJQEMQ7o))
    11 June 2022 Update: this track is now on spotify. [Check it here.](https://open.spotify.com/track/3VOklsDiPnHGiuA9S6Kkm1)
