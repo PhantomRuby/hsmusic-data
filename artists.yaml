@@ -9767,15 +9767,6 @@ Artist: Seth Green
 ---
 Artist: Seth MacFarlane
 ---
-Artist: Seth Massey
-Aliases:
-- slogbait
-URLs:
-- https://twitter.com/Slogbait
-- https://slogbait.tumblr.com/
-- https://www.deviantart.com/slogbait
-- https://slogbait.newgrounds.com/
----
 Artist: Seth Peelle
 URLs:
 - https://beatfox.tumblr.com/
@@ -10085,6 +10076,16 @@ Aliases:
 Artist: slime
 ---
 Artist: Slipknot
+---
+Artist: slogbait
+Aliases:
+- Seth Massey
+URLs:
+- https://slogbait.tumblr.com/
+- https://www.deviantart.com/slogbait
+- https://slogbait.newgrounds.com/
+Dead URLs:
+- https://twitter.com/Slogbait
 ---
 Artist: Slowdive
 ---
