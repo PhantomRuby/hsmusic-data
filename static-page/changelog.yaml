@@ -379,8 +379,8 @@ Content: |-
     - added [[flash:riddle-of-dixy-path-of-mind]] game (thanks, Jebb!)
     - updated [[album:what]] with new artwork (circa 2021-2023)
     <h3>data fixes</h3>
-    - fixed listening link for [[track:the-academy]] (was accidentally same link as [[track:the-academy-your-room]]; thanks, Morris!)
-    - fixed various tracks referencing [[track:the-academy]] instead of [[track:south-province]], including: [[track:battle-titan]], [[track:your-ride-ability-went-up]], [[track:alfornada]], [[track:the-gate-is-open]], [[track:battle-koraidon-miraidon]], [[track:the-way-home]], [[track:lets-take-the-scenic-route-home]], [[track:celestial-toby-fox]] (thanks, Morris!)
+    - fixed listening link for [[track:the-academy]] (was accidentally same link as [[track:your-dorm-room]]; thanks, Morris!)
+    - fixed various tracks referencing [[track:the-academy]] instead of [[track:south-province]], including: [[track:battle-titan]], [[track:a-new-power-for-your-ride]], [[track:alfornada]], [[track:the-gate-opens]], [[track:battle-koraidon-miraidon]], [[track:the-way-home]], [[track:get-a-little-more-fun-out-of-this-adventure]], [[track:celestial-toby-fox]] (thanks, Morris!)
     - fixed [[track:negastrife]] not referencing [[track:mother]] (thanks, Lilith!)
     - fixed [[track:starfall]] not sampling [[track:ascend]] (in addition to referencing it; thanks, Morris, Makin!)
     - fixed [[track:to-the-great-crater-of-paldea]] not referencing [[track:south-province]] (in addition to [[track:the-academy]]; thanks, Morris!)
@@ -756,7 +756,7 @@ Content: |-
     - fixed [[track:tycoontime-lame-and-old]] sampling [[track:tycoontime]] instead of vice-versa, and moved references [[track:rollercoaster-tycoon-theme]] and [[track:showtime-piano-refrain]] from [[track:tycoontime]] to [[track:tycoontime-lame-and-old]] (thanks, Rosetta Leijonde!)
     - fixed [[track:its-megaman-except-the-song-is-homestuck-too]] not referencing [[track:title-mega-man-3]], [[track:doctor]], and [[track:explore]], and not sampling [[track:title-mega-man-3]] (thanks, Rosetta Leijonde, FF!)
     - fixed [[track:carne-vale-fusion-collab]] sampling [[track:a-grand-new-era-ending]] instead of [[track:the-flintstones-the-rescue-of-dino-and-hoppy-title-theme-ending]] and not sampling [[track:floweys-laugh]]
-    - fixed [[track:yule-and-new]] referencing [[track:ocarina-song-of-storms]] instead of [[track:windmill-hut]]
+    - fixed [[track:yule-and-new]] referencing [[track:song-of-storms]] instead of [[track:windmill-hut]]
     - fixed [[track:fighting-spirit-double-ascended-form]] referencing itself and not [[track:fighting-spirit-second-form]] (thx, Pyryte!)
     - fixed [[track:multi-track-drifting-last-stop]] referencing tracks it only samples (thanks, Rosetta Leijonde!)
     - fixed [[track:24x-showdown-combo]] not sampling [[track:phat2]] (thanks, Rosetta Leijonde!)
@@ -831,7 +831,7 @@ Content: |-
     - fixed [[track:hydro-city-zone-act-2]] being named "Hydrocity Zone (Act 2)" (thanks, Morris!)
     - fixed [[track:lights-camera-action-studiopolis-zone-act-1]] being named "Lights, Camera, Action! (Studiopolis Zone Act 1)" (thanks, Morris!)
     - fixed [[track:main-theme-the-legend-of-zelda-breath-of-the-wild]] being named "Breath of the Wild Theme" (thanks, Morris!)
-    - fixed [[track:windmill-hut]] being named "Song of Storms", and not referencing [[track:ocarina-song-of-storms]]
+    - fixed [[track:windmill-hut]] being named "Song of Storms", and not referencing [[track:song-of-storms]]
     - fixed [[track:westminster-quarters]] being named "Westminister Quarters" (thanks, Circlejourney, Jebb!)
     - fixed [[artist:siivagunner]] being named "SilvaGunner" (thanks, Rosetta Leijonde!)
     - fixed [[artist:kdmanderson]] (thanks, Makin!), [[artist:anonei]], [[artist:arosoup]], [[artist:fueledbyanimation]], [[artist:lizawithazed]], [[artist:raizor]], and [[artist:william-leonard]] having some credits under other names
@@ -870,7 +870,7 @@ Content: |-
     - added performance credits to [[track:lifelight]] and [[track:lifelight-jp]] (thanks, Morris!)
     - added performance credits to [[track:fist-bump]], [[track:open-your-heart]], and [[track:unknown-from-me]] and updated their lyrics (thanks, Morris!)
     - tidied details in artist credits for [[track:takeover-havoc]] (thanks, vriska/leo!)
-    - added franchise artists to credits for the following [[album:references-beyond-homestuck]] tracks: [[track:a-new-day]], [[track:aint-nothin-like-a-funky-beat]], [[track:behave-irrationally]], [[track:brown-puffle-lab]], [[track:dissonance-quincy-pringle]], [[track:dj-kk-aircheck]], [[track:gallant-gunshot]], [[track:game-over-dont-stop]], [[track:gettin-freaky]], [[track:one-hell-of-a-time]], [[track:wii-shop-channel]], [[track:your-reality]], [[track:do-the-bartman]], [[track:deep-deep-trouble]], [[track:inspector-gadget-main-theme]], [[track:merry-go-round-of-life]], [[track:renai-circulation]], [[track:spatula-city]], [[track:superman-theme]], [[track:swordland]], [[track:this-is-halloween]] (thanks FF, Jebb, Morris, Rosetta Leijonde)
+    - added franchise artists to credits for the following [[album:references-beyond-homestuck]] tracks: [[track:a-new-day]], [[track:aint-nothin-like-a-funky-beat]], [[track:behave-irrationally]], [[track:brown-puffle-lab]], [[track:dissonance-quincy-pringle]], [[track:dj-kk-aircheck]], [[track:gallant-gunshot]], [[track:game-over-dont-stop]], [[track:gettin-freaky]], [[track:one-hell-of-a-time]], [[track:main-theme-wii-shop-channel]], [[track:your-reality]], [[track:do-the-bartman]], [[track:deep-deep-trouble]], [[track:inspector-gadget-main-theme]], [[track:merry-go-round-of-life]], [[track:renai-circulation]], [[track:spatula-city]], [[track:superman-theme]], [[track:swordland]], [[track:this-is-halloween]] (thanks FF, Jebb, Morris, Rosetta Leijonde)
     - fixed missing lyrics line in [[track:i-dont-want-to-miss-a-thing]] (thanks, Rosetta Leijonde!)
     - fixed mistaken lyrics in [[track:chain-of-prospit]] (thanks, Sgeo, FF!), [[track:shit-lets-be-santa]] (thanks, Rosetta Leijonde!), and [[track:boy-skylark]] (thanks, Grace!)
     - combined lyrics for rereleases, using more recent formatting for [[track:ugly-story]], [[track:fool]], and [[track:hors-lofam4]]

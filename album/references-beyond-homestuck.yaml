@@ -1922,6 +1922,16 @@ Duration: '1:11'
 URLs:
 - https://www.youtube.com/watch?v=z5VFngsQPok
 ---
+Track: Apartment Hangout
+# Reference:
+#   https://vgmdb.net/album/29635
+Artists:
+- Tomodachi Life
+- Daisuke Shiiba
+Duration: '3:25'
+URLs:
+- https://www.youtube.com/watch?v=NtuujEslrAE
+---
 Track: Aquarius (Sunken City Stage)
 # Reference:
 #   https://vgmdb.net/album/114949
@@ -2286,16 +2296,6 @@ Duration: '2:34'
 URLs:
 - https://www.youtube.com/watch?v=pnnnKdq21yk
 ---
-Track: Bathtime Theme
-# Reference:
-#   https://vgmdb.net/product/9658
-Artists:
-- nintendogs
-- Hajime Wakai
-##Duration: ''
-URLs:
-- https://www.youtube.com/watch?v=Kz9D-zxnXa0
----
 Track: Bathtime Theme (for 3DS / Wii U)
 Directory: bathtime-theme-ssb4
 # Reference:
@@ -2309,7 +2309,17 @@ Duration: '2:14'
 URLs:
 - https://www.youtube.com/watch?v=vZmlbotvIxY
 Referenced Tracks:
-- track:bathtime-theme
+- Bathing
+---
+Track: Bathing
+# Reference:
+#   https://vgmdb.net/product/9658
+Artists:
+- nintendogs
+- Hajime Wakai
+##Duration: ''
+URLs:
+- https://www.youtube.com/watch?v=Kz9D-zxnXa0
 ---
 Track: Battle
 Directory: battle-final-fantasy
@@ -5416,16 +5426,6 @@ Duration: '8:00'
 URLs:
 - https://www.youtube.com/watch?v=1CitcacBARw
 ---
-Track: In the Room
-# Reference:
-#   https://vgmdb.net/album/29635
-Artists:
-- Tomodachi Life
-- Daisuke Shiiba
-Duration: '3:25'
-URLs:
-- https://www.youtube.com/watch?v=NtuujEslrAE
----
 Track: In the Sky
 # Reference:
 #   https://vgmdb.net/product/9896  no soundtrack release :c
@@ -6375,6 +6375,14 @@ Artists:
 Duration: '2:42'
 URLs:
 - https://www.youtube.com/watch?v=T6CK7ctyDz4
+---
+Track: Main Theme (Wii Shop Channel)
+# No official release
+Artists:
+- Wii System Music
+- Kazumi Totaka
+URLs:
+- https://www.youtube.com/watch?v=yyjUmv1gJEg
 ---
 Track: Main Theme (Yoshi's New Island)
 # Reference:
@@ -8426,7 +8434,7 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=Xy_-7OXophY
 ---
-Track: Ocarina "Song of Storms"
+Track: Song of Storms
 # JP: オカリナ「嵐の歌」
 # Official release:
 #   ゼルダの伝説 時のオカリナ オリジナルサウンドトラック
@@ -8438,6 +8446,8 @@ Track: Ocarina "Song of Storms"
 #   for this eight second track featuring just the partial motif played
 #   on the ocarina. Windmill Hut is the full song usually referred to as
 #   "Song of Storm" online.
+#   UPDATE 31-10-2024 2:30 AM CET
+#   The Nintendo Music app calls this song "Song of Storms"
 # Reference:
 #   https://vgmdb.net/album/293
 Artists:
@@ -10139,14 +10149,6 @@ Duration: '2:07'
 URLs:
 - https://www.youtube.com/watch?v=E7PFm7mrdVY
 ---
-Track: Wii Shop Channel
-# No official release
-Artists:
-- Wii System Music
-- Kazumi Totaka
-URLs:
-- https://www.youtube.com/watch?v=yyjUmv1gJEg
----
 Track: Wind Scene
 # (See Corridors of Time for info on soundtrack/YouTube differences)
 # JP:  風の憧憬
@@ -10179,7 +10181,7 @@ Duration: '0:53'
 URLs:
 - https://www.youtube.com/watch?v=mQLBEJ-Nj3A
 Referenced Tracks:
-- Ocarina "Song of Storms"
+- Song of Storms
 ---
 Track: Women Village
 # Reference:
