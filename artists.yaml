@@ -7458,15 +7458,6 @@ Artist: Morikazu Aoki
 ---
 Artist: M0R0S
 ---
-Artist: Morris
-Aliases:
-- MorrisMusic
-- Omega_Morris123
-URLs:
-- https://morrismusic.bandcamp.com/
-- https://www.youtube.com/channel/UC9aeE10FyO10seUuoNgaUrQ
-- https://twitter.com/Omega_Morris123
----
 Artist: Mort Garson
 ---
 Artist: Mother
@@ -9382,7 +9373,18 @@ Artist: Rozenn-blog
 URLs:
 - https://rozenn-blog.tumblr.com/
 ---
+Artist: ruby
+Aliases:
+- Morris
+- MorrisMusic
+- Omega_Morris123
+URLs:
+- https://morrismusic.bandcamp.com/
+- https://www.youtube.com/channel/UC9aeE10FyO10seUuoNgaUrQ
+- https://twitter.com/Omega_Morris123
+---
 Artist: Ruby_
+Directory: ruby-eve
 URLs:
 - https://youtube.com/@ruby_15
 - https://twitter.com/ruby151106
