@@ -54,6 +54,7 @@ Referenced Tracks:
 ---
 Track: Home
 Directory: home-pokemon-scarlet-violet
+Always Reference By Directory: true
 Duration: '2:11'
 Artists:
 - Minako Adachi (arranger)
@@ -212,7 +213,6 @@ Referenced Tracks:
 - The Academy
 ---
 Track: Battle! (South Province Wild Pokémon)
-Directory: battle-south-province-wild-pokemon
 Duration: '2:47'
 Artists:
 - Minako Adachi
@@ -347,7 +347,7 @@ Referenced Tracks:
 - The Academy
 ---
 Track: A Short Rest
-Directory: take-a-break-pokemon-scarlet-violet
+Directory: a-short-rest-pokemon-scarlet-violet
 Duration: '0:06'
 Artists:
 - Hitomi Sato
@@ -545,7 +545,6 @@ URLs:
 - https://www.youtube.com/watch?v=xsbxhr7dsd8
 ---
 Track: Battle! (West Province Wild Pokémon)
-Directory: battle-west-province-wild-pokemon
 Duration: '2:01'
 Artists:
 - Minako Adachi
@@ -682,7 +681,6 @@ URLs:
 - https://www.youtube.com/watch?v=rVeF3Gd_-pI
 ---
 Track: Battle! (East Province Wild Pokémon)
-Directory: battle-east-province-wild-pokemon
 Duration: '2:41'
 Artists:
 - Minako Adachi
@@ -829,7 +827,6 @@ URLs:
 - https://www.youtube.com/watch?v=X3NdQgAlO_8
 ---
 Track: Battle! (North Province Wild Pokémon)
-Directory: battle-north-province-wild-pokemon
 Duration: '4:33'
 Artists:
 - Minako Adachi
@@ -921,7 +918,6 @@ Referenced Tracks:
 - Pokémon Gym (Pokémon Red / Pokémon Blue)
 ---
 Track: The Pokémon League Interview
-Directory: the-pokemon-league-interview-phase
 Duration: '2:44'
 Artists:
 - Hitomi Sato
@@ -1095,7 +1091,6 @@ Commentary: |-
     Also, not an actual reference, but the main arpeggio in this song happens to use the same scale as [[track:alphys]]. It's worth pointing out as the songs end up sounding slightly similar.
 ---
 Track: Battle! (Area Zero Pokémon)
-Directory: battle-area-zero-pokemon
 Duration: '3:59'
 Artists:
 - Go Ichinose
@@ -1114,7 +1109,6 @@ Referenced Tracks:
 - South Province
 ---
 Track: Battle! (Area Zero Pokémon 2)
-Directory: battle-area-zero-pokemon-2
 Duration: '3:59'
 Artists:
 - Go Ichinose
@@ -1247,7 +1241,6 @@ URLs:
 - https://www.youtube.com/watch?v=FiHP2ChYboY
 ---
 Track: Battle! (Calamity Pokémon)
-Directory: battle-calamity-pokemon
 Duration: '3:39'
 Artists:
 - Go Ichinose
@@ -1255,7 +1248,7 @@ URLs:
 - https://www.youtube.com/watch?v=RNqrin6f-yE
 ---
 Track: Pokédex Evaluation... It's Perfect!
-Directory: pokedex-evalution-its-perfect-pokemon-scarlet-violet
+Directory: pokedex-evaluation-its-perfect-pokemon-scarlet-violet
 Duration: '0:06'
 Artists:
 - Go Ichinose
@@ -1327,7 +1320,6 @@ URLs:
 - https://www.youtube.com/watch?v=GAsrehyERj0
 ---
 Track: Battle! (Kitakami Pokémon)
-Directory: battle-kitakami-pokemon
 Duration: '3:32'
 Artists:
 - Minako Adachi
@@ -1337,7 +1329,6 @@ Referenced Tracks:
 - The Land of Kitakami
 ---
 Track: Photo (Pokémon March)
-Directory: photo-pokemon-march
 Duration: '0:52'
 Artists:
 - Teruo Taniguchi
@@ -1356,7 +1347,6 @@ Referenced Tracks:
 - Battle! (Wild Pokémon—Johto Version) (Pokémon Gold / Pokémon Silver)
 ---
 Track: Photo (Pokémon Lullaby)
-Directory: photo-pokemon-lullaby
 Duration: '1:11'
 Artists:
 - Teruo Taniguchi
@@ -1440,6 +1430,8 @@ Referenced Tracks:
 - Area Zero
 ---
 Track: Twisted
+Directory: twisted-pokemon-scarlet-violet
+Always Reference By Directory: true
 Duration: '1:15'
 Artists:
 - Hitomi Sato
@@ -1558,7 +1550,6 @@ Referenced Tracks:
 - Route 4 (Spring)
 ---
 Track: Battle! (Terarium Pokémon)
-Directory: battle-terarium-pokemon
 Duration: '2:27'
 Artists:
 - Go Ichinose
@@ -1660,7 +1651,6 @@ Referenced Tracks:
 - Route 4 (Spring)
 ---
 Track: Battle! (Terarium Tera Pokémon)
-Directory: battle-terarium-tera-pokemon
 Duration: '2:23'
 Artists:
 - Go Ichinose
@@ -1880,7 +1870,6 @@ URLs:
 - https://www.youtube.com/watch?v=M7LwxT2q7AE
 ---
 Track: A Drone? A Pokémon? It's Binding Mochi!
-Directory: a-drone-a-pokemon-its-binding-mochi
 Duration: '0:40'
 Artists:
 - Minako Adachi

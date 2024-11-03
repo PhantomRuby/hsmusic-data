@@ -1925,6 +1925,7 @@ URLs:
 Track: Apartment Hangout
 # Reference:
 #   https://vgmdb.net/album/29635
+#   Nintendo Music (name)
 Artists:
 - Tomodachi Life
 - Daisuke Shiiba
@@ -2309,11 +2310,14 @@ Duration: '2:14'
 URLs:
 - https://www.youtube.com/watch?v=vZmlbotvIxY
 Referenced Tracks:
-- Bathing
+- track:bathing-nintendogs
 ---
 Track: Bathing
+Directory: bathing-nintendogs
+Always Reference By Directory: true
 # Reference:
 #   https://vgmdb.net/product/9658
+#   Nintendo Music (name)
 Artists:
 - nintendogs
 - Hajime Wakai
@@ -6377,7 +6381,8 @@ URLs:
 - https://www.youtube.com/watch?v=T6CK7ctyDz4
 ---
 Track: Main Theme (Wii Shop Channel)
-# No official release
+# Reference:
+#   Nintendo Music (name)
 Artists:
 - Wii System Music
 - Kazumi Totaka
@@ -8450,6 +8455,7 @@ Track: Song of Storms
 #   The Nintendo Music app calls this song "Song of Storms"
 # Reference:
 #   https://vgmdb.net/album/293
+#   Nintendo Music (name)
 Artists:
 - The Legend of Zelda
 - Koji Kondo

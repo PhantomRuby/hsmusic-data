@@ -161,6 +161,121 @@ Content: |-
     - fixed some [[group:beyond]] tracks' names not aligning with composers' releases (thanks, Lilith!)
         - fixed [[track:north-walk-south-walk]] being named "North Walk / South Walk" (spaces around slashes)
         - fixed [[track:hues-tone]] being named "Hues / Tone" (spaces around slashes)
+    - <details><summary>fixed <b>some tracks' names</b> not aligning with the Nintendo Music app</summary><ul>
+        <li>fixed [[track:welcome-to-paldea]] being named "Welcome to the Paldea region!"</li>
+        <li>fixed [[track:across-the-skies-of-paldea]] being named "Soar through the Paldea Skies"</li>
+        <li>fixed [[track:first-meeting]] being named "Meetings"</li>
+        <li>fixed [[track:becoming-stronger]] being named "Let's Try to Get Stronger!"</li>
+        <li>fixed [[track:by-the-shore]] being named "On the Beach"</li>
+        <li>fixed [[track:going-through-the-inlet-grotto]] being named "Go Through the Cave in the Cove"</li>
+        <li>fixed [[track:battle-in-the-grotto]] being named "Battle in the Cave"</li>
+        <li>fixed [[track:escape-from-the-cave]] being named "Escape from the Cave!" (exclamation mark)</li>
+        <li>fixed [[track:a-test-of-strength]] being named "It's a Test of Strength!"</li>
+        <li>fixed [[track:battle-south-province-wild-pokemon]] being named "Battle! (Wild Pokémon in the South)"</li>
+        <li>fixed [[track:pokemon-healed-pokemon-scarlet-violet]] being named "Recovery"</li>
+        <li>fixed [[track:a-stroll-through-the-south-province]] being named "Walk Through the South Province"</li>
+        <li>fixed [[track:a-tune-at-mesagoza]] being named "One Song in Mesagoza, If You Please"</li>
+        <li>fixed [[track:team-star]] being named "Team Star!" (exclamation mark)</li>
+        <li>fixed [[track:a-call-from-cassiopeia]] being named "Phone Call from Cassiopeia"</li>
+        <li>fixed [[track:your-dorm-room]] being named "The Academy - Your Room"</li>
+        <li>fixed [[track:a-short-rest-pokemon-scarlet-violet]] being named "Take a Break"</li>
+        <li>fixed [[track:starting-the-treasure-hunt]] being named "Start the Treasure Hunt!"</li>
+        <li>fixed [[track:battle-trainer-pokemon-scarlet-violet]] being named "Battle! (Trainer Battle)"</li>
+        <li>fixed [[track:victory-trainer-pokemon-scarlet-violet]] being named "Victory! (Trainer Battle)"</li>
+        <li>fixed [[track:time-to-eat]] being named "Let's Eat!"</li>
+        <li>fixed [[track:a-super-delicious-sandwich]] being named "Meal - It's Really Tasty!"</li>
+        <li>fixed [[track:a-pretty-delicious-sandwich]] being named "Meal - It's Pretty Tasty!"</li>
+        <li>fixed [[track:a-good-sandwich]] being named "Meal - Not Bad!"</li>
+        <li>fixed [[track:a-not-so-good-sandwich]] being named "Meal - It's Maybe... Not So Great"</li>
+        <li>fixed [[track:gym-reception]] being named "Gym Lobby"</li>
+        <li>fixed [[track:passed-the-gym-test]] being named "You've Passed the Gym Test!"</li>
+        <li>fixed [[track:battle-and-victory-gym-leader]] being named "Battle! (Gym Leader) / Victory! (Gym Leader)"</li>
+        <li>fixed [[track:obtained-a-badge-pokemon-scarlet-violet]] being named "Obtained a Gym Badge!"</li>
+        <li>fixed [[track:battle-west-province-wild-pokemon]] being named "Battle! (Wild Pokémon in the West)"</li>
+        <li>fixed [[track:tera-raid-battle]] being named "Tera Raid Battle!" (exclamation mark)</li>
+        <li>fixed [[track:a-stroll-through-the-asado-desert]] being named "Walk Through the Asado Desert"</li>
+        <li>fixed [[track:still-at-the-gym-test]] being named "The Gym Test's Not Over!"</li>
+        <li>fixed [[track:second-battle-against-the-titan]] being named "Confront the Titan Again"</li>
+        <li>fixed [[track:a-brief-moment]] being named "Just a Moment"</li>
+        <li>fixed [[track:a-new-power-for-your-ride]] being named "Your Ride Ability Went Up!"</li>
+        <li>fixed [[track:a-stroll-through-the-west-province]] being named "Walk Through the West Province"</li>
+        <li>fixed [[track:time-to-relax]] being named "Heartwarming Time"</li>
+        <li>fixed [[track:battle-east-province-wild-pokemon]] being named "Battle! (Wild Pokémon in the East)"</li>
+        <li>fixed [[track:the-iono-zone]] being named "Iono Zone!"</li>
+        <li>fixed [[track:ello-ello-hola-ciao-and-bonjour]] being named "'Ello, 'Ello, Hola! Ciao and Bonjour!" (capitalization)</li>
+        <li>fixed [[track:a-stroll-through-the-east-province]] being named "Walk Through the East Province"</li>
+        <li>fixed [[track:the-names-clive]] being named "Right Now I'm Clive"</li>
+        <li>fixed [[track:raiding-the-base]] being named "C'mon, Let's Raid the Place!"</li>
+        <li>fixed [[track:star-barrage-finished]] being named "Star Barrage Completed!"</li>
+        <li>fixed [[track:a-team-star-boss-appears]] being named "Team Star Boss Appears!"</li>
+        <li>fixed [[track:battle-north-province-wild-pokemon]] being named "Battle! (Wild Pokémon in the North)"</li>
+        <li>fixed [[track:the-opening-act]] being named "Opening Act!"</li>
+        <li>fixed [[track:mc-of-rip]] being named "Soulful Beat!"</li>
+        <li>fixed [[track:a-stroll-through-the-north-province]] being named "Walk Through the North Province"</li>
+        <li>fixed [[track:the-pokemon-league-interview]] being named "The Pokémon League Interview"</li>
+        <li>fixed [[track:passed-the-interview]] being named "You Passed the Interview Phase!"</li>
+        <li>fixed [[track:the-pokemon-league-pokemon-scarlet-violet]] being named "Pokémon League"</li>
+        <li>fixed [[track:together-with-nemona]] being named "With Nemona"</li>
+        <li>fixed [[track:my-one-and-only-rival]] being named "The Only Rival"</li>
+        <li>fixed [[track:battle-director-clavell]] being named "Battle! (Principal Clavell)"</li>
+        <li>fixed [[track:hasta-la-vistar]] being named "Hasta la vistar"</li>
+        <li>fixed [[track:finishing-the-treasure-hunt]] being named "You Completed the Treasure Hunt!"</li>
+        <li>fixed [[track:battle-area-zero-pokemon]] being named "Battle! (Pokémon in Area Zero)"</li>
+        <li>fixed [[track:the-gate-opens]] being named "The Gate is Open"</li>
+        <li>fixed [[track:battle-area-zero-pokemon-2]] being named "Battle! (Pokémon in Area Zero) 2"</li>
+        <li>fixed [[track:activating-offensive-protocols]] being named "Battle Program Activated"</li>
+        <li>fixed [[track:paradise-protection-protocol-initialized]] being named "Paradise Protection Protocol"</li>
+        <li>fixed [[track:battle-koraidon-miraidon]] being named "Battle! (■■■■)"</li>
+        <li>fixed [[track:i-bid-you-adieu]] being named "Bon Voyage!"</li>
+        <li>fixed [[track:get-a-little-more-fun-out-of-this-adventure]] being named "Let's Take the Scenic Route Home"</li>
+        <li>fixed [[track:the-academy-ace-tournament]] being named "Academy Ace Tournament"</li>
+        <li>fixed [[track:the-battle-stadium]] being named "Battle Stadium"</li>
+        <li>fixed [[track:pokedex-evaluation-its-perfect-pokemon-scarlet-violet]] being named "Pokédex Evaluation - It's Perfect!"</li>
+        <li>fixed [[track:carmine-and-kieran]] being named "Ex-c-c-change"</li>
+        <li>fixed [[track:the-land-of-kitakami]] being named "Kitakami"</li>
+        <li>fixed [[track:battle-kitakami-pokemon]] being named "Battle! (Pokémon in Kitakami)"</li>
+        <li>fixed [[track:photo-pokemon-march]] being named "Photography: March"</li>
+        <li>fixed [[track:photo-battle]] being named "Photography: Victory"</li>
+        <li>fixed [[track:photo-pokemon-lullaby]] being named "Photography: Lullaby"</li>
+        <li>fixed [[track:historic-signboard]] being named "History of the Signboard"</li>
+        <li>fixed [[track:together-with-kieran]] being named "With Perrin"</li>
+        <li>fixed [[track:the-festival-of-masks]] being named "Festival of Masks"</li>
+        <li>fixed [[track:ogre-oustin]] being named "Ogre Oustin'!" (exclamation mark)</li>
+        <li>fixed [[track:ogre-oustin-completed]] being named "Cleared Ogre Oustin'!"</li>
+        <li>fixed [[track:the-mysterious-child-who-dropped-their-mask]] being named "The Mysterious Child Who Dropped a Mask"</li>
+        <li>fixed [[track:the-true-history]] being named "The Real History"</li>
+        <li>fixed [[track:twisted-pokemon-scarlet-violet]] being named "Distortion"</li>
+        <li>fixed [[track:the-loyal-three-return]] being named "The Loyal Three Come Back to Life"</li>
+        <li>fixed [[track:the-loyal-three-cause-trouble]] being named "The Loyal Three Wreak Havoc"</li>
+        <li>fixed [[track:battle-loyal-three]] being named "Battle! (The Loyal Three)"</li>
+        <li>fixed [[track:caught-ogerpon]] being named "Caught an Ogerpon"</li>
+        <li>fixed [[track:a-moment-of-honesty]] being named "They're Relaxed Now"</li>
+        <li>fixed [[track:i-need-to-become-stronger]] being named "I Have to Become Stronger"</li>
+        <li>fixed [[track:to-the-terarium]] being named "To the Dome"</li>
+        <li>fixed [[track:welcome-to-the-terarium]] being named "This is the Terarium Dome!"</li>
+        <li>fixed [[track:battle-terarium-pokemon]] being named "Battle! (Pokémon in the Terarium)"</li>
+        <li>fixed [[track:a-regular-day-at-bb-academy]] being named "Daily Life at the Academy"</li>
+        <li>fixed [[track:your-bb-dorm-room]] being named "Blueberry Academy - Your Room"</li>
+        <li>fixed [[track:battle-terarium-tera-pokemon]] being named "Battle! (Tera Pokémon in the Terarium)"</li>
+        <li>fixed [[track:the-flying-time-trial]] being named "Flying Time Trial!"</li>
+        <li>fixed [[track:elite-trial-completed]] being named "You Completed the Elite Trial!"</li>
+        <li>fixed [[track:true-feelings]] being named "True Intentions"</li>
+        <li>fixed [[track:kieran-defeated]] being named "The Defeated Kieran"</li>
+        <li>fixed [[track:terapagos-reawakened]] being named "Terapagos Comes Back to Life"</li>
+        <li>fixed [[track:what-the-hidden-treasure-needs]] being named "Conditions of the Hidden Treasure"</li>
+        <li>fixed [[track:terapagos-goes-berserk]] being named "Terapagos Goes Rampage"</li>
+        <li>fixed [[track:battle-terapagos-the-hidden-treasure-of-area-zero]] being named "Battle! (Terapagos - The Hidden Treasure of Area Zero)" (punctuation)</li>
+        <li>fixed [[track:caught-terapagos]] being named "Caught the Terapagos!"</li>
+        <li>fixed [[track:starting-over-from-zero]] being named "Once Again, Starting from Zero"</li>
+        <li>fixed [[track:studying-together-with-team-star]] being named "Star Training Centers! Team Star"</li>
+        <li>fixed [[track:the-curse-of-the-village]] being named "A Village Curse...?"</li>
+        <li>fixed [[track:a-drone-a-pokemon-its-binding-mochi]] being named "A Drone? A Pokémon? It's a Binding Mochi!"</li>
+        <li>fixed [[track:title-screen-2-pokemon-scarlet-violet]] (the second one) being named "Title Screen 2"</li>
+        <li>fixed [[track:apartment-hangout]] being named "In the Room"</li>
+        <li>fixed [[track:bathing-nintendogs]] being named "Bathtime Theme"</li>
+        <li>fixed [[track:main-theme-wii-shop-channel]] being named "Wii Shop Channel"</li>
+        <li>fixed [[track:song-of-storms]] being named 'Ocarina "Song of Storms"'</li>
+    </ul></details>
     - fixed [[track:carbon-nadsat-cuestick-genius]] being named "Carbon Nadsat / Cuestick Genius" (spaces around slash; thanks, Pyryte, Lilith, Lan!)
     - fixed [[track:cheer-up-crabface-its-halloween]] being named "Cheer up, crabface, it's Halloween!", and added this as an additional name with details in commentary (thanks, Lilith!)
     - fixed [[track:feel-old-ver]] being named "Feel (Old. Ver)" (thanks, Whisper, Lilith!)
@@ -184,11 +299,119 @@ Content: |-
     - updated lyrics formatting in [[track:fatalism]], [[track:aquasex-renegade]], [[track:puppeteer-beforus]] and fixed various commentary transcription typos in [[album:beforus]] (thanks, Lilith!)
     - fixed spacing in lyrics for [[track:squiddles-the-movie-trailer-the-day-the-unicorns-couldnt-play]]
     <h3>directory changes</h3>
-    <details><summary>Toggle Directorylog</summary>
+    <details><summary><b>Toggle Directorylog</b> (general changes)</summary>
     - changed directory of [[track:f-climbing-lofam5]] from <code>f-climbing-lofam4</code> to <code>f-climbing-lofam5</code> (thanks, Lilith!)
     - changed directory of [[track:underground-path-dwellers-empty-path]] from <code>underground-path</code> to <code>underground-path-dwellers-empty-path</code>
     - changed directory of [[track:oracle-unknown-diva]] from <code>oracle</code> to <code>oracle-unknown-diva</code>
     - changed directory of [[artist:avocado-canmt]] from <code>avocado</code> to <code>avocado-canmt</code>
+    </details>
+    <details><summary><b>Toggle Directorylog</b> (Nintendo Music changes; thanks, ruby!)</summary>
+    - changed directory of [[track:welcome-to-paldea]] from <code>welcome-to-the-paldea-region</code> to <code>welcome-to-paldea</code>
+    - changed directory of [[track:across-the-skies-of-paldea]] from <code>undefined</code> to <code>across-the-skies-of-paldea</code>
+    - changed directory of [[track:first-meeting]] from <code>meetings</code> to <code>first-meeting</code>
+    - changed directory of [[track:becoming-stronger]] from <code>lets-try-to-get-stronger</code> to <code>becoming-stronger</code>
+    - changed directory of [[track:by-the-shore]] from <code>on-the-beach</code> to <code>by-the-shore</code>
+    - changed directory of [[track:going-through-the-inlet-grotto]] from <code>go-through-the-cave-in-the-cove</code> to <code>going-through-the-inlet-grotto</code>
+    - changed directory of [[track:battle-in-the-grotto]] from <code>battle-in-the-cave</code> to <code>battle-in-the-grotto</code>
+    - changed directory of [[track:a-test-of-strength]] from <code>its-a-test-of-strength</code> to <code>a-test-of-strength</code>
+    - changed directory of [[track:battle-south-province-wild-pokemon]] from <code>battle-wild-pokemon-in-the-south</code> to <code>battle-south-province-wild-pokemon</code>
+    - changed directory of [[track:pokemon-healed-pokemon-scarlet-violet]] from <code>recovery-pokemon-scarlet-violet</code> to <code>pokemon-healed-pokemon-scarlet-violet</code>
+    - changed directory of [[track:a-stroll-through-the-south-province]] from <code>walk-through-the-south-province</code> to <code>a-stroll-through-the-south-province</code>
+    - changed directory of [[track:a-tune-at-mesagoza]] from <code>one-song-in-mesagoza-if-you-please</code> to <code>a-tune-at-mesagoza</code>
+    - changed directory of [[track:a-call-from-cassiopeia]] from <code>phone-call-from-cassiopeia</code> to <code>a-call-from-cassiopeia</code>
+    - changed directory of [[track:your-dorm-room]] from <code>the-academy-your-room</code> to <code>your-dorm-room</code>
+    - changed directory of [[track:a-short-rest-pokemon-scarlet-violet]] from <code>take-a-break-pokemon-scarlet-violet</code> to <code>a-short-rest-pokemon-scarlet-violet</code>
+    - changed directory of [[track:starting-the-treasure-hunt]] from <code>start-the-treasure-hunt</code> to <code>starting-the-treasure-hunt</code>
+    - changed directory of [[track:battle-trainer-pokemon-scarlet-violet]] from <code>battle-trainer-battle-pokemon-scarlet-violet</code> to <code>battle-trainer-pokemon-scarlet-violet</code>
+    - changed directory of [[track:victory-trainer-pokemon-scarlet-violet]] from <code>victory-trainer-battle-pokemon-scarlet-violet</code> to <code>victory-trainer-pokemon-scarlet-violet</code>
+    - changed directory of [[track:time-to-eat]] from <code>lets-eat</code> to <code>time-to-eat</code>
+    - changed directory of [[track:a-super-delicious-sandwich]] from <code>meal-its-really-tasty</code> to <code>a-super-delicious-sandwich</code>
+    - changed directory of [[track:a-pretty-delicious-sandwich]] from <code>meal-its-pretty-tasty</code> to <code>a-pretty-delicious-sandwich</code>
+    - changed directory of [[track:a-good-sandwich]] from <code>meal-not-bad</code> to <code>a-good-sandwich</code>
+    - changed directory of [[track:a-not-so-good-sandwich]] from <code>meal-its-maybe-not-so-great</code> to <code>a-not-so-good-sandwich</code>
+    - changed directory of [[track:gym-reception]] from <code>gym-lobby</code> to <code>gym-reception</code>
+    - changed directory of [[track:passed-the-gym-test]] from <code>youve-passed-the-gym-test</code> to <code>passed-the-gym-test</code>
+    - changed directory of [[track:battle-and-victory-gym-leader]] from <code>battle-gym-leader-victory-gym-leader</code> to <code>battle-and-victory-gym-leader</code>
+    - changed directory of [[track:obtained-a-badge-pokemon-scarlet-violet]] from <code>obtained-a-gym-badge-pokemon-scarlet-violet</code> to <code>obtained-a-badge-pokemon-scarlet-violet</code>
+    - changed directory of [[track:battle-west-province-wild-pokemon]] from <code>battle-wild-pokemon-in-the-west</code> to <code>battle-west-province-wild-pokemon</code>
+    - changed directory of [[track:a-stroll-through-the-asado-desert]] from <code>walk-through-the-asado-desert</code> to <code>a-stroll-through-the-asado-desert</code>
+    - changed directory of [[track:still-at-the-gym-test]] from <code>the-gym-tests-not-over</code> to <code>still-at-the-gym-test</code>
+    - changed directory of [[track:second-battle-against-the-titan]] from <code>confront-the-titan-again</code> to <code>second-battle-against-the-titan</code>
+    - changed directory of [[track:a-brief-moment]] from <code>just-a-moment</code> to <code>a-brief-moment</code>
+    - changed directory of [[track:a-new-power-for-your-ride]] from <code>your-ride-ability-went-up</code> to <code>a-new-power-for-your-ride</code>
+    - changed directory of [[track:a-stroll-through-the-west-province]] from <code>walk-through-the-west-province</code> to <code>a-stroll-through-the-west-province</code>
+    - changed directory of [[track:time-to-relax]] from <code>heartwarming-time</code> to <code>time-to-relax</code>
+    - changed directory of [[track:battle-east-province-wild-pokemon]] from <code>battle-wild-pokemon-in-the-east</code> to <code>battle-east-province-wild-pokemon</code>
+    - changed directory of [[track:the-iono-zone]] from <code>iono-zone</code> to <code>the-iono-zone</code>
+    - changed directory of [[track:ello-ello-hola-ciao-and-bonjour]] from <code>undefined</code> to <code>ello-ello-hola-ciao-and-bonjour</code>
+    - changed directory of [[track:a-stroll-through-the-east-province]] from <code>walk-through-the-east-province</code> to <code>a-stroll-through-the-east-province</code>
+    - changed directory of [[track:the-names-clive]] from <code>right-now-im-clive</code> to <code>the-names-clive</code>
+    - changed directory of [[track:raiding-the-base]] from <code>cmon-lets-raid-the-place</code> to <code>raiding-the-base</code>
+    - changed directory of [[track:star-barrage-finished]] from <code>star-barrage-completed</code> to <code>star-barrage-finished</code>
+    - changed directory of [[track:a-team-star-boss-appears]] from <code>team-star-boss-appears</code> to <code>a-team-star-boss-appears</code>
+    - changed directory of [[track:battle-north-province-wild-pokemon]] from <code>battle-wild-pokemon-in-the-north</code> to <code>battle-north-province-wild-pokemon</code>
+    - changed directory of [[track:the-opening-act]] from <code>opening-act</code> to <code>the-opening-act</code>
+    - changed directory of [[track:mc-of-rip]] from <code>soulful-beat</code> to <code>mc-of-rip</code>
+    - changed directory of [[track:a-stroll-through-the-north-province]] from <code>walk-through-the-north-province</code> to <code>a-stroll-through-the-north-province</code>
+    - changed directory of [[track:the-pokemon-league-interview]] from <code>undefined</code> to <code>the-pokemon-league-interview</code>
+    - changed directory of [[track:passed-the-interview]] from <code>you-passed-the-interview-phase</code> to <code>passed-the-interview</code>
+    - changed directory of [[track:the-pokemon-league-pokemon-scarlet-violet]] from <code>pokemon-league-pokemon-scarlet-violet</code> to <code>the-pokemon-league-pokemon-scarlet-violet</code>
+    - changed directory of [[track:together-with-nemona]] from <code>with-nemona</code> to <code>together-with-nemona</code>
+    - changed directory of [[track:my-one-and-only-rival]] from <code>the-only-rival</code> to <code>my-one-and-only-rival</code>
+    - changed directory of [[track:battle-director-clavell]] from <code>battle-principal-clavell</code> to <code>battle-director-clavell</code>
+    - changed directory of [[track:finishing-the-treasure-hunt]] from <code>you-completed-the-treasure-hunt</code> to <code>finishing-the-treasure-hunt</code>
+    - changed directory of [[track:battle-area-zero-pokemon]] from <code>battle-pokemon-in-area-zero</code> to <code>battle-area-zero-pokemon</code>
+    - changed directory of [[track:the-gate-opens]] from <code>the-gate-is-open</code> to <code>the-gate-opens</code>
+    - changed directory of [[track:battle-area-zero-pokemon-2]] from <code>battle-pokemon-in-area-zero-2</code> to <code>battle-area-zero-pokemon-2</code>
+    - changed directory of [[track:activating-offensive-protocols]] from <code>battle-program-activated</code> to <code>activating-offensive-protocols</code>
+    - changed directory of [[track:paradise-protection-protocol-initialized]] from <code>paradise-protection-protocol</code> to <code>paradise-protection-protocol-initialized</code>
+    - changed directory of [[track:i-bid-you-adieu]] from <code>bon-voyage</code> to <code>i-bid-you-adieu</code>
+    - changed directory of [[track:get-a-little-more-fun-out-of-this-adventure]] from <code>lets-take-the-scenic-route-home</code> to <code>get-a-little-more-fun-out-of-this-adventure</code>
+    - changed directory of [[track:the-academy-ace-tournament]] from <code>academy-ace-tournament</code> to <code>the-academy-ace-tournament</code>
+    - changed directory of [[track:the-battle-stadium]] from <code>battle-stadium</code> to <code>the-battle-stadium</code>
+    - changed directory of [[track:pokedex-evaluation-its-perfect-pokemon-scarlet-violet]] from <code>pokedex-evalution-its-perfect-pokemon-scarlet-violet</code> to <code>pokedex-evaluation-its-perfect-pokemon-scarlet-violet</code>
+    - changed directory of [[track:carmine-and-kieran]] from <code>ex-c-c-change</code> to <code>carmine-and-kieran</code>
+    - changed directory of [[track:the-land-of-kitakami]] from <code>kitakami</code> to <code>the-land-of-kitakami</code>
+    - changed directory of [[track:battle-kitakami-pokemon]] from <code>battle-pokemon-in-kitakami</code> to <code>battle-kitakami-pokemon</code>
+    - changed directory of [[track:photo-pokemon-march]] from <code>photography-march</code> to <code>photo-pokemon-march</code>
+    - changed directory of [[track:photo-battle]] from <code>photography-victory</code> to <code>photo-battle</code>
+    - changed directory of [[track:photo-pokemon-lullaby]] from <code>photography-lullaby</code> to <code>photo-pokemon-lullaby</code>
+    - changed directory of [[track:historic-signboard]] from <code>history-of-the-signboard</code> to <code>historic-signboard</code>
+    - changed directory of [[track:together-with-kieran]] from <code>with-perrin</code> to <code>together-with-kieran</code>
+    - changed directory of [[track:the-festival-of-masks]] from <code>festival-of-masks</code> to <code>the-festival-of-masks</code>
+    - changed directory of [[track:ogre-oustin-completed]] from <code>cleared-ogre-oustin</code> to <code>ogre-oustin-completed</code>
+    - changed directory of [[track:the-mysterious-child-who-dropped-their-mask]] from <code>the-mysterious-child-who-dropped-a-mask</code> to <code>the-mysterious-child-who-dropped-their-mask</code>
+    - changed directory of [[track:the-true-history]] from <code>the-real-history</code> to <code>the-true-history</code>
+    - changed directory of [[track:twisted-pokemon-scarlet-violet]] from <code>distortion</code> to <code>twisted-pokemon-scarlet-violet</code> (thanks, Whisper!)
+    - changed directory of [[track:the-loyal-three-return]] from <code>the-loyal-three-come-back-to-life</code> to <code>the-loyal-three-return</code>
+    - changed directory of [[track:the-loyal-three-cause-trouble]] from <code>the-loyal-three-wreak-havoc</code> to <code>the-loyal-three-cause-trouble</code>
+    - changed directory of [[track:battle-loyal-three]] from <code>battle-the-loyal-three</code> to <code>battle-loyal-three</code>
+    - changed directory of [[track:caught-ogerpon]] from <code>caught-an-ogerpon</code> to <code>caught-ogerpon</code>
+    - changed directory of [[track:a-moment-of-honesty]] from <code>theyre-relaxed-now</code> to <code>a-moment-of-honesty</code>
+    - changed directory of [[track:i-need-to-become-stronger]] from <code>i-have-to-become-stronger</code> to <code>i-need-to-become-stronger</code>
+    - changed directory of [[track:to-the-terarium]] from <code>to-the-dome</code> to <code>to-the-terarium</code>
+    - changed directory of [[track:welcome-to-the-terarium]] from <code>this-is-the-terarium-dome</code> to <code>welcome-to-the-terarium</code>
+    - changed directory of [[track:battle-terarium-pokemon]] from <code>battle-pokemon-in-the-terarium</code> to <code>battle-terarium-pokemon</code>
+    - changed directory of [[track:a-regular-day-at-bb-academy]] from <code>daily-life-at-the-academy</code> to <code>a-regular-day-at-bb-academy</code>
+    - changed directory of [[track:your-bb-dorm-room]] from <code>blueberry-academy-your-room</code> to <code>your-bb-dorm-room</code>
+    - changed directory of [[track:battle-terarium-tera-pokemon]] from <code>battle-tera-pokemon-in-the-terarium</code> to <code>battle-terarium-tera-pokemon</code>
+    - changed directory of [[track:the-flying-time-trial]] from <code>flying-time-trial</code> to <code>the-flying-time-trial</code>
+    - changed directory of [[track:elite-trial-completed]] from <code>you-completed-the-elite-trial</code> to <code>elite-trial-completed</code>
+    - changed directory of [[track:true-feelings]] from <code>true-intentions</code> to <code>true-feelings</code>
+    - changed directory of [[track:kieran-defeated]] from <code>the-defeated-kieran</code> to <code>kieran-defeated</code>
+    - changed directory of [[track:terapagos-reawakened]] from <code>terapagos-comes-back-to-life</code> to <code>terapagos-reawakened</code>
+    - changed directory of [[track:what-the-hidden-treasure-needs]] from <code>conditions-of-the-hidden-treasure</code> to <code>what-the-hidden-treasure-needs</code>
+    - changed directory of [[track:terapagos-goes-berserk]] from <code>terapagos-goes-rampage</code> to <code>terapagos-goes-berserk</code>
+    - changed directory of [[track:battle-terapagos-the-hidden-treasure-of-area-zero]] from <code>undefined</code> to <code>battle-terapagos-the-hidden-treasure-of-area-zero</code>
+    - changed directory of [[track:caught-terapagos]] from <code>caught-the-terapagos</code> to <code>caught-terapagos</code>
+    - changed directory of [[track:starting-over-from-zero]] from <code>once-again-starting-from-zero</code> to <code>starting-over-from-zero</code>
+    - changed directory of [[track:studying-together-with-team-star]] from <code>star-training-centers-team-star</code> to <code>studying-together-with-team-star</code>
+    - changed directory of [[track:the-curse-of-the-village]] from <code>a-village-curse</code> to <code>the-curse-of-the-village</code>
+    - changed directory of [[track:a-drone-a-pokemon-its-binding-mochi]] from <code>a-drone-a-pokemon-its-a-binding-mochi</code> to <code>a-drone-a-pokemon-its-binding-mochi</code>
+    - changed directory of [[track:apartment-hangout]] from <code>in-the-room</code> to <code>apartment-hangout</code>
+    - changed directory of [[track:bathing-nintendogs]] from <code>bathtime-theme</code> to <code>bathing-nintendogs</code> (thanks, Whisper!)
+    - changed directory of [[track:main-theme-wii-shop-channel]] from <code>wii-shop-channel</code> to <code>main-theme-wii-shop-channel</code>
+    - changed directory of [[track:song-of-storms]] from <code>ocarina-song-of-storms</code> to <code>song-of-storms</code>
     </details>
 
     <h2 id="8-aug-2024"><html:a href="#8-aug-2024">[[date:8 August 2024]] - through the pitcher glass</a></h2>
