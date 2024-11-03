@@ -271,6 +271,32 @@ URLs:
 - https://unofficialmspafans.bandcamp.com/
 Description: |-
     The eventual merger of a variety of earlier groups, the Unofficial MSPA Fans (UMSPAF) are the musicians behind a diverse selection of Homestuck fan albums.
+Series:
+- Name: Land of Fans and Music
+  Albums:
+  - album:lofam
+  - album:lofam2
+  - album:lofam3
+  - album:lofam4
+  - album:lofam5
+  - album:lofam5a2
+- Name: Themed albums
+  Albums:
+  - SBURB OST
+  - Beforus
+  - Weird Puzzle Tunes
+  - Ancestral
+  - Xenoplanetarium
+  - Gristmas Carols
+  - Cosmic Caretakers
+  - Moons of Theseus
+  - Diverging Delicacies
+  - FriendSymphony
+- Name: Bonus albums
+  Albums:
+  - '[Super-Unofficial Album] SBURB OST: BONUS DLC!'
+  - 'Bee-forus: Seatbelt Safebee'
+  - 『H☯MESTUCK VAP☯RWAVE 2016 RUH-RUH-RUH-ＲＥＭＩＸ』アンドレア・ヒューシー・グーグル翻訳
 ---
 Category: Solo musicians
 Color: '#fc9003'
@@ -435,6 +461,43 @@ URLs:
 - https://tobyfox.bandcamp.com/
 Description: |-
     Artist of well over 100 tracks in Homestuck's musical canon (including the elusive [[Penumbra Phantasm]]), Toby Fox went on to compose the much-renowned soundtracks to his games [[group:undertale-and-deltarune]], firmly planting his place in modern game and internet history.
+Series:
+- Name: Homestuck
+  Albums:
+  - Alternia
+  - The Baby is You
+  - Hiveswap Act 1 OST
+  - 'HIVESWAP: ACT 2 Original Soundtrack'
+- Name: UNDERTALE & DELTARUNE
+  Albums:
+  - UNDERTALE Soundtrack
+  - DELTARUNE Chapter 1 OST
+  - DELTARUNE Chapter 2 OST
+- Name: Fanworks and original music
+  Show Album Artists: true
+  Albums:
+  - Earthbound Halloween Hack
+  - improvised touhou music with annoying commentary
+  - made up yume nikkis
+  - Skies Forever Blue
+  - The Greatest Living Show
+- Name: Full game soundtracks
+  Show Album Artists: true
+  Albums:
+  - Rose of Winter
+  - Escaped Chasm
+  - Little Town Hero Original Soundtrack
+  - Dweller's Empty Path OST
+  - Soul of Sovereignty Prelude OST
+- Name: More musical contributions
+  Albums:
+  - Super Smash Bros. Ultimate
+  - 'Pokémon Sword & Pokémon Shield + Expansion Pass: Super Music Collection'
+  - Pale Rain
+  - I'm Your Treasure Box * You have found captain Marine in a treasure chest
+  - 'Pokémon Scarlet & Pokémon Violet + The Hidden Treasure of Area Zero: Super Music Collection'
+  - Unknown DIVA
+  - Dead Ma’am’s Chest
 ---
 Group: what is lost in the mines?
 Closely Linked Artists:
