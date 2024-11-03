@@ -1,4 +1,5 @@
 Album: Oceanfalls Vol. 3
+Directory Suffix: oceanfalls
 Date: October 11, 2020
 Date Added: December 12, 2020
 URLs:
@@ -62,7 +63,7 @@ Art Tags:
 - 'cw: body horror (abstract)'
 ---
 Track: Rambling
-Directory: rambling-oceanfalls
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Kusoro
@@ -185,7 +186,7 @@ Art Tags:
 - Corona (Oceanfalls)
 ---
 Track: Cinders
-Directory: cinders-oceanfalls
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Hadron

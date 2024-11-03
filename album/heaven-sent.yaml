@@ -50,7 +50,7 @@ URLs:
 - https://swagazaki.bandcamp.com/track/nightosphere-bass-unfinished
 ---
 Track: Chroma
-Directory: chroma-heaven-sent
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Swagazaki

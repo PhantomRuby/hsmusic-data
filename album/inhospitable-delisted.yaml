@@ -1,4 +1,5 @@
 Album: '[INHOSPITABLE DELISTED]'
+Directory Suffix: inhospitable
 Artists:
 - tempest2k
 Date: January 4, 2021
@@ -31,7 +32,7 @@ URLs:
 Has Cover Art: false
 ---
 Track: Misconduct
-Directory: misconduct-inhospitable
+Suffix Directory: true
 Always Reference By Directory: true
 Date First Released: November 28, 2017
 Duration: '3:06'
@@ -45,7 +46,7 @@ URLs:
 - https://nuclear333.bandcamp.com/track/faultline-flatfoots
 ---
 Track: Regrets
-Directory: regrets-inhospitable
+Suffix Directory: true
 Always Reference By Directory: true
 Date First Released: November 28, 2017
 Duration: '2:03'

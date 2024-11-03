@@ -47,7 +47,7 @@ Commentary: |-
     One of a set of songs I'm composing for a video game. It's turning out to be a really fun project so far!
 ---
 Track: Haven
-Directory: haven-spiritwake
+Suffix Directory: true
 Always Reference By Directory: true
 Has Cover Art: false
 Duration: '2:40'
@@ -84,7 +84,7 @@ Commentary: |-
     I think I need to tweak the lead at the end of the song, though... hah.
 ---
 Track: Tempest
-Directory: tempest-spiritwake
+Suffix Directory: true
 Always Reference By Directory: true
 Has Cover Art: false
 Duration: '3:20'

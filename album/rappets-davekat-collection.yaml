@@ -1,5 +1,6 @@
 Album: Rappets Davekat Collection
 Directory: rappets-davekat-collection
+Directory Suffix: rappets
 Date: October 21, 2023
 Date Added: October 25, 2023
 URLs:
@@ -27,7 +28,7 @@ Commentary: |-
     (if you really really really want canonical context for this, just imagine it taking place in the dream bubbles)
 ---
 Track: Davekat
-Directory: davekat-rappets
+Suffix Directory: true
 Always Reference By Directory: true
 Contributors:
 - KawaiiMochiORA (voice acting)

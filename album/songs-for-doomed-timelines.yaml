@@ -32,7 +32,7 @@ Commentary: |-
     All of the track art for this album has been taken from the SoundCloud uploads of the tracks.
 ---
 Track: Sweet
-Directory: sweet-songs-for-doomed-timelines
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '3:57'
 URLs:
@@ -117,7 +117,7 @@ Lyrics: |-
     Haa (haa) haa (haa) haa (haa)
 ---
 Track: Fool
-Directory: fool-songs-for-doomed-timelines
+Suffix Directory: true
 Originally Released As: track:fool
 Duration: '5:19'
 URLs:
@@ -400,7 +400,7 @@ Lyrics: |-
     My thin line, my thin line
 ---
 Track: Nobodies
-Directory: nobodies-songs-for-doomed-timelines
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:07'
 URLs:
@@ -559,7 +559,7 @@ Lyrics: |-
     Lying
 ---
 Track: Home
-Directory: home-songs-for-doomed-timelines
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:47'
 URLs:

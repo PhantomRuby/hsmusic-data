@@ -1,4 +1,5 @@
 Album: Songs of Rivervale
+Directory Suffix: rivervale
 Artists:
 - James Roach
 Date: June 30, 2013
@@ -80,7 +81,7 @@ Commentary: |-
     Théo sets out to uncover the mysteries of the Cloud Factory and save the valley.
 ---
 Track: Lakeside
-Directory: lakeside-rivervale
+Suffix Directory: true
 Duration: '03:24'
 URLs:
 - https://cloudfactorycomics.bandcamp.com/track/lakeside

@@ -1,5 +1,4 @@
 Album: Ad Astra
-Directory: ad-astra
 Artists:
 - Ducky Senpai
 Date: April 9, 2016
@@ -41,7 +40,7 @@ Commentary: |-
     If you liked The Planets, I'm sure you'll <i>really</i> like Ad Astra.
 ---
 Track: Stargazer
-Directory: stargazer-ad-astra
+Suffix Directory: true
 Additional Names:
 - StarGazer (name in artwork)
 Duration: 1:24
@@ -50,7 +49,7 @@ URLs:
 - https://soundcloud.com/sloof/stargazer
 ---
 Track: Tempest
-Directory: tempest-ad-astra
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 5:12
 Color: '#666fe9'

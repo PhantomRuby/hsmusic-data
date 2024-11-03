@@ -1,5 +1,6 @@
 Album: Little Town Hero Original Soundtrack
 Directory: little-town-hero-original-soundtrack
+Directory Suffix: little-town-hero
 Artists:
 - Toby Fox
 - Hitomi Sato
@@ -102,7 +103,7 @@ Referenced Tracks:
 - Three Bad Boys
 ---
 Track: Roar
-Directory: roar-little-town-hero
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:23'
 Artists:
@@ -122,7 +123,7 @@ URLs:
 - https://www.youtube.com/watch?v=OCwxYGEJGgk
 ---
 Track: You Won!
-Directory: you-won-little-town-hero
+Suffix Directory: true
 Duration: '0:12'
 Artists:
 - Hitomi Sato
@@ -307,7 +308,7 @@ URLs:
 - https://www.youtube.com/watch?v=uCocKi9JK6Q
 ---
 Track: Game Over
-Directory: game-over-little-town-hero
+Suffix Directory: true
 Duration: '0:10'
 Artists:
 - Hitomi Sato

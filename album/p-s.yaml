@@ -234,7 +234,7 @@ Commentary: |-
     I just thought [[Skaianet]] needed an upgrade.
 ---
 Track: Whiteout
-Directory: whiteout-p-s
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - David Dycus
@@ -379,7 +379,7 @@ Lyrics: |-
     I'm just Stuck inside my Home!
 ---
 Track: Bane
-Directory: bane-p-s
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Mark J. Hadley
@@ -395,7 +395,7 @@ Commentary: |-
     This one goes back a long ways. I wrote the first version of Bane back in 2001, originally envisioned as a final boss fight. I really liked the theme, so I made different versions of it over the years, although [[track:bane-old|the last version]] I did was about 13 years ago in 2005. Several times I considered making a new version of it for Homestuck, but I always hesitated. I finally decided to go for it, since this was my last chance.
 ---
 Track: Interstellar
-Directory: interstellar-p-s
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Thomas Ferkol
@@ -530,7 +530,7 @@ Referenced Tracks:
 - A World Awake
 ---
 Track: Requiem for Something Really Excellent (Demo)
-Directory: requiem-for-something-really-excellent-demo-p-s
+Suffix Directory: true
 Additional Names:
 - Name: >-
     [BONUS] Requiem for Something Really Excellent (Demo)

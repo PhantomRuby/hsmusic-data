@@ -286,7 +286,7 @@ Commentary: |-
     This song was basically a nostalgia bomb for me; I just had to think back to the days of playing SNES-era RPGs, and what I thought a title screen tune should sound like. Chrono Trigger's [title screen tune](https://www.youtube.com/watch?v=JU1rM8UYpus), in particular, was a big influence, as was the simple ["Dearly Beloved"](https://www.youtube.com/watch?v=g25QXnhVijQ) from Kingdom Hearts. The chiptune aesthetic certainly helped!
 ---
 Track: Downtime
-Directory: downtime-lofam
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Thomas Ibarra
@@ -338,7 +338,7 @@ Commentary: |-
     Credit to AndrewNeo of Skaia.net for the track's name.
 ---
 Track: Meltwater
-Directory: meltwater-lofam
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Elaine Wang
@@ -590,7 +590,7 @@ Commentary: |-
     A nice, simple piece. Fashion in Homestuck is associated with Kanaya in my mind so I came up with the idea of Kanaya seeking to escape something, and then halfway through the song the klaxon alarm kicks in. Thus we get this piece of art.
 ---
 Track: Clockbreaker
-Directory: clockbreaker-lofam
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Mal McGannon
@@ -1085,7 +1085,7 @@ Commentary: |-
     I'd always hoped that I'd eventually come out with some Homestuck thing that would be well remembered by the fans. Here I was wasting my time whipping together silly mario paints, when I should have been recording catchy songs about amoral abusive relationships. Live and learn.
 ---
 Track: Under the Hat
-Directory: under-the-hat-lofam
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Erik Scheele
@@ -1413,7 +1413,7 @@ Commentary: |-
     This happened through my RP twitter account and I was totally drunk when I made the gif at 3 am. Now Shadolith is one of my fav musicians.
 ---
 Track: Vigilante
-Directory: vigilante-lofam
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Brenna Curran
@@ -1823,7 +1823,7 @@ Commentary: |-
     <i>Pose as a team, because shit just got real.</i>
 ---
 Track: Farewell
-Directory: farewell-lofam
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Fuzz

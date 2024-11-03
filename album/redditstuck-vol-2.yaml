@@ -1,4 +1,5 @@
 Album: Redditstuck Vol. 2
+Directory Suffix: redditstuck
 Date: January 14, 2017
 Date Added: June 12, 2024
 URLs:
@@ -85,7 +86,7 @@ Art Tags:
 - LoGaM (Redditstuck)
 ---
 Track: Inflection
-Directory: inflection-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - JJ Pollution
@@ -98,7 +99,7 @@ Art Tags:
 - Jay (Redditstuck)
 ---
 Track: Halcyon
-Directory: halcyon-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - JJ Pollution
@@ -162,7 +163,7 @@ Commentary: |-
     In his tower, hidden from the world, the magician works his Forbyddyn Majyyyks
 ---
 Track: Siphon
-Directory: siphon-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-
@@ -254,7 +255,7 @@ Art Tags:
 - Sly (Redditstuck)
 ---
 Track: Gnade
-Directory: gnade-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Gordian
@@ -434,7 +435,7 @@ Cover Artists:
 - David Burt
 ---
 Track: Maelstrom
-Directory: maelstrom-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - JJ Pollution

@@ -1,4 +1,5 @@
 Album: SVERT OST - Volume One
+Directory Suffix: svert
 Date: December 7, 2021
 Date Added: April 13, 2024
 URLs:
@@ -253,7 +254,7 @@ URLs:
 - https://youtu.be/MAFdUEBWjEc
 ---
 Track: Eclipse
-Directory: eclipse-svert
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '3:07'
 Artists:
@@ -366,7 +367,7 @@ URLs:
 - https://youtu.be/G_seN5ojeyw
 ---
 Track: Homesick
-Directory: homesick-svert
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:06'
 Artists:

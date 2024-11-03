@@ -1,4 +1,5 @@
 Album: Project [S] OST - Vol. 1
+Directory Suffix: project-s
 Date: April 13, 2024
 Date Added: April 13, 2024
 Additional Names:
@@ -113,7 +114,7 @@ Referenced Tracks:
 - Under The Hat
 ---
 Track: Showtime (piano)
-Directory: showtime-piano-project-s
+Suffix Directory: true
 Additional Names:
 - Name: >-
     Showtime (Qwerty's Refrain)

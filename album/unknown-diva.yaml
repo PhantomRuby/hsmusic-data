@@ -1,5 +1,4 @@
 Album: Unknown DIVA
-Directory: unknown-diva
 Artists:
 - Amane Kanata
 Date: March 13, 2024
@@ -21,7 +20,7 @@ Wallpaper Artists:
 - Oshioshio (supervision)
 ---
 Track: Oracle
-Directory: oracle-unknown-diva
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Amane Kanata (vocals)

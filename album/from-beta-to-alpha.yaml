@@ -1,5 +1,4 @@
 Album: From Beta to Alpha
-Directory: from-beta-to-alpha
 Date: April 4, 2013
 Date Added: April 13, 2024
 Artists:
@@ -58,7 +57,7 @@ Commentary: |-
     Dirk Strider's theme and a depiction of his fighting style. Before, and then after, he gets serious
 ---
 Track: The Scratch
-Directory: the-scratch-from-beta-to-alpha
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:12'
 URLs:

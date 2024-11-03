@@ -1,4 +1,5 @@
 Album: Oceanfalls Vol. 1
+Directory Suffix: oceanfalls
 Artists:
 - nights
 Date: May 17, 2017
@@ -45,7 +46,7 @@ Commentary: |-
 Section: Main album
 ---
 Track: '---- In The Beginning ----'
-Directory: in-the-beginning-oceanfalls
+Suffix Directory: true
 Duration: '2:53'
 URLs:
 - https://nightslights.bandcamp.com/track/in-the-beginning
@@ -60,7 +61,7 @@ Art Tags:
 - Five (Oceanfalls)
 ---
 Track: Illusions
-Directory: illusions-oceanfalls
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:37'
 URLs:
@@ -85,7 +86,7 @@ Art Tags:
 - Reed (Oceanfalls)
 ---
 Track: Surge
-Directory: surge-oceanfalls
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:26'
 URLs:
@@ -112,7 +113,7 @@ Art Tags:
 - Kotori (Oceanfalls)
 ---
 Track: Iceshards
-Directory: iceshards-oceanfalls
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:29'
 URLs:
@@ -132,7 +133,7 @@ Referenced Tracks:
 - Yellow and Purple
 ---
 Track: Performance
-Directory: performance-oceanfalls
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:33'
 URLs:
@@ -160,7 +161,7 @@ Art Tags:
 - 'cw: blood'
 ---
 Track: '--- Ending ---'
-Directory: ending-oceanfalls
+Suffix Directory: true
 Duration: '2:01'
 URLs:
 - https://nightslights.bandcamp.com/track/ending
@@ -170,7 +171,7 @@ Art Tags:
 Section: Bonus tracks
 ---
 Track: Firefly
-Directory: firefly-oceanfalls
+Suffix Directory: true
 Additional Names:
 - Name: >-
     Firefly [bonus]

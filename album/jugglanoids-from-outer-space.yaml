@@ -1,5 +1,6 @@
 Album: 'Jugglanoids From Outer Space/First Interdimensional Clown Chronicles Volume One [UNRELEASED COMPILATION]'
 Directory: jugglanoids-from-outer-space
+Directory Suffix: jugglanoids
 Date: June 7, 2023
 Date Added: April 13, 2024
 URLs:
@@ -55,7 +56,7 @@ Lyrics: |-
     They coming towards, not for grace
 ---
 Track: Hornography
-Directory: hornography-jugglanoids
+Suffix Directory: true
 Duration: '2:30'
 URLs:
 - https://thehighblood.bandcamp.com/track/hornography

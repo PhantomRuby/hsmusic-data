@@ -1,5 +1,6 @@
 Album: Cookiefonster's 2016 Famitracker Covers (mostly Homestuck)
 Directory: cookiefonsters-2016-famitracker-covers
+Directory Suffix: famitracker
 Date: January 1, 2017
 Date Added: April 13, 2024
 URLs:
@@ -35,7 +36,7 @@ Commentary: |-
     All of the track art for this album has been taken from the YouTube uploads of the tracks.
 ---
 Track: Let's All Rock the Heist
-Directory: lets-all-rock-the-heist-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:13'
 URLs:
@@ -53,7 +54,7 @@ Commentary: |-
     Here's an 8-bit remix of [[track:lets-all-rock-the-heist|a Homestuck song]]. Unlike my previous 8-bit covers, this one was made using Famitracker, which many consider to be a more legitimate way to make 8-bit music than stuff like GXSCC.
 ---
 Track: Another Jungle
-Directory: another-jungle-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:35'
 URLs:
@@ -75,7 +76,7 @@ Commentary: |-
     I've remade this cover five years after the initial upload. Link to the new version: [(YouTube link)](https://youtu.be/1Ym2UGBJ02Q)
 ---
 Track: Sburban Countdown
-Directory: sburban-countdown-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Has Cover Art: false
 Duration: '0:38'
@@ -85,7 +86,7 @@ Referenced Tracks:
 - Sburban Countdown
 ---
 Track: Oppa Toby Style
-Directory: oppa-toby-style-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Art Tags:
 - Roxy
@@ -109,7 +110,7 @@ Commentary: |-
     An 8-bit cover of [[Oppa Toby Style]], one of the four songs used in the Homestuck animation [[flash:8087|[S] Collide]], made using Famitracker. I'm very proud of this one, even looking back a year and a half later, and I'm happy it got as popular as it did.
 ---
 Track: Mutiny
-Directory: mutiny-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Art Tags:
 - Becquerel
@@ -129,7 +130,7 @@ Commentary: |-
     If you didn't know, [[Mutiny]] is a removed Homestuck song made by Bill Bolin, who quit the music team after songs of his were used without permission. Even though it was removed it's still easy to find online and it's a nice song regardless.
 ---
 Track: BL1ND JUST1C3
-Directory: bl1nd-just1c3-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Art Tags:
 - Terexi
@@ -153,7 +154,7 @@ Commentary: |-
     In retrospect, over a year after uploading this video (and almost two years after making the cover), it's still one of my favorite covers I've made. I can't believe I didn't upload it here right after I made it.
 ---
 Track: Umbral Ultimatum
-Directory: umbral-ultimatum-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Art Tags:
 - Jade
@@ -179,7 +180,7 @@ Commentary: |-
     2019 REMASTERED VERSION OF THIS COVER: [(YouTube link)](https://www.youtube.com/watch?v=NX2GKdiDh2M)
 ---
 Track: Futurama - Full Theme Song
-Directory: futurama-full-theme-song-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Has Cover Art: false
 Duration: '4:52'
@@ -200,7 +201,7 @@ Commentary: |-
     I'm also really happy that the show itself has an 8-bit rendition of itself so I don't have to make more shitty MS Paint art.
 ---
 Track: Ascend
-Directory: ascend-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Has Cover Art: false
 Duration: '6:08'
@@ -210,7 +211,7 @@ Referenced Tracks:
 - Ascend (Famitracker 8-Bit Cover)
 ---
 Track: 25x SHOWDOWN COMBO
-Directory: 25x-showdown-combo-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:08'
 URLs:
@@ -228,7 +229,7 @@ Commentary: |-
     An 8-bit cover of [[track:25x-showdown-combo|a song]] from Cool and New Webcomic Volume 1, a satirical music album by fans of Homestuck with some legitimately good songs; this song is one of them. I am contributing to the [[album:cool-and-new-volume-ii|second]] [[album:cool-and-new-volume-2|album]], which as of the publication of this video will be released in five days.
 ---
 Track: Walk-Stab-Walk
-Directory: walk-stab-walk-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Art Tags:
 - Jack Noir
@@ -248,7 +249,7 @@ Commentary: |-
     To be honest [[track:walk-stab-walk-r-and-e|this song]] is already largely 8-bit but I don't care, it's a good song and I wanted to cover it regardless.
 ---
 Track: 'Jungle #3'
-Directory: jungle-3-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Has Cover Art: false
 Duration: '4:00'
@@ -258,7 +259,7 @@ Referenced Tracks:
 - track:jungle-3
 ---
 Track: Psychedelic Psychodelic
-Directory: psychedelic-psychodelic-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Art Tags:
 - Jack Noir
@@ -281,7 +282,7 @@ Commentary: |-
     Also happy 11/11.
 ---
 Track: Patient
-Directory: patient-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Has Cover Art: false
 Duration: '0:56'
@@ -291,7 +292,7 @@ Referenced Tracks:
 - Patient
 ---
 Track: At the Price of Oblivion
-Directory: at-the-price-of-oblivion-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '3:13'
 URLs:
@@ -309,7 +310,7 @@ Commentary: |-
     I accidentally made the thumbnail for this video look like a death metal album, ah well. This is still one of the best covers I've done in my opinion. It even has slightly less audio artifacts than usual!
 ---
 Track: Snow Halation
-Directory: snow-halation-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:07'
 URLs:
@@ -339,7 +340,7 @@ Commentary: |-
     Seven years later, I remade this cover: [(YouTube link)](https://youtu.be/GqMf49wvYaU)
 ---
 Track: Ruins
-Directory: ruins-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Has Cover Art: false
 Duration: '1:24'
@@ -350,7 +351,7 @@ Referenced Tracks:
 - track:ruins-undertale
 ---
 Track: Alphys
-Directory: alphys-famitracker
+Suffix Directory: true
 Always Reference By Directory: true
 Has Cover Art: false
 Duration: '1:24'

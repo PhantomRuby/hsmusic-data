@@ -73,7 +73,8 @@ Artists:
 Duration: '5:54'
 ---
 Track: Crystalline
-Directory: crystalline-synthetica
+Suffix Directory: true
+Always Reference By Directory: true
 Additional Names:
 - Name: >-
     Crystalline (Final)
@@ -176,7 +177,7 @@ Artists:
 Duration: '6:59'
 ---
 Track: Destiny
-Directory: destiny-synthetica
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Hoxon

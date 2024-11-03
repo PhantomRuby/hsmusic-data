@@ -289,7 +289,7 @@ Commentary: |-
     [[track:double-midnight|“Double midnight”]] was a song Toby Fox made that we have not heard the full version of. A tragedy really. When I first suggested the album idea Rainy suggested that I do a version of that song for it. Which of course, just makes perfect sense. There already exists a couple of fanmade finished versions of this song, (see [[track:one-and-a-half-midnight|“One and a Half Midnight”]]) but still, I wanted to do my own version. I decided to start the song off with just the [[track:im-a-member-of-the-midnight-crew|“I’m a Member of the Midnight Crew”]] song, and to make it slowly glitch out until it gets to the line “Home with the milk in the morning”, which has a big placement spot in the short snippet of the original song that we do have. Then I had the main riff of the song play on a synth as a little intro to the actual first section. Once again, little bit of real guitar :3 . I originally wanted there to be guitar all throughout the track but changed my mind as I realized it was just muddying everything. So it’s only in this first section, then right after that it goes into the section with [[track:black|“Black”]], which we only hear the ladder of in the original, before it goes into the section where everything goes ham. As they always say, “Make her a member of the midnight crew!”. It was actually pretty fun trying to recreate something similar to the original part, the sample splicing should have been hell but was actually quite enjoyable, lol. Of course the final section is a reprise of the earlier one, (just now realizing I do that a lot, huh). And the song ends off with a final “Home with the milk in the morning”. As all good Dads do.
 ---
 Track: Breakout
-Directory: breakout-noirscape
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 2:56
 Cover Artists:
@@ -444,7 +444,7 @@ Commentary: |-
     Well done, you’ve won the battle of a lifetime.
 ---
 Track: Fin
-Directory: fin-noirscape
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 1:08
 Cover Artists:

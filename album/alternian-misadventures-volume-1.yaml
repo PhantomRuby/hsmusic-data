@@ -1,5 +1,5 @@
 Album: Alternian Misadventures! Volume.1
-Directory: alternian-misadventures-volume-1
+Directory Suffix: alternian-misadventures
 Date: August 4, 2020
 Date Added: June 12, 2024
 Artists:
@@ -30,7 +30,7 @@ Commentary: |-
     [[artist:nektannn|Nektannn]] to AM team
 ---
 Track: Apathy
-Directory: apathy-alternian-misadventures
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:49'
 URLs:
@@ -50,7 +50,7 @@ Commentary: |-
     Carline Sullen Theme
 ---
 Track: Timekeeper
-Directory: timekeeper-alternian-misadventures
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '03:17'
 Referenced Tracks:
@@ -72,7 +72,7 @@ Commentary: |-
     Alex Shatter Theme
 ---
 Track: idk...
-Directory: idk-alternian-misadventures
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:47'
 URLs:
@@ -83,7 +83,7 @@ Commentary: |-
     Tim Leere Theme
 ---
 Track: Omen
-Directory: omen-alternian-misadventures
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:20'
 URLs:
@@ -112,7 +112,7 @@ Commentary: |-
     Andrew Cervisto Theme
 ---
 Track: Deliverance
-Directory: deliverance-alternian-misadventures
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '03:23'
 URLs:
@@ -123,7 +123,7 @@ Commentary: |-
     Jack Vacker Theme
 ---
 Track: En Garde!
-Directory: en-garde-alternian-misadventures
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:35'
 URLs:

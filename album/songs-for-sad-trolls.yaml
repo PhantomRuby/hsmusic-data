@@ -143,7 +143,7 @@ Lyrics: |-
     Finally I’ve flown
 ---
 Track: Double Time
-Directory: double-time-songs-for-sad-trolls
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:22'
 URLs:
@@ -374,7 +374,7 @@ Lyrics: |-
     That I’m still on your side, and that’s furever, furever, furever
 ---
 Track: Mary
-Directory: mary-songs-for-sad-trolls
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:04'
 URLs:
@@ -662,7 +662,7 @@ Lyrics: |-
     Page…
 ---
 Track: Ugly Story
-Directory: ugly-story-songs-for-sad-trolls
+Suffix Directory: true
 Originally Released As: track:ugly-story
 Duration: '3:19'
 URLs:

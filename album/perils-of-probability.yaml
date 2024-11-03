@@ -1,5 +1,6 @@
 Album: 'Perils Of Probability: The Technicolor Terror From Beyond The Hyperthetical!'
 Directory: perils-of-probability
+Directory Suffix: vast-error
 Date: October 31, 2022
 Date Added: April 13, 2024
 URLs:
@@ -372,7 +373,7 @@ Commentary: |-
     She’s already caused enough trouble.
 ---
 Track: Devolver
-Directory: devolver-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - artist:kobacat
@@ -432,7 +433,7 @@ Lyrics: |-
     I’ll see you in the next one.
 ---
 Track: Inevitability
-Directory: inevitability-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - CASTIGADORA

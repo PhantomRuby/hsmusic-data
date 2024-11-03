@@ -1,5 +1,6 @@
 Album: 'Pokémon Scarlet & Pokémon Violet + The Hidden Treasure of Area Zero: Super Music Collection'
 Directory: pokemon-scarlet-violet-super-music-collection
+Directory Suffix: pokemon-scarlet-violet
 Artists:
 - Pokémon
 - GAME FREAK
@@ -53,7 +54,7 @@ Referenced Tracks:
 - The Academy
 ---
 Track: Home
-Directory: home-pokemon-scarlet-violet
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:11'
 Artists:
@@ -96,7 +97,7 @@ URLs:
 - https://www.youtube.com/watch?v=-BQBo66ir_Y
 ---
 Track: Obtained a Key Item!
-Directory: obtained-a-key-item-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:04'
 Artists:
 - Hitomi Sato
@@ -115,7 +116,7 @@ Referenced Tracks:
 - Cabo Poco
 ---
 Track: Battle! (Wild Pokémon)
-Directory: battle-wild-pokemon-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '2:50'
 Artists:
 - Minako Adachi (arranger)
@@ -125,7 +126,7 @@ URLs:
 - https://www.youtube.com/watch?v=S0bz0QVZ3j0
 ---
 Track: Victory! (Wild Pokémon)
-Directory: victory-wild-pokemon-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:05'
 Artists:
 - Minako Adachi
@@ -135,7 +136,7 @@ Referenced Tracks:
 - track:battle-wild-pokemon-pokemon-scarlet-violet
 ---
 Track: Obtained a Berry!
-Directory: obtained-a-berry-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:04'
 Artists:
 - Hitomi Sato
@@ -222,7 +223,7 @@ Referenced Tracks:
 - South Province
 ---
 Track: You Caught a Pokémon!
-Directory: you-caught-a-pokemon-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:04'
 Artists:
 - Hitomi Sato
@@ -232,7 +233,7 @@ Referenced Tracks:
 - Pokémon Caught (Pokémon Red / Pokémon Blue)
 ---
 Track: Pokémon Center
-Directory: pokemon-center-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '2:43'
 Artists:
 - Hitomi Sato
@@ -242,7 +243,7 @@ Referenced Tracks:
 - Pokémon Center (Pokémon Red / Pokémon Blue)
 ---
 Track: Pokémon Healed
-Directory: pokemon-healed-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:06'
 Artists:
 - Hitomi Sato
@@ -347,7 +348,7 @@ Referenced Tracks:
 - The Academy
 ---
 Track: A Short Rest
-Directory: a-short-rest-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:06'
 Artists:
 - Hitomi Sato
@@ -364,7 +365,7 @@ URLs:
 - https://www.youtube.com/watch?v=Fats_yOZLAs
 ---
 Track: Trainers' Eyes Meet (Trainer)
-Directory: trainers-eyes-meet-trainer-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:17'
 Artists:
 - Minako Adachi
@@ -374,7 +375,7 @@ Referenced Tracks:
 - track:battle-trainer-pokemon-scarlet-violet
 ---
 Track: Battle! (Trainer)
-Directory: battle-trainer-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '2:56'
 Artists:
 - Minako Adachi (arranger)
@@ -384,7 +385,7 @@ URLs:
 - https://www.youtube.com/watch?v=lxT27YJ1YNc
 ---
 Track: Victory! (Trainer)
-Directory: victory-trainer-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:31'
 Artists:
 - Minako Adachi
@@ -394,7 +395,7 @@ Referenced Tracks:
 - track:victory-trainer-battle-pokemon-red-blue
 ---
 Track: Level Up!
-Directory: level-up-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:04'
 Artists:
 - Minako Adachi
@@ -448,7 +449,7 @@ URLs:
 - https://www.youtube.com/watch?v=AG-7yxzTmns
 ---
 Track: Obtained an Egg!
-Directory: obtained-an-egg-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:04'
 Artists:
 - Hitomi Sato
@@ -458,7 +459,7 @@ Referenced Tracks:
 - Received a Pokémon Egg! (Pokémon Gold / Pokémon Silver)
 ---
 Track: Evolution
-Directory: evolution-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:33'
 Artists:
 - Hitomi Sato
@@ -468,7 +469,7 @@ Referenced Tracks:
 - Evolution (Pokémon Red / Pokémon Blue)
 ---
 Track: Congratulations! Your Pokémon Evolved!
-Directory: congratulations-your-pokemon-evolved-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:05'
 Artists:
 - Hitomi Sato
@@ -518,7 +519,7 @@ Referenced Tracks:
 - Victory! (Gym Leader Battle) (Pokémon Red / Pokémon Blue)
 ---
 Track: Obtained a Badge!
-Directory: obtained-a-badge-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:09'
 Artists:
 - Hitomi Sato
@@ -528,7 +529,7 @@ Referenced Tracks:
 - Obtained a Gym Badge (Pokémon Red / Pokémon Blue)
 ---
 Track: Obtained a TM!
-Directory: obtained-a-tm-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:04'
 Artists:
 - Hitomi Sato
@@ -934,7 +935,7 @@ URLs:
 - https://www.youtube.com/watch?v=GcLEFnQlawY
 ---
 Track: The Pokémon League
-Directory: the-pokemon-league-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '2:21'
 Artists:
 - Hitomi Sato (composer & arranger)
@@ -1224,7 +1225,7 @@ Referenced Tracks:
 - The Academy
 ---
 Track: Mystery Gift
-Directory: mystery-git-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:39'
 Artists:
 - Hitomi Sato
@@ -1248,7 +1249,7 @@ URLs:
 - https://www.youtube.com/watch?v=RNqrin6f-yE
 ---
 Track: Pokédex Evaluation... It's Perfect!
-Directory: pokedex-evaluation-its-perfect-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '0:06'
 Artists:
 - Go Ichinose
@@ -1258,7 +1259,7 @@ Referenced Tracks:
 - Pokédex Evaluation... Complete! (Pokémon Gold / Pokémon Silver)
 ---
 Track: Title Screen
-Directory: title-screen-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '1:36'
 Artists:
 - Yuri Habuka
@@ -1430,7 +1431,7 @@ Referenced Tracks:
 - Area Zero
 ---
 Track: Twisted
-Directory: twisted-pokemon-scarlet-violet
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:15'
 Artists:
@@ -1834,7 +1835,7 @@ Referenced Tracks:
 - Battle! (Team Star Boss)
 ---
 Track: Relic Song
-Directory: relic-song-pokemon-scarlet-violet
+Suffix Directory: true
 Duration: '2:01'
 Artists:
 - Go Ichinose
@@ -1886,7 +1887,8 @@ Referenced Tracks:
 - Mochi Mayhem
 ---
 Track: Title Screen
-Directory: title-screen-2-pokemon-scarlet-violet
+Directory: title-screen-2
+Suffix Directory: true
 Duration: '2:08'
 Artists:
 - Hiromitsu Maeba

@@ -75,13 +75,14 @@ URLs:
 - https://www.youtube.com/watch?v=DuH9Ul07rQ4
 ---
 Track: Redeye (feat. Kasane Teto)
+Directory: redeye
+Suffix Directory: true
+Always Reference By Directory: true
 Additional Names:
 - Name: >-
     Redeye
   Annotation: >-
     [YouTube album in-video](https://youtu.be/HWIbTv3W8Eo?t=41)
-Directory: redeye-nibiru
-Always Reference By Directory: true
 Duration: 3:38
 Artists:
 - Rainy
@@ -185,7 +186,7 @@ URLs:
 - https://desynced.bandcamp.com/track/dead-performance
 ---
 Track: BLASTED
-Directory: blasted-nibiru
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 1:21
 Artists:
@@ -513,7 +514,7 @@ Lyrics: |-
     (You ever dance with the devil in the pale moonlight)
 ---
 Track: Megalovania
-Directory: megalovania-nibiru
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-

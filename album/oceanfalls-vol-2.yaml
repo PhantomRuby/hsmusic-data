@@ -1,4 +1,5 @@
 Album: Oceanfalls Vol. 2
+Directory Suffix: oceanfalls
 Date: April 27, 2019
 Date Added: January 12, 2021
 URLs:
@@ -111,7 +112,7 @@ Cover Artists:
 - penelope
 ---
 Track: Reminiscence
-Directory: reminiscence-oceanfalls
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - WHATISLOSTINTHEMINES
@@ -192,7 +193,7 @@ Art Tags:
 - 'cw: blood'
 ---
 Track: Crystalline
-Directory: crystalline-oceanfalls
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Hadron
@@ -405,7 +406,7 @@ Art Tags:
 Section: Bonus tracks
 ---
 Track: Atomic
-Directory: atomic-oceanfalls
+Suffix Directory: true
 Additional Names:
 - Name: >-
     Atomic (Bonus Track)

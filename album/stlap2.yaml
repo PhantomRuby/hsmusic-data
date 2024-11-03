@@ -80,7 +80,8 @@ Commentary: |-
 Section: Disc 1
 ---
 Track: ~~Disc 1~~
-Directory: disc1-stlap2
+Directory: disc1
+Suffix Directory: true
 Additional Names:
 - Name: >-
     Disc 1
@@ -389,7 +390,8 @@ Commentary: |-
 Section: Disc 2
 ---
 Track: ~~Disc 2~~
-Directory: disc2-stlap2
+Directory: disc2
+Suffix Directory: true
 Additional Names:
 - Name: >-
     Disc 2
@@ -410,7 +412,7 @@ Commentary: |-
     Got bored one day and wanted to write a quick little song that turned into Disc 2... that's pretty much it lmao
 ---
 Track: Insurrection
-Directory: insurrection-stlap2
+Suffix Directory: true
 Artists:
 - Caelan Kier
 Duration: 4:04
@@ -434,7 +436,7 @@ Commentary: |-
     I remember like thinking that [my Mutiny remix](https://www.youtube.com/watch?v=3znbbnDOChY) could be totally better, so like I only made this a while after that was uploaded (that's why it sounds so much like my old stuff). I didn't even plan for the song to be said remix, I was just bored in FL Studio and placed down the [[track:mutiny|Mutiny]] melody in there and somehow just kept going until it turned into a full song. I was gonna put it in [[album:stlap|STLaP 1]], but then didn't because [[track:fetch-the-bullet|there was already a Mutiny remix]], so first chance I got I dunked it into STLaP 2.
 ---
 Track: Lust
-Directory: lust-stlap2
+Suffix Directory: true
 Artists:
 - Pascal van den Bos
 Duration: 4:03
@@ -794,7 +796,8 @@ Review Points:
 Section: Disc 3
 ---
 Track: ~~Disc 3~~
-Directory: disc3-stlap2
+Directory: disc3
+Suffix Directory: true
 Additional Names:
 - Name: >-
     Disc 3
@@ -906,12 +909,12 @@ Commentary: |-
     Yeah.. that’s all. It’s not some secret musical analogy of the Green Sun really causing this or that. I just like it this way, though if you can somehow find the analogy that isn’t there, good for you! It’s just like poetry!
 ---
 Track: Vaporsecata - ベーパセタ
+Directory: vaporsecata
 Additional Names:
 - Name: >-
     Vaporsecata
   Annotation: >-
     name in booklet
-Directory: vaporsecata
 Artists:
 - Pascal van den Bos
 Duration: 4:05
@@ -1140,9 +1143,9 @@ Commentary: |-
     Honestly I don't have much to say about this, I don't remember starting this song, I guess I just put down some drums and then put down some synths and then put down some samples and then boom it's a song now.
 ---
 Track: Turntables
+Suffix Directory: true
 Additional Names:
 - TurnTables (booklet name)
-Directory: turntables-stlap2
 Artists:
 - Asian
 Duration: 1:33
@@ -1206,7 +1209,8 @@ Commentary: |-
 Section: Disc 4
 ---
 Track: ~~Disc 4~~
-Directory: disc4-stlap2
+Directory: disc4
+Suffix Directory: true
 Additional Names:
 - Name: >-
     Disc 4
@@ -1381,7 +1385,7 @@ Commentary: |-
     I’ve wanted to remix [[track:an-orange-blue-rose|“An Orange Blue Rose”]] since i first heard it, and here i finally got around to doing so. I tried to make some sort of [[track:savior-of-the-waking-world|SOTWW]] style Orchestral remix of AOBR. I think it worked pretty well, i’m most proud of the intro which is a mix of epic bitcrush effects and a recording i made of the wind outside my house when they were burning stuff at an energy plant.
 ---
 Track: Lifesaver
-Directory: lifesaver-stlap2
+Suffix Directory: true
 Artists:
 - Rainy
 Duration: 4:57
@@ -1405,7 +1409,7 @@ Commentary: |-
     Check the commentary for [[track:minuteman|“Minuteman”]] the full context, but this song is from an old solo album idea. Originally this song was going to have a bunch more references to Jane songs (I.E [[track:cyan-beast|Cyan Beast]], [[track:jane-dargason|Jane Dargason]], Etc), but I decided against this. The reason for this is that I felt like most of the songs I did for this album did not have enough of my own original composition and relied too heavily on references. So I decided to merge the references I had already planned with some original writing. I kept the references to [[track:first-steps|“First Steps”]] by David Ellis and added a reference to an unreleased song called [[track:crock-n-roll|Crock N’ Roll]] by RJ Lake. As my last song for the album, I’m pretty proud of this one and I hope you enjoy.
 ---
 Track: Contentment
-Directory: contentment-stlap2
+Suffix Directory: true
 Artists:
 - Rowyn Berlan
 Duration: 3:51
@@ -1638,7 +1642,6 @@ Commentary: |-
 Section: Bonus tracks
 ---
 Track: Caring, Compassion, Kindness. The 3 Elements of SALE!
-Directory: caring-compassion-kindness-the-3-elements-of-sale
 Artists:
 - Pascal van den Bos
 Duration: 1:06

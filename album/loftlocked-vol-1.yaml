@@ -1,4 +1,5 @@
 Album: Loftlocked Vol. 1
+Directory Suffix: loftlocked
 Date: July 1, 2014
 URLs:
 - https://loftlocked.bandcamp.com/album/loftlocked-vol-1
@@ -35,7 +36,7 @@ Additional Files:
 Section: Main album
 ---
 Track: Prelude
-Directory: prelude-loftlocked
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Veritas Unae
@@ -59,7 +60,7 @@ URLs:
 - https://loftlocked.bandcamp.com/track/written-page-2
 ---
 Track: Concession
-Directory: concession-loftlocked
+Suffix Directory: true
 Additional Names:
 - Concentration ([Bandcamp about blurb](https://loftlocked.bandcamp.com/track/concession))
 Always Reference By Directory: true
@@ -142,7 +143,7 @@ Referenced Tracks:
 - track:select-screen-the-legend-of-zelda-a-link-to-the-past
 ---
 Track: Resolve
-Directory: resolve-loftlocked
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - tiresiasArchivist
@@ -224,7 +225,7 @@ Commentary: |-
    While Pat may've not remembered if it was him who wrote the commentary for Flower Child; it's mostly likely him given that the other track commentaries are from [[artist:veritas-unae]].
 ---
 Track: Thunderhead
-Directory: thunderhead-loftlocked
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Veritas Unae
@@ -253,7 +254,7 @@ Commentary: |-
     considering people still make HS fanventures... yeah, I guess so. oh wait where are you going oh goodbye friend i hope you enjoy your trip!!
 ---
 Track: Obsidian
-Directory: obsidian-loftlocked
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Rnd

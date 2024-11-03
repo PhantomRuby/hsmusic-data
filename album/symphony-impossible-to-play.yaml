@@ -1,4 +1,5 @@
 Album: Symphony Impossible to Play
+Directory Suffix: symphony
 Artists:
 - Clark Powell
 Date: August 1, 2012
@@ -74,7 +75,8 @@ Referenced Tracks:
 - Even in Death
 ---
 Track: II - Sarabande
-Directory: sarabande-symphony
+Directory: sarabande
+Suffix Directory: true
 Contributors:
 - Erik Scheele (piano)
 Duration: '2:36'
@@ -85,7 +87,8 @@ Referenced Tracks:
 - track:sarabande-vol5
 ---
 Track: III - Serenade
-Directory: serenade-symphony
+Directory: serenade
+Suffix Directory: true
 Duration: '5:44'
 URLs:
 - https://homestuck.bandcamp.com/track/iii-serenade-2

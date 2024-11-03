@@ -1,4 +1,5 @@
 Album: 'Oceanfables: Ray of Light'
+Directory Suffix: oceanfables
 Artists:
 - Ray Mike
 Date: March 18, 2022
@@ -54,21 +55,21 @@ Sampled Tracks:
 - Upward Movement (Dave Owns)
 ---
 Track: Chiptune
-Directory: chiptune-oceanfables
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:07'
 URLs:
 - https://nightslights.bandcamp.com/track/chiptune
 ---
 Track: Reed
-Directory: reed-oceanfables
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:36'
 URLs:
 - https://nightslights.bandcamp.com/track/reed
 ---
 Track: Starfish
-Directory: starfish-oceanfables
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:55'
 URLs:
@@ -82,7 +83,7 @@ Sampled Tracks:
 - dog samples from undertale, no?
 ---
 Track: Swag
-Directory: swag-oceanfables
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:40'
 URLs:
@@ -143,7 +144,7 @@ Art Tags:
 Section: Bonus track
 ---
 Track: Piano
-Directory: piano-oceanfables
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-

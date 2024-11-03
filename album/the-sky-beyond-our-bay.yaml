@@ -26,7 +26,7 @@ Commentary: |-
 Section: Main album
 ---
 Track: Seastorm
-Directory: seastorm-the-sky-beyond-our-bay
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '03:42'
 URLs:
@@ -285,7 +285,7 @@ Lyrics: |-
     The last to get better
 ---
 Track: Vanish
-Directory: vanish-the-sky-beyond-our-bay
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '03:41'
 URLs:

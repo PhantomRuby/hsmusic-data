@@ -262,7 +262,7 @@ Lyrics: |-
     Fall in love with a girl like you
 ---
 Track: Communion
-Directory: communion-ulterior-motives
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:24'
 URLs:
@@ -325,7 +325,7 @@ Lyrics: |-
     Just a piece to remain when you die
 ---
 Track: Sabotage
-Directory: sabotage-ulterior-motives
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:08'
 URLs:
@@ -468,7 +468,7 @@ Lyrics: |-
     When I think about you
 ---
 Track: Interlude
-Directory: interlude-ulterior-motives
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '0:53'
 URLs:
@@ -480,7 +480,7 @@ Lyrics: |-
     (Strange, the way time goes by.)
 ---
 Track: Mechanism
-Directory: mechanism-ulterior-motives
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '3:00'
 URLs:
@@ -548,7 +548,7 @@ Lyrics: |-
     The mechanism of the heart (Mechanism of the heart)
 ---
 Track: Saint
-Directory: saint-ulterior-motives
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:41'
 URLs:
@@ -643,7 +643,7 @@ Lyrics: |-
     And I know that man is me
 ---
 Track: Powerline
-Directory: powerline-ulterior-motives
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:43'
 URLs:
@@ -711,7 +711,7 @@ Lyrics: |-
     Come get electric
 ---
 Track: Utopia
-Directory: utopia-ulterior-motives
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '3:20'
 URLs:

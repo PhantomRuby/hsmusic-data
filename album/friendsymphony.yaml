@@ -207,7 +207,7 @@ Referenced Tracks:
 - Gold Pilot
 ---
 Track: leech
-Directory: leech-friendsymphony
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Gryotharian
@@ -598,7 +598,7 @@ Referenced Tracks:
 - Spider8ite!!!!!!!!
 ---
 Track: growing up
-Directory: growing-up-friendsymphony
+Suffix Directory: true
 Artists:
 - GhostElevator
 Duration: '1:13'
@@ -694,7 +694,7 @@ Referenced Tracks:
 - Chucklevoodoo Waltz
 ---
 Track: The Show Must Go On
-Directory: the-show-must-go-on-friendsymphony
+Suffix Directory: true
 Artists:
 - Scorpyus
 Duration: '4:02'
@@ -722,7 +722,7 @@ Referenced Tracks:
 - CLOWNFUCKER
 ---
 Track: The Puppetmaster
-Directory: the-puppetmaster-friendsymphony
+Suffix Directory: true
 Artists:
 - Gryotharian
 Duration: '4:22'

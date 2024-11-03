@@ -50,7 +50,7 @@ Commentary: |-
     Originally titled "OMEGA Anniversary Edition"
 ---
 Track: Cog
-Directory: cog-early-access
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Husr
@@ -69,7 +69,7 @@ Commentary: |-
     Concerning Time.
 ---
 Track: Blastoff
-Directory: blastoff-early-access
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - dbnet18
@@ -89,7 +89,7 @@ Commentary: |-
     A track that me and Husr made for Act Omega, but the full version! Special thanks to Husr for composing most of this!
 ---
 Track: Extermination
-Directory: extermination-early-access
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Husr
@@ -126,7 +126,8 @@ Referenced Tracks:
 - Sburban Jungle
 ---
 Track: Torrent (Bonus)
-Directory: torrent-early-access
+Directory: torrent
+Suffix Directory: true
 Artists:
 - Husr
 Duration: '2:13'

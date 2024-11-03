@@ -60,7 +60,8 @@ URLs:
 - https://desynced.bandcamp.com/track/forevers-plaything
 ---
 Track: Surrural
-Directory: surrural-anthology-i
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 3:44
 Artists:
 - SpilledCereals
@@ -78,7 +79,8 @@ URLs:
 - https://desynced.bandcamp.com/track/surrural
 ---
 Track: Serendipity
-Directory: serendipity-anthology-i
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:47
 Artists:
 - Spad3s
@@ -170,7 +172,8 @@ URLs:
 - https://desynced.bandcamp.com/track/disc-2-gods-country
 ---
 Track: Battalion
-Directory: battalion-anthology-i
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:16
 Artists:
 - Rainy
@@ -196,7 +199,8 @@ URLs:
 - https://desynced.bandcamp.com/track/out-of-reach
 ---
 Track: Haven
-Directory: haven-anthology-i
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 3:42
 Artists:
 - Levc
@@ -238,7 +242,8 @@ URLs:
 Section: Disc 3
 ---
 Track: Gravitas
-Directory: gravitas-anthology-i
+Suffix Directory: true
+Always Reference By Directory: true
 Additional Names:
 - Name: >-
     [Disc 3] ~ Gravitas
@@ -308,7 +313,8 @@ URLs:
 Section: Disc 4
 ---
 Track: Haymaker
-Directory: haymaker-anthology-i
+Suffix Directory: true
+Always Reference By Directory: true
 Additional Names:
 - Name: >-
     [Disc 4] ~ Haymaker
@@ -355,7 +361,7 @@ URLs:
 - https://desynced.bandcamp.com/track/angelic-beauty
 ---
 Track: Emergency Broadcast
-Directory: emergency-broadcast-anthology-i
+Suffix Directory: true
 Duration: 3:54
 Artists:
 - Rainy

@@ -39,7 +39,7 @@ Commentary: |-
     Originally planned to have lyrics, but scrapped the idea. A self-empowerment type deal.
 ---
 Track: Adventure
-Directory: adventure-coastal-dreaming
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:53'
 URLs:
@@ -57,7 +57,7 @@ Commentary: |-
     Sailing a small boat along the coast.
 ---
 Track: Voyage
-Directory: voyage-coastal-dreaming
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '04:10'
 URLs:
@@ -114,7 +114,7 @@ Commentary: |-
     Misty ruins in a pastoral landscape
 ---
 Track: Glory
-Directory: glory-coastal-dreaming
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:08'
 URLs:

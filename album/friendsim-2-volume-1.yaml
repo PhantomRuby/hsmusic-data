@@ -1,4 +1,5 @@
 Album: Friendsim 2 - Volume 1
+Directory Suffix: friendsim-2
 Date: September 11, 2022
 Date Added: January 1, 2023
 Additional Names:
@@ -30,7 +31,7 @@ URLs:
 - https://www.youtube.com/watch?v=NLB2Vc7FrY0
 ---
 Track: Title Theme
-Directory: title-theme-friendsim-2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - James Roach
@@ -42,7 +43,7 @@ Commentary: |-
     i did it in the style of the originals, and played around with the [[track:homestuck|homestuck melody]] but made it different enough that it is its own thing
 ---
 Track: Credits Theme
-Directory: credits-theme-friendsim-2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Funk McLovin
@@ -96,7 +97,7 @@ Referenced Tracks:
 - Friendsim 2 Prologue End Fanfare
 ---
 Track: Prologue
-Directory: prologue-friendsim-2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Frost Carter
@@ -118,7 +119,7 @@ Referenced Tracks:
 - track:investigation-friendsim-2
 ---
 Track: Investigation
-Directory: investigation-friendsim-2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Frost Carter
@@ -145,7 +146,7 @@ Referenced Tracks:
 - track:investigation-friendsim-2
 ---
 Track: Trial Theme
-Directory: trial-theme-friendsim-2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Frost Carter
@@ -265,7 +266,7 @@ URLs:
 - https://studiojune.bandcamp.com/track/wanshis-rp-extravaganza
 ---
 Track: Tavern
-Directory: tavern-friendsim-2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Funk McLovin
@@ -274,7 +275,7 @@ URLs:
 - https://studiojune.bandcamp.com/track/tavern
 ---
 Track: Dungeon
-Directory: dungeon-friendsim-2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Funk McLovin
@@ -292,7 +293,7 @@ URLs:
 - https://studiojune.bandcamp.com/track/join-the-skeleton-war
 ---
 Track: Baggage
-Directory: baggage-friendsim-2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - articulatelyComposed

@@ -16,7 +16,7 @@ Commentary: |-
     I hope it's not a disappointment.
 ---
 Track: The Intro
-Directory: the-intro-qualia
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:13'
 URLs:
@@ -27,7 +27,7 @@ Commentary: |-
     Somewhere, in the cosmos, a story begins.
 ---
 Track: Science
-Directory: science-qualia
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:04'
 URLs:
@@ -38,7 +38,7 @@ Commentary: |-
     The science team thinks they have made a breakthrough! But at what cost?
 ---
 Track: The Sewer
-Directory: the-sewer-qualia
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 0:45
 URLs:
@@ -49,7 +49,7 @@ Commentary: |-
     We have to get our feet wet.
 ---
 Track: The Race
-Directory: the-race-qualia
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:49'
 URLs:
@@ -69,7 +69,7 @@ Commentary: |-
     Anna is who you imagine when you hear her sing this. Isn't she lovely?
 ---
 Track: The Demon
-Directory: the-demon-qualia
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:41'
 URLs:
@@ -90,7 +90,7 @@ Commentary: |-
     I don't know if it's the earth, but we're bound to find out.
 ---
 Track: Game Over
-Directory: game-over-qualia
+Suffix Directory: true
 Duration: '1:33'
 URLs:
 - https://buzinkaistudios.bandcamp.com/track/game-over
@@ -100,7 +100,7 @@ Commentary: |-
     You'll come back, right?
 ---
 Track: Phoenix
-Directory: phoenix-qualia
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:25'
 URLs:
@@ -111,7 +111,7 @@ Commentary: |-
     From the ashes.
 ---
 Track: Staff Roll
-Directory: staff-roll-qualia
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 0:50
 URLs:

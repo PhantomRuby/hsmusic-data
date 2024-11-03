@@ -1,4 +1,6 @@
 Album: "Music Team Archive '16 - '21"
+Directory Suffix: archive
+Suffix Track Directories: true
 Artists:
 - artist:kobacat
 Date: January 21, 2022
@@ -30,7 +32,6 @@ Commentary: |-
 Section: '2016'
 ---
 Track: licord nacrasty
-Directory: licord-nacrasty-archive
 Originally Released As: track:licord-nacrasty
 Duration: '2:14'
 URLs:
@@ -50,7 +51,6 @@ Commentary: |-
     Track Type: Remix(?)
 ---
 Track: Lambda Doctor
-Directory: lambda-doctor-archive
 Originally Released As: track:lambda-doctor
 Duration: '01:01'
 URLs:
@@ -65,7 +65,6 @@ Commentary: |-
     Track Type: Mashup
 ---
 Track: Harmonize
-Directory: harmonize-archive
 Originally Released As: track:harmonize-canmt
 Duration: '05:55'
 URLs:
@@ -94,7 +93,6 @@ Commentary: |-
     Track Type: Original
 ---
 Track: Intentional Pokémon
-Directory: intentional-pokemon-archive
 Originally Released As: track:intentional-pokemon
 Duration: '03:28'
 URLs:
@@ -109,7 +107,6 @@ Commentary: |-
     Track Type: "Soundfont Swap" Remix (really bad)
 ---
 Track: XP Boogie
-Directory: xp-boogie-archive
 Originally Released As: track:xp-boogie
 Always Reference By Directory: true
 Duration: '00:52'
@@ -127,7 +124,6 @@ Commentary: |-
 Section: '2017'
 ---
 Track: Starry Midnight
-Directory: starry-midnight-archive
 Originally Released As: track:starry-midnight
 Duration: '02:16'
 URLs:
@@ -143,7 +139,6 @@ Commentary: |-
     Track Type: Remix
 ---
 Track: licord midnight
-Directory: licord-midnight-archive
 Originally Released As: track:licord-midnight
 Duration: '02:29'
 URLs:
@@ -155,7 +150,6 @@ Commentary: |-
     Track Type: Remix
 ---
 Track: BOWMANIA ~ TITLE SCREEN
-Directory: bowmania-title-screen-archive
 Originally Released As: track:bowmania-title-screen
 Duration: '01:33'
 URLs:
@@ -171,7 +165,6 @@ Commentary: |-
     Track Type: Remix(?)
 ---
 Track: Plagueback
-Directory: plagueback-archive
 Originally Released As: track:plagueback
 Duration: '01:48'
 URLs:
@@ -183,7 +176,6 @@ Commentary: |-
     Track Type: Remix
 ---
 Track: feeling cool and new
-Directory: feeling-cool-and-new-archive
 Originally Released As: track:feeling-cool-and-new
 Duration: '02:18'
 URLs:
@@ -197,7 +189,6 @@ Commentary: |-
     Track Type: Future Funk / Remix
 ---
 Track: muse of reggie
-Directory: muse-of-reggie-archive
 Duration: '02:13'
 URLs:
 - https://kobacat.bandcamp.com/track/2017-muse-of-reggie
@@ -223,7 +214,6 @@ Commentary: |-
     Track Type: Mashup
 ---
 Track: Extra Boss Theme - Sonic Mania
-Directory: extra-boss-theme-sonic-mania-archive
 Duration: '03:45'
 URLs:
 - https://kobacat.bandcamp.com/track/2017-extra-boss-theme-sonic-mania
@@ -288,7 +278,6 @@ Commentary: |-
 Section: '2018'
 ---
 Track: this isnt even in key
-Directory: this-isnt-even-in-key-archive
 Duration: '02:59'
 URLs:
 - https://kobacat.bandcamp.com/track/2018-this-isnt-even-in-key
@@ -379,7 +368,6 @@ Commentary: |-
     Track Type: Mashup
 ---
 Track: i never had a name for this song so lets just call it 'im not good at ambience'
-Directory: i-never-had-a-name-for-this-song-so-lets-just-call-it-im-not-good-at-ambience-archive
 Duration: '02:57'
 URLs:
 - https://kobacat.bandcamp.com/track/2018-i-never-had-a-name-for-this-song-so-lets-just-call-it-im-not-good-at-ambience
@@ -400,7 +388,6 @@ Commentary: |-
     References: i have no idea i never wrote them down and there must be at least 5 different sources being referenced in this thing
 ---
 Track: 'jungle #3 but i used synths i made at 2 am'
-Directory: jungle-3-but-i-used-synths-i-made-at-2-am-archive
 Duration: '03:26'
 URLs:
 - https://kobacat.bandcamp.com/track/2018-jungle-3-but-i-used-synths-i-made-at-2-am
@@ -411,7 +398,6 @@ Commentary: |-
     Track Type: Remix
 ---
 Track: what the fuck is mastering
-Directory: what-the-fuck-is-mastering-archive
 Duration: '02:04'
 URLs:
 - https://kobacat.bandcamp.com/track/2018-what-the-fuck-is-mastering
@@ -422,7 +408,7 @@ Commentary: |-
     Track Type: Remix
 ---
 Track: インストルメンタル
-Directory: tonneru-o-sanpo-suru-archive
+Directory: tonneru-o-sanpo-suru # suffixed
 Originally Released As: track:tonneru-o-sanpo-suru
 Duration: '02:06'
 URLs:
@@ -437,7 +423,6 @@ Commentary: |-
     Track Type: Remix
 ---
 Track: dont forget to save ur game
-Directory: dont-forget-to-save-ur-game-archive
 Originally Released As: track:dont-forget-to-save-ur-game
 Duration: '02:38'
 URLs:
@@ -447,7 +432,6 @@ Commentary: |-
     Track Type: Remix
 ---
 Track: Alternative Orders
-Directory: alternative-orders-archive
 Originally Released As: track:alternative-orders
 Duration: '01:50'
 URLs:
@@ -457,7 +441,6 @@ Commentary: |-
     Track Type: Remix
 ---
 Track: '[licord swim]'
-Directory: licord-swim-archive
 Originally Released As: track:licord-swim
 Duration: '02:13'
 URLs:
@@ -467,7 +450,6 @@ Commentary: |-
     Track Type: Remix
 ---
 Track: Sin Pausa (Mission Failed) (Album Edition) - DJMAX RESPECT V
-Directory: sin-pausa-mission-failed-album-edition-djmax-respect-v-archive
 Duration: '00:53'
 URLs:
 - https://kobacat.bandcamp.com/track/2018-sin-pausa-mission-failed-album-edition-djmax-respect-v
@@ -480,7 +462,6 @@ Commentary: |-
     Track Type: Mashup
 ---
 Track: Make it better (Ending) (BLΛNK MIX) - DJMAX RESPECT V
-Directory: make-it-better-ending-blank-mix-djmax-respect-v-archive
 Duration: '01:19'
 URLs:
 - https://kobacat.bandcamp.com/track/2018-make-it-better-ending-bl-nk-mix-djmax-respect-v
@@ -515,7 +496,6 @@ Commentary: |-
 Section: '2019'
 ---
 Track: Cool and New Animal Forest
-Directory: cool-and-new-animal-forest-archive
 Originally Released As: track:cool-and-new-animal-forest
 Duration: '01:21'
 URLs:
@@ -525,7 +505,6 @@ Commentary: |-
     Track Type: Remix
 ---
 Track: scrap.mp3
-Directory: scrap-mp3-archive
 Duration: '01:07'
 Artists:
 - artist:kobacat
@@ -539,7 +518,6 @@ Commentary: |-
     Track Type: Original
 ---
 Track: synth.mp3
-Directory: synth-mp3-archive
 Duration: '00:46'
 URLs:
 - https://kobacat.bandcamp.com/track/2019-synth-mp3
@@ -548,7 +526,6 @@ Commentary: |-
     Track Type: Original
 ---
 Track: Stabby (Alpha Version) - 9
-Directory: stabby-alpha-version-9-archive
 Duration: '02:17'
 URLs:
 - https://kobacat.bandcamp.com/track/2019-stabby-alpha-version-9
@@ -619,7 +596,6 @@ Commentary: |-
     Track Type: Mashup
 ---
 Track: New Leaf City - MapleStory
-Directory: new-leaf-city-maplestory-archive
 Duration: '02:18'
 URLs:
 - https://kobacat.bandcamp.com/track/2019-new-leaf-city-maplestory
@@ -632,7 +608,6 @@ Commentary: |-
     Track Type: Mashup
 ---
 Track: Bowman Combat
-Directory: bowman-combat-archive
 Duration: '03:17'
 URLs:
 - https://kobacat.bandcamp.com/track/2019-bowman-combat
@@ -746,7 +721,6 @@ Commentary: |-
     Track Type: Mashup
 ---
 Track: MeGaLoVania (New Remix) - Super Smash Bros. Ultimate
-Directory: megalovania-new-remix-ssbu-archive
 Duration: '02:32'
 URLs:
 - https://kobacat.bandcamp.com/track/2019-megalovania-new-remix-super-smash-bros-ultimate
@@ -763,7 +737,6 @@ Commentary: |-
 Section: '2020'
 ---
 Track: DANGANRONPA【2nd GIG】 - DANGANRONPA 2 - Goodbye Despair
-Directory: danganronpa-2nd-gig-danganronpa-2-goodbye-despair-archive
 Duration: '02:54'
 URLs:
 - https://kobacat.bandcamp.com/track/2020-danganronpa-2nd-gig-danganronpa-2-goodbye-despair
@@ -778,7 +751,6 @@ Commentary: |-
     Track Type: Mashup
 ---
 Track: Cool Morning - DANGANRONPA V3 - Killing Harmony
-Directory: cool-morning-danganronpa-v3-killing-harmony-archive
 Duration: '03:25'
 URLs:
 - https://kobacat.bandcamp.com/track/2020-cool-morning-danganronpa-v3-killing-harmony
@@ -793,7 +765,6 @@ Commentary: |-
 Section: '2021'
 ---
 Track: Twilight Rhythm
-Directory: twilight-rhythm-archive
 Originally Released As: track:twilight-rhythm
 Duration: '03:12'
 URLs:

@@ -1,4 +1,5 @@
 Album: Homestuck Vol. 8
+Directory Suffix: vol8
 Date: October 25, 2011
 Date Added: November 15, 2019
 URLs:
@@ -289,7 +290,7 @@ Commentary: |-
     First off we have Galactic Cancer.  What started off as me meandering about with slightly odd chord progressions became a rather meandering piece in general.  Originally labeled Nether, at least as the piece began to formulate, the first part quickly developed in what I hoped would be a style reminiscent of Russell Brower’s music for Outland in World of Warcraft, primarily the [Outland Suite](https://www.youtube.com/watch?v=o8rcQrqOjaM) and [Netherstorm](https://www.youtube.com/watch?v=yzCLPD9iouE) (what the first name referenced).  I completed most of the piece without drums or effects at first, but felt something was missing.  After messing around with some different bits of drum samples, I found beats that were suitable for what I was going for, and those helped give more definition to the meter of the piece as much of it was long chords that made it hard to distinguish at times, then added some occasional filter effects to increase the overall spacey feel.  After everything was in place, I listened through it multiple times and just began to imagine [Karkat’s monologue](https://www.homestuck.com/story/4003) about how everything was his fault and the phrase “Galactic Cancer” stuck.
 ---
 Track: Serenade
-Directory: serenade-vol8
+Suffix Directory: true
 Artists:
 - Clark Powell
 Duration: '5:05'
@@ -1343,7 +1344,7 @@ Commentary: |-
     <s>I have a hi-res image, but this is all I can post for now.</s>
 ---
 Track: 'null'
-Directory: null-vol8
+Suffix Directory: true
 Artists:
 - Toby Fox
 Duration: 0:09

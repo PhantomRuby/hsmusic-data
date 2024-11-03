@@ -1,4 +1,5 @@
 Album: NAMCO HIGH OFFICIAL SOUNDTRACK
+Directory Suffix: namco-high
 Has Track Numbers: false
 Color: '#ee4e9d'
 Date: December 17, 2013
@@ -29,7 +30,7 @@ Commentary: |-
     The in-game files, listed as additional names, include both .ogg and .m4a versions of each track. The digital soundtrack packages those same in-game tracks as .mp3 with proper metadata (except for track numbers).
 ---
 Track: Title Theme
-Directory: title-theme-namco-high
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - namcotheme (game filename)

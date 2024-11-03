@@ -1,5 +1,5 @@
 Album: 'GBA Pokémon Unbound: Super Music Collection'
-Directory: gba-pokemon-unbound-super-music-collection
+Directory Suffix: pokemon-unbound
 Date: March 7, 2022
 #Date Added: April 13, 2024
 URLs:
@@ -111,7 +111,7 @@ URLs:
 - https://www.youtube.com/watch?v=NMGEBU8Q_q4
 ---
 Track: Title Screen
-Directory: title-screen-pokemon-unbound
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:19'
 Artists:
@@ -227,7 +227,7 @@ Referenced Tracks:
 - track:battle-rival-pokemon-unbound
 ---
 Track: Battle! Rival
-Directory: battle-rival-pokemon-unbound
+Suffix Directory: true
 Duration: '2:14'
 Artists:
 - Blanders (composition)
@@ -247,7 +247,7 @@ Referenced Tracks:
 - Professor Log
 ---
 Track: Route 1
-Directory: route-1-pokemon-unbound
+Suffix Directory: true
 Duration: '1:03'
 Artists:
 - Blanders
@@ -256,7 +256,7 @@ URLs:
 - https://www.youtube.com/watch?v=ydOBQ4_NZnY
 ---
 Track: Battle! Wild Pokémon
-Directory: battle-wild-pokemon-pokemon-unbound
+Suffix Directory: true
 Duration: '2:27'
 Artists:
 - Pascal van den Bos
@@ -305,7 +305,7 @@ Referenced Tracks:
 - Poké Mart (Pokémon Ruby / Pokémon Sapphire)
 ---
 Track: Hurry Along
-Directory: hurry-along-pokemon-unbound
+Suffix Directory: true
 Duration: '0:33'
 Artists:
 - Humanly
@@ -324,7 +324,7 @@ URLs:
 - https://www.youtube.com/watch?v=yKYVaGYgEbk
 ---
 Track: Battle! Strong Wild Pokémon
-Directory: battle-strong-wild-pokemon-pokemon-unbound
+Suffix Directory: true
 Duration: '2:23'
 Artists:
 - NewoRGBY
@@ -352,7 +352,7 @@ URLs:
 - https://www.youtube.com/watch?v=iCLZwozvhYY
 ---
 Track: Battle! Trainer
-Directory: battle-trainer-pokemon-unbound
+Suffix Directory: true
 Duration: '3:21'
 Artists:
 - Jose "Phazonruler" Villanueva (composition)
@@ -380,7 +380,7 @@ URLs:
 - https://www.youtube.com/watch?v=XnOM-A6lX0s
 ---
 Track: Route 2
-Directory: route-2-pokemon-unbound
+Suffix Directory: true
 Duration: '0:54'
 Artists:
 - Blanders (composition & arrangement)
@@ -426,7 +426,7 @@ Referenced Tracks:
 - Pokémon Gym (Pokémon Red / Pokémon Blue)
 ---
 Track: Battle! Gym Leader
-Directory: battle-gym-leader-pokemon-unbound
+Suffix Directory: true
 Duration: '2:26'
 Artists:
 - Pascal van den Bos
@@ -445,7 +445,7 @@ Referenced Tracks:
 - Victory! (Gym Leader Battle) (Pokémon Red / Pokémon Blue)
 ---
 Track: Evolution
-Directory: evolution-pokemon-unbonud
+Suffix Directory: true
 Duration: '0:46'
 Artists:
 - NewoRGBY
@@ -466,7 +466,7 @@ Referenced Tracks:
 - Battle! Black Ferrothorn Goon
 ---
 Track: Route 3
-Directory: route-3-pokemon-unbound
+Suffix Directory: true
 Duration: '0:59'
 Artists:
 - Rowyn Berlan
@@ -602,7 +602,7 @@ URLs:
 - https://www.youtube.com/watch?v=iyGrQfz0TLY
 ---
 Track: Motorcycle
-Directory: motorcycle-pokemon-unbonud
+Suffix Directory: true
 Duration: '2:07'
 Artists:
 - Pascal van den Bos
@@ -654,7 +654,7 @@ URLs:
 - https://www.youtube.com/watch?v=C9wQ3fb7h5I
 ---
 Track: Gate
-Directory: gate-pokemon-unbonud
+Suffix Directory: true
 Duration: '1:00'
 Artists:
 - Rowyn Berlan
@@ -684,7 +684,7 @@ URLs:
 - https://www.youtube.com/watch?v=wFzBXHRkBaE
 ---
 Track: Route 8
-Directory: route-8-pokemon-unbound
+Suffix Directory: true
 Duration: '1:06'
 Artists:
 - Rowyn Berlan
@@ -774,7 +774,7 @@ Referenced Tracks:
 - Tehl Town (Solo Piano)
 ---
 Track: Underground Path
-Directory: underground-path-pokemon-unbound
+Suffix Directory: true
 Duration: '1:02'
 Artists:
 - Humanly
@@ -794,7 +794,7 @@ Referenced Tracks:
 - Beta Gym Theme
 ---
 Track: Route 11
-Directory: route-11-pokemon-unbound
+Suffix Directory: true
 Duration: '1:10'
 Artists:
 - Humanly
@@ -971,7 +971,7 @@ Referenced Tracks:
 - Pokémon Gym (Pokémon Red / Pokémon Blue)
 ---
 Track: Surf
-Directory: surf-pokemon-unbonud
+Suffix Directory: true
 Duration: '0:56'
 Artists:
 - Humanly
@@ -1178,7 +1178,7 @@ URLs:
 - https://www.youtube.com/watch?v=nHuFSXEom7k
 ---
 Track: Pokémon League
-Directory: pokemon-league-pokemon-unbound
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:30'
 Artists:
@@ -1231,7 +1231,7 @@ Referenced Tracks:
 - Bellin Town (Day)
 ---
 Track: Pokémon Center (Night)
-Directory: pokemon-center-night-pokemon-unbound
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:42'
 Artists:
@@ -1276,7 +1276,7 @@ Referenced Tracks:
 - Crater Town (Day)
 ---
 Track: Battle! Deoxys
-Directory: battle-deoxys-pokemon-unbound
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:45'
 Artists:
@@ -1327,7 +1327,7 @@ Referenced Tracks:
 - Underground Ruins
 ---
 Track: Battle! Regirock/Regice/Registeel
-Directory: battle-regirock-regice-registeel-pokemon-unbound
+Suffix Directory: true
 Duration: '1:41'
 Artists:
 - Humanly
@@ -1395,7 +1395,7 @@ Referenced Tracks:
 - Mt. Layuda
 ---
 Track: Battle! Ultra Necrozma
-Directory: battle-ultra-necrozma-pokemon-unbound
+Suffix Directory: true
 Duration: '3:07'
 Artists:
 - Pascal van den Bos
@@ -1441,7 +1441,7 @@ URLs:
 - https://www.youtube.com/watch?v=MGYzIbdaXDI
 ---
 Track: Battle! Xerneas/Yveltal
-Directory: battle-xerneas-yveltal-pokemon-unbound
+Suffix Directory: true
 Duration: '2:50'
 Artists:
 - NewoRGBY
@@ -1536,7 +1536,7 @@ Referenced Tracks:
 - The Borrius Motif
 ---
 Track: Battleground
-Directory: battleground-pokemon-unbonud
+Suffix Directory: true
 Duration: '0:54'
 Artists:
 - Caelan Kier
@@ -1548,7 +1548,7 @@ Referenced Tracks:
 - Phosphor Bronze
 ---
 Track: Dive
-Directory: dive-pokemon-unbonud
+Suffix Directory: true
 Duration: '1:29'
 Artists:
 - Caelan Kier
@@ -1705,7 +1705,7 @@ URLs:
 - https://www.youtube.com/watch?v=Xx8UAb2O0GU
 ---
 Track: Battle Frontier
-Directory: battle-frontier-pokemon-unbound
+Suffix Directory: true
 Duration: '0:51'
 Artists:
 - Pascal van den Bos
@@ -1717,7 +1717,7 @@ Referenced Tracks:
 - The Borrius Motif
 ---
 Track: Battle Tower
-Directory: battle-tower-pokemon-unbound
+Suffix Directory: true
 Duration: '1:03'
 Artists:
 - Pascal van den Bos
@@ -1840,7 +1840,7 @@ Referenced Tracks:
 - Hall of Fame (Pokémon Red / Pokémon Blue)
 ---
 Track: Staff Credits
-Directory: staff-credits-pokemon-unbound
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '5:29'
 Artists:
@@ -1859,7 +1859,7 @@ Referenced Tracks:
 - Frozen Heights (Day)
 ---
 Track: The End
-Directory: the-end-pokemon-unbound
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:49'
 Artists:
@@ -1918,7 +1918,7 @@ Referenced Tracks:
 - The Borrius Motif
 ---
 Track: Calm Before the Storm
-Directory: calm-before-the-storm-pokemon-unbound
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:24'
 Artists:

@@ -1,4 +1,5 @@
 Album: Heinoustuck Vol. 1
+Directory Suffix: heinoustuck
 Date: October 15, 2012
 Date Added: January 1, 2023
 URLs:
@@ -35,7 +36,7 @@ Commentary: |-
     I then spent a few months coming up with a bare basic plot, characters and their backstories, what they would need to overcome, what type of mood I wanted the story to have, and constructed a universe for them all to live in. After I had done all that, I began the fan adventure.
 ---
 Track: Theme
-Directory: theme-heinoustuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - HexVertigo
@@ -59,7 +60,7 @@ Art Tags:
 - 'cw: eye horror'
 ---
 Track: Asylum
-Directory: asylum-heinoustuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Nicole Feltz
@@ -122,7 +123,7 @@ Art Tags:
 - 'cw: blood'
 ---
 Track: Rooftop
-Directory: rooftop-heinoustuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - HexVertigo
@@ -169,7 +170,7 @@ Art Tags:
 - 'cw: blood'
 ---
 Track: Striving
-Directory: striving-heinoustuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - HexVertigo
@@ -183,7 +184,7 @@ Art Tags:
 - 'cw: body horror'
 ---
 Track: Nightmare
-Directory: nightmare-heinoustuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - karelianArmy
@@ -198,7 +199,7 @@ Referenced Tracks:
 - Clockwork Melody
 ---
 Track: Rainforest
-Directory: rainforest-heinoustuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Sarcastic Fringehead
@@ -216,7 +217,7 @@ Referenced Tracks:
 - Sburban Jungle
 ---
 Track: Ignition
-Directory: ignition-heinoustuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - eridamnit
@@ -233,7 +234,7 @@ Art Tags:
 - 'cw: eye horror'
 ---
 Track: Noir
-Directory: noir-heinoustuck
+Suffix Directory: true
 Artists:
 - sticler
 Duration: '02:11'

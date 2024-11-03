@@ -1,4 +1,5 @@
 Album: 'Slender: The Arrival Soundtrack'
+Directory Suffix: slender
 Artists:
 - Mark J. Hadley
 Date: March 26, 2013
@@ -26,7 +27,7 @@ URLs:
 - https://www.youtube.com/watch?v=NhDV2okAlVg
 ---
 Track: Ponder
-Directory: ponder-slender
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '0:29'
 URLs:
@@ -38,14 +39,14 @@ URLs:
 - https://www.youtube.com/watch?v=pfcSoHRAdCQ
 ---
 Track: Tainted
-Directory: tainted-slender
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 0:48
 URLs:
 - https://www.youtube.com/watch?v=vOMY2jq9h4k
 ---
 Track: Shadowed
-Directory: shadowed-slender
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:24'
 URLs:
@@ -57,35 +58,35 @@ Referenced Tracks:
 - Page 7 theme
 ---
 Track: Distance
-Directory: distance-slender
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:00'
 URLs:
 - https://www.youtube.com/watch?v=NHnyYa8doiY
 ---
 Track: Conceal
-Directory: conceal-slender
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:00'
 URLs:
 - https://www.youtube.com/watch?v=5l54zDcgC-g
 ---
 Track: Isolate
-Directory: isolate-slender
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:45'
 URLs:
 - https://www.youtube.com/watch?v=VKh67R27_No
 ---
 Track: Suspended
-Directory: suspended-slender
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:21'
 URLs:
 - https://www.youtube.com/watch?v=99FpMNJrPvs
 ---
 Track: Constricted
-Directory: constricted-slender
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:06'
 URLs:
@@ -97,21 +98,21 @@ URLs:
 - https://www.youtube.com/watch?v=sH7IZv_eeaM
 ---
 Track: Flicker
-Directory: flicker-slender
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:24'
 URLs:
 - https://www.youtube.com/watch?v=sewYudRzDEU
 ---
 Track: Corrupted
-Directory: corrupted-slender
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 0:56
 URLs:
 - https://www.youtube.com/watch?v=ji-Jm15fe2Y
 ---
 Track: Responsible
-Directory: responsible-slender
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:00'
 URLs:
@@ -131,7 +132,7 @@ Cover Artists:
 - Blue Isle Studios
 ---
 Track: Willow
-Directory: willow-slender
+Suffix Directory: true
 Always Reference By Directory: true
 Date First Released: October 15, 2014
 Artists:

@@ -1,4 +1,5 @@
 Album: The Vriska Mixt8pe
+Suffix Track Directories: true
 Date: August 8, 2019
 Date Added: April 13, 2024
 Additional Names:
@@ -25,7 +26,6 @@ Commentary: |-
 ---
 Track: Vriska's Theme
 Always Reference By Directory: true
-Directory: vriskas-theme-the-vriska-mixt8pe
 Duration: '1:43'
 Referenced Tracks:
 - Vriska's Theme
@@ -34,7 +34,6 @@ URLs:
 ---
 Track: MEGALOVANIA
 Always Reference By Directory: true
-Directory: megalovania-vriska-the-vriska-mixt8pe
 Duration: '3:00'
 Referenced Tracks:
 - track:megalovania-undertale
@@ -43,7 +42,6 @@ URLs:
 ---
 Track: Moonsetter
 Always Reference By Directory: true
-Directory: moonsetter-vriska-the-vriska-mixt8pe
 Duration: '2:24'
 Referenced Tracks:
 - Moonsetter
@@ -52,7 +50,6 @@ URLs:
 ---
 Track: Rex Duodecim Angelus
 Always Reference By Directory: true
-Directory: rex-duodecim-angelus-vriska-the-vriska-mixt8pe
 Duration: '6:29'
 Referenced Tracks:
 - Rex Duodecim Angelus
@@ -61,7 +58,6 @@ URLs:
 ---
 Track: Cobalt Thief
 Always Reference By Directory: true
-Directory: cobalt-thief-vriska-the-vriska-mixt8pe
 Duration: '2:12'
 Referenced Tracks:
 - Cobalt Thief
@@ -69,6 +65,7 @@ URLs:
 - https://funkmclovin.bandcamp.com/track/cobalt-thief
 ---
 Track: Vriska's Theme Reprise
+Suffix Directory: false
 Duration: '1:54'
 Referenced Tracks:
 - track:vriskas-theme-the-vriska-mixt8pe

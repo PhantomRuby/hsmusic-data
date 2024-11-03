@@ -1,4 +1,5 @@
 Album: '[S] Collide.'
+Directory Suffix: collide
 Date: April 6, 2016
 Date Added: November 15, 2019
 URLs:
@@ -112,7 +113,7 @@ Referenced Tracks:
 - Typheus
 ---
 Track: Heir of Grief
-Directory: heir-of-grief-collide
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Tensei

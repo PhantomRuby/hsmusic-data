@@ -1,4 +1,5 @@
 Album: Desynced Vol. 2
+Directory Suffix: desynced
 Date: June 19, 2020
 Date Added: February 12, 2021
 URLs:
@@ -205,7 +206,7 @@ Commentary: |-
     While I'm not the happiest in terms how the instrumentation came together, I'm glad it came together.
 ---
 Track: Egress
-Directory: egress-desynced
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Rainy
@@ -234,7 +235,7 @@ Commentary: |-
     I have a lot of mixed feeling towards the track, which is weird since it's the track I'm probably most known for. [[artist:dizzims|Dizzy]] asked me to make the song for the a flash that would become [[flash:evan-exit|[S]Evan: Exit]] very early on into Vol.2 Development. So I tried to make a track that was a multi faceted as something like [[Umbral Ultimatum]]. However, I felt like the track was a bit of a mess in terms of actual composition. it felt like it didn't really come together like I wanted and I was pretty bummed about it. However, when it got used in the flash, I turned my opinion around on it slightly. While it might not be my favorite song I did for vol.2, I do appreciate the experience it gave me.
 ---
 Track: Chat
-Directory: chat-desynced
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Levc
@@ -396,7 +397,7 @@ Art Tags:
 - 'cw: blood'
 ---
 Track: PSYCHO
-Directory: psycho-desynced
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Levc
@@ -471,7 +472,7 @@ Art Tags:
 - 'cw: blood (abstract)'
 ---
 Track: Puppet Master
-Directory: puppet-master-desynced
+Suffix Directory: true
 Artists:
 - Levc
 Duration: '2:07'
@@ -628,7 +629,7 @@ Referenced Tracks:
 - track:daughter-desynced
 ---
 Track: Arrival
-Directory: arrival-desynced
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Pascal van den Bos

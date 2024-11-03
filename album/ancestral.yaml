@@ -1,5 +1,4 @@
 Album: Ancestral
-Directory: ancestral
 Date: August 27, 2017
 Date Added: June 12, 2020
 URLs:
@@ -59,7 +58,8 @@ Additional Files:
 Section: Disc 1
 ---
 Track: Disc One
-Directory: disc1-ancestral
+Directory: disc1
+Suffix Directory: true
 Artists:
 - Corona Sanctus
 Duration: 0:29
@@ -345,7 +345,8 @@ Commentary: |-
 Section: Disc 2
 ---
 Track: Disc Two
-Directory: disc2-ancestral
+Directory: disc2
+Suffix Directory: true
 Artists:
 - Corona Sanctus
 Duration: 0:32
@@ -466,7 +467,7 @@ Commentary: |-
     Capturing such a profound moment proved to be somewhat challenging, balancing struggle, triumph, and condescension all in one piece. The process of creating such a proud and arrogant face of victory washed over by the shadows of an unforeseeable future was very fun, eagerly claiming the crown for her own, for better of or for worse.
 ---
 Track: Rampage
-Directory: rampage-ancestral
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Mathias Ramalho
@@ -542,7 +543,7 @@ Commentary: |-
     The Dolorosa makes the fateful decision to abandon the mother grub and care for the mutant anomaly, the Signless, setting into motion events far beyond her understanding, ones that will have far reaching consequences, even beyond her own timeline. The music begins as the ramifications of her decision quickly begin to unfold, following not just her efforst to keep the Signless safe on the surface, but the broader implications that her choice set in motion. The gears begin to turn...
 ---
 Track: Protector
-Directory: protector-ancestral
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Sean William Calhoun
@@ -751,7 +752,8 @@ Commentary: |-
     This song marks the end of the Signless' life, encapsulating what would have been his last thoughts and words. I wanted to portray the sort of emptiness that happens after he has gotten his wish, and show the mark he leaves even in death.
 ---
 Track: E%ile
-Directory: exile-ancestral
+Directory: exile
+Suffix Directory: true
 Additional Names:
 - Exile (quirk-free)
 Artists:
@@ -775,7 +777,7 @@ Commentary: |-
     This made me think of Darkleer's life in general so here he is, standing proud and doing his job, and then his slouched form bemoaning his existence after being banished.
 ---
 Track: Legacy
-Directory: legacy-ancestral
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - aeolianChemist
@@ -1127,7 +1129,7 @@ Commentary: |-
     The track made me feel like she was doing her time travel thing and wreckin crud, so here she is in some important part of history screwing everything up, getting ready to cull you if necessary 8]
 ---
 Track: Mutiny
-Directory: mutiny-ancestral
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Zan Beaver
@@ -1366,7 +1368,8 @@ Commentary: |-
 Section: Disc 3
 ---
 Track: Disc Three
-Directory: disc3-ancestral
+Directory: disc3
+Suffix Directory: true
 Artists:
 - Corona Sanctus
 Duration: 0:30
@@ -1566,7 +1569,7 @@ Commentary: |-
     I decided to focus on Darkleer struggling to reconcile his weakness towards two known criminals and how their influence forces him to question his loyalty to the Empress, as well as his role in enforcing her hemocaste system.
 ---
 Track: Leftovers
-Directory: leftovers-ancestral
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - psithurist
@@ -1613,7 +1616,7 @@ Commentary: |-
     The only time Pyralspite and Redglare are shown together in-comic they're busy raining hellfire on Mindfang's fleet, so I wanted to create a more intimate moment to showcase their relationship. A monstrous and powerful, but loving, dragon mother surrounds and protects her cocky, talented daughter with a dangerous passion for justice. I wanted it to look a bit like an aged photograph, like an old, warm memory, which is something the harpsichord made me think of. As we know, Pyralspite outlived Redglare by quite a lot.
 ---
 Track: Preach
-Directory: preach-ancestral
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Seijen

@@ -46,7 +46,7 @@ Commentary: |-
     Cover art by [[artist:cindy-dominguez]] and [[artist:andrew-hussie]]
 ---
 Track: Light
-Directory: light-medium
+Suffix Directory: true
 Duration: '5:36'
 URLs:
 - https://homestuck.bandcamp.com/track/light-4
@@ -73,7 +73,7 @@ URLs:
 - https://youtu.be/PI785pDsR88
 ---
 Track: Frost
-Directory: frost-medium
+Suffix Directory: true
 Duration: '5:54'
 URLs:
 - https://homestuck.bandcamp.com/track/frost-4

@@ -1,5 +1,6 @@
 Album: "SBURB: Funkin' Edition OST"
 Directory: sburb-funkin-edition-ost
+Directory Suffix: sburb-funkin-edition
 Date: October 18, 2023
 Date Added: October 25, 2023
 URLs:
@@ -61,7 +62,7 @@ Commentary: |-
     <img src="media/misc/sburb-funkin-edition-collage.png" width="250">
 ---
 Track: ABSCOND
-Directory: abscond-sburb-funkin-edition
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-
@@ -82,7 +83,7 @@ URLs:
 - https://soundcloud.com/rerollroxy/friday-night-funkin-sburb-funkin-edition-abscond-dave-vs-bro
 ---
 Track: gamzee
-Directory: gamzee-sburb-funkin-edition
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-

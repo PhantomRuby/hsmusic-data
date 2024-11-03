@@ -1,4 +1,5 @@
 Album: '[S] Press Play'
+Directory Suffix: press-play
 Date: January 4, 2021
 Date Added: January 1, 2023
 Additional Names:
@@ -206,7 +207,7 @@ Referenced Tracks:
 - Title (The Legend of Zelda)
 ---
 Track: Planet Healer
-Directory: planet-healer-press-play
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - awsomfaic

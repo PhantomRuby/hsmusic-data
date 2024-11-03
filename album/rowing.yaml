@@ -1,4 +1,6 @@
 Album: Rowing
+Suffix Track Directories: true
+Always Reference Tracks By Directory: true
 Artists:
 - James Dever
 Date: March 12, 2013
@@ -57,8 +59,6 @@ Commentary: |-
     The album referred to as the 'second half' of Rowing never materialized.
 ---
 Track: Adagio
-Directory: adagio-rowing
-Always Reference By Directory: true
 Duration: '4:13'
 URLs:
 - https://tylerdever.bandcamp.com/track/adagio
@@ -68,8 +68,6 @@ Commentary: |-
     Adagio is a calm etude for piano written as a commission for Alexander Pollock.
 ---
 Track: Valse
-Directory: valse-rowing
-Always Reference By Directory: true
 Duration: '5:26'
 URLs:
 - https://tylerdever.bandcamp.com/track/valse
@@ -79,8 +77,6 @@ Commentary: |-
     Valse is a duet for piano and cello.
 ---
 Track: Meadows
-Directory: meadows-rowing
-Always Reference By Directory: true
 Additional Names:
 - Our Hope is Lost (WIP name)
 Duration: '3:39'
@@ -102,8 +98,6 @@ Commentary: |-
     I hope you enjoy <b>Meadows</b>
 ---
 Track: Icarus
-Directory: icarus-rowing
-Always Reference By Directory: true
 Duration: '2:52'
 URLs:
 - https://tylerdever.bandcamp.com/track/icarus

@@ -1,5 +1,4 @@
 Album: Beforus
-Directory: beforus
 Date: April 12, 2016
 Date Added: May 25, 2020
 URLs:
@@ -52,7 +51,8 @@ Additional Files:
 Section: Disc 1
 ---
 Track: ♪ Disc 1 ♪
-Directory: disc1-beforus
+Directory: disc1
+Suffix Directory: true
 Artists:
 - Blackhole
 Duration: 0:30
@@ -424,7 +424,8 @@ Commentary: |-
 Section: Disc 2
 ---
 Track: ♫ Disc 2 ♫
-Directory: disc2-beforus
+Directory: disc2
+Suffix Directory: true
 Artists:
 - Blackhole
 Duration: 0:30
@@ -1135,7 +1136,7 @@ Commentary: |-
     I wanted to really capture Damara's pre-snap personality here. She's got orange cloth over her eyes, representing how she feels she's been blind regarding what Rufioh has been up to. Meenah's hand is holding onto her throat, yet Damara remains oddly tranquil. SHe's fighting to work through all of this no matter how much it hurts. But in the end, she can only hold on so much for so long. And that's when the expression is less peaceful, more internally dead.
 ---
 Track: Timeout
-Directory: timeout-beforus
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - psithurist
@@ -1238,7 +1239,7 @@ Commentary: |-
     I was really happy wit hthis song from when I first put on this song and heard the slow, ominous opening. I think it really captures the sense of dread and mystery that surrounds the Scratch. Though the song has a three-part structure, visually I wanted to focus on the event itself. We only briefly see this in the comic, and it's a very striking scene. It was a lot of fun to draw the gigantic music box at the center of everything, and the various lighting effects were an interesting challenge.
 ---
 Track: Voided
-Directory: voided-beforus
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Cyclostome
@@ -1636,7 +1637,8 @@ Commentary: |-
 Section: Disc 3
 ---
 Track: ♬ Disc 3 ♬
-Directory: disc3-beforus
+Directory: disc3
+Suffix Directory: true
 Artists:
 - Blackhole
 Duration: 0:30
@@ -1742,7 +1744,7 @@ Commentary: |-
     As MariEater wrote in their track commentary, the song "Tree Dwellers" was meant to be fun, simple, and silly. So for the track art I wanted to show an everyday scene in the village of the Lost Weeaboos; tree houses, trolls dressed up in cosplay, and of course fisticuffs.
 ---
 Track: Puppeteer
-Directory: puppeteer-beforus
+Suffix Directory: true
 Artists:
 - thesketchqueen
 Duration: '3:55'

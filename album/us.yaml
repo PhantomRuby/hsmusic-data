@@ -36,7 +36,7 @@ URLs:
 - https://iodbc.bandcamp.com/track/ill-green
 ---
 Track: Solace
-Directory: solace-us
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '5:04'
 URLs:

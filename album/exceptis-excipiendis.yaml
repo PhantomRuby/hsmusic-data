@@ -1,4 +1,5 @@
 Album: Exceptis Excipiendis
+Directory Suffix: kal-la-kal-la
 Artists:
 - Kal-la-kal-la
 Date: August 5, 2020
@@ -129,7 +130,7 @@ Lyrics: >-
     (with knowing eyes): What first words will be heard at that last wondrous time?
 ---
 Track: Prana Ferox
-Directory: prana-ferox-kal-la-kal-la
+Suffix Directory: true
 Duration: '3:52'
 URLs:
 - https://nasqueron.bandcamp.com/track/prana-ferox

@@ -1,4 +1,5 @@
 Album: Songs from the Planet Earth
+Directory Suffix: planet-earth
 Date: September 9, 2019
 Date Added: January 1, 2023
 URLs:
@@ -36,7 +37,7 @@ Commentary: |-
 Section: Main album
 ---
 Track: Growing Up
-Directory: growing-up-planet-earth
+Suffix Directory: true
 Artists:
 - Jordan Chin
 Duration: '2:33'
@@ -105,7 +106,7 @@ Commentary: |-
     I think maybe the way it navigates through different musical styles. I've never had an easy time editing my choices in instrumentation, but I realized that part of what I love about the original soundtrack is its diversity. There are jazz, chiptune, showtune, and trip-hop influences scattered throughout, and I thought it would be a challenge to do them all (and in under 3 minutes). In this particular case, it felt good not to have to start with any preconceptions about what genre the track needed to be.
 ---
 Track: Haven't You Noticed (I'm A Star)
-Directory: havent-you-noticed-im-a-star-planet-earth
+Suffix Directory: true
 Artists:
 - Michael Guy Bowman
 Duration: '2:42'
@@ -359,7 +360,7 @@ Lyrics: |-
     (Everything I ever did, I did for her. Now she's gone. But I'm still here. Sometimes... I wonder if she can see me. What would she think of me now?)
 ---
 Track: Pink
-Directory: pink-planet-earth
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Levc
@@ -835,7 +836,7 @@ Referenced Tracks:
 - Drift Away
 ---
 Track: Home
-Directory: home-planet-earth
+Suffix Directory: true
 Artists:
 - Veritas Unae
 Duration: '3:19'
@@ -886,7 +887,7 @@ Referenced Tracks:
 - Stronger Than You
 ---
 Track: Mistakes
-Directory: mistakes-planet-earth
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Cerulean

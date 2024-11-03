@@ -375,7 +375,7 @@ Lyrics: |-
     and I think I want to die alone
 ---
 Track: Meteors
-Directory: meteors-triassic-slump
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '7:24'
 URLs:

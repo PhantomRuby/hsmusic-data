@@ -32,7 +32,8 @@ Commentary: |-
 Section: Main album
 ---
 Track: Prelude
-Directory: prelude-pantheon
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 0:37
 URLs:
 - https://desynced.bandcamp.com/track/prelude
@@ -43,7 +44,7 @@ Referenced Tracks:
 - Divine Tapestry
 ---
 Track: Matriarch
-Directory: matriarch-pantheon
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:39'
 URLs:
@@ -61,7 +62,7 @@ Referenced Tracks:
 - track:daughter-desynced
 ---
 Track: Tyrant
-Directory: tyrant-pantheon
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '3:52'
 URLs:
@@ -75,7 +76,7 @@ Referenced Tracks:
 - Mirror Mirror
 ---
 Track: Luminary
-Directory: luminary-pantheon
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '3:30'
 URLs:
@@ -92,7 +93,7 @@ Referenced Tracks:
 - Lunar Dance
 ---
 Track: Nemesis
-Directory: nemesis-pantheon
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '3:52'
 URLs:
@@ -107,7 +108,7 @@ Referenced Tracks:
 - What was Ya'll Thinking?
 ---
 Track: Machina
-Directory: machina-pantheon
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:47'
 URLs:
@@ -217,7 +218,7 @@ Referenced Tracks:
 - What was Ya'll Thinking?
 ---
 Track: Breakdown
-Directory: breakdown-pantheon
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-

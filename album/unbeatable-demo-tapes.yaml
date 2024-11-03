@@ -1,5 +1,5 @@
 Album: 'UNBEATABLE: DEMO TAPES'
-Directory: unbeatable-demo-tapes
+Directory Suffix: unbeatable
 Artists:
 - peak divide
 Date: May 6, 2021
@@ -76,13 +76,13 @@ Lyrics: |-
     even though i do not know your name
 ---
 Track: WAITING
+Suffix Directory: true
 Contributors:
 - Andrew Cleveland (guitar solo)
 - Rachel Lake (composition, vocals)
 - Robert J! Lake (composition, arrangement, lyrics)
 - Clara Maddux (composition, arrangement, guitars, bass, drums, lyrics)
 - Vasily Nikolaev (composition, synths, mixing, mastering)
-Directory: waiting-unbeatable
 Duration: 3:59
 URLs:
 - https://peakdivide.bandcamp.com/track/waiting

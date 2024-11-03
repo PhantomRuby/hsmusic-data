@@ -135,7 +135,7 @@ Lyrics: |-
     The ones who know
 ---
 Track: Synchronize
-Directory: synchronize-hush
+Suffix Directory: true
 Duration: '3:54'
 URLs:
 - https://bowman.bandcamp.com/track/synchronize
@@ -221,7 +221,7 @@ Lyrics: |-
     All I wanna do
 ---
 Track: Tribes
-Directory: tribes-hush
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '3:51'
 URLs:
@@ -269,7 +269,7 @@ Commentary: |-
     I'm glad you guys see the value in the message stuff. I feel like outside of hip hop you don't see a lot of music with a message these days. A lot of very personal work, a lot of good grooves, but not a lot of musicians who feel like putting their worldview out there.
 ---
 Track: Redshifts
-Directory: redshifts-hush
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:36'
 URLs:
@@ -315,7 +315,7 @@ Lyrics: |-
     You'll know you're not the only one
 ---
 Track: Rage
-Directory: rage-hush
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:16'
 URLs:
@@ -518,7 +518,7 @@ Commentary: |-
     The visual piece Bowman was studying is an untitled work by Ed Moses, most likely from 1975-1977 (cross-referencing the description in his photo with [this print sale page](https://web.archive.org/web/20240427213204/https://www.printed-editions.com/artist/ed-moses/untitled-leslie-sacks-gallery-ifpda-1-27/) for a similar work).
 ---
 Track: Chameleon
-Directory: chameleon-hush
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:08'
 URLs:

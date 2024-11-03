@@ -1,4 +1,5 @@
 Album: Oceanfalls Vol. Five
+Directory Suffix: oceanfalls
 Date: May 17, 2023
 Date Added: August 18, 2023
 URLs:
@@ -98,7 +99,7 @@ Referenced Tracks:
 - Happy Birthday to You
 ---
 Track: Mayday
-Directory: mayday-oceanfalls
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - RoZ8

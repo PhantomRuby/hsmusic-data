@@ -1,5 +1,6 @@
 Album: 'coloUrs and mayhem: Universe A'
 Directory: coloUrs-and-mayhem-universe-a
+Directory Suffix: universe-a
 Date: April 2, 2012
 Date Added: November 15, 2019
 URLs:
@@ -136,7 +137,7 @@ Commentary: |-
 Section: Side 1
 ---
 Track: ~~SIDE 1~~
-Directory: side-1-universe-a
+Suffix Directory: true
 Artists:
 - Toby Fox
 Duration: 0:09
@@ -549,7 +550,7 @@ Commentary: |-
 Section: Side 2
 ---
 Track: ~~SIDE 2~~
-Directory: side-2-universe-a
+Suffix Directory: true
 Artists:
 - Toby Fox
 Duration: 0:10
@@ -850,7 +851,7 @@ Art Tags:
 Section: Additional Mayhem
 ---
 Track: ~~ADDITIONAL MAYHEM~~
-Directory: additional-mayhem-universe-a
+Suffix Directory: true
 Artists:
 - Toby Fox
 Duration: 0:17

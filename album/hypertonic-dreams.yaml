@@ -85,7 +85,8 @@ Art Tags:
 - Sly (Redditstuck)
 ---
 Track: Paperthin
-Directory: paperthin-hypertonic-dreams
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '3:36'
 URLs:
 - https://redditstuckmusic.bandcamp.com/track/paperthin
@@ -95,7 +96,8 @@ Art Tags:
 - Sunil (Redditstuck)
 ---
 Track: Reprieve
-Directory: reprieve-hypertonic-dreams
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '2:25'
 URLs:
 - https://redditstuckmusic.bandcamp.com/track/reprieve
@@ -191,7 +193,7 @@ Cover Artists:
 - Adventureflame
 ---
 Track: Ex Nihilo
-Directory: ex-nihilo-hypertonic-dreams
+Suffix Directory: true
 Duration: '2:35'
 URLs:
 - https://redditstuckmusic.bandcamp.com/track/ex-nihilo

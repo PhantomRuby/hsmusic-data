@@ -1,5 +1,5 @@
 Album: The Strider Mixtape
-Directory: the-strider-mixtape
+Directory Suffix: strider-mixtape
 Artists:
 - Pascal van den Bos
 Date: July 19, 2019
@@ -191,7 +191,7 @@ Commentary: |-
     Hey another attempt at a genre i'm unfamiliar with, i wanted to make a Synthwave track to fit with the theme of 2001: A Space Odyssey references like the title and the art for Hal. After this i actually made a full synthwave album because i liked the genre so much.
 ---
 Track: Shattered
-Directory: shattered-strider-mixtape
+Suffix Directory: true
 Duration: '2:03'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/shattered
@@ -371,7 +371,7 @@ Lyrics: |-
     (Go, go, go, go, go, go, go GameBro)
 ---
 Track: Rematch
-Directory: rematch-strider-mixtape
+Suffix Directory: true
 Duration: '2:15'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/rematch

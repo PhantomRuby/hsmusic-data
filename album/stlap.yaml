@@ -74,7 +74,8 @@ Additional Files:
 Section: Disc 1
 ---
 Track: ~~Disc 1~~
-Directory: disc1-stlap
+Directory: disc1
+Suffix Directory: true
 Artists:
 - apatheticPianist
 Duration: '0:34'
@@ -198,7 +199,6 @@ Commentary: |-
     As you've probably gathered from listening to it, this song is themed around the first five acts of Homestuck! It has a similar structure to [[track:cue-the-curtains|Cue the Curtains]], but with five parts instead of four (which is oddly appropriate, in retrospect - five parts, five acts): John, Rose, Dave and Jade, Bec Noir and Vriska's machinations that led to him, and finally the kids' ascensions and the Scratch. The title uses Vriska's quirk for two reasons: because she had a pretty big hand in the creation of Bec Noir... and also becasue she's "stealing the spotlight" from the Beta Kids. Anyways, a huge thanks to [[artist:pascal-van-den-bos|PotatoBoss]] for mastering this song, and I hope y'all enjoy it!
 ---
 Track: Me/Ga/Lo/Vania
-Directory: me-ga-lo-vania
 Artists:
 - Frost Carter
 Cover Artists:
@@ -216,7 +216,7 @@ Commentary: |-
     It's funny, you can't seem to go two steps on the internet without stumbling across a remix of [[track:megalovania-undertale|one certain song]] that shall not be named. Y'know, that [[track:megalovania-ssbu|one song]] that's associated with that [[track:sans|one character]] from that [[album:undertale-soundtrack|one game]]? Yeah, you know what I'm talking about. Well, I decided to add to the pile with this remix of [[track:megalovania-ebhh|the OG version of that song]], complete with a sound effect from that other game that probably helped inspire that first game that I mentioned. Gosh, this commentary would probably look so ridicuolous to anyone who hasn't ever been on the internet.
 ---
 Track: Hospitalized
-Directory: hospitalized-stlap
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Pascal van den Bos
@@ -265,7 +265,8 @@ Commentary: |-
 Section: Disc 2
 ---
 Track: ~~Disc 2~~
-Directory: disc2-stlap
+Directory: disc2
+Suffix Directory: true
 Artists:
 - Frost Carter
 Cover Artists:
@@ -335,7 +336,7 @@ Commentary: |-
     "Rooftop-shenanigans-with-Dirk" might as well be the title since that's what it is. I had an idea where I could make a song on FamiTracker and then master it on FL Studio, so I did! This idea turned out well, I just had to export each track on FamiTracker separately and then import them all to FL Studio and so I could just mix it as much as i wanted like some kind of evil scientist, but way less exciting...
 ---
 Track: Daydreamer
-Directory: daydreamer-stlap
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Pascal van den Bos
@@ -449,7 +450,8 @@ Commentary: |-
 Section: Disc 3
 ---
 Track: ~~Disc 3~~
-Directory: disc3-stlap
+Directory: disc3
+Suffix Directory: true
 Artists:
 - Caelan Kier
 Cover Artists:
@@ -552,7 +554,7 @@ Commentary: |-
     (Vriska ascends to god tier bluh)
 ---
 Track: Wander
-Directory: wander-stlap
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Thomas Ferkol
@@ -626,7 +628,8 @@ Commentary: |-
 Section: Disc 4
 ---
 Track: ~~Disc 4~~
-Directory: disc4-stlap
+Directory: disc4
+Suffix Directory: true
 Artists:
 - Pascal van den Bos
 Cover Artists:
@@ -710,7 +713,7 @@ Commentary: |-
     I was originally just going to play [[track:gardener|Gardener]] as a cover, but then I realised that's completely unoriginal and i remembered i can play some other random songs. So i just mixed those in and improvised some parts of Gardener and you get this! Fun fact: i had to play this like 30 times over because i kept fucking up (wow that wasn't fun at all).
 ---
 Track: Starsetter
-Directory: starsetter-stlap
+Suffix Directory: true
 Artists:
 - CALIKID
 Cover Artists:

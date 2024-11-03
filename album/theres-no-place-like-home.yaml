@@ -1,4 +1,5 @@
 Album: There's No Place Like Home
+Directory Suffix: no-place-like-home
 Artists:
 - Tee-vee
 Date: April 15, 2020
@@ -24,7 +25,7 @@ Commentary: |-
     Thanks to PotatoBoss for his feedback and help with credits checking<br>HP : [potatoboss.net](http://potatoboss.net/)<br>Twitter : [twitter.com/potatomoosik](https://twitter.com/potatomoosik)<br>Youtube : [www.youtube.com/channel/UCx8RbZLXx8lcr-yBHPEr_vA](https://www.youtube.com/channel/UCx8RbZLXx8lcr-yBHPEr_vA)<br>Bandcamp : [potatoboss.bandcamp.com](https://potatoboss.bandcamp.com/)
 ---
 Track: Confined
-Directory: confined-no-place-like-home
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:04'
 URLs:
@@ -211,7 +212,8 @@ Referenced Tracks:
 - Descend
 ---
 Track: ＭｅＧａＬｏＶａｎｉａ (cover)
-Directory: megalovania-no-place-like-home
+Directory: megalovania
+Suffix Directory: true
 Additional Names:
 - Name: MeGaLoVania (cover)
   Annotation: normalized

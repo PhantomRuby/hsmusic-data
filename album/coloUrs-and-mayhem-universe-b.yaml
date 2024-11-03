@@ -1,5 +1,6 @@
 Album: 'coloUrs and mayhem: Universe B'
 Directory: coloUrs-and-mayhem-universe-b
+Directory Suffix: universe-b
 Date: April 13, 2012
 Date Added: November 15, 2019
 URLs:
@@ -93,7 +94,7 @@ Commentary: |-
 Section: Side 1
 ---
 Track: ~~SIDE 1~~
-Directory: side-1-universe-b
+Suffix Directory: true
 Artists:
 - Toby Fox
 Duration: 0:08
@@ -254,7 +255,7 @@ Commentary: |-
 Section: Side 2
 ---
 Track: ~~SIDE 2~~
-Directory: side-2-universe-b
+Suffix Directory: true
 Artists:
 - Toby Fox
 Duration: 0:13
@@ -420,7 +421,7 @@ Commentary: |-
 Section: Additional Mayhem
 ---
 Track: ~~ADDITIONAL MAYHEM~~
-Directory: additional-mayhem-universe-b
+Suffix Directory: true
 Artists:
 - Toby Fox
 Duration: 0:18

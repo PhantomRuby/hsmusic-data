@@ -58,7 +58,7 @@ Referenced Tracks:
 - Penumbra Phantasm
 ---
 Track: Caretakers
-Directory: caretakers-aspect-clock
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:15'
 URLs:
@@ -94,7 +94,8 @@ Referenced Tracks:
 - Austin, Atlantis
 ---
 Track: Ringleader
-Directory: ringleader-aspect-clock
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '02:16'
 URLs:
 - https://actomega.bandcamp.com/track/ringleader
@@ -103,7 +104,8 @@ Referenced Tracks:
 - The Carnival
 ---
 Track: Intermission
-Directory: intermission-aspect-clock
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '02:03'
 URLs:
 - https://actomega.bandcamp.com/track/intermission
@@ -170,7 +172,7 @@ Referenced Tracks:
 - A Taste for Adventure
 ---
 Track: Penumbra Phantasm
-Directory: penumbra-phantasm-aspect-clock
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '04:13'
 URLs:

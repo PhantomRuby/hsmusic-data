@@ -89,7 +89,7 @@ URLs:
 - https://music.apple.com/album/daughter-of-drought-and-rain/1528257836?i=1528257842
 ---
 Track: Immortal
-Directory: immortal-the-sky-is-ours
+Suffix Directory: true
 Originally Released As: track:immortal-vast-error
 Always Reference By Directory: true
 Duration: '03:26'
@@ -124,7 +124,7 @@ URLs:
 - https://music.apple.com/album/the-light-left-under-trees/1528257836?i=1528258027
 ---
 Track: Nebula
-Directory: nebula-the-sky-is-ours
+Suffix Directory: true
 Originally Released As: track:nebula-vast-error
 Always Reference By Directory: true
 Duration: '05:35'
@@ -144,7 +144,7 @@ URLs:
 ---
 Track: Fly Away
 Originally Released As: track:fly-away-single
-Directory: fly-away-the-sky-is-ours
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '03:32'
 URLs:
@@ -156,14 +156,14 @@ URLs:
 Section: Bonus tracks
 ---
 Track: Dreamt
-Directory: dreamt-the-sky-is-ours
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:12'
 Referenced Tracks:
 - track:dreamt-compass
 ---
 Track: I Forgot That You Existed
-Directory: i-forgot-that-you-existed-the-sky-is-ours
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:44'
 Referenced Tracks:

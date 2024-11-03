@@ -38,7 +38,8 @@ URLs:
 - https://open.spotify.com/track/0UhtxV3zRVSMNKGzrWFNuv
 ---
 Track: Together
-Directory: together-psycholonials-ep-2
+Suffix Directory: true
+Always Reference By Directory: true
 Sampled Tracks:
 - track:someday-clark-powell
 Duration: '2:04'

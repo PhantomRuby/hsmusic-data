@@ -105,7 +105,7 @@ Referenced Tracks:
 - 'BL1ND JUST1C3 : 1NV3ST1G4T1ON !!'
 ---
 Track: Stalemate
-Directory: stalemate-play-the-rain
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Lark Mordancy

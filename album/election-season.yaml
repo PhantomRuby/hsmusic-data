@@ -1,4 +1,5 @@
 Album: Election Season
+Directory Suffix: desynced
 Date: January 10, 2021
 Date Added: February 12, 2021
 URLs:
@@ -134,7 +135,7 @@ Commentary: |-
     So I wrote this song as a sort a more general theme for the Scholars of Skaia. I've personally found the gods in desynced to be the distinguishing factor between it and homestuck. In the desynced, the Scholars are far more realized as a concept than the Denizens, so they've had my attention for a while. For the song, I want to compose a piece that you would hear you were being told the lore about Skaia and her Scholars. [The latest update](https://mspfa.com/?s=28296&p=769) at time of writing (1/10/2021) would be a good example of a place you would here it. It took pretty major influence from the song [[track:lotus|"Lotus"]] by [[artist:seth-peelle|Beatfox]] both in terms of composition and instrumentation. The song also serves as a preview of something to come but I'll talk more about that when the time comes.
 ---
 Track: Absolution
-Directory: absolution-desynced
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Spad3s
@@ -187,7 +188,7 @@ Referenced Tracks:
 - track:vexation-paradox-music-team
 ---
 Track: Embryonic
-Directory: embryonic-desynced
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - salex_r3kt
@@ -303,7 +304,6 @@ Art Tags:
 - Kate (Desynced)
 ---
 Track: Désaffectée
-Directory: desaffectee
 Artists:
 - SpilledCereals
 Duration: '3:39'
@@ -318,7 +318,7 @@ Art Tags:
 - Derse
 ---
 Track: Pokerface
-Directory: pokerface-desynced
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Levc
@@ -370,7 +370,7 @@ Commentary: |-
     So back when I wrote [[track:do-you-dream-of-electric-sheep|"Do You Dream of Electric Sheep?"]] I had this idea for a track that was a combined all of the motifs for the Derse Dreamers in Desynced (I.E Evan, Josh, [Redacted]). Seeing as this was essentially our Prospit and Derse album, I figured it might fit nicely on Election Season. If it wasn't already obvious, this track is meant to be the Desynced equivalent of Solatrus's track [[track:derse-dreamers|"Derse Dreamers."]] The song follows as fairly similar compositional style, where I have an original melody serving as a base and then throwing in leitmotifs like nuts. Something that is unique to this track is how the song changes feels. The song goes between a more typical swing feel to some thing that more akin to a break beat. This was inspired by a song that we played for Jazz ensemble that went between latin and swing feels. Honestly this might be my second favorite track compositionally after [[Antigone]] and I'm happy with how this turned out.
 ---
 Track: Gestalt
-Directory: gestalt-desynced
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Rainy

@@ -64,7 +64,7 @@ Referenced Tracks:
 Section: Bonus track
 ---
 Track: A New World
-Directory: a-new-world-reprise
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-

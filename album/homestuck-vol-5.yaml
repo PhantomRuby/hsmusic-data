@@ -1,4 +1,5 @@
 Album: Homestuck Vol. 5
+Directory Suffix: vol5
 Date: June 13, 2010
 Date Added: November 15, 2019
 URLs:
@@ -697,7 +698,7 @@ Commentary: |-
     Until next time!
 ---
 Track: Sarabande
-Directory: sarabande-vol5
+Suffix Directory: true
 Additional Names:
 - Rooftop Waltz (original name)
 Artists:
@@ -1757,7 +1758,7 @@ Art Tags:
 - LoWaS
 ---
 Track: Light
-Directory: light-vol5
+Suffix Directory: true
 Artists:
 - Erik Scheele
 Duration: '4:27'

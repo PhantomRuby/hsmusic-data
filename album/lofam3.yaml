@@ -103,7 +103,8 @@ Additional Files:
 Section: Disk 1
 ---
 Track: ˚ Disk 1 ˚
-Directory: disk1-lofam3
+Directory: disk1
+Suffix Directory: true
 Artists:
 - Veritas Unae
 Duration: 0:24
@@ -211,7 +212,7 @@ Commentary: |-
     John is the hero. (See [[track:youre-the-hero-its-you|track 19]])
 ---
 Track: confinis
-Directory: confinis-lofam3
+Suffix Directory: true
 Originally Released As: track:confinis
 Additional Names:
 - '"beside", or "adjacent to" (English)'
@@ -420,7 +421,7 @@ Commentary: |-
     no, but really, SOO GOOOOD
 ---
 Track: '720413'
-Directory: 720413-lofam3
+Suffix Directory: true
 Originally Released As: track:720413
 Duration: '3:18'
 URLs:
@@ -588,7 +589,7 @@ Commentary: |-
     Karkat furiously playing the marimba ostinato.
 ---
 Track: Medium
-Directory: medium-lofam3
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Arzenic
@@ -787,7 +788,7 @@ Commentary: |-
     This track was actually slated to be on [[album:lofam2|LOFAM 2]] originally, but got pushed back for some reason or other. This art's been around since then. Very dramatic.
 ---
 Track: Waveform
-Directory: waveform-lofam3
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - keyboard cait
@@ -1095,7 +1096,8 @@ Commentary: |-
 Section: Disk 2
 ---
 Track: ˚ Disk 2 ˚
-Directory: disk2-lofam3
+Directory: disk2
+Suffix Directory: true
 Artists:
 - Veritas Unae
 Duration: 0:11
@@ -1335,7 +1337,7 @@ Commentary: |-
     I also learnt that I can't draw psionic blasts for my life.
 ---
 Track: Dominion
-Directory: dominion-lofam3
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Thomas Ferkol
@@ -1385,7 +1387,6 @@ Commentary: |-
     Slick strut!
 ---
 Track: Tombs & Krypton
-Directory: tombs-and-krypton
 Artists:
 - Rob Little
 Duration: '2:46'
@@ -1410,7 +1411,7 @@ Commentary: |-
     I was beyond excited to get to be part of another fan album, especially to be drawing for a song connected to Dirk's planet, since he's one of my absolute favorite characters. Every kid/troll's planet reflects them and also challenges them at the same time. LOTAK is one of the more dangerous planets, with its constant raging lightning storms and the most powerful denizen at it's center, fitting for Dirk who is a determined, skilled fighter. The planet is also a contrast, a planet full of tall buildings for someone who grew up in an ocean surrounded by nothing. I really wanted to show LOTAK as an extension, or part of, Dirk himself. The song itself gives a sense of floating, or as the music artist said themselves, a very spacey feeling, so I tried to capture this as well, with the overview shot of the planet that Dirk appears to be floating over. I hope that others who look at my piece will feel I managed to picture the song well in my drawing for it.
 ---
 Track: Contention
-Directory: contention-lofam3
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Marcy Nabors
@@ -1552,7 +1553,7 @@ Commentary: |-
     I wanted to go with a simple but striking design that worked on two levels: the large diamond with the grey layers, which looks good as a thumbnail on a small ipod screen or similar, and the silhouetted shadowy type DDs that are more apparent when you view the art at full size. I'm really happy with how well it worked out!
 ---
 Track: Invertebrate
-Directory: invertebrate-lofam3
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Riki Tsuji
@@ -1594,7 +1595,7 @@ Commentary: |-
     Originally this track was intended for Parcel Mistress, but after learning more about Dirk's character I thought it fit him better. Thank you to LOFAM and all the talented musicians and artists who made this album possible!
 ---
 Track: Scabbard
-Directory: scabbard-lofam3
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Yan Rodriguez
@@ -1816,7 +1817,7 @@ Commentary: |-
     I had been wanting to make a full set of functional, repearing titles anyway for use in maybe making a simple platformer, so I decided to make use of them and create a sort of "If mspa was a game in the 16 bit era" thing. The spirtes were also an excellent opportunity to test out the sprite base I've been working on making from scratch.
 ---
 Track: Insomniac
-Directory: insomniac-lofam3
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Princey The Kid

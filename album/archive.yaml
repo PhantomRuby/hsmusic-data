@@ -1,5 +1,4 @@
 Album: Archive
-Directory: archive
 Artists:
 - Michael Guy Bowman
 Date: July 19, 2016
@@ -431,7 +430,7 @@ Commentary: |-
     Commission for Cari Garafalo, 2013
 ---
 Track: Aba Daba Honeymoon
-Directory: aba-daba-honeymoon-archive
+Suffix Directory: true
 Duration: 1:27
 URLs:
 - https://bowman.bandcamp.com/track/aba-daba-honeymoon
@@ -899,7 +898,7 @@ Commentary: |-
     Request is as follows: "Something kinda romantic or nostalgic, about stargazing with a sweetheart?"
 ---
 Track: Far Away
-Directory: far-away-archive
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 0:53
 URLs:
@@ -966,7 +965,7 @@ Commentary: |-
     Request: "I have no preference as far as topic, but something in 6/8 time would be awesome."
 ---
 Track: Bandages
-Directory: bandages-archive
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 0:46
 URLs:

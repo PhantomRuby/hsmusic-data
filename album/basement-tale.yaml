@@ -24,7 +24,7 @@ Commentary: |-
     ([Community listening stream w/ chat](https://www.youtube.com/watch?v=UbUTs-9XMC4&t=385))
 ---
 Track: In the Beginning
-Directory: in-the-beginning-basement-tale
+Suffix Directory: true
 Additional Names:
 - Proto-CONTACT (alternative name)
 Cover Artists:
@@ -88,7 +88,7 @@ Commentary: |-
     Very loosely based on Undertale's [[track:anticipation]]
 ---
 Track: Fragments
-Directory: fragments-basement-tale
+Suffix Directory: true
 Always Reference By Directory: true
 Cover Artists:
 - artist:avocado-canmt

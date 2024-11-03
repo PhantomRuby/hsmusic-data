@@ -1,4 +1,5 @@
 Album: Perfectly Generic Album
+Directory Suffix: pga
 Date: November 10, 2019
 Date Added: May 25, 2020
 Additional Names:
@@ -149,7 +150,7 @@ Commentary: |-
     *(Continued in [[track:thought-and-flow-pga]])*
 ---
 Track: Thought and Flow
-Directory: thought-and-flow-pga
+Suffix Directory: true
 Additional Names:
 - thought and flow ([YouTube](https://www.youtube.com/watch?v=3vE59Fdjdh4))
 Duration: '3:46'
@@ -231,7 +232,7 @@ Commentary: |-
 Section: Removed in 2022 release
 ---
 Track: Gaster's Theme
-Directory: gasters-theme-pga
+Suffix Directory: true
 Duration: '3:53'
 URLs:
 - https://www.youtube.com/watch?v=JK5G79GcSAg

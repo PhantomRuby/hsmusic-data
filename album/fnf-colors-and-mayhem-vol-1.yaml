@@ -1,5 +1,6 @@
 Album: 'FNF: COLORS & MAYHEM Vol. 1'
 Directory: fnf-colors-and-mayhem-vol-1
+Directory Suffix: colors-mayhem-vol-1
 Date: October 25, 2023
 Date Added: April 13, 2024
 Additional Names:
@@ -248,6 +249,8 @@ Commentary: |-
     This is actually my 4th attempt at making a Vriska song for FNFCM. [[media:misc/archive/Amen 8r8k (first iteration).flac|The first iteration]] was called Amen 8r8k so you can imagine how that sounded like. I think a lot of times i just repurposed old unreleased songs and try to shove vriska in it. [[media:misc/archive/Luck8r8ker (second iteration).flac|The second iteration]] was called Luck8r8ker but again it was just vriska voice slapped on an instrumental of a remix of [Abjure](https://youtu.be/eK0hKrURCIc) from Sburban Showtime
 ---
 Track: '%mound'
+Directory: crossmound
+Suffix Directory: true
 Additional Names:
 - Name: >-
     %mound (Crossmound)
@@ -258,7 +261,6 @@ Additional Names:
   Annotation: >-
     [Spotify](https://open.spotify.com/track/7Jn2PZ59EdTb0N0M16r6kG),
     [Apple Music](https://music.apple.com/album/strong-bound/1713842340?i=1713842351)
-Directory: crossmound-colors-mayhem-vol-1
 Color: '#487aef'
 Duration: '2:09'
 Referenced Tracks:
@@ -275,7 +277,7 @@ Commentary: |-
     There IS a reason this song's name is so inconsistant between releases and thats cause of Equius's typing quirk. i couldn't put % on spotify so i had to change it to STRONG bound instead of %(Cross)mound. The song was def based on sigmachad shit i heard on tiktok. so all that phonk shit and whatever genre Deku The -Ilante videos were. this song actually shares the same chord progression as [[track:meowrail|meowrail]]
 ---
 Track: mIrAcLeS
-Directory: miracles-colors-mayhem-vol-1
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-
@@ -328,7 +330,8 @@ Commentary: |-
     if im being honest this is my least favorite only cause it was a pain to sample crappy 2013 mobile phone quality voice clips to a pitchable format. so eridan's voice sounds kinda gnaggly. But i dig the inst. if i had the chance i would definately make it feel for rounded out. I was originally gonna call this song 'Troll Fascist' because Eridan being hemophobic and all and to constrant the song [[track:troll-fashion|'Troll Fashion']] but i prioritzed the quirk and plus ehhhhh yea yk yea
 ---
 Track: --Ec)(obo
-Directory: echobo-colors-mayhem-vol-1
+Directory: echobo
+Suffix Directory: true
 Additional Names:
 - Name: >-
     -- Ec)(obo (Echobo)
@@ -411,7 +414,7 @@ Commentary: |-
     this song imo doesn't hold up as well as i think it could. the bass is fire tho and it was my first ever use of MODO Bass VST after the Ample Bass plugin kept doing the weird sound glitch (iykyk). and no the [Bad Romance](https://youtu.be/qrO4YZeyl0I) motif was not intentional. First song i had to push my voice acting skills for cause i couldn't afford to get voice actors to say my super specififc lines with many retakes so i learned how to enhance my range.
 ---
 Track: Beckoning
-Directory: beckoning-colors-mayhem-vol-1
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:23'
 Contributors:
@@ -467,7 +470,7 @@ Commentary: |-
     I was reading the epilogues and was shocked at how heated Jade was to karkat and found it funny that he bit her in the en. bam adaptation. short ass song tho
 ---
 Track: Grimdark
-Directory: grimdark-colors-mayhem-vol-1
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:36'
 Referenced Tracks:
@@ -483,7 +486,7 @@ Commentary: |-
     One day i was listening to [Impatience](https://youtu.be/LFPjMRvZsU0) from Funkscop and i was like 'i wanna song like this in C&M' and i thought about a fight song between grimdark rose and jack noir. I know if this show us, it should have the husnasty artstyle.
 ---
 Track: Grimbark
-Directory: grimbark-colors-mayhem-vol-1
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:49'
 Referenced Tracks:
@@ -520,7 +523,7 @@ Commentary: |-
     The [[track:megalovania-ebhh|Megalovania]] reference listed is actually the Megalovania melody played in reverse.
 ---
 Track: Omnicient
-Directory: omnicient-colors-mayhem-vol-1
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:21'
 Referenced Tracks:
@@ -536,7 +539,7 @@ Commentary: |-
     One day me and some friends were on a discord call and he had his voicemod vocoder on and it started vocoding his air conditioner. we joked about sampling it to a song and i did. and then i ended up making a Doc Scratch song ft. Damara. Damara's voice is just sampled from Jolyne since thats my headcanon and all :333. the song was gonna have Andrew Hussie in it but i think i just had to put something out so i did. if i were to make something with this again i'd add in the hussie voices
 ---
 Track: Collide
-Directory: collide-colors-mayhem-vol-1
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-

@@ -21,8 +21,8 @@ Commentary: |-
     you stop beig dabe ultramegamix just in time 2 be a young gril's albun in the bed room; but you canot be her albun until she has the name. lets's see if it is indeed the ROZE ALBUN by cerulean
 ---
 Track: Intro
+Suffix Directory: true
 Always Reference By Directory: true
-Directory: intro-descent-into-madness
 Cover Artists:
 - Cool and New Web Comic
 Art Tags:
@@ -131,7 +131,8 @@ Referenced Tracks:
 - Terezi's Theme
 ---
 Track: Chill
-Directory: chill-descent-into-madness
+Suffix Directory: true
+Always Reference By Directory: true
 Cover Artists:
 - Cerulean
 Duration: '01:32'

@@ -1,5 +1,6 @@
 Album: Sburbmon Original Soundtrack
 Directory: sburbmon-ost
+Directory Suffix: sburbmon
 Date: October 10, 2019
 Date Added: June 12, 2024
 URLs:
@@ -64,7 +65,7 @@ Commentary: |-
 Section: Main album
 ---
 Track: Title Screen
-Directory: title-screen-sburbmon
+Suffix Directory: true
 Additional Names:
 - Title Screen [Sburban Jungle] (download filename)
 Duration: '0:56'
@@ -299,7 +300,7 @@ MIDI Project Files:
   - 'Center of Brilliance - Twix Stix.mid'
 ---
 Track: Skaianet
-Directory: skaianet-sburbmon
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Skaianet [Skaianet]
@@ -446,7 +447,7 @@ MIDI Project Files:
 Section: Bonus track
 ---
 Track: Music Box
-Directory: music-box-sburbmon
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '0:07'
 Referenced Tracks:

@@ -94,7 +94,8 @@ Track Art File Extension: png
 Section: Disk 1
 ---
 Track: •~DISK 1~•
-Directory: disk1-lofam2
+Directory: disk1
+Suffix Directory: true
 Artists:
 - Veritas Unae
 Duration: 0:31
@@ -246,7 +247,7 @@ Commentary: |-
     *"EUUUUUUUUNGH," GROANS THE ABDUCTEE MOOSE AS IT RISES.*
 ---
 Track: Rectify
-Directory: rectify-lofam2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Thomas Ibarra
@@ -800,7 +801,7 @@ Commentary: |-
     I have been listening to Horizon's renditions of Homestuck music with her lyrics for a while now, and Flare has always been my favorite one she did. I hoped I could make a picture that represents the feeling of closeness beween the four kids in getting through the game that I feel in the words she wrote.
 ---
 Track: Sports
-Directory: sports-lofam2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Jamie Paige
@@ -1033,7 +1034,7 @@ Commentary: |-
     [[Doctor]], [[track:showtime-original-mix|Showtime]], [[track:beatdown-strider-style|Beatdown]], [[Pumpkin Cravings]], [[Chorale for Jaspers]], [[track:bl1nd-just1c3-1nv3st1g4t1on|BL1ND JUST1C3]], [[Atomyk Ebonpyre]], [[Horschestra]], [[track:MeGaLoVania]], [[Spider's Claw]], [[track:walk-stab-walk-r-and-e|Walk-Stab-Walk]], [[Liquid Negrocity]].
 ---
 Track: Irradiated
-Directory: irradiated-lofam2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Thomas Ibarra
@@ -1163,7 +1164,7 @@ Commentary: |-
     <small>#lune draws things once every blue moon #lune is still terrible at commentary but that's okay?</small>
 ---
 Track: Sburban Genesis
-Directory: sburban-genesis-lofam2
+Suffix Directory: true
 Originally Released As: track:sburban-genesis
 Duration: '4:00'
 URLs:
@@ -1236,7 +1237,7 @@ Commentary: |-
     <center><i><big>BNORKEL</big></i></center>
 ---
 Track: Four
-Directory: four-lofam2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Trent West
@@ -1285,7 +1286,8 @@ Commentary: |-
 Section: Disk 2
 ---
 Track: •~Disk 2~•
-Directory: disk2-lofam2
+Directory: disk2
+Suffix Directory: true
 Artists:
 - Veritas Unae
 Duration: 0:20
@@ -1561,7 +1563,7 @@ Commentary: |-
     - 10:53 - [[track:at-the-price-of-oblivion|At the Price of Oblivion]] - [[artist:malcolm-brown]]
 ---
 Track: Trapped
-Directory: trapped-lofam2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Yan Rodriguez
@@ -1873,7 +1875,7 @@ Commentary: |-
     Initially a [[track:frost-vol6]] remix but it became something else. The square-wave arpeggio that you hear is probably the only thing that is now reminiscent of that remix. It was because of the harp that this grew into something different. I actually composed this while the composition was playing. I would listen to the notes I had composed, and I would just place new notes where I think they would work while listening. Somehow, everything just seemed to fit together - the violins, the synths, the percussion - everything just worked. The structure of this composition just flowed. I'm pretty sure this is one of my best pieces so far.
 ---
 Track: Red Miles
-Directory: red-miles-lofam2
+Suffix Directory: true
 Artists:
 - David Dycus
 Duration: '2:25'
@@ -2044,7 +2046,7 @@ Commentary: |-
     I initially had no idea what I was going to do for this song. I skimmed through the tracks and noticed this one by Willow Ascenzo (who did some of my favorites on [[album:coloUrs-and-mayhem-universe-a]] like [[Teal Hunter]] and [[Violet Mariner]]), and I was instantly sold probably because of my love for pipe organs. Anyway, for a lack of better inspiration, I used the description left on soundcloud - "Final battle with Lord English." Tie that to Aranea's mentioning that Jake was destined to beat Lord English, and I had my inspiration. The lineart took much longer than it should have since my tablet had been freaking out and I haven't gotten the new one yet, but the coloring went quite smoothly.
 ---
 Track: Gangsta
-Directory: gangsta-lofam2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - The Basco Brothers
@@ -2138,7 +2140,7 @@ Commentary: |-
     Also, towards the end, please imagine Jake doing that thing where he jumps in the air shooting both pistols at once.
 ---
 Track: Showtime (Svix Mix)
-Directory: showtime-svix-mix-lofam2
+Suffix Directory: true
 Artists:
 - Svix
 Duration: '2:51'
@@ -2372,7 +2374,7 @@ Commentary: |-
     TG: and i would always watch myself try to do something different to dodge the trap but i always ended up dead</code>
 ---
 Track: Prophecy
-Directory: prophecy-lofam2
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - David Dycus

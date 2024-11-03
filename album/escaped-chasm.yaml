@@ -24,7 +24,7 @@ Groups:
 - Beyond
 ---
 Track: Title
-Directory: title-escaped-chasm
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Toby Fox
@@ -36,7 +36,7 @@ Commentary: |-
      The title for this track is an improvised version based on the file name, the original file name is "title_Toby"
 ---
 Track: House
-Directory: house-escaped-chasm
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:48'
 URLs:
@@ -94,7 +94,7 @@ Commentary: |-
      The title for this track is an improvised version based on the file name, the original file name is "temmie_demonman_last2"
 ---
 Track: Secret
-Directory: secret-escaped-chasm
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:05'
 URLs:

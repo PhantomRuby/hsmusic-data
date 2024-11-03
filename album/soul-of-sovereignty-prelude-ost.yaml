@@ -1,4 +1,5 @@
 Album: Soul of Sovereignty Prelude OST
+Directory Suffix: soul-of-sovereignty
 Date: January 15, 2024
 Date Added: April 13, 2024
 URLs:
@@ -79,7 +80,7 @@ Commentary: |-
     those are the biggest points i can think of! it was such a joy working together on this soundtrack and i’m looking forward to more.
 ---
 Track: Prelude
-Directory: prelude-soul-of-sovereignty
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '00:56'
 Artists:
@@ -88,7 +89,7 @@ URLs:
 - https://gigidigi.bandcamp.com/track/prelude
 ---
 Track: Whisper
-Directory: whisper-soul-of-sovereignty
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:38'
 Artists:
@@ -113,7 +114,7 @@ URLs:
 - https://gigidigi.bandcamp.com/track/small-theme-for-a-sad-girl
 ---
 Track: Snowfall
-Directory: snowfall-soul-of-sovereignty
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:52'
 URLs:
@@ -124,7 +125,7 @@ Commentary: |-
     the general direction we went in with [for the album] was “ps1 rpg,” but i ended up taking a lot of influence from ffxi in my own compositions (“snowfall” in particular.)
 ---
 Track: Unease
-Directory: unease-soul-of-sovereignty
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '00:19'
 Artists:
@@ -172,7 +173,7 @@ URLs:
 - https://gigidigi.bandcamp.com/track/frenzied-rite-pt-2
 ---
 Track: Sunflowers
-Directory: sunflowers-soul-of-sovereignty
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:15'
 Artists:

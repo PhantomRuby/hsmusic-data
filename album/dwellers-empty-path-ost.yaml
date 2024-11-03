@@ -1,4 +1,5 @@
 Album: Dweller's Empty Path OST
+Directory Suffix: dwellers-empty-path
 Date: July 10, 2020
 Date Added: April 13, 2024
 URLs:
@@ -178,7 +179,7 @@ URLs:
 - https://open.spotify.com/track/6jT977770CDDwwyoxM4wls
 ---
 Track: Underground Path
-Directory: underground-path-dwellers-empty-path
+Suffix Directory: true
 Duration: '02:24'
 Referenced Tracks:
 - Leaves Fill The Path
@@ -266,7 +267,7 @@ URLs:
 - https://open.spotify.com/track/38sxnZHif13WONhbFunvfh
 ---
 Track: Nightmare
-Directory: nightmare-dwellers-empty-path
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '00:39'
 Artists:

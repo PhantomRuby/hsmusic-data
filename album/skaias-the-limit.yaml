@@ -1,4 +1,5 @@
 Album: SKAIA'S THE LIMIT
+Directory Suffix: sahcon
 Date: July 16, 2022
 Date Added: January 1, 2023
 Additional Names:
@@ -18,7 +19,7 @@ Groups:
 - Fandom
 ---
 Track: Beatdown
-Directory: beatdown-sahcon
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:43'
 Artists:
@@ -61,7 +62,7 @@ Commentary: |-
     lyrics: i forgot to write them down. they don't make sense on purpose. don't worry about it lmao
 ---
 Track: Paradox Space
-Directory: paradox-space-sahcon
+Suffix Directory: true
 Duration: '5:02'
 Artists:
 - Levc
@@ -166,7 +167,7 @@ Commentary: |-
     Joey song! I feel like my homegirl is underrapresented. Based on [[artist:erik-scheele|Jit's]] great [[track:joey-play-haunting-melody]] from [[album:lofam5]], I wanted to see if I could reimagine it as a more traditional [[album:homestuck-vol-1-4]] style kid theme of sorts. Alas, I could not come up with a clever 8 letter title, but we can't always get what we want.
 ---
 Track: Megalovania SUPER LUCKY Edition
-Directory: megalovania-super-lucky-edition-sahcon
+Suffix Directory: true
 Originally Released As: track:megalovania-super-lucky-edition
 Duration: '2:32'
 URLs:
@@ -177,7 +178,7 @@ Commentary: |-
 ---
 Track: The World as We Know It
 Originally Released As: track:the-world-as-we-know-it
-Directory: the-world-as-we-know-it-sahcon
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '3:09'
 URLs:
@@ -187,7 +188,7 @@ Commentary: |-
     I was thinking about Earth B before the game began. I composed this track in 2018, hence the old productionless piano soundfont style.
 ---
 Track: I'm A Member of the Midnight Crew
-Directory: im-a-member-of-the-midnight-crew-sahcon
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:18'
 Artists:
@@ -243,7 +244,7 @@ Commentary: |-
     Wanted to finish a postpunk song about Jade Harley but time didn't allow for it so instead here's an arrangement of the midnight crew that was cobbled together in the last 48 hours.
 ---
 Track: Hot Pink Denial
-Directory: hot-pink-denial-sahcon
+Suffix Directory: true
 Duration: '2:03'
 Artists:
 - articulatelyComposed

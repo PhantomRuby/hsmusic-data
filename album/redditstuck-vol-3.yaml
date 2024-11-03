@@ -1,5 +1,6 @@
 Album: 'Redditstuck Vol. 3: Small Medium at Large'
 Directory: redditstuck-vol-3
+Directory Suffix: redditstuck
 Date: August 15, 2017
 Date Added: June 12, 2024
 URLs:
@@ -353,7 +354,7 @@ Commentary: |-
     Ypsilanti: I think Lazic just pulled the art out of his ass based vaguely on Kal's liner notes, but you can think of it as inspired by LORAS
 ---
 Track: Hubris
-Directory: hubris-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Gordian
@@ -381,7 +382,7 @@ Commentary: |-
     unironic ironic trap drums
 ---
 Track: Robot
-Directory: robot-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Gordian
@@ -443,7 +444,7 @@ Commentary: |-
     Basically just references.
 ---
 Track: Bygone
-Directory: bygone-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Bin
@@ -538,7 +539,7 @@ Commentary: |-
     <span style="font-family: Comic Sans MS, cursive">Old horsograph</span>
 ---
 Track: Wanderlust
-Directory: wanderlust-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-

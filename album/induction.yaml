@@ -35,7 +35,6 @@ Commentary: |-
 Section: Main album
 ---
 Track: Induction
-Directory: induction
 Originally Released As: Havoc
 Duration: '2:30'
 URLs:
@@ -46,7 +45,6 @@ Commentary:
     Originally appeared as [[track:havoc|'Havoc']] on [[album:homestuck-vol-8|Homestuck Volume 8]]
 ---
 Track: My Hibernation
-Directory: my-hibernation
 Duration: '3:32'
 URLs:
 - https://svix.bandcamp.com/track/my-hibernation-2
@@ -71,7 +69,7 @@ Lyrics: |-
     You're gaining momentum
 ---
 Track: Verisimilitude
-Directory: verisimilitude-induction
+Suffix Directory: true
 Duration: '5:18'
 URLs:
 - https://svix.bandcamp.com/track/verisimilitude-2
@@ -112,7 +110,6 @@ Lyrics: |-
     Heed my entrance
 ---
 Track: It Really Doesn't Matter
-Directory: it-really-doesnt-matter
 Duration: '5:39'
 URLs:
 - https://svix.bandcamp.com/track/it-really-doesnt-matter-2
@@ -142,7 +139,8 @@ Lyrics: |-
     Look at you you're falling
 ---
 Track: Goodbye
-Directory: goodbye-induction
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '4:02'
 URLs:
 - https://svix.bandcamp.com/track/goodbye-2
@@ -233,13 +231,13 @@ Lyrics: |-
     until your hand just slipped right through mine
 ---
 Track: Wistful
-Directory: wistful-induction
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '3:42'
 URLs:
 - https://svix.bandcamp.com/track/wistful-2
 ---
 Track: You Fade Away
-Directory: you-fade-away
 Duration: '3:39'
 URLs:
 - https://svix.bandcamp.com/track/you-fade-away-2
@@ -281,7 +279,6 @@ Lyrics: |-
     I'd think it so but the marks you left upon me
 ---
 Track: Shake Your Tail
-Directory: shake-your-tail
 Duration: '3:50'
 URLs:
 - https://svix.bandcamp.com/track/shake-your-tail-2
@@ -298,7 +295,6 @@ URLs:
 - https://svix.bandcamp.com/track/fire-forget-2
 ---
 Track: The Fox Cub
-Directory: the-fox-cub
 Duration: '2:56'
 URLs:
 - https://svix.bandcamp.com/track/the-fox-cub-2
@@ -306,7 +302,7 @@ URLs:
 Section: Download-only track
 ---
 Track: Fin
-Directory: fin-induction
+Suffix Directory: true
 Duration: '4:33'
 URLs:
 - https://www.youtube.com/watch?v=8UFXoZfWagQ
@@ -329,7 +325,6 @@ Commentary: |-
 Section: Remixes
 ---
 Track: Verisimilitude (Glaze Remix)
-Directory: verisimilitude-glaze-remix
 Artists:
 - Glaze
 - WoodenToaster
@@ -341,7 +336,6 @@ Referenced Tracks:
 - track:verisimilitude-induction
 ---
 Track: You Fade Away (Sanxion7 Remix)
-Directory: you-fade-away-sanxion7-remix
 Artists:
 - Sanxion7
 Duration: '2:58'
@@ -351,7 +345,6 @@ Referenced Tracks:
 - track:you-fade-away
 ---
 Track: Goodbye (Metawulf Remix)
-Directory: goodbye-metawulf-remix
 Artists:
 - Metawulf
 Duration: '4:17'

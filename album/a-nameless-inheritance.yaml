@@ -21,7 +21,7 @@ Commentary: |-
 Section: Main album
 ---
 Track: Legacy
-Directory: legacy-a-nameless-inheritance
+Suffix Directory: true
 Duration: '1:44'
 URLs:
 - https://parsecproductions.bandcamp.com/track/legacy
@@ -32,42 +32,42 @@ URLs:
 - https://parsecproductions.bandcamp.com/track/eerie-wind
 ---
 Track: Exploratory
-Directory: exploratory-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '4:30'
 URLs:
 - https://parsecproductions.bandcamp.com/track/exploratory
 ---
 Track: Execute
-Directory: execute-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:14'
 URLs:
 - https://parsecproductions.bandcamp.com/track/execute
 ---
 Track: Abandoned
-Directory: abandoned-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:00'
 URLs:
 - https://parsecproductions.bandcamp.com/track/abandoned
 ---
 Track: Enclosure
-Directory: enclosure-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:24'
 URLs:
 - https://parsecproductions.bandcamp.com/track/enclosure
 ---
 Track: Heart Attack
-Directory: heart-attack-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:12'
 URLs:
 - https://parsecproductions.bandcamp.com/track/heart-attack
 ---
 Track: Horrify
-Directory: horrify-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:20'
 URLs:
@@ -79,21 +79,21 @@ URLs:
 - https://parsecproductions.bandcamp.com/track/exauguration
 ---
 Track: Exterminate
-Directory: exterminate-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:12'
 URLs:
 - https://parsecproductions.bandcamp.com/track/exterminate
 ---
 Track: Outbreak
-Directory: outbreak-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:20'
 URLs:
 - https://parsecproductions.bandcamp.com/track/outbreak
 ---
 Track: Lurk
-Directory: lurk-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:32'
 URLs:
@@ -105,28 +105,28 @@ URLs:
 - https://parsecproductions.bandcamp.com/track/delurk
 ---
 Track: Terrify
-Directory: terrify-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:20'
 URLs:
 - https://parsecproductions.bandcamp.com/track/terrify
 ---
 Track: Undisturbed
-Directory: undisturbed-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:30'
 URLs:
 - https://parsecproductions.bandcamp.com/track/undisturbed
 ---
 Track: Ritual
-Directory: ritual-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:31'
 URLs:
 - https://parsecproductions.bandcamp.com/track/ritual
 ---
 Track: Doomed
-Directory: doomed-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:49'
 URLs:
@@ -147,7 +147,7 @@ Referenced Tracks:
 - track:legacy-a-nameless-inheritance
 ---
 Track: Heritage
-Directory: heritage-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:27'
 URLs:
@@ -158,6 +158,6 @@ Referenced Tracks:
 Section: Bonus tracks
 ---
 Track: Bequest
-Directory: bequest-a-nameless-inheritance
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:28'

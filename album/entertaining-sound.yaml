@@ -49,7 +49,7 @@ Commentary: |-
     toby fox (the undertale guy) wrote a rock opera about mpreg once
 ---
 Track: Super Dry Dance
-Directory: super-dry-dance-entertaining-sound
+Suffix Directory: true
 Duration: '2:33'
 URLs:
 - https://conlangcritic.bandcamp.com/track/super-dry-dance-2
@@ -68,7 +68,7 @@ Commentary: |-
     böpgil by sapaa is better than any song on this album, including this one
 ---
 Track: Griffin Space Jam
-Directory: griffin-space-jam-entertaining-sound
+Suffix Directory: true
 Duration: '1:05'
 URLs:
 - https://conlangcritic.bandcamp.com/track/griffin-space-jam
@@ -133,7 +133,7 @@ Commentary: |-
     based on a true story
 ---
 Track: body
-Directory: body-entertaining-sound
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:10'
 URLs:
@@ -286,7 +286,7 @@ Commentary: |-
     left hand remix plays in the left ear and right hand remix plays in the right ear
 ---
 Track: A Song About a Circle Constant
-Directory: a-song-about-a-circle-constant-entertaining-sound
+Suffix Directory: true
 Duration: '2:40'
 URLs:
 - https://conlangcritic.bandcamp.com/track/a-song-about-a-circle-constant

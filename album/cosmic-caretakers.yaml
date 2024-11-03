@@ -70,7 +70,8 @@ Additional Files:
 Section: Disc 1
 ---
 Track: Disc 1
-Directory: disc1-cosmic-caretakers
+Directory: disc1
+Suffix Directory: true
 Artists:
 - psithurist
 Duration: '1:06'
@@ -86,7 +87,7 @@ Commentary: |-
     this was done pretty quick, its a simple concept that didnt take much doing. the thing i like most is probably the scratch lightning, ive been drawing a lot of lightning recently.
 ---
 Track: Egbert's Kitchen
-Directory: egberts-kitchen-cosmic-caretakers
+Suffix Directory: true
 Originally Released As: track:egberts-kitchen
 Duration: '3:01'
 URLs:
@@ -406,7 +407,8 @@ Commentary: |-
 Section: Disc 2
 ---
 Track: Disc 2
-Directory: disc2-cosmic-caretakers
+Directory: disc2
+Suffix Directory: true
 Artists:
 - psithurist
 Duration: 0:53
@@ -497,7 +499,7 @@ Commentary: |-
     Polypolyphemus is an intense track, so it's fitting for its art to capture the same intensity. Sollux's Biclops is captured right before its imminent demise as the troll's Mind Honey-induced flip out rips through the ceiling of his hive and surrounds the lusus in a multi-colored beam of energy. The meteors illuminating the night sky further illustrate the carnage present in the scene in a fashion that pops up time and time again in Homestuck proper. If only one of those meteors could break the chain around the Biclops' leg and set it free! Wait, the resulting impact would probably just kill the Biclops anyway. Never mind, that was a stupid idea.
 ---
 Track: Rangoon
-Directory: rangoon-cosmic-caretakers
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - WHATISLOSTINTHEMINES
@@ -732,7 +734,7 @@ Commentary: |-
     \*The sound of a camera flash can be audibly heard over the music.\* Yep. That one's going in my Pietà compilation. But really, is there a more appropriate parallel to make? Probably not. The parable of the Sufferer is full of religious iconography by design, which I guess means that Earth based the Bible off of it, and not the other way around? I don't know. I'll leave that commentary for Hussie, when he (doesn't) get around to it. As a side note, I love the "halos" surrounding the Dolorosa and the Sufferer here. Good stuff.
 ---
 Track: The Puppet Master
-Directory: the-puppet-master-cosmic-caretakers
+Suffix Directory: true
 Artists:
 - SplitSuns
 Duration: '4:10'
@@ -761,7 +763,8 @@ Commentary: |-
 Section: Disc 3
 ---
 Track: Disc 3
-Directory: disc3-cosmic-caretakers
+Directory: disc3
+Suffix Directory: true
 Artists:
 - psithurist
 Duration: 0:27
@@ -802,7 +805,7 @@ Commentary: |-
     It's hard being a single mom when you are a teenage boy. At least Caliborn is sitting still for once.
 ---
 Track: Singularity
-Directory: singularity-cosmic-caretakers
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - keyboard cait

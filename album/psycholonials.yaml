@@ -1,4 +1,5 @@
 Album: Psycholonials
+Suffix Track Directories: true
 Artists:
 - Clark Powell
 Date: April 20, 2021 12:00:01
@@ -45,7 +46,6 @@ Commentary: |-
 Section: From EP 1
 ---
 Track: Summer That Never Was
-Directory: summer-that-never-was-psycholonials
 Originally Released As: Star I Never Caught
 Duration: '3:50'
 URLs:
@@ -55,7 +55,6 @@ URLs:
 - https://music.apple.com/album/summer-that-never-was/1573061072?i=1573061216
 ---
 Track: Morning Ritual
-Directory: morning-ritual-psycholonials
 Originally Released As: Puzzle I Never Solved
 Duration: '2:47'
 URLs:
@@ -65,7 +64,6 @@ URLs:
 - https://music.apple.com/album/morning-ritual/1573061072?i=1573061244
 ---
 Track: What's Wasting Me
-Directory: whats-wasting-me-psycholonials
 Originally Released As: track:whats-wasting-me
 Duration: '2:35'
 URLs:
@@ -77,7 +75,6 @@ URLs:
 Section: From EP 2
 ---
 Track: The Cold Hand
-Directory: the-cold-hand-psycholonials
 Originally Released As: Sigh I Never Breathed
 Duration: '2:21'
 URLs:
@@ -87,7 +84,6 @@ URLs:
 - https://music.apple.com/album/the-cold-hand/1573061072?i=1573061249
 ---
 Track: Together
-Directory: together-psycholonials
 Originally Released As: track:together-psycholonials-ep-2
 Duration: '2:04'
 URLs:
@@ -97,7 +93,6 @@ URLs:
 - https://music.apple.com/album/together/1573061072?i=1573061250
 ---
 Track: The Influencer
-Directory: the-influencer-psycholonials
 Originally Released As: Woman I Never Met
 Duration: '2:26'
 URLs:
@@ -107,7 +102,6 @@ URLs:
 - https://music.apple.com/album/the-influencer/1573061072?i=1573061251
 ---
 Track: Just Dreams
-Directory: just-dreams-psycholonials
 Originally Released As: People I Never Knew
 Duration: '3:10'
 URLs:
@@ -117,7 +111,6 @@ URLs:
 - https://music.apple.com/album/just-dreams/1573061072?i=1573061252
 ---
 Track: I Have Some Ideas
-Directory: i-have-some-ideas-psycholonials
 Originally Released As: track:i-have-some-ideas
 Duration: '4:10'
 URLs:
@@ -129,7 +122,6 @@ URLs:
 Section: From EP 3
 ---
 Track: Time Is Helpless
-Directory: time-is-helpless-psycholonials
 Originally Released As: track:requiem-labyrinths-heart
 Duration: '4:36'
 URLs:
@@ -139,7 +131,6 @@ URLs:
 - https://music.apple.com/album/time-is-helpless/1573061072?i=1573061440
 ---
 Track: Through The Play
-Directory: through-the-play-psycholonials
 Originally Released As: track:pleas-labyrinths-heart
 Duration: '3:13'
 URLs:
@@ -149,7 +140,6 @@ URLs:
 - https://music.apple.com/album/through-the-play/1573061072?i=1573061441
 ---
 Track: Just Almost
-Directory: just-almost-psycholonials
 Originally Released As: Song I Never Played
 Duration: '1:37'
 URLs:
@@ -161,7 +151,6 @@ URLs:
 Section: From EP 4
 ---
 Track: Outlaw
-Directory: outlaw-psycholonials
 Originally Released As: track:outlaw-psycholonials-ep-4
 Duration: '3:57'
 URLs:
@@ -171,7 +160,6 @@ URLs:
 - https://music.apple.com/album/outlaw/1573061072?i=1573061464
 ---
 Track: A Screaming Inside
-Directory: a-screaming-inside-psycholonials
 Originally Released As: Dante
 Duration: '2:14'
 URLs:
@@ -181,7 +169,6 @@ URLs:
 - https://music.apple.com/album/a-screaming-inside/1573061072?i=1573061526
 ---
 Track: Breakthroughs
-Directory: breakthroughs-psycholonials
 Originally Released As: track:breakthroughs-psycholonials-ep-4
 Duration: '2:14'
 URLs:
@@ -191,7 +178,6 @@ URLs:
 - https://music.apple.com/album/breakthroughs/1573061072?i=1573061529
 ---
 Track: Nervous Energy
-Directory: nervous-energy-psycholonials
 Originally Released As: A Romance of Protons and Neutrons
 Duration: '4:28'
 URLs:
@@ -201,7 +187,6 @@ URLs:
 - https://music.apple.com/album/nervous-energy/1573061072?i=1573061541
 ---
 Track: Now And Forever
-Directory: now-and-forever-psycholonials
 Originally Released As: track:now-and-forever
 Duration: '3:59'
 URLs:
@@ -213,7 +198,6 @@ URLs:
 Section: From EP 5
 ---
 Track: In The Works
-Directory: in-the-works-psycholonials
 Originally Released As: track:in-the-works
 Duration: '4:22'
 URLs:
@@ -223,7 +207,6 @@ URLs:
 - https://music.apple.com/album/in-the-works/1573061072?i=1573061547
 ---
 Track: Ephemeral Muse
-Directory: ephemeral-muse-psycholonials
 Originally Released As: track:harrigan-we-are-all-satellites
 Duration: '4:46'
 URLs:
@@ -233,7 +216,6 @@ URLs:
 - https://music.apple.com/album/ephemeral-muse/1573061072?i=1573061549
 ---
 Track: Blood On Their Hands
-Directory: blood-on-their-hands-psycholonials
 Originally Released As: track:blood-on-their-hands
 Duration: '2:46'
 URLs:
@@ -245,7 +227,6 @@ URLs:
 Section: From EP 6
 ---
 Track: The Administrator
-Directory: the-administrator-psycholonials
 Originally Released As: Cruel Ulysses
 Duration: '2:21'
 URLs:
@@ -255,7 +236,6 @@ URLs:
 - https://music.apple.com/album/the-administrator/1573061072?i=1573061552
 ---
 Track: Means Of Conquest
-Directory: means-of-conquest-psycholonials
 Originally Released As: Country I Never Saw
 Duration: '3:55'
 URLs:
@@ -265,7 +245,6 @@ URLs:
 - https://music.apple.com/album/means-of-conquest/1573061072?i=1573061553
 ---
 Track: Twelve Clown Salute
-Directory: twelve-clown-salute-psycholonials
 Originally Released As: track:twelve-clown-salute
 Duration: '2:19'
 URLs:
@@ -277,7 +256,6 @@ URLs:
 Section: From EP 7
 ---
 Track: The March
-Directory: the-march-psycholonials
 Originally Released As: track:the-march
 Duration: '2:46'
 URLs:
@@ -287,7 +265,6 @@ URLs:
 - https://music.apple.com/album/the-march/1573061072?i=1573061767
 ---
 Track: Such A Shame
-Directory: such-a-shame-psycholonials
 Originally Released As: track:miranda-we-are-all-satellites
 Duration: '3:25'
 URLs:
@@ -297,7 +274,6 @@ URLs:
 - https://music.apple.com/album/such-a-shame/1573061072?i=1573061768
 ---
 Track: Break This
-Directory: break-this-psycholonials
 Originally Released As: track:break-this
 Duration: '1:21'
 URLs:
@@ -309,7 +285,6 @@ URLs:
 Section: From EP 8
 ---
 Track: In The Loop
-Directory: in-the-loop-psycholonials
 Originally Released As: track:in-the-loop
 Duration: '2:38'
 URLs:
@@ -319,7 +294,6 @@ URLs:
 - https://music.apple.com/album/in-the-loop/1573061072?i=1573061772
 ---
 Track: 'Flare: Insurrection Remix'
-Directory: flare-insurrection-remix-psycholonials
 Originally Released As: track:flare-insurrection-remix
 Duration: '4:08'
 URLs:
@@ -329,7 +303,6 @@ URLs:
 - https://music.apple.com/album/flare-insurrection-remix/1573061072?i=1573061775
 ---
 Track: 'Summer That Never Was: Firebrand Remix'
-Directory: summer-that-never-was-firebrand-remix-psycholonials
 Originally Released As: track:summer-that-never-was-firebrand-remix
 Duration: '3:55'
 URLs:
@@ -341,7 +314,6 @@ URLs:
 Section: From EP 9
 ---
 Track: Fix This
-Directory: fix-this-psycholonials
 Originally Released As: track:fix-this
 Duration: '1:54'
 URLs:
@@ -351,7 +323,6 @@ URLs:
 - https://music.apple.com/album/fix-this/1573061072?i=1573061782
 ---
 Track: Edge Of Dawn
-Directory: edge-of-dawn-psycholonials
 Originally Released As: track:edge-of-dawn
 Duration: '4:33'
 URLs:
@@ -361,7 +332,6 @@ URLs:
 - https://music.apple.com/album/edge-of-dawn/1573061072?i=1573061784
 ---
 Track: Threshold
-Directory: threshold-psycholonials
 Originally Released As: track:threshold-psycholonials-ep-9
 Duration: '1:47'
 URLs:
@@ -371,7 +341,6 @@ URLs:
 - https://music.apple.com/album/threshold/1573061072?i=1573061790
 ---
 Track: We Were Right About Everything
-Directory: we-were-right-about-everything-psycholonials
 Originally Released As: track:lunatic-we-are-all-satellites
 Duration: '5:51'
 URLs:
@@ -381,7 +350,6 @@ URLs:
 - https://music.apple.com/album/we-were-right-about-everything/1573061072?i=1573061791
 ---
 Track: Feeling I Can't Shake
-Directory: feeling-i-cant-shake-psycholonials
 Originally Released As: track:feeling-i-cant-shake
 Duration: '2:26'
 URLs:
@@ -391,7 +359,6 @@ URLs:
 - https://music.apple.com/album/feeling-i-cant-shake/1573061072?i=1573061793
 ---
 Track: Zhen
-Directory: zhen-psycholonials
 Originally Released As: track:zhen
 Duration: '2:42'
 URLs:
@@ -401,7 +368,6 @@ URLs:
 - https://music.apple.com/album/zhen/1573061072?i=1573062096
 ---
 Track: The Successor
-Directory: the-successor-psycholonials
 Originally Released As: track:forgotten-labyrinths-heart
 Duration: '4:22'
 URLs:
@@ -411,7 +377,6 @@ URLs:
 - https://music.apple.com/album/the-successor/1573061072?i=1573062100
 ---
 Track: Love Song
-Directory: love-song-psycholonials
 Originally Released As: track:love-song
 Duration: '3:54'
 URLs:
@@ -421,7 +386,6 @@ URLs:
 - https://music.apple.com/album/love-song/1573061072?i=1573062101
 ---
 Track: 'Ephemeral Muse: Final Remix'
-Directory: ephemeral-muse-final-remix-psycholonials
 Originally Released As: track:ephemeral-muse-final-remix
 Duration: '4:08'
 URLs:
@@ -433,6 +397,7 @@ URLs:
 Section: Bonus tracks
 ---
 Track: 'Together: Vocal Remix'
+Suffix Directory: false
 Duration: '2:56'
 Sampled Tracks:
 - track:together-psycholonials-ep-2

@@ -1,5 +1,6 @@
 Album: DELTARUNE Chapter 2 OST
 Directory: deltarune-ch2-ost
+Directory Suffix: deltarune
 Artists:
 - Toby Fox
 Date: September 17, 2021
@@ -61,7 +62,7 @@ URLs:
 - https://open.spotify.com/track/2rZU9qk1HWqWrKA7BKOWyy
 ---
 Track: Queen
-Directory: queen-deltarune
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 0:56
 URLs:
@@ -427,7 +428,7 @@ Referenced Tracks:
 - The Circus
 ---
 Track: sans.
-Directory: sans-deltarune-ch2
+Directory: sans-ch2
 Originally Released As: track:sans
 Duration: 0:50
 URLs:

@@ -1,5 +1,7 @@
 Album: Super Smash Bros. Ultimate
 Directory: super-smash-bros-ultimate
+Directory Suffix: ssbu
+Suffix Track Directories: true # Many tracks have custom directories, too.
 Date: December 7, 2018
 Date Added: April 13, 2024
 URLs:
@@ -25,6 +27,7 @@ Commentary: |-
 Section: Super Smash Bros.
 ---
 Track: Lifelight (JP)
+Suffix Directory: false
 # JP: ロウラル城
 # No official release
 Artists:
@@ -77,6 +80,7 @@ Lyrics: |-
     hateshi naku tsudzuite ku doko ma demo nagare yuku hikari (<i>Continue endlessly, light which flows everywhere</i>)
 ---
 Track: Lifelight
+Suffix Directory: false
 # No official release
 Artists:
 - Super Smash Bros.
@@ -158,7 +162,6 @@ Artists:
 - Super Smash Bros.
 - Junichi Nakatsuru
 Duration: '2:47'
-Directory: menu-ssbu
 URLs:
 - https://www.youtube.com/watch?v=o0eCgMjA8vo
 Referenced Tracks:
@@ -169,7 +172,6 @@ Artists:
 - Super Smash Bros.
 - Junichi Nakatsuru
 Duration: 2:44
-Directory: battlefield-ssbu
 URLs:
 - https://www.youtube.com/watch?v=nW5bQ39Ldp8
 Referenced Tracks:
@@ -180,7 +182,6 @@ Artists:
 - Super Smash Bros.
 - Yu Sugimoto
 Duration: '2:44'
-Directory: final-destination-ssbu
 URLs:
 - https://www.youtube.com/watch?v=Mo0WvygPNBg
 Referenced Tracks:
@@ -191,13 +192,13 @@ Artists:
 - Super Smash Bros.
 - Yoshihito Yano
 Duration: '3:04'
-Directory: mob-smash-ssbu
 URLs:
 - https://www.youtube.com/watch?v=EOY9qPkzAdU
 Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: 'Classic Mode: Mural'
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Yusuke Yamauchi
@@ -208,6 +209,7 @@ Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: 'Classic Mode: Defeat'
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Torine
@@ -218,6 +220,7 @@ Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: 'Classic Mode: Final Results'
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Rio Hamamoto
@@ -228,6 +231,7 @@ Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: 'Classic Mode: Bonus Stage'
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Takafumi Sato
@@ -242,7 +246,6 @@ Artists:
 - Super Smash Bros.
 - LindaAI-CUE
 Duration: '1:58'
-Directory: master-hand-ssbu
 URLs:
 - https://www.youtube.com/watch?v=Jvic6UnRIpY
 Referenced Tracks:
@@ -253,13 +256,13 @@ Artists:
 - Super Smash Bros.
 - LindaAI-CUE
 Duration: '1:57'
-Directory: crazy-hand-ssbu
 URLs:
 - https://www.youtube.com/watch?v=jt1oKLoYP-U
 Referenced Tracks:
 - Master Hand / Crazy Hand
 ---
 Track: Master Hand / Crazy Hand
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - LindaAI-CUE
@@ -270,6 +273,7 @@ Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: 'The Light Realm: Prologue'
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Torine
@@ -280,6 +284,7 @@ Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: 'The Light Realm: March'
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Torine
@@ -290,6 +295,7 @@ Referenced Tracks:
 - 'The Light Realm: Prologue'
 ---
 Track: 'The Light Realm: Base'
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Yusuke Yamauchi
@@ -298,6 +304,7 @@ URLs:
 - https://www.youtube.com/watch?v=66FQpcsKhdU
 ---
 Track: The Dark Realm
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Rio Hamamoto
@@ -308,6 +315,7 @@ Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: 'The Dark Realm: The Mysterious Space'
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Yoshinori Hirai
@@ -316,6 +324,7 @@ URLs:
 - https://www.youtube.com/watch?v=vBsjwX-XV4s
 ---
 Track: The Final Battle
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Rio Hamamoto
@@ -324,6 +333,7 @@ URLs:
 - https://www.youtube.com/watch?v=kfiDr7opPQk
 ---
 Track: 'The Final Battle: After the Transformation'
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Rio Hamamoto
@@ -334,6 +344,7 @@ Referenced Tracks:
 - The Final Battle
 ---
 Track: Galeem
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Keisuke Ito
@@ -344,6 +355,7 @@ Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: Dharkon
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Keisuke Ito
@@ -354,6 +366,7 @@ Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: Galeem / Dharkon
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Hideki Sakamoto
@@ -364,17 +377,19 @@ Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: Main Theme Piano Solo
+Directory: main-theme-ssbu-piano-solo
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Hideki Sakamoto
 Duration: '3:16'
-Directory: main-theme-ssbu-piano-solo
 URLs:
 - https://www.youtube.com/watch?v=QqZdtRF4aK0
 Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: Free the Spirit!
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Yusuke Kudo
@@ -385,6 +400,7 @@ Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: 'Spirits: Collection'
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Yoshinori Hirai
@@ -395,6 +411,7 @@ Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: 'Spirits: Inventory/Items'
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Yusuke Yamauchi
@@ -405,6 +422,7 @@ Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: 'Tourney: Battle List'
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Yusuke Yamauchi
@@ -415,6 +433,7 @@ Referenced Tracks:
 - track:ssbu-main-theme-e3-version
 ---
 Track: 'Tourney: Winner Announcement'
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Katsuro Tajima
@@ -429,7 +448,6 @@ Artists:
 - Super Smash Bros.
 - Takafumi Sato
 Duration: '2:43'
-Directory: training-ssbu
 URLs:
 - https://www.youtube.com/watch?v=92cqx2F3bCU
 Referenced Tracks:
@@ -440,7 +458,6 @@ Artists:
 - Super Smash Bros.
 - Yoshinori Kawamoto
 Duration: '1:51'
-Directory: vault-ssbu
 URLs:
 - https://www.youtube.com/watch?v=rPEvVj7oEBw
 Referenced Tracks:
@@ -451,7 +468,6 @@ Artists:
 - Super Smash Bros.
 - Yoshinori Kawamoto
 Duration: '1:04'
-Directory: shop-ssbu
 URLs:
 - https://www.youtube.com/watch?v=wukiddYeTXw
 Referenced Tracks:
@@ -462,7 +478,6 @@ Artists:
 - Super Smash Bros.
 - Yu Sugimoto
 Duration: '1:09'
-Directory: practice-fights-ssbu
 URLs:
 - https://www.youtube.com/watch?v=Nw_QIDI4SEM
 Referenced Tracks:
@@ -475,13 +490,12 @@ Artists:
 Duration: '1:00'
 URLs:
 - https://www.youtube.com/watch?v=wkznOlJfX8I
-Directory: spectate-ssbu
 ---
 Track: How to Play - Super Smash Bros. Melee
+Directory: how-to-play # suffixed
 Artists:
 - Super Smash Bros.
 - Motoi Sakuraba
-Directory: how-to-play-ssbu
 Duration: '2:31'
 URLs:
 - https://www.youtube.com/watch?v=MqgGdSI_QEY
@@ -489,11 +503,12 @@ Referenced Tracks:
 - track:how-to-play-melee
 ---
 Track: Super Smash Bros. Ultimate Main Theme (E3 2018 version)
+Directory: ssbu-main-theme-e3-version
+Suffix Directory: false
 Artists:
 - Super Smash Bros.
 - Hideki Sakamoto
 Duration: '3:04'
-Directory: ssbu-main-theme-e3-version
 URLs:
 - https://www.youtube.com/watch?v=envO76P5uFA
 Commentary: |-
@@ -504,22 +519,22 @@ Section: Mario
 Color: '#f21213'
 ---
 Track: Ground Theme - Super Mario Bros 2.
+Directory: ground-theme-smb2
 Artists:
 - Super Mario
 - Keiichi Okabe
 Duration: '2:43'
-Directory: ground-theme-smb2-ssbu
 URLs:
 - https://www.youtube.com/watch?v=BKEyzDtOwu4
 Referenced Tracks:
 - track:ground-theme-smb2
 ---
 Track: Ground Theme - Super Mario Bros 3.
+Directory: ground-theme-smb3
 Artists:
 - Super Mario
 - Masafumi Takada
 Duration: '2:36'
-Directory: ground-theme-smb3-ssbu
 URLs:
 - https://www.youtube.com/watch?v=Hqme62D8JaI
 Referenced Tracks:
@@ -528,11 +543,11 @@ Referenced Tracks:
 - track:world-1-smb3
 ---
 Track: Fortress Boss - Super Mario Bros. 3
+Directory: fortress-boss-smb3
 Artists:
 - Super Mario
 - Akihiro Honda
 Duration: '2:37'
-Directory: fortress-boss-smb3-ssbu
 URLs:
 - https://www.youtube.com/watch?v=iItEloWT8_c
 Referenced Tracks:
@@ -541,11 +556,11 @@ Referenced Tracks:
 - track:world-8-smb3
 ---
 Track: King Bowser - Super Mario Bros 3.
+Directory: king-bowser-smb3
 Artists:
 - Super Mario
 - Koji Kondo
 Duration: '2:27'
-Directory: king-bowser-smb3-ssbu
 URLs:
 - https://www.youtube.com/watch?v=xe8X5Qt6ZJQ
 Referenced Tracks:
@@ -557,7 +572,6 @@ Artists:
 - Super Mario
 - Noriyuki Iwadare
 Duration: '2:39'
-Directory: delfino-plaza-ssbu
 URLs:
 - https://www.youtube.com/watch?v=TTxC-DJlrSE
 Referenced Tracks:
@@ -568,7 +582,6 @@ Artists:
 - Super Mario
 - Maasa Miyoshi
 Duration: '2:39'
-Directory: main-theme-luigis-mansion-ssbu
 URLs:
 - https://www.youtube.com/watch?v=OrJqaO_4kEY
 Referenced Tracks:
@@ -581,6 +594,7 @@ Section: Donkey Kong
 Color: '#c46327'
 ---
 Track: Donkey Kong / Donkey Kong Jr. Medley
+Suffix Directory: false
 Artists:
 - Donkey Kong
 - Yusuke Takahama
@@ -602,6 +616,7 @@ Referenced Tracks:
 - Level 4 Clear (All Clear!) (Donkey Kong Jr.)
 ---
 Track: The Map Page / Bonus Level
+Suffix Directory: false
 Artists:
 - Donkey Kong
 - Hiroshi Yamaguchi
@@ -617,7 +632,6 @@ Artists:
 - Donkey Kong
 - Kumi Tanioka
 Duration: '2:04'
-Directory: snakey-chantey-ssbu
 URLs:
 - https://www.youtube.com/watch?v=SbFIq256Pao
 Referenced Tracks:
@@ -629,7 +643,6 @@ Artists:
 - Donkey Kong
 - artist:ace-tomori-kudo-chico
 Duration: '2:42'
-Directory: gang-plank-galleon-ssbu
 URLs:
 - https://www.youtube.com/watch?v=Y_jlo952yP0
 Referenced Tracks:
@@ -640,7 +653,6 @@ Artists:
 - Donkey Kong
 - Soshi Abe
 Duration: '2:23'
-Directory: crocodile-cacophony-ssbu
 URLs:
 - https://www.youtube.com/watch?v=J2skbG1WHXw
 Referenced Tracks:
@@ -655,7 +667,6 @@ Artists:
 - The Legend of Zelda
 - Akihiro Honda
 Duration: '2:43'
-Directory: death-mountain-ssbu
 URLs:
 - https://www.youtube.com/watch?v=5dJUlJ5MqiQ
 Referenced Tracks:
@@ -674,7 +685,6 @@ Contributors: # https://twitter.com/shotakageyama/status/1072403314137071617
 - Hiroaki Tsutsumi (electric guitar)
 - Akio Noguchi (tin whistle)
 Duration: '2:59'
-Directory: termina-field-ssbu
 URLs:
 - https://www.youtube.com/watch?v=yQFfBPUFhTo
 Referenced Tracks:
@@ -685,7 +695,6 @@ Artists:
 - The Legend of Zelda
 - Kumi Tanioka
 Duration: '2:27'
-Directory: molgera-ssbu
 URLs:
 - https://www.youtube.com/watch?v=5mv5LhnEFIo
 Referenced Tracks:
@@ -696,7 +705,6 @@ Artists:
 - The Legend of Zelda
 - Hideaki Kobayashi
 Duration: '3:02'
-Directory: midnas-lament-ssbu
 URLs:
 - https://www.youtube.com/watch?v=WTutDmXbzJE
 Referenced Tracks:
@@ -707,11 +715,11 @@ Referenced Tracks:
 - The whole new world ##The main theme of the Phantasy Star Online games, og which Hideaki Kobayashi is the composer. Kobayashi's Midna's Lament remix includes a quick nod to the song before the loop.
 ---
 Track: 'Main Theme - The Legend of Zelda: Tri Force Heroes'
+Directory: main-theme-tri-force-heroes
 Artists:
 - The Legend of Zelda
 - Manami Kiyota
 Duration: '2:33'
-Directory: main-theme-tri-force-heroes-ssbu
 URLs:
 - https://www.youtube.com/watch?v=1i6lFWnuZTo
 Referenced Tracks:
@@ -722,7 +730,6 @@ Artists:
 - The Legend of Zelda
 - Ryo Nagamatsu
 Duration: '2:47'
-Directory: nintendo-switch-presentation-2017-trailer-bgm-ssbu
 URLs:
 - https://www.youtube.com/watch?v=i4STlqB_AAw
 Referenced Tracks:
@@ -730,11 +737,11 @@ Referenced Tracks:
 - 'Main Theme (The Legend of Zelda: Breath of the Wild)'
 ---
 Track: 'Main Theme - The Legend of Zelda: Breath of the Wild'
+Directory: main-theme-botw
 Artists:
 - The Legend of Zelda
 - Yoshino Aoki
 Duration: '2:16'
-Directory: main-theme-botw-ssbu
 URLs:
 - https://www.youtube.com/watch?v=0F-soqQ5Ero
 Referenced Tracks:
@@ -745,7 +752,6 @@ Artists:
 - The Legend of Zelda
 - Yoko Shimomura
 Duration: '1:46'
-Directory: kasss-theme-ssbu
 URLs:
 - https://www.youtube.com/watch?v=nq6jS2-XDeA
 Referenced Tracks:
@@ -759,7 +765,6 @@ Artists:
 - Metroid
 - Yasushi Asada
 Duration: '2:24'
-Directory: brinstar-depths-ssbu
 URLs:
 - https://www.youtube.com/watch?v=yadudv62LvA
 Referenced Tracks:
@@ -770,7 +775,6 @@ Artists:
 - Metroid
 - Yusuke Takahama
 Duration: '2:44'
-Directory: vs-ridley-ssbu
 URLs:
 - https://www.youtube.com/watch?v=olT8zrRJdYI
 Referenced Tracks:
@@ -782,7 +786,6 @@ Artists:
 - Metroid
 - Motoi Sakuraba
 Duration: '2:31'
-Directory: vs-parasite-queen-ssbu
 URLs:
 - https://www.youtube.com/watch?v=OC_ZpiycKvQ
 Referenced Tracks:
@@ -798,7 +801,6 @@ Artists:
 Contributors: #https://twitter.com/shotakageyama/status/1072403474313302017
 - Hiroaki Tsutsumi (acoustic guitar)
 Duration: '2:45'
-Directory: main-theme-yoshis-new-island-ssbu
 URLs:
 - https://www.youtube.com/watch?v=xR05rGtF9Iw
 Referenced Tracks:
@@ -812,7 +814,6 @@ Artists:
 - Kirby
 - MASAKI
 Duration: '2:09'
-Directory: staff-credit-kirbys-dream-land-ssbu
 URLs:
 - https://www.youtube.com/watch?v=GAHVF4Lj0jE
 Referenced Tracks:
@@ -824,7 +825,6 @@ Artists:
 - Kirby
 - Noriyuki Iwadare
 Duration: '2:30'
-Directory: city-trial-ssbu
 URLs:
 - https://www.youtube.com/watch?v=wy2MpyEN9yU
 Referenced Tracks:
@@ -838,7 +838,6 @@ Artists:
 - Pokémon
 - Soshi Abe
 Duration: '2:12'
-Directory: battle-steven-ssbu
 URLs:
 - https://www.youtube.com/watch?v=1aUFtRYt_aM
 Referenced Tracks:
@@ -852,7 +851,6 @@ Contributors: #https://twitter.com/shotakageyama/status/1072402796341792768
 - Kon Shirasu (violin)
 - Hiroaki Tsutsumi (electric guitar)
 Duration: '2:37'
-Directory: battle-lorekeeper-zinnia-ssbu
 URLs:
 - https://www.youtube.com/watch?v=QYP0-a9OswA
 Referenced Tracks:
@@ -863,7 +861,6 @@ Artists:
 - Pokémon
 - Hiroyuki Kawada
 Duration: '2:14'
-Directory: battle-wild-pokemon-sun-pokemon-moon-ssbu
 URLs:
 - https://www.youtube.com/watch?v=U1w7E4y7jNM
 Referenced Tracks:
@@ -875,7 +872,6 @@ Artists:
 - Pokémon
 - Yasushi Asada
 Duration: '2:17'
-Directory: battle-trainer-pokemon-sun-pokemon-moon-ssbu
 URLs:
 - https://www.youtube.com/watch?v=Ss_H-Wej4S4
 Referenced Tracks:
@@ -886,7 +882,6 @@ Artists:
 - Pokémon
 - Yasuaki Iwata
 Duration: '2:07'
-Directory: battle-island-kahuna-ssbu
 URLs:
 - https://www.youtube.com/watch?v=yxYB3Wo9QR8
 Referenced Tracks:
@@ -897,13 +892,13 @@ Artists:
 - Pokémon
 - Manami Kiyota
 Duration: '2:59'
-Directory: battle-gladion-ssbu
 URLs:
 - https://www.youtube.com/watch?v=3oq85Ivd0XY
 Referenced Tracks:
 - track:battle-gladion
 ---
 Track: Battle! (Elite Four) / Battle! (Solgaleo / Lunala)
+Suffix Directory: false
 Artists:
 - Pokémon
 - Akihiro Honda
@@ -921,7 +916,6 @@ Artists:
 Contributors: #https://twitter.com/shotakageyama/status/1072402954710323200
 - Hiroaki Tsutsumi (electric guitar)
 Duration: '2:52'
-Directory: the-battle-at-the-summit-ssbu
 URLs:
 - https://www.youtube.com/watch?v=szrgNdQ-iqQ
 Referenced Tracks:
@@ -935,7 +929,6 @@ Artists:
 - F-ZERO
 - Takeshi Kuramochi
 Duration: '2:20'
-Directory: big-blue-ssbu
 URLs:
 - https://www.youtube.com/watch?v=XTYHopsf5gM
 Referenced Tracks:
@@ -946,13 +939,13 @@ Artists:
 - F-ZERO
 - Hirokazu Tanaka
 Duration: '2:12'
-Directory: sand-ocean-ssbu
 URLs:
 - https://www.youtube.com/watch?v=KMcW4wza4mA
 Referenced Tracks:
 - track:sand-ocean
 ---
 Track: F-ZERO Medley
+Suffix Directory: false
 Artists:
 - F-ZERO
 - Takenobu Mitsuyoshi
@@ -1015,7 +1008,6 @@ Artists:
 - Mother
 - Motoi Sakuraba
 Duration: '2:32'
-Directory: magicant-ssbu
 URLs:
 - https://www.youtube.com/watch?v=Uz7yQxyIEIg
 Referenced Tracks:
@@ -1026,7 +1018,6 @@ Artists:
 - Mother
 - Motoi Sakuraba
 Duration: '2:31'
-Directory: fourside-ssbu
 URLs:
 - https://www.youtube.com/watch?v=gz3Q4IzJWjk
 Referenced Tracks:
@@ -1041,7 +1032,6 @@ Artists:
 - Fire Emblem
 - Hideki Sakamoto
 Duration: '2:37'
-Directory: fire-emblem-theme-heroic-origins-ssbu
 URLs:
 - https://www.youtube.com/watch?v=D-QqAKovpXM
 Referenced Tracks:
@@ -1052,7 +1042,6 @@ Artists:
 - Fire Emblem
 - Takeshi Kuramochi
 Duration: '2:28'
-Directory: under-this-banner-ssbu
 URLs:
 - https://www.youtube.com/watch?v=4r7LS9SBWc0
 Referenced Tracks:
@@ -1063,7 +1052,6 @@ Artists:
 - Fire Emblem
 - Takeshi Kuramochi
 Duration: '2:14'
-Directory: advance-ssbu
 URLs:
 - https://www.youtube.com/watch?v=549qOP2kkxE
 Referenced Tracks:
@@ -1074,7 +1062,6 @@ Artists:
 - Fire Emblem
 - Yuka Tsujiyoko
 Duration: '2:53'
-Directory: edge-of-adversity-ssbu
 URLs:
 - https://www.youtube.com/watch?v=6ccVAz7vwJs
 Referenced Tracks:
@@ -1085,7 +1072,6 @@ Artists:
 - Fire Emblem
 - Takeshi Kuramochi
 Duration: '2:11'
-Directory: beyond-distant-skies-roys-departure-ssbu
 URLs:
 - https://www.youtube.com/watch?v=oj2tZwzIchE
 Referenced Tracks:
@@ -1096,7 +1082,6 @@ Artists:
 - Fire Emblem
 - Tetsuya Shibata
 Duration: '2:30'
-Directory: prelude-ablaze-ssbu
 URLs:
 - https://www.youtube.com/watch?v=PEsuxxISlNw
 Referenced Tracks:
@@ -1107,7 +1092,6 @@ Artists:
 - Fire Emblem
 - Akihiro Honda
 Duration: '2:37'
-Directory: destiny-ablaze-ssbu
 URLs:
 - https://www.youtube.com/watch?v=_n1pniBZdFg
 Referenced Tracks:
@@ -1118,7 +1102,6 @@ Artists:
 - Fire Emblem
 - Takeshi Kuramochi
 Duration: '2:23'
-Directory: id-purpose-ssbu
 URLs:
 - https://www.youtube.com/watch?v=nbyl2-Jesfo
 Referenced Tracks:
@@ -1129,7 +1112,6 @@ Artists:
 - Fire Emblem
 - Masato Coda
 Duration: '2:41'
-Directory: lost-in-thoughts-all-alone-ssbu
 URLs:
 - https://www.youtube.com/watch?v=keIopiUtkHs
 Referenced Tracks:
@@ -1141,7 +1123,6 @@ Artists:
 - Fire Emblem
 - Hiroki Morishita
 Duration: '2:29'
-Directory: gear-up-for-ssbu
 URLs:
 - https://www.youtube.com/watch?v=UArv-g-Ghrs
 Referenced Tracks:
@@ -1156,7 +1137,6 @@ Artists:
 Contributors:
 - Caro (vocals)
 Duration: '2:35'
-Directory: fire-emblem-three-houses-main-theme-jp-ssbu
 URLs:
 - https://www.youtube.com/watch?v=5wexrlhrk1U
 Lyrics: |-
@@ -1179,7 +1159,6 @@ Artists:
 Contributors:
 - Buttercup (vocals)
 Duration: '2:35'
-Directory: fire-emblem-three-houses-main-theme-ssbu
 URLs:
 - https://www.youtube.com/watch?v=_L8gSzy82Ss
 Lyrics: |-
@@ -1206,7 +1185,6 @@ Artists:
 - Pikmin
 - Hideki Sakamoto
 Duration: '2:28'
-Directory: main-theme-pikmin-ssbu
 URLs:
 - https://www.youtube.com/watch?v=3fLAqWdTrVE
 Referenced Tracks:
@@ -1217,7 +1195,6 @@ Artists:
 - Pikmin
 - Yoshino Aoki
 Duration: '2:24'
-Directory: garden-of-hope-ssbu
 URLs:
 - https://www.youtube.com/watch?v=A6qKUSb97g8
 Referenced Tracks:
@@ -1231,7 +1208,6 @@ Artists:
 - Animal Crossing
 - artist:ace-tomori-kudo-chico
 Duration: '2:53'
-Directory: title-theme-animal-crossing-ssbu
 URLs:
 - https://www.youtube.com/watch?v=6eJ14axIyi4
 Referenced Tracks:
@@ -1242,7 +1218,6 @@ Artists:
 - Animal Crossing
 - Maki Kirioka
 Duration: '2:43'
-Directory: title-theme-animal-crossing-wild-world-ssbu
 URLs:
 - https://www.youtube.com/watch?v=ZHVa13Qyye0
 Referenced Tracks:
@@ -1255,7 +1230,6 @@ Artists:
 - Animal Crossing
 - Kazumi Totaka
 Duration: '2:35'
-Directory: title-theme-animal-crossing-happy-home-designer-ssbu
 URLs:
 - https://www.youtube.com/watch?v=PctpOHX5vT0
 Referenced Tracks:
@@ -1269,7 +1243,6 @@ Artists:
 - Wii Fit
 - Kumi Tanioka
 Duration: '1:58'
-Directory: main-menu-wii-fit-ssbu
 URLs:
 - https://www.youtube.com/watch?v=QwaSOJnmA28
 Referenced Tracks:
@@ -1283,7 +1256,6 @@ Artists:
 - Wii Fit
 - Hiroki Morishita
 Duration: '2:36'
-Directory: training-menu-wii-fit-u-ssbu
 URLs:
 - https://www.youtube.com/watch?v=UzAZf27vcZk
 Referenced Tracks:
@@ -1293,6 +1265,7 @@ Section: Xenoblade Chronicles
 Color: '#ff0000'
 ---
 Track: Xenoblade Chronicles 2 Medley
+Suffix Directory: false
 Date First Released: March 4, 2021
 Artists:
 - Xenoblade Chronicles
@@ -1314,7 +1287,6 @@ Artists:
 - Xenoblade Chronicles
 - Yuzo Koshiro
 Duration: '2:35'
-Directory: tiger-tiger-ssbu
 URLs:
 - https://www.youtube.com/watch?v=T_9worwFUmw
 Referenced Tracks:
@@ -1326,7 +1298,6 @@ Artists:
 - Xenoblade Chronicles
 - Nobuko Toda
 Duration: '3:24'
-Directory: counterattack-ssbu
 URLs:
 - https://www.youtube.com/watch?v=FgZMrlJ6cwo
 Referenced Tracks:
@@ -1340,7 +1311,6 @@ Artists:
 - Splatoon
 - Shohei Tsuchiya
 Duration: '2:40'
-Directory: splattack-ssbu
 URLs:
 - https://www.youtube.com/watch?v=9E2wr79BnnY
 Referenced Tracks:
@@ -1353,7 +1323,6 @@ Artists:
 - Splatoon
 - Hirokazu Tanaka
 Duration: '1:26'
-Directory: seaskape-ssbu
 URLs:
 - https://www.youtube.com/watch?v=ZwDRTGxqiM8
 Referenced Tracks:
@@ -1364,7 +1333,6 @@ Artists:
 - Splatoon
 - Yuzo Koshiro
 Duration: '2:33'
-Directory: now-or-never-ssbu
 URLs:
 - https://www.youtube.com/watch?v=NiyCOn-NfY0
 Referenced Tracks:
@@ -1375,7 +1343,6 @@ Artists:
 - Splatoon
 - Tomoya Ohtani
 Duration: '2:36'
-Directory: bomb-rush-blush-ssbu
 URLs:
 - https://www.youtube.com/watch?v=TDImryskrN0
 Referenced Tracks:
@@ -1392,7 +1359,6 @@ Artists:
 - Metal Gear
 - Masami Ueda
 Duration: '2:43'
-Directory: theme-of-solid-snake-ssbu
 URLs:
 - https://www.youtube.com/watch?v=wVkNurOWJUQ
 Referenced Tracks:
@@ -1403,7 +1369,6 @@ Artists:
 - Metal Gear
 - Nobuko Toda
 Duration: '2:02'
-Directory: snake-eater-ssbu
 URLs:
 - https://www.youtube.com/watch?v=1WwgtWIxxHo
 Referenced Tracks:
@@ -1417,7 +1382,6 @@ Artists:
 - Mega Man
 - artist:ace-tomori-kudo-chico
 Duration: '2:44'
-Directory: guts-man-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=NroZMgf9q1g
 Referenced Tracks:
@@ -1428,7 +1392,6 @@ Artists:
 - Mega Man
 - Yasushi Asada
 Duration: '2:23'
-Directory: ice-man-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=6W5PFqAmhx0
 Referenced Tracks:
@@ -1439,7 +1402,6 @@ Artists:
 - Mega Man
 - Nobuko Toda
 Duration: '1:56'
-Directory: bomb-man-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=tHEhbPLJp0E
 Referenced Tracks:
@@ -1450,7 +1412,6 @@ Artists:
 - Mega Man
 - Nobuko Toda
 Duration: '2:18'
-Directory: fire-man-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=iaZ5pGMRfYE
 Referenced Tracks:
@@ -1461,7 +1422,6 @@ Artists:
 - Mega Man
 - Yusuke Takahama
 Duration: '2:26'
-Directory: metal-man-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=A-VXCjFVsLY
 Referenced Tracks:
@@ -1473,7 +1433,6 @@ Artists:
 - Mega Man
 - Nobuko Toda
 Duration: '1:53'
-Directory: crash-man-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=jbKlV9Ap4PE
 Referenced Tracks:
@@ -1484,14 +1443,12 @@ Artists:
 - Mega Man
 - Keiichi Okabe
 Duration: '3:00'
-Directory: flash-man-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=Na3-W5eoFlo
 Referenced Tracks:
 - track:flash-man-stage
 ---
 Track: Wood Man Stage
-Directory: wood-man-stage-ssbu
 Always Reference By Directory: true
 Artists:
 - Mega Man
@@ -1509,7 +1466,6 @@ Artists:
 Contributors: #https://twitter.com/shotakageyama/status/1072403141306580992
 - Yujin Imanishi (electric guitar)
 Duration: '2:23'
-Directory: hard-man-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=wOwLfg6eO2M
 Referenced Tracks:
@@ -1520,7 +1476,6 @@ Artists:
 - Mega Man
 - Noriyuki Iwadare
 Duration: '2:44'
-Directory: top-man-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=Mt3ExeByYAo
 Referenced Tracks:
@@ -1531,13 +1486,13 @@ Artists:
 - Mega Man
 - Hideki Sakamoto
 Duration: '2:33'
-Directory: snake-man-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=luaJsIMl2J4
 Referenced Tracks:
 - track:snake-man-stage
 ---
 Track: Mega Man 4 Medley
+Suffix Directory: false
 Artists:
 - Mega Man
 - Jun Senoue
@@ -1557,7 +1512,6 @@ Artists:
 - Mega Man
 - Yumi Takahashi
 Duration: '2:30'
-Directory: gravity-man-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=0MQaIB28PIw
 Referenced Tracks:
@@ -1568,7 +1522,6 @@ Artists:
 - Mega Man
 - Naoto Kubo
 Duration: '2:32'
-Directory: napalm-man-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=piIsGkudKFg
 Referenced Tracks:
@@ -1581,7 +1534,6 @@ Artists:
 - Mega Man
 - Hiroki Morishita
 Duration: '2:28'
-Directory: dark-man-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=XroMQj8EvMY
 Referenced Tracks:
@@ -1596,18 +1548,17 @@ Artists:
 - Mega Man
 - Yu Shimoda
 Duration: '3:01'
-Directory: were-robots-dr-wily-stage-2-ssbu
 URLs:
 - https://www.youtube.com/watch?v=AqbifZkP2vs
 Referenced Tracks:
 - track:were-robots-dr-wily-stage-2
 ---
 Track: Opening Stage
+Directory: opening-stage-mmx
 Artists:
 - Mega Man
 - Yusuke Takahama
 Duration: '2:26'
-Directory: opening-stage-mmx-ssbu
 URLs:
 - https://www.youtube.com/watch?v=WcXO1bdF3DI
 Referenced Tracks:
@@ -1617,6 +1568,7 @@ Section: PAC-MAN
 Color: '#ffff00'
 ---
 Track: Galaga Medley
+Suffix Directory: false
 Artists:
 - Galaga
 - Yusuke Takahama
@@ -1631,6 +1583,7 @@ Referenced Tracks:
 - Name Entry (1st) (Galaga)
 ---
 Track: Mappy Medley
+Suffix Directory: false
 Artists:
 - Mappy
 - Masafumi Takada
@@ -1654,7 +1607,6 @@ Track: Area 1 - Dragon Spirit
 Artists:
 - Dragon Spirit
 - Maki Kirioka
-Directory: area-1-dragon-spirit-ssbu
 Duration: '2:37'
 Color: '#f3c000'
 URLs:
@@ -1670,7 +1622,6 @@ Artists:
 - Street Fighter
 - Yuzo Koshiro
 Duration: '2:49'
-Directory: guile-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=YIA6b1xfyyw
 Referenced Tracks:
@@ -1681,7 +1632,6 @@ Artists:
 - Street Fighter
 - Yoko Shimomura
 Duration: '2:26'
-Directory: vega-stage-ssbu
 URLs:
 - https://www.youtube.com/watch?v=Nxb0x5GTn3M
 Referenced Tracks:
@@ -1696,7 +1646,6 @@ Artists:
 - Final Fantasy
 - Yuzo Koshiro
 Duration: '3:46'
-Directory: opening-bombing-mission-ssbu
 URLs:
 - https://www.youtube.com/watch?v=z2A_4m4gGDc
 Referenced Tracks:
@@ -1708,7 +1657,6 @@ Artists:
 - Final Fantasy
 - Keiichi Okabe
 Duration: '2:19'
-Directory: aeriths-theme-ssbu
 URLs:
 - https://www.youtube.com/watch?v=W3M9iDlz34M
 Referenced Tracks:
@@ -1720,7 +1668,6 @@ Artists:
 - Final Fantasy
 - Motoi Sakuraba
 Duration: '2:43'
-Directory: main-theme-of-final-fantasy-vii-ssbu
 URLs:
 - https://www.youtube.com/watch?v=ql0_Q2Cl88E
 Referenced Tracks:
@@ -1732,7 +1679,6 @@ Artists:
 - Final Fantasy
 - Yoko Shimomura
 Duration: '2:17'
-Directory: cosmo-canyon-ssbu
 URLs:
 - https://www.youtube.com/watch?v=2x9gd3U_yAk
 Referenced Tracks:
@@ -1746,13 +1692,13 @@ Artists:
 - Castlevania
 - Shinji Ushiroda
 Duration: '2:45'
-Directory: vampire-killer-ssbu
 URLs:
 - https://www.youtube.com/watch?v=E0pKKixMbfc
 Referenced Tracks:
 - Vampire Killer (Castlevania Judgment)
 ---
 Track: Starker / Wicked Child
+Suffix Directory: false
 Artists:
 - Castlevania
 - Hideki Sakamoto
@@ -1768,13 +1714,13 @@ Artists:
 - Castlevania
 - Yasushi Asada
 Duration: '2:25'
-Directory: out-of-time-ssbu
 URLs:
 - https://www.youtube.com/watch?v=4DxqyKS6t7U
 Referenced Tracks:
 - Out of Time (Clock Tower BGM)
 ---
 Track: Bloody Tears / Monster Dance
+Suffix Directory: false
 Artists:
 - Castlevania
 - Michiko Naruke
@@ -1790,7 +1736,6 @@ Artists:
 - Castlevania
 - Takeshi Kuramochi
 Duration: '2:44'
-Directory: cross-your-heart-ssbu
 URLs:
 - https://www.youtube.com/watch?v=wtvdyjJTJaw
 Referenced Tracks:
@@ -1801,7 +1746,6 @@ Artists:
 - Castlevania
 - Kenji Ito
 Duration: '1:51'
-Directory: beginning-ssbu
 URLs:
 - https://www.youtube.com/watch?v=lZSV4_IQTX8
 Referenced Tracks:
@@ -1812,7 +1756,6 @@ Artists:
 - Castlevania
 - Yoshito Sekigawa
 Duration: '2:45'
-Directory: aquarius-ssbu
 URLs:
 - https://www.youtube.com/watch?v=-CAFIGK3PJE
 Referenced Tracks:
@@ -1823,7 +1766,6 @@ Artists:
 - Castlevania
 - Yasushi Asada
 Duration: '2:28'
-Directory: divine-bloodlines-ssbu
 URLs:
 - https://www.youtube.com/watch?v=qwNsj7PY8jQ
 Referenced Tracks:
@@ -1834,7 +1776,6 @@ Artists:
 - Castlevania
 - Manami Kiyota
 Duration: '2:33'
-Directory: iron-blue-intention-ssbu
 URLs:
 - https://www.youtube.com/watch?v=APd-54g6Ixw
 Referenced Tracks:
@@ -1845,7 +1786,6 @@ Artists:
 - Castlevania
 - Masafumi Ueda
 Duration: '2:44'
-Directory: dance-of-gold-ssbu
 URLs:
 - https://www.youtube.com/watch?v=UznrxEa2wPg
 Referenced Tracks:
@@ -1856,18 +1796,17 @@ Artists:
 - Castlevania
 - Tetsuya Shibata
 Duration: '1:58'
-Directory: lost-painting-ssbu
 URLs:
 - https://www.youtube.com/watch?v=au4u8SstZAw
 Referenced Tracks:
 - track:lost-painting
 ---
 Track: Awake
+Directory: awake-castlevania
 Artists:
 - Castlevania
 - Yoshito Sekigawa
 Duration: '2:43'
-Directory: awake-castlevania-ssbu
 URLs:
 - https://www.youtube.com/watch?v=-P7Bgyy9J68
 Referenced Tracks:
@@ -1878,7 +1817,6 @@ Artists:
 - Castlevania
 - artist:ace-tomori-kudo-chico
 Duration: '2:50'
-Directory: lament-of-innocence-ssbu
 URLs:
 - https://www.youtube.com/watch?v=3m4MnV8bGXg
 Referenced Tracks:
@@ -1895,7 +1833,6 @@ Artists:
 Contributors:
 - Lyn (vocals)
 Duration: '3:00'
-Directory: beneath-the-mask-ssbu
 URLs:
 - https://www.youtube.com/watch?v=UAG9iTOTUFw
 Referenced Tracks:
@@ -1961,7 +1898,6 @@ Artists:
 - Persona
 - Yusuke Yamauchi
 Duration: '2:13'
-Directory: ill-face-myself-ssbu
 Color: '#ffeb19'
 URLs:
 - https://www.youtube.com/watch?v=mRVW3LE_kko
@@ -1974,7 +1910,6 @@ Artists:
 - Persona
 - Mitsuhiro Kitadani
 Duration: '2:30'
-Directory: aria-of-the-soul-ssbu
 Color: '#00bbfa'
 URLs:
 - https://www.youtube.com/watch?v=785x2m-LU-k
@@ -1990,7 +1925,6 @@ Artists:
 - Banjo Kazooie
 - Masafumi Takada
 Duration: '3:01'
-Directory: main-theme-banjo-kazooie-ssbu
 URLs:
 - https://www.youtube.com/watch?v=4tMGMq3p86k
 Referenced Tracks:
@@ -2002,7 +1936,6 @@ Artists:
 - Banjo Kazooie
 - Grant Kirkhope
 Duration: '2:41'
-Directory: spiral-mountain-ssbu
 URLs:
 - https://www.youtube.com/watch?v=jKdrWMKeBP0
 Referenced Tracks:
@@ -2019,7 +1952,6 @@ Artists:
 - Banjo Kazooie
 - Hiroki Hashimoto
 Duration: '2:38'
-Directory: mumbos-mountain-ssbu
 URLs:
 - https://www.youtube.com/watch?v=i4hQ_5PKSWM
 Referenced Tracks:
@@ -2031,7 +1963,6 @@ Artists:
 - Banjo Kazooie
 - Yoko Shimomura
 Duration: '2:19'
-Directory: treasure-trove-cove-ssbu
 URLs:
 - https://www.youtube.com/watch?v=gSNBOQSe_tQ
 Referenced Tracks:
@@ -2043,7 +1974,6 @@ Artists:
 - Banjo Kazooie
 - Yuji Masubuchi
 Duration: '2:39'
-Directory: gobis-valley-ssbu
 URLs:
 - https://www.youtube.com/watch?v=wYLAe7BscQA
 Referenced Tracks:
@@ -2056,7 +1986,6 @@ Artists:
 - Banjo Kazooie
 - Michiko Naruke
 Duration: '2:12'
-Directory: mad-monster-mansion-ssbu
 URLs:
 - https://www.youtube.com/watch?v=pNmm1kIwZlM
 Referenced Tracks:
@@ -2068,7 +1997,6 @@ Artists:
 - Banjo Kazooie
 - Hideki Sakamoto
 Duration: '2:01'
-Directory: vs-klungo-ssbu
 URLs:
 - https://www.youtube.com/watch?v=P6ppit379SU
 Referenced Tracks:
@@ -2078,72 +2006,72 @@ Section: FATAL FURY
 Color: '#ff401e'
 ---
 Track: Haremar Faith Capoeira School - Song of the Fight (Believers Will Be Saved) - FATAL FURY
+Directory: haremar-faith-capoeira-school
 Date First Released: November 6, 2019
 Artists:
 - Fatal Fury
 - Masafumi Takada
 Duration: '3:12'
-Directory: haremar-faith-capoeira-school-ssbu
 URLs:
 - https://www.youtube.com/watch?v=P04f5yXjDhc
 Referenced Tracks:
 - Haremar Faith Capoeira School - Song of the Fight [Believers Will Be Saved] (Richard Meyer's Theme)
 ---
 Track: Kurikinton - FATAL FURY 2
+Directory: kurikinton-ff2
 Date First Released: November 6, 2019
 Artists:
 - Fatal Fury
 - Noriyuki Iwadare
 Duration: '2:37'
-Directory: kurikinton-ff2-ssbu
 URLs:
 - https://www.youtube.com/watch?v=UZld28TkIjU
 Referenced Tracks:
 - Kurikinton (America Stage I) Terry Bogard
 ---
 Track: Pasta - FATAL FURY 2
+Directory: pasta-ff2
 Date First Released: November 6, 2019
 Artists:
 - Fatal Fury
 - Yoko Shimomura
 Duration: '2:00'
-Directory: pasta-ff2-ssbu
 URLs:
 - https://www.youtube.com/watch?v=4YSE0vX-pEk
 Referenced Tracks:
 - Pasta (Italy Stage) Andy Bogard
 ---
 Track: Tarkun and Kitapy - FATAL FURY 2
+Directory: tarkun-and-kitapy-ff2
 Date First Released: November 6, 2019
 Artists:
 - Fatal Fury
 - Yusuke Takahama
 Duration: '2:48'
-Directory: tarkun-and-kitapy-ff2-ssbu
 URLs:
 - https://www.youtube.com/watch?v=Q9_7Hvgg_pc
 Referenced Tracks:
 - Tarkun and Kitapy (Australia Stage) Big Bear
 ---
 Track: Let's Go to Seoul! - FATAL FURY 2
+Directory: lets-go-to-seoul-ff2
 Date First Released: November 6, 2019
 Artists:
 - Fatal Fury
 - Michiko Naruke
 Duration: '2:39'
-Directory: lets-go-to-seoul-ff2-ssbu
 URLs:
 - https://www.youtube.com/watch?v=Q4djoV7zODg
 Referenced Tracks:
 - Let's Go to Seoul! (Korea Stage) Kim
 ---
 Track: The London March - FATAL FURY 2
+Directory: the-london-march-ff2
 Date First Released: November 6, 2019
 Artists:
 - Fatal Fury
 - Yusuke Takahama
 Duration: '2:43'
-Directory: the-london-march-ff2-ssbu
 URLs:
 - https://www.youtube.com/watch?v=ngIQcADZYP4
 Referenced Tracks:
@@ -2151,12 +2079,12 @@ Referenced Tracks:
 - The London March (Billy Kane)
 ---
 Track: 11th Street - FATAL FURY WILD AMBITION
+Directory: 11th-street-ffwa
 Date First Released: November 6, 2019
 Artists:
 - Fatal Fury
 - Junichi Nakatsuru
 Duration: '2:42'
-Directory: 11th-street-ffwa-ssbu
 URLs:
 - https://www.youtube.com/watch?v=Mn2BWh9VPNs
 Referenced Tracks:
@@ -2164,12 +2092,12 @@ Referenced Tracks:
 - 11th Street (Terry Bogard)
 ---
 Track: Stormy Saxophone 2 - KOF '96
+Directory: stormy-saxophone-2-kof96
 Date First Released: November 6, 2019
 Artists:
 - The King of Fighters
 - Noriyuki Iwadare
 Duration: '2:52'
-Directory: stormy-saxophone-2-kof96-ssbu
 Color: '#e61b00'
 URLs:
 - https://www.youtube.com/watch?v=bKiDS4FqgR8
@@ -2182,7 +2110,6 @@ Artists:
 - Alpha Mission
 - Yoshihito Yano
 Duration: '2:27'
-Directory: theme-of-syd-alpha-mission-ssbu
 Color: '#429c25'
 URLs:
 - https://www.youtube.com/watch?v=kOxccMQ27Gk
@@ -2196,7 +2123,6 @@ Artists:
 - Athena
 - Takafumi Sato
 Duration: '2:19'
-Directory: forest-world-athena-ssbu
 Color: '#ed75a6'
 URLs:
 - https://www.youtube.com/watch?v=mWRVerJlyys
@@ -2211,7 +2137,6 @@ Artists:
 Contributors:
 - Kanako Kotera (vocals)
 Duration: '3:13'
-Directory: psycho-soldier-theme-ssbu
 Color: '#e61b00'
 URLs:
 - https://www.youtube.com/watch?v=AbdGGPuNEpE
@@ -2246,6 +2171,8 @@ Lyrics: |-
     FAIA! FAIA! SAIKO SORUJĀ (<i>Fire! Fire! Psycho Soldier</i>)
 ---
 Track: Psycho Soldier Theme (Overseas Version)
+Directory: psycho-soldier-theme-ssbu-overseas
+Suffix Directory: false
 Date First Released: November 6, 2019
 Artists:
 - Athena
@@ -2253,7 +2180,6 @@ Artists:
 Contributors:
 - Kanako Kotera (vocals)
 Duration: '3:13'
-Directory: psycho-soldier-theme-ssbu-overseas
 Color: '#e61b00'
 URLs:
 - https://www.youtube.com/watch?v=RdRXYKj7D-U
@@ -2273,12 +2199,12 @@ Lyrics: |-
     Fire! Fire! Psycho Soldier
 ---
 Track: ART of FIGHT - Art of Fighting
+Directory: art-of-fight-aof
 Date First Released: November 6, 2019
 Artists:
 - Art of Fighting
 - Rio Hamamoto
 Duration: '2:42'
-Directory: art-of-fight-aof-ssbu
 Color: '#e61b00'
 URLs:
 - https://www.youtube.com/watch?v=HEmkAWYlFCw
@@ -2286,12 +2212,12 @@ Referenced Tracks:
 - ART of FIGHT (Ryuhaku Todoh Stage)
 ---
 Track: Banquet of Nature - SAMURAI SHODOWN
+Directory: banquet-of-nature-ss
 Date First Released: November 6, 2019
 Artists:
 - Samurai Shodown
 - Masami Ueda
 Duration: '3:04'
-Directory: banquet-of-nature-ss-ssbu
 Color: '#e61b00'
 URLs:
 - https://www.youtube.com/watch?v=L_sNdv5hAP4
@@ -2299,12 +2225,12 @@ Referenced Tracks:
 - Banquet of Nature (Nakoruru)
 ---
 Track: Gaia - SAMURAI SHODOWN
+Directory: gaia-ss
 Date First Released: November 6, 2019
 Artists:
 - Samurai Shodown
 - Yasushi Asada
 Duration: '2:23'
-Directory: gaia-ss-ssbu
 Color: '#e61b00'
 URLs:
 - https://www.youtube.com/watch?v=jmy9Zhe4qTs
@@ -2312,12 +2238,12 @@ Referenced Tracks:
 - Gaia (Earthquake)
 ---
 Track: Main Theme from Metal Slug - METAL SLUG
+Directory: main-theme-from-metal-slug
 Date First Released: November 6, 2019
 Artists:
 - Metal Slug
 - Yasushi Asada
 Duration: '2:25'
-Directory: main-theme-from-metal-slug-ssbu
 Color: '#ffbd06'
 URLs:
 - https://www.youtube.com/watch?v=tF_j9C_9F4s
@@ -2325,12 +2251,12 @@ Referenced Tracks:
 - Main Theme from Metal Slug
 ---
 Track: Assault Theme - METAL SLUG 1-3
+Directory: assault-theme-metal-slug
 Date First Released: November 6, 2019
 Artists:
 - Metal Slug
 - LindaAI-CUE
 Duration: '2:19'
-Directory: assault-theme-metal-slug-ssbu
 Color: '#ffbd06'
 URLs:
 - https://www.youtube.com/watch?v=xBGcj2ITQpg
@@ -2347,7 +2273,6 @@ Artists:
 - ARMS
 - Atsuko Asahi
 Duration: '2:34'
-Directory: arms-grand-prix-official-theme-song-ssbu
 URLs:
 - https://www.youtube.com/watch?v=PVvJfo_3Fsc
 Referenced Tracks:
@@ -2361,7 +2286,6 @@ Artists:
 - ARMS
 - Atsuko Asahi
 Duration: '2:33'
-Directory: ramen-bowl-ssbu
 URLs:
 - https://www.youtube.com/watch?v=3HZR-Fme0ZQ
 Referenced Tracks:
@@ -2373,6 +2297,7 @@ Section: Minecraft
 Color: '#60af27'
 ---
 Track: Halland / Dalarna
+Suffix Directory: false
 Date First Released: October 13, 2020
 Artists:
 - Minecraft
@@ -2394,7 +2319,6 @@ Artists:
 - Minecraft
 - Mitsuhiro Kitadani
 Duration: '2:47'
-Directory: earth-ssbu
 URLs:
 - https://www.youtube.com/watch?v=VEGzANstbXo
 Referenced Tracks:
@@ -2406,7 +2330,6 @@ Artists:
 - Minecraft
 - Yuzo Koshiro
 Duration: '2:28'
-Directory: toys-on-a-tear-ssbu
 URLs:
 - https://www.youtube.com/watch?v=iqutxbdYnzo
 Referenced Tracks:
@@ -2418,7 +2341,6 @@ Artists:
 - Minecraft
 - Yoko Shimomura
 Duration: '2:12'
-Directory: dance-of-the-blocks-ssbu
 URLs:
 - https://www.youtube.com/watch?v=G6uouYyQasM
 Referenced Tracks:
@@ -2430,7 +2352,6 @@ Artists:
 - Minecraft
 - Hiroki Hashimoto
 Duration: '2:49'
-Directory: glide-ssbu
 URLs:
 - https://www.youtube.com/watch?v=aJ3xJGhgz8o
 Referenced Tracks:
@@ -2442,7 +2363,6 @@ Artists:
 - Minecraft
 - Motoi Sakuraba
 Duration: '2:42'
-Directory: the-arch-illager-ssbu
 URLs:
 - https://www.youtube.com/watch?v=hEq9wm-49c8
 Referenced Tracks:
@@ -2457,7 +2377,6 @@ Artists:
 - Tekken
 - Yusuke Kudo
 Duration: '3:21'
-Directory: kazuya-mishima-devil-kazuya-ssbu
 URLs:
 - https://www.youtube.com/watch?v=xXZ99R-TEj4
 Referenced Tracks:
@@ -2469,7 +2388,6 @@ Artists:
 - Tekken
 - Nobuko Toda
 Duration: '2:37'
-Directory: dist-thins-out-ssbu
 URLs:
 - https://www.youtube.com/watch?v=6oxwKmhUQlQ
 Referenced Tracks:
@@ -2481,7 +2399,6 @@ Artists:
 - Tekken
 - Nobuko Toda
 Duration: '2:51'
-Directory: karma-ssbu
 URLs:
 - https://www.youtube.com/watch?v=rjGk22YQdv8
 Referenced Tracks:
@@ -2493,13 +2410,13 @@ Artists:
 - Tekken
 - artist:ace-tomori-kudo-chico
 Duration: '3:01'
-Directory: landscape-under-the-ghost-kaminano-ssbu
 URLs:
 - https://www.youtube.com/watch?v=xmnb9jJ_JP4
 Referenced Tracks:
 - Landscape Under The Ghost -Kaminano (AD2012)
 ---
 Track: Dojo (Japanese-Style Mix)
+Suffix Directory: false
 Date First Released: June 29, 2021
 Artists:
 - Tekken
@@ -2516,7 +2433,6 @@ Artists:
 - Tekken
 - Yoko Shimomura
 Duration: '2:18'
-Directory: moonsiders-1st-ssbu
 URLs:
 - https://www.youtube.com/watch?v=_l_bni7nisM
 Referenced Tracks:
@@ -2528,7 +2444,6 @@ Artists:
 - Tekken
 - Nobuko Toda
 Duration: '3:06'
-Directory: desperate-struggle-ssbu
 URLs:
 - https://www.youtube.com/watch?v=cbGn4trKAjU
 Referenced Tracks:
@@ -2540,7 +2455,6 @@ Artists:
 - Tekken
 - Yu Sugimoto
 Duration: '2:45'
-Directory: aloneness-ssbu
 URLs:
 - https://www.youtube.com/watch?v=BNqJI-PogHU
 Referenced Tracks:
@@ -2551,6 +2465,7 @@ Section: Other
 Color: '#7f7f7f'
 ---
 Track: Duck Hunt Medley
+Suffix Directory: false
 Artists:
 - Duck Hunt
 - Maki Kirioka
@@ -2568,6 +2483,7 @@ Referenced Tracks:
 - Game Over (Duck Hunt)
 ---
 Track: Wrecking Crew Medley
+Suffix Directory: false
 Artists:
 - Wrecking Crew
 - Tetsuya Shibata
@@ -2581,6 +2497,7 @@ Referenced Tracks:
 ---
 Track: Yūyūki Medley
 Directory: yuyuki-medley
+Suffix Directory: false
 Artists:
 - Yūyūki
 - Yuka Tsujiyoko
@@ -2605,7 +2522,6 @@ Artists:
 - Pilotwings
 - Noriyuki Iwadare
 Duration: '2:53'
-Directory: light-plane-ssbu
 Color: '#5f79ec'
 URLs:
 - https://www.youtube.com/watch?v=Zo8mQ8Cw4yQ
@@ -2617,7 +2533,6 @@ Artists:
 - Super Smash Bros.
 - Noriyuki Iwadare
 Duration: '2:46'
-Directory: electroplankton-ssbu
 Color: '#5ae50c'
 URLs:
 - https://www.youtube.com/watch?v=yvHcvbm8u2U
@@ -2630,7 +2545,6 @@ Artists:
 - nintendogs
 - Maki Kirioka
 Duration: '2:34'
-Directory: bathtime-theme-ssbu
 Color: '#c19065'
 URLs:
 - https://www.youtube.com/watch?v=YWGuMJw2B54
@@ -2643,7 +2557,6 @@ Artists:
 - Wii Sports
 - Keiki Kobayashi
 Duration: '1:57'
-Directory: title-theme-wii-sports-ssbu
 Color: '#1ab7ea'
 URLs:
 - https://www.youtube.com/watch?v=8EFqTOyharM
@@ -2655,7 +2568,6 @@ Artists:
 - Wii Sports
 - Nobuko Toda
 Duration: '2:18'
-Directory: title-theme-wii-sports-club-ssbu
 Color: '#1ab7ea'
 URLs:
 - https://www.youtube.com/watch?v=hpfLKzShlbs
@@ -2667,7 +2579,6 @@ Artists:
 - Tomodachi Life
 - Masafumi Takada
 Duration: '2:47'
-Directory: afternoon-on-the-island-ssbu
 Color: '#f57823'
 URLs:
 - https://www.youtube.com/watch?v=XMlUohm4mKY
@@ -2676,6 +2587,7 @@ Referenced Tracks:
 - Afternoon on the Island (Tomodachi Life)
 ---
 Track: Find Mii / Find Mii II Medley
+Suffix Directory: false
 Artists:
 - Mii
 - Ryo Nagamatsu
@@ -2694,7 +2606,6 @@ Artists:
 - 'Code Name: S.T.E.A.M.'
 - Yoshito Sekigawa
 Duration: '2:41'
-Directory: trouble-brewing-ii-ssbu
 Color: '#fcc30a'
 URLs:
 - https://www.youtube.com/watch?v=5ncFMnorX2U
@@ -2707,7 +2618,6 @@ Artists:
 - Snipperclips
 - Maki Kirioka
 Duration: '2:43'
-Directory: noisy-notebook-ssbu
 Color: '#ee3f66'
 URLs:
 - https://www.youtube.com/watch?v=O-PqtjHkZtQ
@@ -2716,7 +2626,6 @@ Referenced Tracks:
 ---
 Track: MEGALOVANIA
 Date First Released: September 4, 2019
-Directory: megalovania-ssbu
 Color: '#b962b9'
 Artists:
 - Toby Fox

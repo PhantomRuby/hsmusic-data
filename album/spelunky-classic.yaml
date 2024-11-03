@@ -1,4 +1,7 @@
 Album: Spelunky Classic
+Directory Suffix: spelunky
+Suffix Track Directories: true
+Always Reference Tracks By Directory: true
 Date: December 21, 2008
 Date Added: August 18, 2023
 Color: '#c7ac92'
@@ -16,7 +19,6 @@ Commentary: |-
     Spelunky Classic's retro-style, fondly-remembered soundtrack was composed by [[artist:buzinkai]] and [[artist:jon-perry]], the former of whom only a year or so later composed renowned tracks of the Homestuck discography [[Doctor]], [[Explore]], [[Endless Climb]] and more; Jon Perry has been designing hands-on and video games alike for many years, including other collaborations with Derek Yu.
 ---
 Track: Title
-Directory: title-spelunky
 Duration: '0:41'
 Artists:
 - Buzinkai
@@ -24,7 +26,6 @@ URLs:
 - https://www.youtube.com/watch?v=Z_8v8GSRHYk
 ---
 Track: Cave
-Directory: cave-spelunky
 Duration: '1:37'
 Artists:
 - Buzinkai
@@ -32,7 +33,6 @@ URLs:
 - https://www.youtube.com/watch?v=jg6cWfXqdJs
 ---
 Track: Jungle
-Directory: jungle-spelunky
 Duration: '1:12'
 Artists:
 - Jon Perry
@@ -40,7 +40,6 @@ URLs:
 - https://www.youtube.com/watch?v=y666_TBBH_E
 ---
 Track: Ice Caves
-Directory: ice-caves-spelunky
 Duration: '1:40'
 Artists:
 - Jon Perry
@@ -48,7 +47,6 @@ URLs:
 - https://www.youtube.com/watch?v=j_3_4Y_9pms
 ---
 Track: Temple
-Directory: temple-spelunky
 Duration: '1:55'
 Artists:
 - Jon Perry
@@ -56,7 +54,6 @@ URLs:
 - https://www.youtube.com/watch?v=wS2_XFza4iE
 ---
 Track: Olmec
-Directory: olmec-spelunky
 Duration: '1:34'
 Artists:
 - Jon Perry
@@ -64,7 +61,6 @@ URLs:
 - https://www.youtube.com/watch?v=qEZzrpWzsKA
 ---
 Track: Victory
-Directory: victory-spelunky
 Duration: '0:37'
 Artists:
 - Jon Perry
@@ -72,7 +68,6 @@ URLs:
 - https://www.youtube.com/watch?v=sibaWhTam0g
 ---
 Track: Ending
-Directory: ending-spelunky
 Duration: '0:37'
 Artists:
 - Buzinkai

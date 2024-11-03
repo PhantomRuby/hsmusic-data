@@ -18,7 +18,7 @@ Groups:
 Section: Main album
 ---
 Track: Methodology
-Directory: methodology-repiton
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '3:56'
 URLs:
@@ -72,7 +72,7 @@ Sampled Tracks:
 - The Lego Movie
 ---
 Track: Survival
-Directory: survival-repiton
+Suffix Directory: true
 Always Reference By Directory: true
 Cover Artists:
 - grechushka
@@ -84,7 +84,7 @@ URLs:
 # - https://music.deconreconstruction.com/albums/repiton?track=survival
 ---
 Track: Home
-Directory: home-repiton
+Suffix Directory: true
 Cover Artists:
 - rigamo12
 Duration: '2:08'
@@ -93,14 +93,15 @@ URLs:
 # - https://music.deconreconstruction.com/albums/repiton?track=home
 ---
 Track: 'INTERMISSION: Risk'
-Directory: risk-vast-error
+Directory: risk
+Suffix Directory: true
 Duration: '4:17'
 URLs:
 - https://vasterror.bandcamp.com/track/intermission-risk
 # - https://music.deconreconstruction.com/albums/repiton?track=intermission-risk
 ---
 Track: Moonlight
-Directory: moonlight-repiton
+Suffix Directory: true
 Always Reference By Directory: true
 Cover Artists:
 - koroke
@@ -118,7 +119,7 @@ URLs:
 # - https://music.deconreconstruction.com/albums/repiton?track=through-it-all
 ---
 Track: Tyrant
-Directory: tyrant-repiton
+Suffix Directory: true
 Cover Artists:
 - big chalupa
 Duration: '3:17'
@@ -147,7 +148,7 @@ URLs:
 # - https://music.deconreconstruction.com/albums/repiton?track=nailed-it
 ---
 Track: Remember?
-Directory: remember-repiton
+Suffix Directory: true
 Cover Artists:
 - Xamag
 Duration: '3:10'
@@ -156,7 +157,7 @@ URLs:
 # - https://music.deconreconstruction.com/albums/repiton?track=remember
 ---
 Track: Promise
-Directory: promise-repiton
+Suffix Directory: true
 Always Reference By Directory: true
 Cover Artists:
 - Calibratorg

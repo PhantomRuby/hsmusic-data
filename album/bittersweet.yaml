@@ -492,7 +492,7 @@ Lyrics: |-
     So I dance in-between with the pyre to forge my blade
 ---
 Track: Ally
-Directory: ally-bittersweet
+Suffix Directory: true
 Always Reference By Directory: true
 Contributors:
 - GUMI English
@@ -564,7 +564,7 @@ Lyrics: |-
     You're my ally-alli, I'm so free to take you with me
 ---
 Track: Ballroom
-Directory: ballroom-bittersweet
+Suffix Directory: true
 Always Reference By Directory: true
 Contributors:
 - Marcy Nabors
@@ -727,7 +727,7 @@ Lyrics: |-
     (And all I want is to stay with you)
 ---
 Track: Close
-Directory: close-bittersweet
+Suffix Directory: true
 Always Reference By Directory: true
 Contributors:
 - Bluffy
@@ -822,7 +822,8 @@ Lyrics: |-
 Section: Bonus tracks
 ---
 Track: Fiction
-Directory: fiction-bittersweet
+Suffix Directory: true
+Always Reference By Directory: true
 Contributors:
 - GUMI English
 Duration: '1:39'

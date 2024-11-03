@@ -1,6 +1,7 @@
 Album: I Miss You - EarthBound 2012
 Date: January 1, 2012
 Date Added: April 13, 2024
+Directory Suffix: i-miss-you
 URLs:
 - https://sleepytimejesse.bandcamp.com/album/i-miss-you-earthbound-2012
 - https://youtube.com/playlist?list=PLI7cAsCDsB3Frjq5OxscvQ8aVp6XFJIG6
@@ -213,7 +214,7 @@ Commentary: |-
     There are a lot of chill songs in EarthBound with rolly-snare drum loops, chill chords, and poppy, droopy bass. [Hospital](https://youtu.be/8SH2tEgUo2s) definitely comes to mind, as does the [[track:choose-a-file|Select Your File]] theme. This song is essentially a fusion of those two tracks to create something chill and faux-nostalgic. It’s always nice to make something that isn’t punching you in the face.
 ---
 Track: Goodbye
-Directory: goodbye-i-miss-you
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - sleepytimejesse

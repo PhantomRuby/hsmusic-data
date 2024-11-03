@@ -30,7 +30,8 @@ Additional Files:
   - banner.png
 ---
 Track: Outlaw
-Directory: outlaw-psycholonials-ep-4
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '3:57'
 Referenced Tracks:
 - Misbegotten
@@ -48,7 +49,7 @@ URLs:
 - https://open.spotify.com/track/0gnd9GNrY41ejYwqb5CNwq
 ---
 Track: Breakthroughs
-Directory: breakthroughs-psycholonials-ep-4
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '2:14'
 URLs:

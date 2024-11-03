@@ -36,7 +36,7 @@ URLs:
 - https://circlejourney.bandcamp.com/track/like-flying
 ---
 Track: Fuchsia Moonrise
-Directory: fuchsia-moonrise-between-sky-and-sea
+Suffix Directory: true
 Always Reference By Directory: true
 Originally Released As: Fuchsia Moonrise
 Duration: '03:56'
@@ -66,7 +66,7 @@ URLs:
 - https://circlejourney.bandcamp.com/track/the-journey
 ---
 Track: Nostalgia
-Directory: nostalgia-between-sky-and-sea
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '04:34'
 URLs:
@@ -97,7 +97,7 @@ URLs:
 - https://circlejourney.bandcamp.com/track/marin
 ---
 Track: Solitaire
-Directory: solitaire-between-sky-and-sea
+Suffix Directory: true
 Always Reference By Directory: true
 Referenced Tracks:
 - The Horizon
@@ -118,7 +118,7 @@ URLs:
 - https://circlejourney.bandcamp.com/track/nocturna
 ---
 Track: Goodbye
-Directory: goodbye-between-sky-and-sea
+Suffix Directory: true
 Always Reference By Directory: true
 Referenced Tracks:
 - Like Flying

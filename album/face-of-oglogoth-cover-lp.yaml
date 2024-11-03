@@ -17,7 +17,7 @@ Groups:
 - Fandom
 ---
 Track: Black
-Directory: black-faces-of-oglogoth-cover-lp
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-
@@ -31,7 +31,7 @@ URLs:
 - https://dvojka.bandcamp.com/track/homestuck-black
 ---
 Track: 'BL1ND JUST1C3: 1NV3ST1G4T1ON'
-Directory: bl1nd-just1c3-1nv3st1g4t1on-faces-of-oglogoth-cover-lp
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-
@@ -45,7 +45,7 @@ URLs:
 - https://dvojka.bandcamp.com/track/homestuck-bl1nd-just1c3-1nv3st1g4t1on
 ---
 Track: Dance of Thorns
-Directory: dance-of-thorns-faces-of-oglogoth-cover-lp
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-
@@ -89,7 +89,8 @@ URLs:
 - https://dvojka.bandcamp.com/track/homestuck-megalovania-collector-ver
 ---
 Track: Karkat`s Theme
-Directory: karkats-theme-faces-of-oglogoth-cover-lp
+Directory: karkats-theme
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-
@@ -103,7 +104,7 @@ URLs:
 - https://dvojka.bandcamp.com/track/homestuck-karkats-theme
 ---
 Track: Purple Tyrant
-Directory: purple-tyrant-faces-of-oglogoth-cover-lp
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-

@@ -80,7 +80,7 @@ Referenced Tracks:
 - Slithering Samba
 ---
 Track: Catacombs
-Directory: catacombs-magnum-opus
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - artist:kobacat
@@ -129,7 +129,7 @@ URLs:
 - https://vasterror.bandcamp.com/track/crown-jewels
 ---
 Track: Insecurity
-Directory: insecurity-magnum-opus
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - artist:kobacat
@@ -208,7 +208,7 @@ Referenced Tracks:
 - track:perfection-vast-error
 ---
 Track: Soulbound
-Directory: soulbound-magnum-opus
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Rabooski
@@ -319,7 +319,7 @@ Commentary:
 Section: Bonus tracks
 ---
 Track: Euphoria
-Directory: euphoria-magnum-opus
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-

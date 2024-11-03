@@ -108,7 +108,7 @@ Art Tags:
 - Alternia
 ---
 Track: Pure
-Directory: pure-team-paradox
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Sadochist
@@ -170,7 +170,7 @@ Art Tags:
 - Alternia
 ---
 Track: Hollow
-Directory: hollow-team-paradox
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Sadochist
@@ -311,7 +311,7 @@ Art Tags:
 - BQ
 ---
 Track: Advanse
-Directory: advanse-team-paradox
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - mediokreKarapase

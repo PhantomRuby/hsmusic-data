@@ -258,7 +258,8 @@ Additional Files:
 Section: Disc 1
 ---
 Track: ~~DISC 1~~
-Directory: disc1-lofam4
+Directory: disc1
+Suffix Directory: true
 Artists:
 - Lambda Elise Merryberry
 - keyboard cait
@@ -282,7 +283,7 @@ Commentary: |-
     This piece was a very unique experience for me because it involved drawing something I was rather unfamiliar with. Before I started this piece I knew from the beginning I wanted something rather dynamic and fun and I feel the result stayed true to the image I had in mind. This piece was certainly difficult, but after some trial and error things eventually started coming together nicely. I ended up having a lot of fun trying out new brushes and mixing my favourite colors together to get a final result I was very pleased with.
 ---
 Track: Merge
-Directory: merge-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Kouta
@@ -312,7 +313,7 @@ Commentary: |-
     I drew this immediately following [[flash:8087|[S] Collide]]. Kouta later asked to use it as the track cover for Merge on SoundCloud, and I was happy to oblige. I'm honoured that they saw it as a fitting image to accompany their (very impressive) track.
 ---
 Track: 'Jungle #3'
-Directory: jungle-3-lofam4
+Suffix Directory: true
 Originally Released As: track:jungle-3
 Duration: '4:05'
 URLs:
@@ -344,7 +345,7 @@ Commentary: |-
     This art is a lovely rendition by Fitzwibble of that bit in [[flash:5252|[S] Dirk: Unite]] where Dirk takes Roxy and Jane along for a ride. Unfortunately, due to her foolish boorishness, Jane does not appreciate the joy of flying through the air as a bird would in spring. It is a shame, that such an enlightening experience must go ignored.
 ---
 Track: Frost and Clockwork
-Directory: frost-and-clockwork-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Circlejourney
@@ -375,7 +376,7 @@ Commentary: |-
     This was such a fun song and it reminded me of one of my favorite parts of Homestuck - the fun and adventure. It feels so welcoming and warm and triumphant, and I really tried to capture that here!
 ---
 Track: Reunited
-Directory: reunited-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Shandy
@@ -425,7 +426,7 @@ Commentary: |-
     The song that Mmetafour made was an electronic 8-bit style mix, so, logically, I took the role of drawing (or rather, "spriting") the art for this track. As you may know, the song symbolizes Prospit from A6A6A1 after it gets destroyed, so I did two scenes in one: Jane and Jake after their godtier transformations, and our heroes encountering Jack English for the first time. Come to think of it, that act was really messed up, wasn't it? Anyway, the song is amazing, and I really liked how the art came out. I hope you enjoy it too!
 ---
 Track: Altitude
-Directory: altitude-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Whimsy
@@ -452,7 +453,7 @@ Commentary: |-
     i went through like fucking 5 variations of this art before i just decided to fuck it and do vaguely johnroxy retcon sequence that was at the bottom of the subreddit for some time. all of the others involved davesprite but fuck blorange. also please dont notice how lazy i was and i used the color blending tool on the tree when everything else was with the pencil tool.
 ---
 Track: Midnight
-Directory: midnight-lofam4
+Suffix Directory: true
 Originally Released As: track:midnight-canmt
 Duration: '2:47'
 URLs:
@@ -475,7 +476,7 @@ Commentary: |-
     I chose Midnight as my track art, mostly just because of my love for Intermission. The song is absolutely fantastic, but since I'm not the most creative person around it took me a while to come up with any concrete designs at first. I was originally going to start off with a 50/50 bust drawing of Slick and Jack, but I soon discovered that might be a little too bland. I ended up listening to the song a dozen more times until I sketched out the base idea for the finalized idea. The main challenge had just been lining everything and getting the perspective to look pretty alright, although I'm not really an expert on perspective or composition. Either way, I'm really happy with how the piece turned out, especailly with the lighting on Slick himself.
 ---
 Track: Dersite
-Directory: dersite-lofam4
+Suffix Directory: true
 Originally Released As: track:dersite
 Duration: '1:51'
 URLs:
@@ -662,7 +663,7 @@ Commentary: |-
     A little known power held by the clearly very fictional and not at all real troll folklore creatures known as "Rainbow Drinkers" is to create flashing green silhouettes of themselves whenever they dance. This of course, holds no practical purpose whatsoever, except for the theoretical seduction of aliens who happen to resemble flighty broads.
 ---
 Track: Intermission
-Directory: intermission-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Joe Ouellet
@@ -716,7 +717,7 @@ Commentary: |-
     I've always loved the 'John's retocn adventures' section of Homestuck, and I think it has to do with how it leads both the characters and myself along a brisk rollercoaster of twists and turns, through unknown paths - this sense of adventure is what I tried to convey in this art.
 ---
 Track: Formation
-Directory: formation-lofam4
+Suffix Directory: true
 Originally Released As: track:formation
 Duration: '3:43'
 URLs:
@@ -737,7 +738,7 @@ Commentary: |-
     Formation has a very 80's vibe to it, so I decided to aim towards more of a Hotline Miami feel for the accompanying artwork. I'm not sure how well I achieved that, but I figure a combination of bright colours and guns is at least veering in the right direction.
 ---
 Track: Scales
-Directory: scales-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Helena Ruth
@@ -802,7 +803,7 @@ Commentary: |-
     the track is really pretty in a melancholic and reminiscing way so I wanted to encorporate things from earlier in the comic (the tree, the hanging scalemates, and the pink flowers) into a sadder scene that's near the end? The tree's also a clever metaphor for branching paths and al that lol and also it looks cool
 ---
 Track: Glide
-Directory: glide-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Veritas Unae
@@ -827,7 +828,7 @@ Commentary: |-
     We've only ever seen Alt!Calliope looking extremely grim in the comic so I thought it might be a nice change if I were to depict her in a more clement mood. Imagine her soaring through space, creating and destroying galaxies. I gave her wings just so that the illustration would remain relevant to the title of the piece.
 ---
 Track: Limelight
-Directory: limelight-lofam4
+Suffix Directory: true
 Originally Released As: track:limelight
 Additional Names:
 - Miss America (working name)
@@ -873,7 +874,7 @@ Commentary: |-
     The futility of a sacrifice, the chaos of a final battle, the wrath of an arbiter, the finding of love after death, the absolute ownage of a sharply written missive. All these and more contributed to making the epic ending of Problem Sleuth what it came to be known as: a confusing clusterfuck of hilarious and completely insane shenanigans.
 ---
 Track: Stubborn Throes
-Directory: stubborn-throes-lofam4
+Suffix Directory: true
 Originally Released As: track:stubborn-throes
 Duration: '3:08'
 URLs:
@@ -945,7 +946,7 @@ Commentary: |-
     At one point I described this as something along the lines of "electric Scottish war music", and that still stands. The melody in this song is absolutely iconic, if you ask me, and it gets INCREDIBLY amped. Maybe enough to see what lies under that voltaic fault. (Spoiler: It's just a lot of xenon.) Also, the lyrics to this song are "DANGER HIGH VOLTAGE". That is all.
 ---
 Track: Ghosts
-Directory: ghosts-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - David Dycus
@@ -998,7 +999,7 @@ Commentary: |-
     This took a really long time.
 ---
 Track: Aura of Colour
-Directory: aura-of-colour-lofam4
+Suffix Directory: true
 Originally Released As: track:aura-of-colour
 Duration: '3:43'
 URLs:
@@ -1252,7 +1253,8 @@ Commentary: |-
 Section: Disc 2
 ---
 Track: ~~DISC 2~~
-Directory: disc2-lofam4
+Directory: disc2
+Suffix Directory: true
 Artists:
 - Lambda Elise Merryberry
 - keyboard cait
@@ -1278,7 +1280,7 @@ Commentary: |-
     In my opinion, this track art perfectly fits the "calm before the storm" vibe of a middle before an end, like Disc 2 is before the endgame-themed Disc 3. I'll also note it looks incredibly fitting for the cover of a vinyl record, and with those bright colors and jazzy writing I'd check that hypothetical cover out the moment I saw it.
 ---
 Track: Hiatus
-Directory: hiatus-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Kevin Grant
@@ -1565,7 +1567,6 @@ Commentary: |-
     If you liked Bowman's Homestuck stuff, love comedy videos, or were just too damn intrigued by this song to stay out of the loop, I recommend giving [the Stutzbows](https://youtube.com/playlist?list=PLoOnh0MiKsmJb0CsYOTzkihMcNSl6-ruw) (as I like to call their videos) a watch. Whether it's Scott singing you the jingle for his favorite breakfast cereal, Bowman informing you about his credit score (spoiler alert: it's 720), or both of them having some good, old-fashioned backyard fun, I'm certain there's something to enjoy for everyone.
 ---
 Track: Schrödinger's Harbinger
-Directory: schrodingers-harbinger
 Artists:
 - Noisemaker
 Duration: '2:21'
@@ -1682,7 +1683,7 @@ Commentary: |-
     In this piece by sonotcanon, Jade looks down on the city of Prospit from one of the... Prospit Towers. I'd say that sitting like that on a window pane is unsafe, but then I remembered that dreamselves can, you know, fly, so whatever.
 ---
 Track: Red
-Directory: red-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Tamara Fritz
@@ -1732,7 +1733,7 @@ Commentary: |-
     I needed to draw something equally cute for this cute track. I made this almost exclusively with MS Paint save for the final effects on the art, which were done with SAI.
 ---
 Track: Daydreamer
-Directory: daydreamer-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - electric lantern
@@ -1879,8 +1880,8 @@ Commentary: |-
     A calmer, somewhat less dramatic remix of [[Gold Pilot]]. I'd imagine it gets pretty lonely exploring the EXPANSES OF INTERSTELLAR SPACE.
 ---
 Track: Horizontal Headshot
+Suffix Directory: true
 Originally Released As: track:horizontal-headshot
-Directory: horizontal-headshot-lofam4
 Duration: '2:51'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/horizontal-headshot
@@ -1991,7 +1992,7 @@ Commentary: |-
     Look, I should never be allowed to draw Bionicles.
 ---
 Track: Ringleader
-Directory: ringleader-lofam4
+Suffix Directory: true
 Originally Released As: track:ringleader-canmt
 Duration: '3:07'
 URLs:
@@ -2301,7 +2302,7 @@ Commentary: |-
     (SFX: Toki yo Tomare.)
 ---
 Track: Climbing to Infinity
-Directory: climbing-to-infinity-lofam4
+Suffix Directory: true
 Originally Released As: track:climbing-to-infinity
 Duration: '4:28'
 URLs:
@@ -2462,7 +2463,7 @@ Lyrics: |-
     [collective laughter]—)
 ---
 Track: hors
-Directory: hors-lofam4
+Suffix Directory: true
 Originally Released As: track:hors
 Duration: '3:17'
 URLs:
@@ -2486,7 +2487,7 @@ Commentary: |-
     Jojo and Homestuck sure do have a lot of things in common, don't they? Themes of predestination, weird time shit, luck being used as a weapon, a guy without the use of his legs, horses everywhere in a certain part...it's all kind of weird and interesting. So that's why I did an EPIC JOJOKE for this trackart. If you don't understand what's going on here, read some more Jojo, I guess. Or don't. Look, Hors is a great, funny track, and this is the dank artistry it deserves as accompaniment. You're welcome.
 ---
 Track: The Gemoni Mustard Blood
-Directory: the-gemoni-mustard-blood-lofam4
+Suffix Directory: true
 Originally Released As: track:the-gemoni-mustard-blood
 Duration: '2:04'
 URLs:
@@ -2512,7 +2513,7 @@ Commentary: |-
     Sollux is about to get down. Gotta give out some FRESH BEATS. Gotta JAM YOUR EYEBALLS AND EARHOLES WITH SOME SWEET ASS TUNES. CHECK IT OUT YO.
 ---
 Track: Reconciled
-Directory: reconciled-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Shandy
@@ -2642,7 +2643,7 @@ Commentary: |-
     I'm really glad I had the chance to draw track art for a cherub song since Caliborn is probably one of my favorite characters in Homestuck. I tried to fill this up with as many pieces of imagery of the cherub's journeys to god tier, all framed within a beautiful clock ready to be smashed with a crowbar. Side Note: Caliborn's gun was superbly hard to draw and now I can see why Hussie used a jpg image for it as often as he could.
 ---
 Track: Resend
-Directory: resend-lofam4
+Suffix Directory: true
 Originally Released As: track:resend
 Duration: '4:48'
 URLs:
@@ -2666,7 +2667,8 @@ Commentary: |-
 Section: Disc 3
 ---
 Track: ~~DISC 3~~
-Directory: disc3-lofam4
+Directory: disc3
+Suffix Directory: true
 Artists:
 - Lambda Elise Merryberry
 - keyboard cait
@@ -2778,7 +2780,7 @@ Commentary: |-
     (Note: Don't do drugs, kids. Note 2: Don't even THINK of doing meth, trust on this one, please. Note 3: This isn't actually all-new, it's been around since 2013, but BOY is it still a doozy. Note 4: This is a remix of a remix of a remix. Are you a bad enough dude (or any casual moniker of your choice) to continue the chain? Note 5: I've run out of ntoes, so I guess... enjoy the song?!?!?)
 ---
 Track: Thyme on My Fries
-Directory: thyme-on-my-fries-lofam4
+Suffix Directory: true
 Originally Released As: track:thyme-on-my-fries
 Duration: '3:24'
 URLs:
@@ -2867,7 +2869,7 @@ Commentary: |-
     Radness is a rad song so it needed a rad track art and what is more rad than alpha dave soaring through space on unreal air? but there's also a bit of playfulness to the song which is why I added those shitty statues of liberty. Imagine dave with pockets full of shitty statues of liberty just tossing them down on the planet as he flies by.
 ---
 Track: Conflict!
-Directory: conflict-lofam4
+Suffix Directory: true
 Originally Released As: track:conflict
 Duration: '1:07'
 URLs:
@@ -3048,7 +3050,7 @@ Commentary: |-
     [[track:airtime-assault|Also johndave is a bad ship suck it viko]]
 ---
 Track: Shatter
-Directory: shatter-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Kanishka
@@ -3088,7 +3090,7 @@ Commentary: |-
     Together in my room" - [Vengaboys](https://www.youtube.com/watch?v=llyiQ4I-mcQ)
 ---
 Track: Denizen
-Directory: denizen-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Kouta
@@ -3250,7 +3252,7 @@ Commentary: |-
     I love dealing with dark foreground figures against bright backgrounds, so this was fun to add the final touches to. I got a sense of what Quietserval was going for with this drawing from talking to them, and tried to realise that in its fullest.
 ---
 Track: Everlasting
-Directory: everlasting-lofam4
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Joe Ouellet
@@ -3351,8 +3353,8 @@ Commentary: |-
     The final boss is beaten. The game is won. The lights fade and the world begins to disappear. A gaping maw drags all into it, even the very fabric of reality. In the distance, a door opens.
 ---
 Track: Strife Mayhem
+Suffix Directory: true
 Originally Released As: track:strife-mayhem
-Directory: strife-mayhem-lofam4
 Additional Names:
 - Metallic Mayhem (original name)
 Duration: '5:39'
@@ -3617,8 +3619,8 @@ Commentary: |-
     It's been long enough since I made this image that I don't have much that I can remember to say about this, beyond feeling like I really nailed Boxcars' face.
 ---
 Track: Collision Course (Davepeta's Movement)
+Suffix Directory: true
 Originally Released As: track:collision-course-davepetas-movement
-Directory: collision-course-davepetas-movement-lofam4
 Duration: '4:05'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/collision-course-davepetas-movement
@@ -3639,8 +3641,8 @@ Commentary: |-
     this used to be [[track:collision-course-davepetas-movement|a normal edit]] of [[track:upward-movement-dave-owns|the Upward Movement cover]] but [[album:greatest-hits-2|greatest hits 2]] happened on the cool and new music team so i decided [[track:collision-course-davepetas-movement-greatest-hits-2|to redo it]]. i experimented a lot with the shading but in the end, i kept something simple
 ---
 Track: Revisit/Rewind
+Suffix Directory: true
 Originally Released As: track:revisit-rewind
-Directory: revisit-rewind-lofam4
 Duration: '6:13'
 URLs:
 - https://unofficialmspafans.bandcamp.com/track/revisit-rewind

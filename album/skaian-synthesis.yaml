@@ -1,4 +1,6 @@
 Album: 【SKAIAN SYNTHESIS】
+Suffix Track Directories: true
+Always Reference Tracks By Directory: true
 Artists:
 - Funk McLovin
 Date: August 19, 2023
@@ -28,6 +30,8 @@ Commentary: |-
     I've been working on this for a while now and it's been fun. I hope everyone enjoys! I made it for the people who love Homestuck music and want to hear more.
 ---
 Track: Skaian Synthesis
+Suffix Directory: false
+Always Reference By Directory: false
 Duration: '4:38'
 URLs:
 - https://funkmclovin.bandcamp.com/track/skaian-synthesis
@@ -37,8 +41,6 @@ Referenced Tracks:
 - Sburban Jungle
 ---
 Track: Heir of Grief
-Directory: heir-of-grief-skaian-synthesis
-Always Reference By Directory: true
 Duration: '3:09'
 URLs:
 - https://funkmclovin.bandcamp.com/track/heir-of-grief
@@ -47,8 +49,6 @@ Referenced Tracks:
 - Heir of Grief
 ---
 Track: Sburban Jungle
-Directory: sburban-jungle-skaian-synthesis
-Always Reference By Directory: true
 Duration: '3:08'
 URLs:
 - https://funkmclovin.bandcamp.com/track/sburban-jungle
@@ -57,8 +57,6 @@ Referenced Tracks:
 - Sburban Jungle
 ---
 Track: Moonsetter
-Directory: moonsetter-skaian-synthesis
-Always Reference By Directory: true
 Duration: '2:48'
 URLs:
 - https://funkmclovin.bandcamp.com/track/moonsetter-2
@@ -67,8 +65,6 @@ Referenced Tracks:
 - track:moonsetter
 ---
 Track: Beatdown
-Directory: beatdown-skaian-synthesis
-Always Reference By Directory: true
 Duration: '2:05'
 URLs:
 - https://funkmclovin.bandcamp.com/track/beatdown
@@ -85,8 +81,6 @@ Referenced Tracks:
 - track:megalovania-ebhh
 ---
 Track: Black
-Directory: black-skaian-synthesis
-Always Reference By Directory: true
 Duration: '2:40'
 URLs:
 - https://funkmclovin.bandcamp.com/track/black
@@ -95,8 +89,6 @@ Referenced Tracks:
 - track:liquid-negrocity
 ---
 Track: Sunslammer
-Directory: sunslammer-skaian-synthesis
-Always Reference By Directory: true
 Duration: '2:04'
 URLs:
 - https://funkmclovin.bandcamp.com/track/sunslammer

@@ -1,4 +1,5 @@
 Album: CLASS ACT (B Side)
+Directory Suffix: funk-mclovin
 Always Reference Tracks By Directory: true
 Artists:
 - Funk McLovin
@@ -26,7 +27,7 @@ Commentary: |-
     An album full of covers! Enjoy this one for free. Original artists and video links are included per track!
 ---
 Track: Accept My Shaft
-Directory: accept-my-shaft-funk-mclovin
+Suffix Directory: true
 Additional Names:
 - Name: >-
     Accept My Shaft [Song A Day 2020 Day 32]
@@ -50,7 +51,7 @@ Commentary: |-
     Original song by NINJA SEX PARTY: [youtube.com/watch?v=nxvz325stqw](https://www.youtube.com/watch?v=nxvz325stqw)
 ---
 Track: Get It On
-Directory: get-it-on-funk-mclovin
+Suffix Directory: true
 Additional Names:
 - Name: >-
     GET IT ON [Song a Day 2020 Day 36]
@@ -72,7 +73,7 @@ Commentary: |-
     This one's an old favorite. Enjoy.
 ---
 Track: LAWNMOWER
-Directory: lawnmower-funk-mclovin
+Suffix Directory: true
 Duration: '2:06'
 URLs:
 - https://funkmclovin.bandcamp.com/track/lawnmower
@@ -114,7 +115,7 @@ Commentary: |-
     Song-a-day 234
 ---
 Track: Hey Baby
-Directory: hey-baby-funk-mclovin
+Suffix Directory: true
 Additional Names:
 - Name: >-
     "Hey Baby" AKA That Stand Cheer From Pep Band [Song A Day 2020 Day 46]
@@ -132,7 +133,7 @@ Commentary: |-
     Originally by Bruce Chanel
 ---
 Track: Fever
-Directory: fever-funk-mclovin
+Suffix Directory: true
 Additional Names:
 - Name: >-
     FEVER 🎶🌡 [Song a Day 2020 Day 66]
@@ -168,7 +169,7 @@ Commentary: |-
     Song a Day Day 55
 ---
 Track: Teenagers
-Directory: teenagers-funk-mclovin
+Suffix Directory: true
 Additional Names:
 - Name: >-
     TEENAGERS - Jazz Cover
@@ -192,7 +193,7 @@ Commentary: |-
     Song-a-day 189
 ---
 Track: Rainbow Connection
-Directory: rainbow-connection-funk-mclovin
+Suffix Directory: true
 Duration: '2:51'
 URLs:
 - https://funkmclovin.bandcamp.com/track/rainbow-connection

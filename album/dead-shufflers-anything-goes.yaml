@@ -1,4 +1,5 @@
 Album: 'Dead Shufflers: Anything Goes'
+Directory Suffix: vast-error
 Date: May 23, 2020
 Date Added: October 25, 2023
 URLs:
@@ -16,7 +17,7 @@ Groups:
 Section: Main album
 ---
 Track: Overlook
-Directory: overlook-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Cerulean
@@ -28,7 +29,7 @@ URLs:
 # - https://music.deconreconstruction.com/albums/dead-shufflers-anything-goes?track=overlook
 ---
 Track: Hound Dog
-Directory: hound-dog-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - sympolite
@@ -172,7 +173,7 @@ URLs:
 # - https://music.deconreconstruction.com/albums/dead-shufflers-anything-goes?track=intermission-mimesiswing
 ---
 Track: Dismantled
-Directory: dismantled-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - pragmaticNihilist
@@ -189,7 +190,7 @@ URLs:
 # - https://music.deconreconstruction.com/albums/dead-shufflers-anything-goes?track=dismantled
 ---
 Track: Lovecraft
-Directory: lovecraft-vast-error
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - sympolite
@@ -332,7 +333,6 @@ URLs:
 Section: Bonus tracks
 ---
 Track: DEAR PESKY SHUFFLERS
-Directory: dear-pesky-shufflers
 Additional Names:
 - Name: >-
     BONUS: DEAR PESKY SHUFFLERS

@@ -1,5 +1,5 @@
 Album: 'Tumblrstuck/bent OST: Volume 2'
-Directory: tumblrstuck-bent-ost-volume-2
+Directory Suffix: tumblrstuck
 Artists:
 - Samm Neiland
 Date: March 11, 2013
@@ -112,7 +112,7 @@ Commentary: |-
 Section: Bonus tracks
 ---
 Track: Surmount
-Directory: surmount-tumblrstuck
+Suffix Directory: true
 Duration: '1:43'
 URLs:
 - https://hsmusic.wiki/media/misc/archive/Surmount.mp3

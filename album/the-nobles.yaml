@@ -1,5 +1,4 @@
 Album: The Nobles
-Directory: the-nobles
 Date: October 25, 2019
 Date Added: June 12, 2024
 Artists:
@@ -73,7 +72,7 @@ Commentary: |-
 Section: Side 1
 ---
 Track: ~~Side 1~~
-Directory: side-1-the-nobles
+Suffix Directory: true
 Artists:
 - Rowyn Berlan
 Duration: '0:42'
@@ -205,7 +204,7 @@ Commentary: |-
 Section: Side 2
 ---
 Track: ~~Side 2~~
-Directory: side-2-the-nobles
+Suffix Directory: true
 Duration: '0:36'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/side-2
@@ -257,7 +256,7 @@ Commentary: |-
     [[artist:rowyn-berlan|Timeless]] originally wanted me to use my guitar sample library for the original version of this track. I'm not sure what happened but they decided to scrap that original version. I thought the original demo had promise so I asked them for a midi of the track. Eventually they offered to let me collab with them in order to finish the track. A lot of the elements from that original demo are still present in the finishing version albeit heavily modified and extended. I took the original melody and chords timeless wrote and messed around until I got this fun sounding progression and from there it all came together pretty naturally. Unfortunately, there came a point where timeless could no longer use the project file and so he wasn't able to have as much input as i would have liked. Despite that collabing on this was a pretty fun experience and I wouldn't mind doing it again.
 ---
 Track: Broken Dreams
-Directory: broken-dreams-the-nobles
+Suffix Directory: true
 Duration: '1:50'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/broken-dreams
@@ -308,7 +307,7 @@ Commentary:
     It was a really fun albeit rather shortlived experience helping [[artist:rowyn-berlan|Rowyn]] with this collab. Simply put, they said they didn't know what to do with it past a certain point and we discussed a collaboration. After a bit, they tossed over a copy of the project file and the things it used, and I did my best to go to town on it. I only got the smallest bit added - A piano medley, a little bloopity part, a half a bass break - before I got p tired and hit the hay. I didn't have time to work on it the next morning, so I sent it back to Rowyn knowing I'd be spending all my spare time the next few days at work. By the time I *could* get around to opening the file again, my computer had practically bricked itself..? I couldn't work on the project at all, but Rowyn did an amazing job completing. They'll probably say they were stuck, but in reality when they was given just the slightest push they jet right into it, and did a hell of a good job along the way.
 ---
 Track: Terminus
-Directory: terminus-the-nobles
+Suffix Directory: true
 Duration: '3:00'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/terminus
@@ -377,7 +376,6 @@ Commentary: |-
 Track: The Nobles (Reprise)
 Additional Names:
 - Goodnight (alternate title)
-Directory: the-nobles-reprise
 Duration: '2:19'
 URLs:
 - https://pascalpotatovandenbos.bandcamp.com/track/the-nobles-reprise

@@ -1,5 +1,6 @@
 Album: '[FREEROAM] - Volume One'
 Directory: freeroam-volume-1
+Directory Suffix: freeroam
 Date: July 21, 2017
 URLs:
 - https://freeroamfanventure.bandcamp.com/album/freeroam-volume-one
@@ -41,7 +42,7 @@ Commentary: |-
     This album is comprised of [9] full tracks!
 ---
 Track: Waiting for Adventure
-Directory: waiting-for-adventure-freeroam
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - artist:avocadosan
@@ -105,7 +106,7 @@ URLs:
 - https://freeroamfanventure.bandcamp.com/track/quiet-whispers
 ---
 Track: Polaris
-Directory: polaris-freeroam
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Kurenai
@@ -118,7 +119,7 @@ Commentary: |-
     For later use!
 ---
 Track: Friendly Fire
-Directory: friendly-fire-freeroam
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - amtrax

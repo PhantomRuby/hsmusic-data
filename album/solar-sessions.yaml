@@ -103,7 +103,8 @@ Lyrics: |-
     A kinder ending
 ---
 Track: Earth ♁
-Directory: earth-solar-sessions
+Directory: earth
+Suffix Directory: true
 Artists:
 - psithurist
 Duration: '4:45'

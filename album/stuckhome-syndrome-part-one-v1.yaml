@@ -1,5 +1,6 @@
 Album: 'Stuckhome Syndrome Part One V1: Years In the Past'
 Directory: stuckhome-syndrome-part-one-v1
+Directory Suffix: stuckhome-syndrome
 Artists:
 - Robert J! Lake
 Date: April 13, 2016
@@ -129,7 +130,6 @@ Commentary: |-
     Like [[track:crock-n-roll|Crock n’ Roll]], this is an Alpha kid thing; I think I wrote it right after the Scratch? The original, also like Crock n’ Roll, was all PSG and OPM before I touched it up. Quite successfully, I think, too; this is my second favorite of the ones here. The bassline was really fun to write; I haven’t really done much stuff this funky before!
 ---
 Track: Null/Void
-Directory: null-void
 Duration: '03:32'
 URLs:
 - https://spellmynamewithabang.bandcamp.com/track/null-void
@@ -192,7 +192,7 @@ URLs:
 - https://spellmynamewithabang.bandcamp.com/track/alone-but-not-lonely-2
 ---
 Track: Lost
-Directory: lost-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:22'
 URLs:
@@ -247,7 +247,7 @@ URLs:
 - https://spellmynamewithabang.bandcamp.com/track/d
 ---
 Track: Premonition
-Directory: premonition-stuckhome-syndrome
+Suffix Directory: true
 Duration: '02:29'
 URLs:
 - https://spellmynamewithabang.bandcamp.com/track/premonition
@@ -265,7 +265,7 @@ URLs:
 - https://spellmynamewithabang.bandcamp.com/track/tempo-rarely
 ---
 Track: Game Over
-Directory: game-over-stuckhome-syndrome
+Suffix Directory: true
 Duration: '02:30'
 URLs:
 - https://spellmynamewithabang.bandcamp.com/track/game-over-3
@@ -306,7 +306,7 @@ Sampled Tracks:
 - Afraid of the Darko
 ---
 Track: (flow)
-Directory: flow-stuckhome-syndrome
+Suffix Directory: true
 Duration: '01:36'
 URLs:
 - https://spellmynamewithabang.bandcamp.com/track/flow-2
@@ -428,7 +428,7 @@ Track: Curb Stomp the Finale (Remotivate Yourself!)
 Duration: '02:38'
 ---
 Track: Entropy
-Directory: entropy-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:26'
 ---
@@ -459,7 +459,6 @@ Commentary: |-
     Embarassingly, I don’t actually totally remember the context for this one (I think it’s a troll romance thing; there are a lot of incidents though where my themes got pretty loose, even in tracks that made it onto albums. I’ll be the first to admit, for instance, that [[track:whistling-jackhammer|Whistling Jackhammer]] is almost more inspired by Hussie’s earlier comic Whistles (hence the title) than Homestuck), but I do know that I reused the title for a game concept I had a few years later I never really went public with. Either way, it’s probably getting moved past track 43 as well; it’s good, and I’m proud of it, (the melodies are very inspired by George & Jonathan, which is a favorite group of mine) but it doesn’t quite feel right where it is. It’s finished, though, as is. A weirdo, for sure.
 ---
 Track: Pleasant/Pressure
-Directory: pleasant-pressure
 Duration: '03:02'
 Commentary: |-
     <i>Robert J! Lake:</i> ([Tumblr](https://www.tumblr.com/spellmynamewithabang/140421474563/pre-order-post-mortem), excerpt)
@@ -568,7 +567,7 @@ Lyrics: |-
     Oh, I'm afraid I just "blue" myself.
 ---
 Track: Islander
-Directory: islander-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:45'
 ---
@@ -609,7 +608,7 @@ Track: Go Rest Our Heroes
 Duration: '01:23'
 ---
 Track: Hope
-Directory: hope-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:08'
 ---
@@ -641,7 +640,7 @@ Track: A Day in the Kingdom of Light
 Duration: '01:17'
 ---
 Track: Exiled
-Directory: exiled-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:05'
 ---
@@ -669,7 +668,7 @@ Track: Sleepytime Tea for Sleepytime Me
 Duration: '01:33'
 ---
 Track: Sunglasses
-Directory: sunglasses-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:45'
 ---
@@ -677,7 +676,7 @@ Track: Spades' Licks
 Duration: '02:09'
 ---
 Track: Sandles
-Directory: sandles-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:09'
 ---
@@ -697,7 +696,7 @@ Track: Bad Taste
 Duration: '00:30'
 ---
 Track: Pocketwatch
-Directory: pocketwatch-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:35'
 Sampled Tracks:
@@ -709,7 +708,6 @@ Referenced Tracks:
 - A Mom's Mom
 ---
 Track: Mess With/Get With
-Directory: mess-with-get-with
 Duration: '01:02'
 ---
 Track: We've All Been Dead Again
@@ -740,7 +738,7 @@ Track: Walking and Walking and Waiting and Waiting
 Duration: '00:40'
 ---
 Track: Prototyping
-Directory: prototyping-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '00:43'
 ---
@@ -757,7 +755,7 @@ Track: Tech Hop
 Duration: '00:23'
 ---
 Track: Questline
-Directory: questline-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '00:33'
 ---
@@ -784,7 +782,7 @@ Sampled Tracks:
 - Amen, Brother
 ---
 Track: Cruxtruder
-Directory: cruxtruder-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:21'
 ---
@@ -804,7 +802,7 @@ Track: Some Today I'll Get This Right
 Duration: '01:57'
 ---
 Track: Cloudling
-Directory: cloudling-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:35'
 ---
@@ -812,12 +810,12 @@ Track: Ghosts, Buster
 Duration: '01:32'
 ---
 Track: Halfways
-Directory: halfways-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:14'
 ---
 Track: Hardly
-Directory: hardly-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '00:45'
 ---
@@ -825,7 +823,6 @@ Track: Harley's Quin
 Duration: '01:39'
 ---
 Track: Harley's + David's Son
-Directory: harleys-plus-davids-son
 Duration: '00:40'
 Referenced Tracks:
 - Harley's Quin
@@ -897,7 +894,7 @@ Track: Paranoise
 Duration: '01:39'
 ---
 Track: Other
-Directory: other-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '00:53'
 ---
@@ -908,7 +905,7 @@ Track: 3 AM
 Duration: '00:50'
 ---
 Track: The End of Something Really Excellent
-Directory: the-end-of-something-really-excellent-stuckhome-syndrome
+Suffix Directory: true
 Duration: '02:05'
 Referenced Tracks:
 - The Beginning of Something Really Excellent
@@ -987,7 +984,7 @@ Track: Imp Party
 Duration: '00:27'
 ---
 Track: Subspace
-Directory: subspace-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:36'
 ---
@@ -1073,7 +1070,7 @@ Track: Inflammable Infirmary
 Duration: '02:27'
 ---
 Track: Crush
-Directory: crush-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:49'
 ---
@@ -1093,7 +1090,6 @@ Track: Useless Garbage Junk Mail
 Duration: '02:12'
 ---
 Track: Coolkid/Grandkid
-Directory: coolkid-grandkid
 Duration: '02:10'
 ---
 Track: A Lot of Breeding
@@ -1144,7 +1140,8 @@ Track: try to keep in touch
 Duration: '02:18'
 ---
 Track: ==>
-Directory: next-arrow-stuckhome-syndrome
+Directory: next-arrow
+Suffix Directory: true
 Duration: '01:15'
 ---
 Track: This Factory is Asphyxiating My Heart
@@ -1172,7 +1169,7 @@ Track: Meme Number
 Duration: '00:15'
 ---
 Track: Within
-Directory: within-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '00:40'
 ---
@@ -1219,7 +1216,7 @@ Sampled Tracks:
 - Heat
 ---
 Track: Weirdo
-Directory: weirdo-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '00:19'
 ---
@@ -1233,7 +1230,7 @@ Track: bad music
 Duration: '01:25'
 ---
 Track: Underneath
-Directory: underneath-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '03:10'
 ---
@@ -1264,7 +1261,6 @@ Track: Industrial Hellfire
 Duration: '01:25'
 ---
 Track: Ten/25
-Directory: ten-25
 Duration: '00:42'
 ---
 Track: Speakercrab
@@ -1295,7 +1291,7 @@ Track: No Going Back.
 Duration: '00:32'
 ---
 Track: Static
-Directory: static-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:18'
 ---
@@ -1390,7 +1386,7 @@ Track: Queen of Tiny Teenies
 Duration: '00:47'
 ---
 Track: Nerds
-Directory: nerds-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '00:23'
 ---
@@ -1404,7 +1400,7 @@ Track: Squiddlesneaks
 Duration: '00:51'
 ---
 Track: Pesterchum
-Directory: pesterchum-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '00:22'
 ---
@@ -1527,7 +1523,7 @@ Track: THREE DIMENSIONAL JPEG ARTIFACTS
 Duration: '01:49'
 ---
 Track: Cornered
-Directory: cornered-stuckhome-syndrome
+Suffix Directory: true
 Duration: '00:40'
 ---
 Track: Hugsound
@@ -1620,7 +1616,6 @@ Track: Dial in the Frequency
 Duration: '01:04'
 ---
 Track: One Two 3/4
-Directory: one-two-3-4
 Duration: '12:34'
 ---
 Track: Graffiti Children
@@ -1686,7 +1681,7 @@ Track: Groove Row
 Duration: '03:12'
 ---
 Track: Smoothly
-Directory: smoothly-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '00:48'
 ---
@@ -1726,7 +1721,7 @@ Track: Sandy Beach on Saturn
 Duration: '03:39'
 ---
 Track: Moonlit
-Directory: moonlit-stuckhome-syndrome
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:25'
 ---

@@ -1,5 +1,6 @@
 Album: '[FREEROAM] - Volume Two'
 Directory: freeroam-volume-2
+Directory Suffix: freeroam
 Date: July 21, 2020
 URLs:
 - https://freeroamfanventure.bandcamp.com/album/freeroam-volume-two
@@ -87,7 +88,7 @@ URLs:
 - https://freeroamfanventure.bandcamp.com/track/dismay-on-display
 ---
 Track: Divinity
-Directory: divinity-freeroam
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Robert J! Lake

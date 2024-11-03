@@ -41,7 +41,7 @@ Art Tags:
 - Tahbbi (Crossmound)
 ---
 Track: Try
-Directory: try-crossmound-vol-1
+Suffix Directory: true
 Duration: '2:29'
 Artists:
 - Levc
@@ -104,7 +104,7 @@ Commentary: |-
     as some final comment, i really wish i could have made some more tracks apart from this one! but even so, it was reeaaaaally fun to do! (i hope i get to make tahbbi's theme on the vol.2) ((let's hope this doesn't age like milk))
 ---
 Track: Roots
-Directory: roots-crossmound-vol-1
+Suffix Directory: true
 Duration: '1:42'
 Artists:
 - METIANULL
@@ -234,7 +234,7 @@ Art Tags:
 - Egoize (Crossmound)
 ---
 Track: Wired
-Directory: wired-crossmound-vol-1
+Suffix Directory: true
 Duration: '2:24'
 Artists:
 - DudeBro231

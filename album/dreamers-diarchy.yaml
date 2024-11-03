@@ -35,7 +35,7 @@ Commentary: |-
     I have had these track drafts sitting on my hard drive as MIDIs since 2017, and I'm pleased that they are finally seeing the light of day. They were originally made for a concept album about celestial bodies in Homestuck, but all the other tracks got released elsewhere, so I'll be releasing the last few in parts.
 ---
 Track: Promenade
-Directory: promenade-dreamers-diarchy
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '03:52'
 Color: '#ffcc00'
@@ -50,7 +50,7 @@ URLs:
 - https://music.apple.com/album/promenade/1723638785?i=1723638786
 ---
 Track: Dirge
-Directory: dirge-dreamers-diarchy
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '03:52'
 Cover Artists:

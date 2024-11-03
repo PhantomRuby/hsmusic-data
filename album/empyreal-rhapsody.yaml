@@ -41,7 +41,7 @@ URLs:
 # - https://music.deconreconstruction.com/albums/empyreal-rhapsody?track=anesidora
 ---
 Track: Inertia
-Directory: inertia-empyreal-rhapsody
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '03:47'
 URLs:
@@ -110,7 +110,7 @@ URLs:
 # - https://music.deconreconstruction.com/albums/empyreal-rhapsody?track=archon
 ---
 Track: Tributary
-Directory: tributary-empyreal-rhapsody
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '03:13'
 Sampled Tracks:

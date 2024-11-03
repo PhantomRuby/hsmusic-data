@@ -1,4 +1,5 @@
 Album: Redditstuck Vol. 1
+Directory Suffix: redditstuck
 Date: October 25, 2016
 Date Added: June 12, 2024
 URLs:
@@ -54,7 +55,7 @@ Commentary: |-
     Currently available for download [at File Garden](https://filegarden.com/users/644418ca5425ed42805dc8fc/garden/#ZmYtGp5QlkbVUny_).
 ---
 Track: Cogs
-Directory: cogs-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - JJ Pollution
@@ -67,7 +68,7 @@ Art Tags:
 - LoSaB (Redditstuck)
 ---
 Track: Hobbyist
-Directory: hobbyist-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - JJ Pollution
@@ -80,7 +81,7 @@ Art Tags:
 - Chelsea (Redditstuck)
 ---
 Track: Spool
-Directory: spool-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - JJ Pollution
@@ -110,7 +111,7 @@ Commentary: |-
     <img src="media/misc/crushing-weight-soundcloud.png" width="225">
 ---
 Track: Assertion
-Directory: assertion-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Emelia K.
@@ -146,7 +147,7 @@ Art Tags:
 - Luke (Redditstuck)
 ---
 Track: Incubation
-Directory: incubation-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-
@@ -191,7 +192,7 @@ Referenced Tracks:
 - track:hobbyist-redditstuck
 ---
 Track: Alloy
-Directory: alloy-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-
@@ -288,7 +289,7 @@ Art Tags:
 - Earth
 ---
 Track: Effervescence
-Directory: effervescence-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-
@@ -422,7 +423,7 @@ Art Tags:
 - Earth
 ---
 Track: Hyperion
-Directory: hyperion-redditstuck
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Kal-la-kal-la

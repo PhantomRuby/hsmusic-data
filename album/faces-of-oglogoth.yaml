@@ -130,7 +130,8 @@ Lyrics: |-
     Spinal Cervice Extraction
 ---
 Track: Dilemma
-Directory: dilemma-faces-of-oglogoth
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '3:15'
 #Seems to have lyrics, incomprehensible
 URLs:

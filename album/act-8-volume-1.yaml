@@ -1,4 +1,5 @@
 Album: Act 8 Volume 1
+Directory Suffix: act-8
 Date: September 9, 2016
 Date Added: April 13, 2023
 URLs:
@@ -68,7 +69,7 @@ Art Tags:
 - Dream Bubbles
 ---
 Track: Penumbra Phantasm
-Directory: penumbra-phantasm-act-8
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - dbnet18
@@ -86,7 +87,7 @@ Referenced Tracks:
 - Penumbra Phantasm
 ---
 Track: Earthbound
-Directory: earthbound-act-8
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - DoomedCloud
@@ -162,7 +163,7 @@ Art Tags:
 Section: Bonus tracks
 ---
 Track: Medic
-Directory: medic-act-8
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - dbnet18

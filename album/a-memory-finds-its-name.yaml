@@ -425,7 +425,7 @@ Commentary: |-
     The lyrics are based on an old short story I wrote at around the same time, about a windchime left behind in a house that has long been abandoned. Even back then, I adored that tone of hopeful melancholy that you see in a lot of my work.
 ---
 Track: Oceanic Flight
-Directory: oceanic-flight-a-memory-finds-its-name
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '04:56'
 Referenced Tracks:
@@ -488,7 +488,7 @@ Commentary: |-
     This was, hands down, one of the hardest songs I’ve ever produced, taking almost a year of fiddling, and then more ahead of this release. Little wonder: it’s the biggest track on this album too, in terms of instruments and length.
 ---
 Track: You Are You
-Directory: you-are-you-a-memory-finds-its-name
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '04:04'
 Referenced Tracks:
@@ -577,7 +577,7 @@ Commentary: |-
     In some strange way, my position is reversed now. I feel more like the person speaking the words of the song than the person it is addressed to, and I adjusted the lyrics to match (and also to match my new lyrical style).
 ---
 Track: The Banner I Unfurl
-Directory: the-banner-i-unfurl-a-memory-finds-its-name
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:22'
 Referenced Tracks:
@@ -643,7 +643,7 @@ Commentary: |-
     I tried to emulate that sense of building in this version of the track, but you can [play the game](https://circlejourney.net/in-between/) to get the full experience.
 ---
 Track: Memorialisation
-Directory: memorialisation-a-memory-finds-its-name
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '03:41'
 Referenced Tracks:
@@ -821,7 +821,7 @@ Referenced Tracks:
 - From a Windchime
 ---
 Track: Oceanic Flight (Instrumental)
-Directory: oceanic-flight-instrumental-a-memory-finds-its-name
+Suffix Directory: true
 Duration: '4:58'
 Referenced Tracks:
 - track:oceanic-flight-a-memory-finds-its-name
@@ -832,7 +832,7 @@ Referenced Tracks:
 - track:you-are-you-a-memory-finds-its-name
 ---
 Track: The Banner I Unfurl (Instrumental)
-Directory: the-banner-i-unfurl-instrumental-a-memory-finds-its-name
+Suffix Directory: true
 Duration: '1:24'
 Referenced Tracks:
 - track:the-banner-i-unfurl-a-memory-finds-its-name

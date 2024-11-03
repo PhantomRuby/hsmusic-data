@@ -29,6 +29,7 @@ Commentary: |-
 ---
 Track: Wraith (Ludum Dare 28)
 Directory: wraith
+Suffix Directory: true
 Duration: '2:49'
 URLs:
 - https://parsecproductions.bandcamp.com/track/wraith-ludum-dare-28
@@ -38,6 +39,7 @@ Commentary: |-
 ---
 Track: Seed (Ludum Dare 29)
 Directory: seed
+Suffix Directory: true
 Duration: '2:43'
 URLs:
 - https://parsecproductions.bandcamp.com/track/seed-ludum-dare-29
@@ -65,6 +67,7 @@ Commentary: |-
 ---
 Track: Downbeat (Ludum Dare 32)
 Directory: downbeat
+Suffix Directory: true
 Duration: '1:28'
 URLs:
 - https://parsecproductions.bandcamp.com/track/downbeat-ludum-dare-32
@@ -85,6 +88,7 @@ Commentary: |-
 ---
 Track: Nightlight (Ludum Dare 34)
 Directory: nightlight
+Suffix Directory: true
 Duration: '1:52'
 URLs:
 - https://parsecproductions.bandcamp.com/track/nightlight-ludum-dare-34
@@ -143,7 +147,8 @@ Commentary: |-
     For a game about trying to find a charger before your phone battery ran out, I decided to go with a simple chiptune melody for the first part of the search. As your battery gets lower and lower, it eventually starts fading in electric guitar to drive home the seriousness of it. Finally, as the battery is nearly out, strings and percussion are added to drive the tension up to an epically disproportionate level (I mean, it's just a phone running out of battery after all).
 ---
 Track: Final Stand (Ludum Dare 40)
-Directory: final-stand-dare
+Directory: final-stand
+Suffix Directory: true
 Date First Released: June 2, 2018
 Duration: '3:32'
 URLs:
@@ -249,6 +254,7 @@ Commentary: |-
 ---
 Track: Periphery (Ludum Dare 47)
 Directory: periphery
+Suffix Directory: true
 Date First Released: May 14, 2021
 Duration: '2:41'
 URLs:

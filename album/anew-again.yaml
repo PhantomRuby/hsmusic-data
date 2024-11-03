@@ -26,7 +26,8 @@ Commentary: |-
     "Beginning"
 ---
 Track: Decree
-Directory: decree-anew-again
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '2:58'
 URLs:
 - https://jamiepaige.bandcamp.com/track/decree

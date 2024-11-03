@@ -212,7 +212,7 @@ Referenced Tracks:
 - Homestuck Anthem
 ---
 Track: Betrayed
-Directory: betrayed-diverging-delicacies
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Joe Ouellet
@@ -268,7 +268,7 @@ Referenced Tracks:
 - Chorale for Jaspers
 ---
 Track: Come
-Directory: come-diverging-delicacies
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Grace Medley

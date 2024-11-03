@@ -570,7 +570,8 @@ Commentary: |-
     I'm really into the complexity of this song, the theremin like sound is extremely atmospheric and with the seemingly perfect amount of reverb (which i thought wasn't humanly possible) on each instrument and the funky ass chords while maintaining relatively simple drums. Overall i love this cat sound less cat song and i will be listening to it many times.
 ---
 Track: Reboot
-Directory: reboot-beforusbound
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 2:54
 Artists:
 - Pascal van den Bos
@@ -809,7 +810,8 @@ Commentary: |-
     *(Continued in [[track:victory-beforusbound]])*
 ---
 Track: Victory!
-Directory: victory-beforusbound
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 0:09
 Artists:
 - Pascal van den Bos

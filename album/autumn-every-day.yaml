@@ -397,7 +397,6 @@ Commentary: |-
     Special thanks to [[artist:marcy-nabors|Marcy Nabors]] ily
 ---
 Track: Amélie
-Directory: amelie
 Duration: '1:35'
 URLs:
 - https://jamiepaige.bandcamp.com/track/am-lie
@@ -543,7 +542,7 @@ Lyrics: |-
     You say the words that I can't say
 ---
 Track: Pass
-Directory: pass-autumn-every-day
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Jamie Paige

@@ -69,7 +69,8 @@ Commentary: |-
 Section: Disc 1
 ---
 Track: ~~Disc 1~~
-Directory: disc1-stlap3
+Directory: disc1
+Suffix Directory: true
 Artists:
 - Rainy
 Duration: 0:38
@@ -108,7 +109,7 @@ Commentary: |-
     So for Disk 1 I decided to write a character select theme in the vain of Street Fighter 2. I thought it would be a perfect fit for the art [[artist:kiddlescribbles|Kiddles]] made (which is really good btw).
 ---
 Track: Escapade
-Directory: escapade-stlap3
+Suffix Directory: true
 Originally Released As: track:escapade-desynced
 Always Reference By Directory: true
 Additional Names:
@@ -250,7 +251,7 @@ Review Points:
     URL: https://discord.com/channels/749042497610842152/954144431051788370/1241437277708619796
 ---
 Track: Splinter
-Directory: splinter-stlap3
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Rowyn Berlan
@@ -341,7 +342,8 @@ Commentary: |-
 Section: Disc 2
 ---
 Track: ~~Disc 2~~
-Directory: disc2-stlap3
+Directory: disc2
+Suffix Directory: true
 Artists:
 - Caelan Kier
 Duration: 0:27
@@ -524,7 +526,7 @@ Commentary: |-
     One day I was bored and wrote a song. The End... is what I would say if it stopped there, but alas the story continues. That song I wrote ended up becoming the main original melody in Heirflow after I found out that a handful of John motifs complimented it nicely. From there I arranged everything together to the best of my ability by adding distinct sections in between the main melody that introduced the different motifs. I also added an amen break for whatever reason, but it works. This was also my first time heavily using portamento and modulation on my lead which I really like and feel dumb for not diong sooner. Composition wise this might be my favorite song I made on STLaP 3 and I hope to make more songs like it in the future.
 ---
 Track: Snowfall
-Directory: snowfall-stlap3
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Rainy
@@ -612,7 +614,7 @@ Commentary: |-
     Last summer my girlfriend had just visited from italy, she had been here for about a bit over 2 months. my neighbor gave me an M-Audio midi keyboard just for free a few days after she left, i was pretty sad at that time because i was completely alone now with just my dog. So one evening i was just improvising on this keyboard and i played the opening piano that you now hear in Color of the Ocean and decided to make it a song. I noticed [[track:love-you-feferis-theme|Love You]] fit with it perfectly too so i made it an entire Love You remix because the original doesnt have enough DVS Sax lol. Anyway i guess you could say this song is a big ol love letter to my girlfriend. Love You!
 ---
 Track: Threshold
-Directory: threshold-stlap3
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Beau Brian
@@ -642,7 +644,8 @@ Commentary: |-
 Section: Disc 3
 ---
 Track: ~~Disc 3~~
-Directory: disc3-stlap3
+Directory: disc3
+Suffix Directory: true
 Artists:
 - Pascal van den Bos
 Duration: 0:28
@@ -907,7 +910,8 @@ Commentary: |-
 Section: Disc 4
 ---
 Track: ~~Disc 4~~
-Directory: disc4-stlap3
+Directory: disc4
+Suffix Directory: true
 Artists:
 - Rowyn Berlan
 Duration: 0:39
@@ -928,7 +932,7 @@ Commentary: |-
     So this is me sampling the original piano sketch for my song [[Lullaby for a Drifter]] and layering it with a rhodes. Lullaby for a Drifter was made for the MSPFA [[group:desynced]] ([Go check it out it epic](https://desynced.xyz/)) for a carapacian girl named Jill which is what the art is a reference to. That's it really...
 ---
 Track: Photoluminescence
-Directory: photoluminescence-stlap3
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Beau Brian
@@ -1133,7 +1137,7 @@ Commentary: |-
     Making this was actually pretty exciting, it was the first time I actually finished a LSDj song which I was trying to do for a few weeks now. I came to love the tracker because a lot of my favorite chiptune artists used it and I've grown to love the sound. I eventually bought it, spent a while figuring it out, then spent way longer trying to make a finished song out of it. I'm kind of a sucker for Sollux songs and I thought the timbre of Game Boy fidelity-majyykz were underutilized, hence the inspiration. I especially wanted that kinda pseudo-edm, hard chiptune-esque writing since I dunno I thought it sounded cool and sounded like Sollux aswell <!-- [sic] --> as doom.
 ---
 Track: Collapse
-Directory: collapse-stlap3
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Pascal van den Bos

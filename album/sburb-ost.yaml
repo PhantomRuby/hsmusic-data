@@ -72,7 +72,8 @@ Commentary: |-
 Section: Disk 1
 ---
 Track: ~~~~DISK 1~~~~
-Directory: disk1-sburb-ost
+Directory: disk1
+Suffix Directory: true
 Artists:
 - Veritas Unae
 Duration: 0:11
@@ -784,7 +785,8 @@ Commentary: |-
 Section: Disk 2
 ---
 Track: ~~~~DISK 2~~~~
-Directory: disk2-sburb-ost
+Directory: disk2
+Suffix Directory: true
 Artists:
 - Veritas Unae
 Duration: 0:09
@@ -1145,7 +1147,7 @@ Commentary: |-
 Section: Bonus tracks
 ---
 Track: ~~~~BONUS~~~~
-Directory: bonus-sburb-ost
+Suffix Directory: true
 Artists:
 - Veritas Unae
 Duration: 0:17

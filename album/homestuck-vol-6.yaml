@@ -1,5 +1,6 @@
 Album: 'Homestuck Vol. 6: Heir Transparent'
 Directory: homestuck-vol-6
+Directory Suffix: vol6
 Date: January 5 2011
 Date Added: November 15, 2019
 URLs:
@@ -74,7 +75,7 @@ Commentary: |-
     [[artist:erik-scheele|Erik "Jit" Scheele]]
 ---
 Track: Frost
-Directory: frost-vol6
+Suffix Directory: true
 Artists:
 - Solatrus
 Art Tags:

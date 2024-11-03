@@ -1,4 +1,5 @@
 Album: Look On My Works Ye Mighty And Despair
+Directory Suffix: look-on-my-works
 Artists:
 - Michael Guy Bowman
 Date: March 19, 2019
@@ -27,7 +28,8 @@ Additional Files:
   - bg.jpg
 ---
 Track: Mothership
-Directory: mothership-look-on-my-works
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '3:48'
 URLs:
 - https://bowman.bandcamp.com/track/mothership
@@ -236,7 +238,7 @@ Commentary: |-
     ([Music video!](https://www.youtube.com/watch?v=TGQn4ZUgHa4))
 ---
 Track: Unstoppable
-Directory: unstoppable-look-on-my-works
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '5:03'
 URLs:

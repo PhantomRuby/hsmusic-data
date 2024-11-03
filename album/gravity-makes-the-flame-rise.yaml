@@ -214,7 +214,7 @@ Lyrics: |-
     And ever and ever and ever and ever
 ---
 Track: Burnout
-Directory: burnout-gravity-makes-the-flame-rise
+Suffix Directory: true
 Always Reference By Directory: true
 Contributors:
 - Bijan Eghtesady (drums)
@@ -392,7 +392,7 @@ Lyrics: |-
     Oh oh oh
 ---
 Track: Manufacturers
-Directory: manufacturers-gravity-makes-the-flame-rise
+Suffix Directory: true
 Always Reference By Directory: true
 Contributors:
 - Bijan Eghtesady (drums)
@@ -505,7 +505,7 @@ Lyrics: |-
     They want to burn the government down
 ---
 Track: Anarchy
-Directory: anarchy-gravity-makes-the-flame-rise
+Suffix Directory: true
 Always Reference By Directory: true
 Contributors:
 - Bijan Eghtesady (drums)

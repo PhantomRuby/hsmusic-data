@@ -95,7 +95,7 @@ Commentary: |-
     This was inspired by listening to a lot of Gemini and Frankie Knuckles, I wasn't able to really replicate their sound (mainly cause my voice sucks) but it was a great challenge and a lot of fun. The name of the track is based off of all of the house sets that I love that are always labeled Live at (insert venue here).
 ---
 Track: Remember
-Directory: remember-sburban-neighborhood
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Cerulean

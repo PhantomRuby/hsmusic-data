@@ -46,7 +46,7 @@ URLs:
 - https://circlejourney.bandcamp.com/track/idyllic
 ---
 Track: Sundae
-Directory: sundae-some-other-horizon
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '04:51'
 URLs:
@@ -58,7 +58,7 @@ URLs:
 - https://circlejourney.bandcamp.com/track/break-the-world
 ---
 Track: Crescent
-Directory: crescent-some-other-horizon
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '03:11'
 Cover Artists:
@@ -67,7 +67,7 @@ URLs:
 - https://circlejourney.bandcamp.com/track/crescent
 ---
 Track: Bee Safe
-Directory: bee-safe-some-other-horizon
+Suffix Directory: true
 Always Reference By Directory: true
 Cover Artists:
 - Lovisa Lassen

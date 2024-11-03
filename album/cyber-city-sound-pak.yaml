@@ -208,7 +208,8 @@ Sampled Tracks:
 - Weird Birds
 ---
 Track: BEFORE THE STORY
-Directory: before-the-story-cyber-city-sound-pak
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '7:48'
 URLs:
 - https://cristata.bandcamp.com/track/before-the-story

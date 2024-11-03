@@ -1,4 +1,5 @@
 Album: Desynced Vol. 1
+Directory Suffix: desynced
 Date: February 7, 2020
 Date Added: February 12, 2021
 URLs:
@@ -26,7 +27,7 @@ Groups:
 Section: Main album
 ---
 Track: Sunrise
-Directory: sunrise-desynced
+Suffix Directory: true
 Artists:
 - Pascal van den Bos
 Duration: '3:05'
@@ -178,7 +179,7 @@ Commentary: |-
     <big>Levc: <span style="font-family: Comic Sans MS, cursive">Have a good day!</span></big>
 ---
 Track: Cooldown
-Directory: cooldown-desynced
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Rainy
@@ -253,7 +254,7 @@ Commentary: |-
     <center>to end the song,<br>it was necessary to<br>open the door...</center>
 ---
 Track: Eclipse
-Directory: eclipse-desynced
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Net
@@ -356,7 +357,7 @@ Referenced Tracks:
 - Liquid Negrocity
 ---
 Track: Daughter
-Directory: daughter-desynced
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Pascal van den Bos
@@ -385,7 +386,7 @@ Referenced Tracks:
 - Lunar Dance
 ---
 Track: Lady
-Directory: lady-desynced
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Levc
@@ -445,7 +446,7 @@ Commentary: |-
     [[artist:dizzims|Dizzy]] wanted a theme for Kate's Denizen, Gaea, that was a variation of The song [[track:daughter-desynced|"Daughter"]] by PotatoBoss. So I took the opening chords and arranged them into the repeating motif you hear throughout the song. I got the idea from listening to the track [[track:penumbra-phantasm|"Penumbra phantasm"]] and hearing how that track arranged the chords for [[Doctor]].
 ---
 Track: Noir
-Directory: noir-desynced
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Pascal van den Bos
@@ -509,7 +510,7 @@ Referenced Tracks:
 - track:alpha-admission
 ---
 Track: Escapade
-Directory: escapade-desynced
+Suffix Directory: true
 Always Reference By Directory: true
 Artists:
 - Pascal van den Bos

@@ -1,4 +1,5 @@
 Album: Homestuck Vol. 4
+Directory Suffix: vol4
 Date: April 13, 2010
 Date Added: December 12, 2020
 Bandcamp Album ID: 3084079678
@@ -185,7 +186,7 @@ Referenced Tracks:
 - track:guardian
 ---
 Track: Contention
-Directory: contention-vol4
+Suffix Directory: true
 Bandcamp Track ID: 3443123575
 # No longer available, can't be embedded
 Artists:

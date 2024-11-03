@@ -1,4 +1,5 @@
 Album: Pesterquest Soundtrack
+Directory Suffix: pesterquest
 Color: '#5fdce6'
 Date: September 13, 2021
 Date Added: April 13, 2024
@@ -203,7 +204,6 @@ Commentary: |-
     for this one and the next routes music im gonna try and keep with the tradition of uploading it the morning of.
 ---
 Track: 24/7 lo fi anime beats to question your sexuality to
-Directory: 24-7-lo-fi-anime-beats-to-question-your-sexuality-to
 Additional Names:
 - Name: >-
     Dave's other Theme "24/7 lo fi anime beats to question your sexuality to"
@@ -304,7 +304,7 @@ Commentary: |-
     anyway i hope you've enjoyed the ride! its been a little bittersweet at times for me but i'll miss posting new stuff every two weeks.
 ---
 Track: Darling Kanaya
-Directory: darling-kanaya-pesterquest
+Suffix Directory: true
 Originally Released As: track:darling-kanaya
 Has Cover Art: false
 Duration: '2:03'
@@ -313,7 +313,7 @@ URLs:
 - https://www.youtube.com/watch?v=1Llz7cjM3uk
 ---
 Track: CRUSTacean
-Directory: crustacean-pesterquest
+Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
 - Name: >-
@@ -342,8 +342,8 @@ Commentary: |-
     there are a handful of people out there who really thought we were just gonna put [[track:karkalicious|karkalicious]] in there.
 ---
 Track: mIrAcLeS
+Suffix Directory: true
 Originally Released As: track:miracles
-Directory: miracles-pesterquest
 Additional Names:
 - Name: >-
     Gamzee's Theme "mIrAcLeS"
@@ -360,8 +360,8 @@ URLs:
 - https://www.youtube.com/watch?v=YHr0f-eM4ag
 ---
 Track: Midnight Calliope
+Suffix Directory: true
 Originally Released As: track:midnight-calliope
-Directory: midnight-calliope-pesterquest
 Additional Names:
 - Name: >-
     Gamzee's Other Theme "Midnight Calliope"
@@ -409,8 +409,8 @@ Commentary: |-
     dont actually do that you clowns
 ---
 Track: Indigo Heir
+Suffix Directory: true
 Originally Released As: track:indigo-heir
-Directory: indigo-heir-pesterquest
 Additional Names:
 - Name: >-
     Equius's Theme "Indigo Heir"
@@ -471,7 +471,7 @@ URLs:
 - https://www.youtube.com/watch?v=zrtnPsoAkQg
 ---
 Track: Requiem
-Directory: requiem-pesterquest
+Suffix Directory: true
 Originally Released As: track:requiem-labyrinths-heart
 Additional Names:
 - Name: >-
@@ -516,7 +516,7 @@ Commentary: |-
     in its base form this song used to be about a cat and is like more than a decade old
 ---
 Track: Love You
-Directory: love-you-pesterquest
+Suffix Directory: true
 Originally Released As: track:love-you-feferis-theme
 Additional Names:
 - Name: >-
@@ -587,7 +587,8 @@ URLs:
 - https://www.youtube.com/watch?v=eciwBYIR8_k
 ---
 Track: Even in Death (T'Morra's Belly Mix)
-Directory: even-in-death-pesterquest
+Directory: even-in-death
+Suffix Directory: true
 Originally Released As: track:even-in-death-tmorras-belly-mix
 Additional Names:
 - Name: >-
@@ -605,7 +606,7 @@ URLs:
 - https://www.youtube.com/watch?v=nKqLPb9YDnM
 ---
 Track: Unite Synchronization
-Directory: unite-synchronization-pesterquest
+Suffix Directory: true
 Originally Released As: track:unite-synchronization
 Additional Names:
 - Name: >-
@@ -623,6 +624,8 @@ URLs:
 - https://www.youtube.com/watch?v=X-kDKrpgPck
 ---
 Track: Beatup
+Suffix Directory: true
+Originally Released As: track:beatup
 Additional Names:
 - Name: >-
     Ultimate Dirk's Theme "Beatup"
@@ -632,8 +635,6 @@ Additional Names:
     Ultimate Dirk's Theme, *"Beatup"*
   Annotation: >-
     in-game credits
-Directory: beatup-pesterquest
-Originally Released As: track:beatup
 Has Cover Art: false
 Duration: '5:14'
 URLs:

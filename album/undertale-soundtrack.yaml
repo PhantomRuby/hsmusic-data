@@ -1,4 +1,5 @@
 Album: UNDERTALE Soundtrack
+Directory Suffix: undertale
 Artists:
 - Toby Fox
 Date: September 15, 2015
@@ -61,7 +62,7 @@ URLs:
 - https://open.spotify.com/track/6gJTgSwOw2TqAPCnk2gTlk
 ---
 Track: Fallen Down
-Directory: fallen-down-undertale
+Suffix Directory: true
 Duration: 0:57
 Sampled Tracks:
 - track:fallen-down
@@ -77,7 +78,7 @@ Commentary: |-
     Someone recently asked me how I create songs that fit the characters and scenarios in the game so perfectly. Well, given the fact that some of them weren't created for UNDERTALE... I actually think I'm just good at using the fact that the human mind loves to make associations. Whatever you hear first in a scenario will be the thing that "fits."
 ---
 Track: Ruins
-Directory: ruins-undertale
+Suffix Directory: true
 Duration: '1:32'
 URLs:
 - https://tobyfox.bandcamp.com/track/ruins-2
@@ -129,7 +130,7 @@ URLs:
 - https://open.spotify.com/track/3KHbBpwYdlM6uKJirvCrEA
 ---
 Track: Home
-Directory: home-undertale
+Suffix Directory: true
 Duration: '2:03'
 URLs:
 - https://tobyfox.bandcamp.com/track/home-2
@@ -235,7 +236,7 @@ Commentary: |-
     I really liked playing this one on the piano. Whenever I played it my mom would get it stuck in her head and whistle it. So I'm quite proud of it.
 ---
 Track: Shop
-Directory: shop-undertale
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 0:50
 URLs:
@@ -281,7 +282,7 @@ Referenced Tracks:
 - Snowdin Town
 ---
 Track: Premonition
-Directory: premonition-undertale
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:01'
 URLs:
@@ -335,7 +336,7 @@ Referenced Tracks:
 - track:ruins-undertale
 ---
 Track: Memory
-Directory: memory-undertale
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:15'
 URLs:
@@ -383,7 +384,7 @@ Referenced Tracks:
 - Ghost Fight
 ---
 Track: Spooktune
-Directory: spooktune-undertale
+Suffix Directory: true
 Duration: 0:23
 URLs:
 - https://tobyfox.bandcamp.com/track/spooktune
@@ -409,7 +410,7 @@ Referenced Tracks:
 - The One Horse Open Sleigh
 ---
 Track: Chill
-Directory: chill-undertale
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 0:56
 URLs:
@@ -522,7 +523,7 @@ Referenced Tracks:
 - Enemy Approaching
 ---
 Track: Hotel
-Directory: hotel-undertale
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:27'
 URLs:
@@ -543,7 +544,7 @@ Referenced Tracks:
 - Once Upon a Time
 ---
 Track: Confession
-Directory: confession-undertale
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 0:42
 URLs:
@@ -720,7 +721,7 @@ URLs:
 - https://open.spotify.com/track/7g2vS40kPg9PVMc8muxzBb
 ---
 Track: Barrier
-Directory: barrier-undertale
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: 0:31
 URLs:
@@ -769,7 +770,7 @@ Referenced Tracks:
 - Terezi's Theme
 ---
 Track: Finale
-Directory: finale-undertale
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:52'
 URLs:
@@ -884,7 +885,7 @@ Referenced Tracks:
 - Once Upon a Time
 ---
 Track: Reunited
-Directory: reunited-undertale
+Suffix Directory: true
 Duration: '4:44'
 URLs:
 - https://www.youtube.com/watch?v=8K0npQ--ACw
@@ -903,7 +904,7 @@ Referenced Tracks:
 - Once Upon a Time
 ---
 Track: Respite
-Directory: respite-undertale
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '1:54'
 URLs:
@@ -965,7 +966,7 @@ Referenced Tracks:
 - Battle Against a True Hero
 ---
 Track: MEGALOVANIA
-Directory: megalovania-undertale
+Suffix Directory: true
 Duration: '2:36'
 URLs:
 - https://www.youtube.com/watch?v=c5daGZ96QGU
