@@ -8,6 +8,15 @@ URLs:
 Cover Artists:
 - GITGOT
 Cover Art File Extension: png
+Wallpaper Artists:
+- KiddleScribbles
+- 'Quasar Nebula (edits for wiki: crop, gradient)'
+Wallpaper File Extension: png
+Wallpaper Style: |-
+    opacity: 0.45;
+    background-repeat: repeat-x;
+    background-size: auto 100vh;
+    background-size: auto 100lvh;
 Color: '#9294d6'
 Groups:
 - The Paradox Music Team
