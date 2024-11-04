@@ -1,0 +1,30 @@
+Album: Bittersweet
+Directory: bittersweet-hilary-troiano
+Artists:
+- Hilary Troiano
+Date: March 20, 2010
+URLs:
+- https://jaydeis.bandcamp.com/track/bittersweet
+Cover Artists:
+- Hilary Troiano
+Cover Art File Extension: png
+Wallpaper Artists:
+- Hilary Troiano
+- Lilithtreasure (edits for wiki)
+Wallpaper Style: |-
+    opacity: 0.3;
+Wallpaper File Extension: png
+Color: '#febc90'
+Groups:
+- Beyond
+Commentary: |-
+    <i>Hilary Troiano:</i> ([Bandcamp credits blurb](https://jaydeis.bandcamp.com/track/bittersweet))
+
+    composed using Famitracker 0.3.0
+---
+Track: Bittersweet
+Directory: bittersweet-hilary-troiano
+Always Reference By Directory: true
+Duration: 5:20
+URLs:
+- https://jaydeis.bandcamp.com/track/bittersweet
