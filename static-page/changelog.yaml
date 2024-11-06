@@ -47,6 +47,18 @@ Content: |-
         - added [[album:gba-pokemon-unbound-super-music-collection]]!
         - added [[album:unbound-day-selection-original-soundtrack]]!
         - added [[album:unbound-battle-selection-original-soundtrack]]!
+    - added singles and more by [[artist:raid]]! (thanks, Lilith!)
+        - added [[album:doctor-raid-remix]]!
+        - added [[album:beatdown-raid-remix]]!
+        - added [[album:black-raid-remix]]!
+        - added [[album:moonslayer]]!
+        - added [[album:universal-umbrosity]]!
+        - added [[album:flare-raid-remix]]!
+        - added [[album:i-warned-you-about-stairs]]!
+    - added singles by [[artist:ludicrousfalcon]]! (thanks, Lilith!)
+        - added [[album:the-showdown-single-version]] and [[album:the-showdown-album-version]]!
+        - added [[album:adventurous-ascent-single-version]] and [[album:adventurous-ascent-lofam5a2-version]]!
+        - added [[album:infinite-cataclysm]]!
     <h3>other additions</h3>
     - added bonus track [[track:a-sour-brote-of-gamgitation-plays]] to [[album:brostuck]] (thanks, Lilith, Whisper!)
     - added commentary from "Michael Guy Bowman Talks About His Homestuck Music" to [[track:sburban-jungle]], [[track:harlequin-rock-version]], [[track:explore]], [[track:ohgodwhat-remix]], [[track:chorale-for-jaspers]], [[track:pony-chorale]], [[album:midnight-crew-drawing-dead]], [[track:lunar-eclipse]], [[track:hauntjam]], [[album:homestuck-vol-5]], [[track:how-do-i-live-bunny-back-in-the-box-version]], [[track:greenhouse]], [[track:ruins-with-strings]], [[track:hardchorale]], [[track:happy-cat-song]], [[album:squiddles]], [[track:squiddle-samba]], [[track:tangled-waltz]], [[track:mister-bowman-tells-you-about-the-squiddles]], [[track:i-dont-want-to-miss-a-thing]], [[album:mobius-trip-and-hadron-kaleido]], [[track:lies-with-the-sea]], [[track:dawn-of-man]], [[track:chain-of-prospit]], [[album:homestuck-vol-7]], [[track:warhammer-of-zillyhoo]], [[track:maplehoofs-adventure]], [[album:the-wanderers]], [[track:ruins-rising]], [[track:calamity]], [[track:ocean-stars-falling]], [[track:escape-pod]], [[track:frog-hunt]], [[track:gust-of-heir]], [[track:revered-return]], [[track:how-do-i-live-d8-night-version]], [[track:another-jungle]], [[track:gamegrl-original-1993-mix]], [[track:minihoofs-adventure]], [[track:elephant-gun]], [[track:busting-makes-me-feel-good]], [[track:iRRRRRRRRECONCILA8LE]], [[track:im-a-member-of-the-midnight-crew-post-punk-version]], [[track:another-countdown]], [[track:constant-conquest]], [[album:homestuck-vol-10]], and [[track:solar-voyage]]
@@ -115,8 +127,10 @@ Content: |-
         - fixed duration for [[track:bandages-archive]] (0:46 rather than 0:56; thanks, Lilith!)
     - marked [[track:let-me-dance-let-me-glisten]] ([[album:beforus]]) newly as a rerelease (thanks, Lilith!)
     - marked [[track:the-sock-ruse]] ([[album:lofam4]]) newly as a rerelease (thanks, Lilith!)
+    - marked [[track:moonslayer-lofam5a2]] ([[album:lofam5a2]]) newly as a rerelease (thanks, Lilith!)
     - removed "Infection 2" and made this into an additional name on [[track:chronic-infection]] (and added commentary here; thanks, Lilith!)
     - removed "Flare (Green Sun Remix)" and made this into an additional name on [[track:flare-insurrection-remix]] (which was previously listed as a rerelease)
+    - added YouTube listening link to [[track:versus-hardmode-remix]] (thanks, Lilith!)
     - styled banner for [[album:lofam]] to preserve pixelated look (thanks, Surge!)
     - colorized tracks in [[album:rust-apocalypse]] (thanks, Lilith, Tangle!)
     - formatted lyrics for [[track:synchronise]] with links, like [[track:s-next-arrow]] (thanks, Lilith!)
@@ -135,6 +149,7 @@ Content: |-
     - fixed [[track:apexhalation]] referencing [[track:ham-and-steak]], instead of the other way around (thanks, Grace, Niklink, Surge, Lilith!)
     - fixed [[track:chronic-infection]] referencing [[track:chronic-jungle]] instead of [[track:chronic-jungle-redone]] (thanks, Lilith!)
     - fixed [[track:candles-potency]] not referencing [[track:candles-and-potency]], and moved [[track:candles-and-clockwork]] reference to that track (thanks, Lilith!)
+    - fixed [[track:adventurous-ascent]] ([[album:lofam5a2]]) not referencing [[track:adventurous-ascent-single-version]] (thanks, Lilith!)
     - fixed [[track:anarchy-gravity-makes-the-flame-rise]] not sampling [[track:nothing-but-the-best]] (thanks, ruby!)
     - fixed [[track:cheer-up-crabface-its-halloween]] not referencing [[track:crustacean]] and [[track:rex-duodecim-angelus]] (thanks, Lilith!)
     - fixed [[track:valor-toby-fox]] not referencing [[track:showtime-original-mix]] (thanks, Lilith!)
@@ -304,9 +319,11 @@ Content: |-
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b> (general changes)</summary>
     - changed directory of [[track:f-climbing-lofam5]] from <code>f-climbing-lofam4</code> to <code>f-climbing-lofam5</code> (thanks, Lilith!)
+    - changed directory of [[track:moonslayer-lofam5a2]] from <code>moonslayer</code> to <code>moonslayer-lofam5a2</code> (thanks, Lilith!)
     - changed directory of [[track:underground-path-dwellers-empty-path]] from <code>underground-path</code> to <code>underground-path-dwellers-empty-path</code>
     - changed directory of [[track:oracle-unknown-diva]] from <code>oracle</code> to <code>oracle-unknown-diva</code>
     - changed directory of [[artist:avocado-canmt]] from <code>avocado</code> to <code>avocado-canmt</code>
+    - changed directory of [[artist:takahiro-yamada-asian-kung-fu]] from <code>takahiro-yamada</code> to <code>takahiro-yamada-asian-kung-fu</code>
     </details>
     <details><summary><b>Toggle Directorylog</b> (Nintendo Music changes; thanks, ruby!)</summary>
     - changed directory of [[track:welcome-to-paldea]] from <code>welcome-to-the-paldea-region</code> to <code>welcome-to-paldea</code>
