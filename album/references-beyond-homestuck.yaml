@@ -46384,6 +46384,17 @@ Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor)
     Spoken by Lunar during the final boss of *Mischief Makers*, which doesn't appear to have voice acting credits available.
 ---
+Track: Tunnel Ambience
+Directory: tunnel-ambience-timbre
+Always Reference By Directory: true
+Artists:
+- Timbre
+URLs:
+- https://freesound.org/people/Timbre/packs/4902/
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+    Pack of 7 sounds.
+---
 Track: Up-Hill
 Artists:
 - Christina Rossetti
