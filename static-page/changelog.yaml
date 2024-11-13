@@ -35,18 +35,22 @@ Content: |-
     <h2 id="1-jan-2099" class="major-release"><html:a href="#1-jan-2099">[[date:1 January 2099]] - Anachronist's Library</a></h2>
     <h3>site changes</h3>
     <h3>album additions</h3>
+    <!-- fandom chronologically, single-lines -->
     - added [[album:loftlocked-vol-1]]! (thanks, Lilith, Jebb, Pat, Audrey!)
     - added [[album:let-me-dance-let-me-glisten-single]]! (thanks, Lilith!)
     - added [[album:sbahj-the-album]]! (thanks, Lilith, Lan, votl!)
     - added [[album:freeroam-volume-1]] and [[album:freeroam-volume-2]]! (thanks, Lilith!)
     - added [[album:rooftop-paladin]] by [[artist:hazama-yuutou]]! (thanks, Lilith!)
+    <!-- beyond chronologically, single-lines -->
     - added [[album:improvised-touhou-music-with-annoying-commentary]] by [[group:toby-fox]]! (thanks, Lilith!)
     - added [[album:your-majesty]] by [[group:michael-guy-bowman]]! (thanks, Surge, Lan!)
     - added [[album:dead-maams-chest]] by [[artist:houshou-marine]]! (thanks, ruby!)
+    <!-- team releases, subsections -->
     - added albums from [[group:the-paradox-music-team]]! (thanks, ruby, Tangle, Whisper, Pascal!)
         - added [[album:gba-pokemon-unbound-super-music-collection]]!
         - added [[album:unbound-day-selection-original-soundtrack]]!
         - added [[album:unbound-battle-selection-original-soundtrack]]!
+    <!-- solo releases, subsections -->
     - added singles and more by [[artist:raid]]! (thanks, Lilith, Tangle!)
         - added [[album:doctor-raid-remix]]!
         - added [[album:beatdown-raid-remix]]!
@@ -60,26 +64,29 @@ Content: |-
         - added [[album:adventurous-ascent-single-version]] and [[album:adventurous-ascent-lofam5a2-version]]!
         - added [[album:infinite-cataclysm]]!
     <h3>other additions</h3>
+    <!-- tracks -->
     - added bonus track [[track:a-sour-brote-of-gamgitation-plays]] to [[album:brostuck]] (thanks, Lilith, Whisper!)
+    <!-- commentary -->
     - added commentary from "Michael Guy Bowman Talks About His Homestuck Music" to [[track:sburban-jungle]], [[track:harlequin-rock-version]], [[track:explore]], [[track:ohgodwhat-remix]], [[track:chorale-for-jaspers]], [[track:pony-chorale]], [[album:midnight-crew-drawing-dead]], [[track:lunar-eclipse]], [[track:hauntjam]], [[album:homestuck-vol-5]], [[track:how-do-i-live-bunny-back-in-the-box-version]], [[track:greenhouse]], [[track:ruins-with-strings]], [[track:hardchorale]], [[track:happy-cat-song]], [[album:squiddles]], [[track:squiddle-samba]], [[track:tangled-waltz]], [[track:mister-bowman-tells-you-about-the-squiddles]], [[track:i-dont-want-to-miss-a-thing]], [[album:mobius-trip-and-hadron-kaleido]], [[track:lies-with-the-sea]], [[track:dawn-of-man]], [[track:chain-of-prospit]], [[album:homestuck-vol-7]], [[track:warhammer-of-zillyhoo]], [[track:maplehoofs-adventure]], [[album:the-wanderers]], [[track:ruins-rising]], [[track:calamity]], [[track:ocean-stars-falling]], [[track:escape-pod]], [[track:frog-hunt]], [[track:gust-of-heir]], [[track:revered-return]], [[track:how-do-i-live-d8-night-version]], [[track:another-jungle]], [[track:gamegrl-original-1993-mix]], [[track:minihoofs-adventure]], [[track:elephant-gun]], [[track:busting-makes-me-feel-good]], [[track:iRRRRRRRRECONCILA8LE]], [[track:im-a-member-of-the-midnight-crew-post-punk-version]], [[track:another-countdown]], [[track:constant-conquest]], [[album:homestuck-vol-10]], and [[track:solar-voyage]]
-    - added commentary from [[artist:michael-guy-bowman]] (and co, from Bowmantown, with permission) to [[album:jailbreak-vol-1]] and [[album:homestuck-vol-10]] (thanks, Celeste, Bowman, Bea, Surge!)
-    - added commentary blurbs from Bandcamp and YouTube, as well as additional names mostly from YouTube, across [[album:the-funk-mclovin-homestuck-experience]], [[album:class-act]], and [[album:class-act-b-side]]
-    - added citations for Bandcamp commentary blurbs on [[album:jailbreak-vol-1]] (thanks, Lilith, Lan!)
-    - added Bandcamp commentary blurbs to [[album:homestuck-for-the-holidays]], [[album:lofam]], [[album:jailbreak-vol-1]] (additional credits text), and [[album:tomb-of-the-ancestors]] (thanks, Lilith, Lan!)
-    - added commentary, previously transcribed in lyrics of [[track:audio-commentary-featuring-robert-j-lake-nick-smalley-luke-gfd-benjamins-and-erik-jit-scheele|album audio commentary]], across tracks on [[album:jailbreak-vol-1]] (thanks, Lan!)
-    - added composers' NSF project files to [[track:logorg]], [[track:bars-jailbreak]], [[track:drillgorg]], and [[track:retrobution]] (duplicated from album's additional files; thanks, Lan!)
-    - added album release commentary to [[album:gravity-makes-the-flame-rise]] and [[album:ulterior-motives]]
-    - added album release photoset to [[album:ulterior-motives]]
-    - added Twitter commentary from [[artist:twirlin-curtis]] to [[track:wv-become-the-mayor-of-cans]] (thanks, Makin, Lilith!)
-    - added SoundCloud commentary from [[artist:difarem]], additional name, and listening link to [[track:chronic-infection]] (thanks, Lilith!)
-    - added Bandcamp commentary blurb (2022) and related notes to [[album:perfectly-generic-album]] (thanks, Tangle, Lilith!)
-    - added Tumblr commentary from [[artist:toby-fox]] and listening link to [[track:valor-toby-fox]] (thanks, Lilith!)
-    - added Tumblr commentary from [[artist:malcolm-brown]] and listening link to [[track:cheer-up-crabface-its-halloween]] and [[track:flight-of-the-white-wolf]] (thanks, Lilith!)
-    - added SoundCloud commentary from [[artist:difarem]] and additional name to [[track:hankage-fantazumu-2]] (thanks, Lilith!)
+    - added commentary from Bowmantown (with permission) to [[album:homestuck-vol-10]] and [[album:jailbreak-vol-1]] (thanks, Celeste, Bowman, Bea, Surge!)
+    - added Twitter commentary to [[track:wv-become-the-mayor-of-cans]] (thanks, Makin, Lilith!)
     - added Tumblr commentary and full-size artwork to [[track:hate-you]] (thanks, Lilith, Whisper!)
     - added Tumblr commentary and full-size artwork to [[track:pink-cat]] (thanks, Makin, Lilith, Whisper!)
+    - added Bandcamp commentary blurbs to [[album:homestuck-for-the-holidays]], [[album:lofam]], [[album:jailbreak-vol-1]] (additional credits text), and [[album:tomb-of-the-ancestors]] (thanks, Lilith, Lan!)
+    - added commentary, previously transcribed in lyrics of [[track:audio-commentary-featuring-robert-j-lake-nick-smalley-luke-gfd-benjamins-and-erik-jit-scheele|album audio commentary]], across tracks on [[album:jailbreak-vol-1]] (thanks, Lan!)
     - added Tumblr commentary and better-quality background to [[album:the-planets]] (thanks, Lilith, Whisper!)
+    - added SoundCloud commentary and additional name to [[track:hankage-fantazumu-2]] (thanks, Lilith!)
+    - added SoundCloud commentary, additional name, and listening link to [[track:chronic-infection]] (thanks, Lilith!)
+    - added Bandcamp commentary blurb (2022) and related notes to [[album:perfectly-generic-album]] (thanks, Tangle, Lilith!)
+    - added commentary blurbs from Bandcamp and YouTube, as well as additional names mostly from YouTube, across [[album:the-funk-mclovin-homestuck-experience]], [[album:class-act]], and [[album:class-act-b-side]]
+    - added album release commentary to [[album:gravity-makes-the-flame-rise]] and [[album:ulterior-motives]]
+    - added Tumblr commentary and listening links to [[track:valor-toby-fox]] and [[track:cheer-up-crabface-its-halloween]] and [[track:flight-of-the-white-wolf]] (thanks, Lilith!)
+    <!-- artworks -->
     - added better-quality alternate artwork to [[track:elephant-gun]] (thanks, Lilith!)
+    <!-- additional files -->
+    - added composers' NSF project files to [[track:logorg]], [[track:bars-jailbreak]], [[track:drillgorg]], and [[track:retrobution]] (duplicated from album's additional files; thanks, Lan!)
+    - added album release photoset to [[album:ulterior-motives]]
+    <!-- additional names -->
     - added additional names to many tracks: (thanks, Lilith, Lan, Tangle!)
         - [[track:rediscover-fusion]] ("RS5" as remixed)
         - [[track:blackest-heart-with-honks]] (earlier MSPA credit)
@@ -118,26 +125,35 @@ Content: |-
         - [[album:homestuck-15th-anniversary-medley]] (alternate name, YouTube)
         - [[album:aspect-clock]] (normalized)
         - [[album:the-vriska-mixt8pe]] (quirk-free)
+    <!-- listening links -->
+    - added YouTube listening link to [[track:versus-hardmode-remix]] (thanks, Lilith!)
+    <!-- commentary citations -->
+    - added citations for Bandcamp commentary blurbs on [[album:jailbreak-vol-1]] (thanks, Lilith, Lan!)
     <h3>data changes</h3>
+    <!-- overarching presentation -->
     - consolidated [[album:archive]] as a single album on the wiki, based on 2024 release/restoration (was previously two albums, <code>archive</code> from 2016 and <code>archive-2018</code> from 2018; thanks, Whisper, Lan, Bowman, Celeste, Niklink, Morris!)
         - added 2016 and 2018 release names to [[track:crimesters-theme]], [[track:crimesters-credits]], and [[track:awake-2013-version]]
         - added lots of commentary and context on the album page
         - added updated Bandcamp about and credits blurbs
         - added Bandcamp listening links for previously bonus tracks
         - fixed duration for [[track:bandages-archive]] (0:46 rather than 0:56; thanks, Lilith!)
-    - marked [[track:let-me-dance-let-me-glisten]] ([[album:beforus]]) newly as a rerelease (thanks, Lilith!)
-    - marked [[track:the-sock-ruse]] ([[album:lofam4]]) newly as a rerelease (thanks, Lilith!)
-    - marked [[track:moonslayer-lofam5a2]] ([[album:lofam5a2]]) newly as a rerelease (thanks, Lilith!)
-    - removed "Infection 2" and made this into an additional name on [[track:chronic-infection]] (and added commentary here; thanks, Lilith!)
-    - removed "Flare (Green Sun Remix)" and made this into an additional name on [[track:flare-insurrection-remix]] (which was previously listed as a rerelease)
-    - added YouTube listening link to [[track:versus-hardmode-remix]] (thanks, Lilith!)
+    <!-- misc presentation tweaks -->
     - styled banner for [[album:lofam]] to preserve pixelated look (thanks, Surge!)
     - colorized tracks in [[album:rust-apocalypse]] (thanks, Lilith, Tangle!)
     - formatted lyrics for [[track:synchronise]] with links, like [[track:s-next-arrow]] (thanks, Lilith!)
+    <!-- rereleases -->
+    - marked [[track:let-me-dance-let-me-glisten]] ([[album:beforus]]) newly as a rerelease (thanks, Lilith!)
+    - marked [[track:the-sock-ruse]] ([[album:lofam4]]) newly as a rerelease (thanks, Lilith!)
+    - marked [[track:moonslayer-lofam5a2]] ([[album:lofam5a2]]) newly as a rerelease (thanks, Lilith!)
+    <!-- moved tracks, track section changes -->
     - moved [[track:gasters-theme-pga]] ([[album:perfectly-generic-album]]) from main track list to new "Removed in 2022 release" section (thanks, Tangle!)
     - moved [[track:thunderhead-loftlocked]] from [[album:more-homestuck-fandom]] to [[album:loftlocked-vol-1]] (thanks, Lilith!)
     - moved [[track:an-apple-disaster]] from [[album:references-beyond-homestuck]] to [[album:improvised-touhou-music-with-annoying-commentary]] (thanks, Lilith!)
+    <!-- general removals -->
+    - removed "Infection 2" and made this into an additional name on [[track:chronic-infection]] (and added commentary here; thanks, Lilith!)
+    - removed "Flare (Green Sun Remix)" and made this into an additional name on [[track:flare-insurrection-remix]] (which was previously listed as a rerelease)
     <h3>data fixes</h3>
+    <!-- reference fixes -->
     - fixed [[track:fiduspawn-go]] not referencing [[track:title-screen-pokemon-red-blue]] (thanks, ruby!)
     - fixed [[track:skaian-overdrive]] not referencing [[track:skaian-overdrive-original]] (original recording), and moved [[track:skaian-ride]] and [[track:sburban-jungle]] references to that track (thanks, Lilith!)
     - fixed [[track:feel-alive]] referencing [[track:feel-old-ver]] instead of [[track:feel-luke-benjamins]], and [[track:feel-old-ver]] referencing [[track:feel-luke-benjamins]] instead of the other way around (thanks, Lilith, Whisper, ruby!)
@@ -154,17 +170,22 @@ Content: |-
     - fixed [[track:cheer-up-crabface-its-halloween]] not referencing [[track:crustacean]] and [[track:rex-duodecim-angelus]] (thanks, Lilith!)
     - fixed [[track:valor-toby-fox]] not referencing [[track:showtime-original-mix]] (thanks, Lilith!)
     - fixed [[track:final-savage-all-voice]] ([[artist:beat-throat-mario]]) referencing [[track:un-owen-was-her]] instead of [[track:final-savage-sister-flandre-s]] (thanks, Lilith!)
+    <!-- crediting fixes -->
     - fixed [[track:happy-cat-song]] crediting [[artist:michael-guy-bowman]] before [[artist:toby-fox]], as co-artists (thanks, Lilith, Whisper!)
     - fixed [[track:renewed-return]] crediting [[artist:kyle-g-jamolin]] with two separate credits inside same contributor list (thanks, Whisper, Lilith!)
     - fixed [[track:the-will-to-fight-further]] not crediting [[artist:marcy-nabors]] for Shreddage guitar (thanks, Lilith, Lan, ruby, Rainy, Whisper!)
     - fixed [[track:vaporwave-2016-track1]] not crediting [[artist:marcy-nabors]] as co-artist (thanks, Lilith!)
     - fixed [[track:hankage-fantazumu-2]] not crediting [[artist:difarem]] - nor anyone at all! - as artist (thanks, Lilith!)
     - fixed [[track:voids-edge]] not crediting [[artist:rainy]] as co-artist (thanks, Lilith!)
+    <!-- merged artists -->
     - fixed [[artist:corbin-pangilinan]] having some credits under another name (thanks, Lilith!)
     - fixed [[artist:rachel-lake]] having some credits under another name (thanks, Rainy, Lilith!)
     - fixed [[artist:twirlin-curtis]] having some credits under another name (thanks, Makin, Lilith!)
     - fixed [[artist:waif]] having some credits under another name (thanks, Makin, Whisper, Lilith!)
-    - fixed [[album:homestuck-vol-4]] not listing "Homestuck_Vol4_alt9.jpg" additional file (thanks, Lilith!)
+    <!-- track section fixes -->
+    - fixed [[track:a-new-world-reprise]] ([[album:reprise]]) not being listed as a bonus track (thanks, Tangle!)
+    - fixed [[track:the-song-of-all-time]] not being listed as a bonus track (thanks, Lan!)
+    <!-- name fixes (subsections) -->
     - fixed some [[group:official]] tracks' names not aligning with Homestuck's Bandcamp (thanks, Lilith!)
         - fixed [[track:walls-covered-in-blood]] being named "Walls Covered in Blood" (lowercase "in")
         - fixed [[track:requiem-of-sunshine-and-rainbows]] being named "Requiem of Sunshine and Rainbows" (lowercase "of", "and")
@@ -294,28 +315,33 @@ Content: |-
         <li>fixed [[track:main-theme-wii-shop-channel]] being named "Wii Shop Channel"</li>
         <li>fixed [[track:song-of-storms]] being named 'Ocarina "Song of Storms"'</li>
     </ul></details>
+    <!-- name fixes (single-lines) -->
     - fixed [[track:carbon-nadsat-cuestick-genius]] being named "Carbon Nadsat / Cuestick Genius" (spaces around slash; thanks, Pyryte, Lilith, Lan!)
     - fixed [[track:cheer-up-crabface-its-halloween]] being named "Cheer up, crabface, it's Halloween!", and added this as an additional name with details in commentary (thanks, Lilith!)
     - fixed [[track:feel-old-ver]] being named "Feel (Old. Ver)" (thanks, Whisper, Lilith!)
     - fixed [[track:touch-tone-telephone]] being named "Touchtone Telephone" (no dash; thanks, Lilith!)
-    - fixed [[track:a-new-world-reprise]] ([[album:reprise]]) not being listed as a bonus track (thanks, Tangle!)
-    - fixed [[track:the-song-of-all-time]] not being listed as a bonus track (thanks, Lan!)
-    - fixed Apple Music listening links for [[album:dance-of-thorns-richaadeb]] and [[album:oppa-toby-style-richaadeb]] ([[artist:richaadeb]]; thanks, Tangle!)
-    - fixed YouTube listening link for [[album:oppa-toby-style-richaadeb]] ([[artist:richaadeb]]; thanks, Tangle!)
+    <!-- general data fixes -->
     - fixed duration of [[track:wanderlust-redditstuck]] (was 3:52, now 3:24; thanks, Lilith, Lan, Makin!)
-    - fixed YouTube listening link for [[track:un-owen-was-her]] (was to [unofficial "full version"](https://www.youtube.com/watch?v=8jJZA-O_B78); thanks, Lilith!)
-    - fixed wiki-archive listening link for [[track:searching-the-desert-for-chiptunes]] (thanks, Geese, Lan, Lilith!)
-    - removed "?in=" from SoundCloud track links, affecting albums [[album:7th-gate-project]], [[album:aspect-clock]], [[album:a-viral-medium-vol-1]], [[album:incipient-overture]], [[album:crossmound-vol-1]], and [[album:vinculum-vitae]] (thanks, Lan!)
-    - removed country codes from Apple Music links, affecting albums [[album:funkstuck-24]] and [[album:references-beyond-homestuck]], and various artists (thanks, Lan!)
+    <!-- additional file fixes -->
+    - fixed [[album:homestuck-vol-4]] not listing "Homestuck_Vol4_alt9.jpg" additional file (thanks, Lilith!)
+    <!-- art tag fixes -->
     - added [[tag:hadron-kaleido]] tag to [[track:even-in-death-tmorras-belly-mix]] (thanks, Amberlina, Whisper, Lilith!)
     - added [[tag:pm]] and [[tag:jack-noir]] tags to [[track:grimbark]] (thanks, Lilith!)
     - added [[tag:charlie-davis-desynced]] tag to [[track:midnight-squared]] (thanks, Lilith!)
     - added [[tag:bowman]] tag to [[album:gravity-makes-the-flame-rise]] and [[album:ulterior-motives]]
+    <!-- lyric fixes -->
     - fixed some lyrics in [[track:vs-bros]] (thanks, Lilith!)
         - was missing "(JOHN: How much further can he go at this?)"
         - was missing speaker in "(DAVE: He's gonna run out of words sometime!)"
     - updated lyrics formatting in [[track:fatalism]], [[track:aquasex-renegade]], [[track:puppeteer-beforus]] and fixed various commentary transcription typos in [[album:beforus]] (thanks, Lilith!)
     - fixed spacing in lyrics for [[track:squiddles-the-movie-trailer-the-day-the-unicorns-couldnt-play]]
+    <!-- listening link fixes -->
+    - fixed Apple Music listening links for [[album:dance-of-thorns-richaadeb]] and [[album:oppa-toby-style-richaadeb]] ([[artist:richaadeb]]; thanks, Tangle!)
+    - fixed YouTube listening link for [[album:oppa-toby-style-richaadeb]] ([[artist:richaadeb]]; thanks, Tangle!)
+    - fixed YouTube listening link for [[track:un-owen-was-her]] (was to [unofficial "full version"](https://www.youtube.com/watch?v=8jJZA-O_B78); thanks, Lilith!)
+    - fixed wiki-archive listening link for [[track:searching-the-desert-for-chiptunes]] (thanks, Geese, Lan, Lilith!)
+    - removed "?in=" from SoundCloud track links, affecting albums [[album:7th-gate-project]], [[album:aspect-clock]], [[album:a-viral-medium-vol-1]], [[album:incipient-overture]], [[album:crossmound-vol-1]], and [[album:vinculum-vitae]] (thanks, Lan!)
+    - removed country codes from Apple Music links, affecting albums [[album:funkstuck-24]] and [[album:references-beyond-homestuck]], and various artists (thanks, Lan!)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b> (general changes)</summary>
     - changed directory of [[track:f-climbing-lofam5]] from <code>f-climbing-lofam4</code> to <code>f-climbing-lofam5</code> (thanks, Lilith!)
