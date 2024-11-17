@@ -2306,7 +2306,7 @@ Artist: Collector
 Artist: Cool and New Music Team
 ---
 Artist: Cool and New Web Comic
-Context Notes: >-
+Context Notes: |-
     For crediting visual elements that are lifted directly from Cool and New Web Comic. Most notably, the track art for some latter CANMT tracks are simply screenshots of the web comic.
 ---
 Artist: Coolio
@@ -2402,8 +2402,6 @@ Artist: Cowboy Bebop
 Artist: Cozmia
 Aliases:
 - Cosmia
-Context Notes: |-
-    Alias of [[group:cristata]].
 URLs:
 - https://cristata.bandcamp.com/
 ---
@@ -3319,8 +3317,6 @@ URLs:
 - https://twitter.com/DustinAjar
 ---
 Artist: Dvojka
-Context Notes: |-
-    One-man band; alias of [[artist:xszelor]].
 URLs:
 - https://dvojka.bandcamp.com
 ---
@@ -4028,8 +4024,6 @@ Dead URLs:
 - https://soundcloud.com/frostymac123
 ---
 Artist: FRUITYTEE
-Context Notes: |-
-    Alias of [[group:cristata]].
 URLs:
 - https://cristata.bandcamp.com/
 ---
@@ -4695,8 +4689,6 @@ Dead URLs:
 Artist: HermesNitram
 ---
 Artist: hexidecimal
-Context Notes: |-
-    Alias of [[group:cristata]].
 URLs:
 - https://cristata.bandcamp.com/
 ---
@@ -4717,8 +4709,6 @@ URLs:
 Artist: Hieronymous Bosch
 ---
 Artist: Highblood
-Context Notes: |-
-    One-man band; alias of [[artist:xszelor]].
 URLs:
 - https://thehighblood.bandcamp.com/
 - https://vk.com/bleedingpie
@@ -4768,7 +4758,7 @@ URLs:
 - https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm
 ---
 Artist: Homestuck
-Context Notes: >-
+Context Notes: |-
     For crediting visual elements that are lifted directly from Homestuck, MS Paint Adventures, or related official media. Most notably, the track art for many official Homestuck songs are simply screenshots of the comic.
 ---
 Artist: HONE
@@ -4814,8 +4804,6 @@ Artist: Hyadain
 Artist: Hyper Light Drifter
 ---
 Artist: hywell
-Context Notes: |-
-    Alias of [[group:cristata]].
 URLs:
 - https://cristata.bandcamp.com/
 ---
@@ -7963,11 +7951,8 @@ URLs:
 Artist: Nick Balaban
 ---
 Artist: Nick Smalley
-Context Notes: >-
-    Tracks by Nick Smalley have been retained for the sake of preserving the intended
-    structure and form of albums they appear on; however, it should be noted that
-    this artist is a known and admitted pedophile. As of this writing, he is no longer
-    creating music.
+Context Notes: |-
+    Tracks by Nick Smalley have been retained for the sake of preserving the intended structure and form of albums they appear on; however, it should be noted that this artist is a known and admitted pedophile. As of this writing, he is no longer creating music.
 ---
 Artist: Nick Tucker
 Aliases:
@@ -9094,8 +9079,6 @@ URLs:
 - https://twitter.com/theradguywoah
 ---
 Artist: Realmite
-Context Notes: |-
-    One-man band; alias of [[artist:xszelor]].
 URLs:
 - https://realmite.bandcamp.com/
 Dead URLs:
@@ -9900,10 +9883,8 @@ URLs:
 Artist: Secret of Mana
 ---
 Artist: Seijen
-Context Notes: >-
-    Tracks by Seijen have been retained for the sake of preserving the intended structure
-    and form of albums they appear on, however, it should be noted that this artist
-    has made several statements defending neo-Nazi comic Stonetoss.
+Context Notes: |-
+    Tracks by Seijen have been retained for the sake of preserving the intended structure and form of albums they appear on, however, it should be noted that this artist has made several statements defending neo-Nazi comic Stonetoss.
 ---
 Artist: Seinfeld
 ---
@@ -11541,11 +11522,11 @@ Artist: Toto
 Artist: Touhou Project
 ---
 Artist: The Track Team
-Context Notes: >-
+Context Notes: |-
     Duo behind the music of [[artist:avatar-the-last-airbender]] and The Legend of Korra, made up of [[artist:jeremy-zuckerman]] and [[artist:benjamin-wynn]].
 ---
 Artist: Traditional
-Context Notes: >-
+Context Notes: |-
     This is a catchall artist entry to list folkloric music of unknown provenance. They're almost certainly based on other contemporaneous music that has been lost to time, and were never put to paper by someone verifiably claiming to be the original creator.
 ---
 Artist: Travis Scott
@@ -11719,7 +11700,7 @@ Artist: The Undisputed Truth
 Artist: Unofficial MSPA Fans
 ---
 Artist: Unknown Artist
-Context Notes: >-
+Context Notes: |-
     Sometimes, information on who is specifically responsible for a piece of music or art is not known. This is a catchall artist entry to list them in one place. If you have any information on who any of the artists listed here may be, please get in touch with us!
 ---
 Artist: UPLIFT SPICE
