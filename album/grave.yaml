@@ -30,6 +30,8 @@ URLs:
 - https://screamcatcher.bandcamp.com/track/unit-01
 ---
 Track: Synchronism
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '03:41'
 URLs:
 - https://screamcatcher.bandcamp.com/track/synchronism
@@ -60,6 +62,8 @@ URLs:
 - https://screamcatcher.bandcamp.com/track/nagisa
 ---
 Track: Impact
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '07:02'
 URLs:
 - https://screamcatcher.bandcamp.com/track/impact

@@ -1,4 +1,5 @@
 Album: Chips & Bits vol. 1
+Directory Suffix: chips-and-bits
 Artists:
 - Kalibration
 Date: November 25, 2021
@@ -28,6 +29,8 @@ URLs:
 - https://kalibration.bandcamp.com/track/two-of-us
 ---
 Track: sacrifice
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '01:21'
 URLs:
 - https://kalibration.bandcamp.com/track/sacrifice

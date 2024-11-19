@@ -1,4 +1,5 @@
 Album: Stalemate Vol. 2
+Directory Suffix: stalemate
 Date: October 15, 2018
 Date Added: August 29, 2024
 URLs:
@@ -85,7 +86,8 @@ Artists:
 - TheFloorIsEvil
 ---
 Track: Starlit
-Directory: starlit-stalemate-vol-2
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '2:05'
 URLs:
 - https://stalematecomic.bandcamp.com/track/starlit
@@ -157,6 +159,8 @@ URLs:
 - https://stalematecomic.bandcamp.com/track/aganostyl
 ---
 Track: Overhead
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '2:49'
 URLs:
 - https://stalematecomic.bandcamp.com/track/overhead

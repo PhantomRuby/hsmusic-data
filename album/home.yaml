@@ -19,6 +19,8 @@ URLs:
 - https://screamcatcher.bandcamp.com/track/electric-district
 ---
 Track: Squall
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '03:01'
 URLs:
 - https://screamcatcher.bandcamp.com/track/squall
@@ -32,5 +34,3 @@ Track: Headed Home (McCoy)
 Duration: '03:36'
 URLs:
 - https://screamcatcher.bandcamp.com/track/headed-home-mccoy
-
-

@@ -14,6 +14,8 @@ Groups:
 - Beyond
 ---
 Track: Calibration
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '04:02'
 URLs:
 - https://screamcatcher.bandcamp.com/track/calibration
@@ -24,6 +26,8 @@ URLs:
 - https://screamcatcher.bandcamp.com/track/erasmus-halo
 ---
 Track: Psychonaut
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '02:57'
 URLs:
 - https://screamcatcher.bandcamp.com/track/psychonaut
@@ -36,6 +40,8 @@ URLs:
 - https://screamcatcher.bandcamp.com/track/error
 ---
 Track: Rhodes
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '02:45'
 URLs:
 - https://screamcatcher.bandcamp.com/track/rhodes
@@ -51,11 +57,15 @@ URLs:
 - https://screamcatcher.bandcamp.com/track/trial-truth-pt-2
 ---
 Track: Reflection
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '03:12'
 URLs:
 - https://screamcatcher.bandcamp.com/track/reflection
 ---
 Track: Become
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '04:22'
 URLs:
 - https://screamcatcher.bandcamp.com/track/become
@@ -79,5 +89,3 @@ Track: Do Without
 Duration: '07:47'
 URLs:
 - https://screamcatcher.bandcamp.com/track/do-without
-
-

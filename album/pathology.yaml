@@ -16,7 +16,7 @@ Groups:
 Section: Main album
 ---
 Track: Murder
-Directory: murder-pathology
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '04:55'
 URLs:
@@ -50,11 +50,15 @@ URLs:
 - https://screamcatcher.bandcamp.com/track/boneyard-feat-rom-nce
 ---
 Track: Rebirth
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '03:41'
 URLs:
 - https://screamcatcher.bandcamp.com/track/rebirth
 ---
 Track: Executioner
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '03:00'
 URLs:
 - https://screamcatcher.bandcamp.com/track/executioner
@@ -62,4 +66,6 @@ URLs:
 Section: Bonus tracks
 ---
 Track: Samurai
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '03:31'

@@ -31,6 +31,8 @@ URLs:
 - https://kalibration.bandcamp.com/track/pink-cloud
 ---
 Track: Conduction
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '01:16'
 URLs:
 - https://kalibration.bandcamp.com/track/conduction
@@ -51,11 +53,15 @@ URLs:
 - https://kalibration.bandcamp.com/track/air-i
 ---
 Track: Knuckle
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '01:00'
 URLs:
 - https://kalibration.bandcamp.com/track/knuckle
 ---
 Track: Engine
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '01:56'
 URLs:
 - https://kalibration.bandcamp.com/track/engine
@@ -99,6 +105,8 @@ Commentary: |-
     red-flag boy
 ---
 Track: Release
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '04:01'
 URLs:
 - https://kalibration.bandcamp.com/track/release

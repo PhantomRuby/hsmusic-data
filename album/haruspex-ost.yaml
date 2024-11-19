@@ -1,4 +1,5 @@
 Album: Haruspex OST
+Directory Suffix: haruspex
 Artists:
 - Kalibration
 Date: December 20, 2018
@@ -118,6 +119,8 @@ URLs:
 - https://kalibration.bandcamp.com/track/otherworld-iii-abbatoir
 ---
 Track: Binding
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '01:02'
 URLs:
 - https://kalibration.bandcamp.com/track/binding
@@ -128,27 +131,35 @@ URLs:
 - https://kalibration.bandcamp.com/track/that-promise-we-made-in-the-spring
 ---
 Track: Fant
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '01:20'
 URLs:
 - https://kalibration.bandcamp.com/track/fant
 ---
 Track: Eating!
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '02:08'
 URLs:
 - https://kalibration.bandcamp.com/track/eating
 ---
 Track: Surgery
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '01:29'
 URLs:
 - https://kalibration.bandcamp.com/track/surgery
 ---
 Track: Someone
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '01:33'
 URLs:
 - https://kalibration.bandcamp.com/track/someone
 ---
 Track: Someone else
-Directory: someone-else-haruspex
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '01:07'
 URLs:

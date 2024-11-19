@@ -1,4 +1,5 @@
 Album: Chips & Bits vol. 2
+Directory Suffix: chips-and-bits
 Artists:
 - Kalibration
 Date: June 13, 2022
@@ -35,6 +36,8 @@ URLs:
 - https://kalibration.bandcamp.com/track/swirly-eyed
 ---
 Track: weepy
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 0:59
 URLs:
 - https://kalibration.bandcamp.com/track/weepy
@@ -356,6 +359,8 @@ URLs:
 - https://kalibration.bandcamp.com/track/compound-nostalgia
 ---
 Track: looping
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 0:59
 URLs:
 - https://kalibration.bandcamp.com/track/looping
@@ -391,6 +396,8 @@ URLs:
 - https://kalibration.bandcamp.com/track/burning-staircase
 ---
 Track: Teddy
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 3:36
 URLs:
 - https://kalibration.bandcamp.com/track/teddy

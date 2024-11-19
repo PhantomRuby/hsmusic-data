@@ -27,7 +27,7 @@ URLs:
 - https://screamcatcher.bandcamp.com/track/screamcatcher-theme
 ---
 Track: Wings
-Directory: wings-bird
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '03:56'
 URLs:
@@ -50,7 +50,7 @@ URLs:
 - https://screamcatcher.bandcamp.com/track/proventriculus-ft-astro-kid
 ---
 Track: Interlude
-Directory: interlude-bird
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '00:57'
 URLs:
@@ -62,6 +62,8 @@ URLs:
 - https://screamcatcher.bandcamp.com/track/eye-ring
 ---
 Track: Feathers
+Suffix Directory: true
+Always Reference By Directory: true
 Additional Names:
 - Feathers ft. Cadence Cube (unedited title)
 Artists:
@@ -73,12 +75,14 @@ URLs:
 - https://screamcatcher.bandcamp.com/track/feathers-ft-cadence-cube
 ---
 Track: Cloaca
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '13:26'
 URLs:
 - https://screamcatcher.bandcamp.com/track/cloaca
 ---
 Track: Revival
-Directory: revival-bird
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '03:54'
 URLs:
@@ -97,7 +101,7 @@ Referenced Tracks:
 - track:electric-district
 ---
 Track: Forever
-Directory: forever-bird
+Suffix Directory: true
 Always Reference By Directory: true
 Duration: '02:56'
 

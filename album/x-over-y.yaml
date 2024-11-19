@@ -58,6 +58,8 @@ URLs:
 - https://kalibration.bandcamp.com/track/dream-2
 ---
 Track: Pulse
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '02:00'
 URLs:
 - https://kalibration.bandcamp.com/track/pulse
@@ -88,13 +90,15 @@ Lyrics: |-
     This is the place I found to rest
 ---
 Track: Awaken
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '04:29'
 URLs:
 - https://kalibration.bandcamp.com/track/awaken
 ---
 Track: Defiler
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '04:44'
 URLs:
 - https://kalibration.bandcamp.com/track/defiler
-
-

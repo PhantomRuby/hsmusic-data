@@ -306,6 +306,8 @@ Lyrics: |-
     Probably with my junkie friends
 ---
 Track: Gex
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '2:47'
 URLs:
 - https://kalibration.bandcamp.com/track/gex
@@ -359,6 +361,8 @@ Lyrics: |-
     I'm tired of myself]
 ---
 Track: Courtesan
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '3:11'
 URLs:
 - https://kalibration.bandcamp.com/track/courtesan

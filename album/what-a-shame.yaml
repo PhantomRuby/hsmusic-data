@@ -23,11 +23,15 @@ URLs:
 - https://kalibration.bandcamp.com/track/the-marrow-of-houses
 ---
 Track: Crayfish
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '01:59'
 URLs:
 - https://kalibration.bandcamp.com/track/crayfish
 ---
 Track: Dryden
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '03:05'
 URLs:
 - https://kalibration.bandcamp.com/track/dryden
@@ -54,6 +58,8 @@ Lyrics: |-
     Sobbing sickly
 ---
 Track: bergamot
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '03:07'
 URLs:
 - https://kalibration.bandcamp.com/track/bergamot
@@ -119,6 +125,8 @@ Lyrics: |-
     Cartoon Cartoon Friday nights
 ---
 Track: cardamom
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '02:47'
 URLs:
 - https://kalibration.bandcamp.com/track/cardamom
@@ -149,6 +157,8 @@ Lyrics: |-
     I think that you can make one still.
 ---
 Track: uwu
+Suffix Directory: true # uwu is part of the common English alphabet
+Always Reference By Directory: true
 Additional Names:
 - uwu (ft. Eureka Matter) (unedited title)
 Artists:

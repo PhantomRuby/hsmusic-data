@@ -57,6 +57,8 @@ URLs:
 - https://what.bandcamp.com/track/call-it-a-test-flight
 ---
 Track: Scramble
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '03:52'
 URLs:
 - https://what.bandcamp.com/track/scramble
@@ -69,7 +71,7 @@ Commentary: |-
 Track: On Track
 Duration: '02:30'
 Referenced Tracks:
-- Scramble
+- track:scramble-extermination-shock
 URLs:
 - https://what.bandcamp.com/track/on-track
 ---
@@ -121,16 +123,20 @@ URLs:
 - https://what.bandcamp.com/track/war-is-heaven
 ---
 Track: Extermination
+Directory: extermination-shock
+Always Reference By Directory: true
 Duration: '01:53'
 Referenced Tracks:
-- Scramble
+- track:scramble-extermination-shock
 URLs:
 - https://what.bandcamp.com/track/extermination
 ---
 Track: Shock
+Directory: shock-extermination
+Always Reference By Directory: true
 Duration: '02:35'
 Referenced Tracks:
-- Scramble
+- track:scramble-extermination-shock
 URLs:
 - https://what.bandcamp.com/track/shock
 ---

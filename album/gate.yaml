@@ -29,6 +29,8 @@ Commentary: |-
     Circle 2
 ---
 Track: Threshold
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '02:54'
 URLs:
 - https://kalibration.bandcamp.com/track/threshold
@@ -37,6 +39,8 @@ Commentary: |-
     Circle 3
 ---
 Track: Organs
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: '02:25'
 URLs:
 - https://kalibration.bandcamp.com/track/organs
@@ -61,13 +65,13 @@ Commentary: |-
     Circle 6
 ---
 Track: Petrichor
+Suffix Directory: true
+Always Reference By Directory: true
 Additional Names:
 - Name: >-
     Petrichor (ft. Ivy Hollivana)
   Annotation: >-
     [Bandcamp](https://kalibration.bandcamp.com/track/petrichor-ft-ivy-hollivana)
-Directory: petrichor-gate
-Always Reference By Directory: true
 Duration: '02:16'
 Contributors:
 - Ivy Hollivana (vocals)

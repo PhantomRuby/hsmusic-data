@@ -1,4 +1,6 @@
 Album: Intermission
+Suffix Track Directories: true
+Always Reference Tracks By Directory: true
 Artists:
 - Kalibration
 - Screamcatcher
@@ -45,23 +47,18 @@ URLs:
 - https://screamcatcher.bandcamp.com/track/meaningless
 ---
 Track: Frostbite
-Directory: frostbite-intermission
-Always Reference By Directory: true
 Duration: '06:46'
 URLs:
 - https://screamcatcher.bandcamp.com/track/frostbite
 ---
 Track: Violence
-Directory: violence-intermission
-Always Reference By Directory: true
 Duration: '03:43'
 URLs:
 - https://screamcatcher.bandcamp.com/track/violence
 ---
 Track: Somewhere Warm to Die (Demo)
+Suffix Directory: false
+Always Reference By Directory: false
 Duration: '13:13'
 URLs:
 - https://screamcatcher.bandcamp.com/track/somewhere-warm-to-die-demo
-
-
-
