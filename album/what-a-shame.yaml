@@ -71,7 +71,10 @@ URLs:
 ---
 Track: Lie on the Floor Stare at the Wall
 Additional Names:
-- Lie on the Floor Stare at the Wall (ft. Dexadrinn) (unedited title)
+- Name: >-
+    Lie on the Floor Stare at the Wall (ft. Dexadrinn)
+  Annotation: >-
+    [Bandcamp](https://kalibration.bandcamp.com/track/lie-on-the-floor-stare-at-the-wall-ft-dexadrinn)
 Duration: '02:19'
 Contributors:
 - Dexadrinn (additional vocals)
@@ -160,7 +163,10 @@ Track: uwu
 Suffix Directory: true # uwu is part of the common English alphabet
 Always Reference By Directory: true
 Additional Names:
-- uwu (ft. Eureka Matter) (unedited title)
+- Name: >-
+    uwu (ft. Eureka Matter)
+  Annotation: >-
+    [Bandcamp](https://kalibration.bandcamp.com/track/uwu-ft-eureka-matter)
 Artists:
 - Kalibration
 - Eureka Matter

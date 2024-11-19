@@ -40,7 +40,10 @@ URLs:
 ---
 Track: Proventriculus
 Additional Names:
-- Proventriculus ft. Astro Kid (unedited title)
+- Name: >-
+    Proventriculus ft. Astro Kid
+  Annotation: >-
+    [Bandcamp](https://screamcatcher.bandcamp.com/track/proventriculus-ft-astro-kid)
 Artists:
 - Kalibration
 - Screamcatcher
@@ -65,7 +68,10 @@ Track: Feathers
 Suffix Directory: true
 Always Reference By Directory: true
 Additional Names:
-- Feathers ft. Cadence Cube (unedited title)
+- Name: >-
+    Feathers ft. Cadence Cube
+  Annotation: >-
+    [Bandcamp](https://screamcatcher.bandcamp.com/track/feathers-ft-cadence-cube)
 Artists:
 - Kalibration
 - Screamcatcher
