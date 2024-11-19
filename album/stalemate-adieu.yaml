@@ -32,6 +32,8 @@ Commentary: |-
     
     [The creators of the songs have full rights to their music. (and may contact me at any time to have their songs removed from this collection)]
 ---
+Section: Light and Dark
+---
 Track: A Boy Can Scheme
 Duration: '1:14'
 Artists:
@@ -117,6 +119,8 @@ Artists:
 - infinite
 URLs:
 - https://stalematecomic.bandcamp.com/track/best-laid-plans
+---
+Section: In Between, A-Side
 ---
 Track: A-Side
 Directory: a-side-in-between
@@ -210,6 +214,8 @@ Cover Artists:
 URLs:
 - https://stalematecomic.bandcamp.com/track/toads-2
 ---
+Section: In Between, B-Side
+---
 Track: B-Side
 Directory: b-side-in-between
 Always Reference By Directory: true
@@ -269,6 +275,8 @@ Commentary: |-
     <i>infinite:</i> ([Bandcamp about blurb](https://stalematecomic.bandcamp.com/track/toads-flash-vers))
     Original by WarxTron... Edited by him, too. https://soundcloud.com/user-98942170
     This edit was going to be used in the End of Act 2 flash. Its not now.
+---
+Section: Vol. 3 assorted
 ---
 Track: Bells
 Suffix Directory: true
@@ -568,6 +576,8 @@ Artists:
 - Ell Young
 URLs:
 - https://stalematecomic.bandcamp.com/track/closure-and-goodbyes
+---
+Section: To say goodbye
 ---
 Track: A Bitter Ending
 Duration: '1:32'
