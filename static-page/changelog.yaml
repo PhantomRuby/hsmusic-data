@@ -172,6 +172,10 @@ Content: |-
     - marked [[track:let-me-dance-let-me-glisten]] ([[album:beforus]]) newly as a rerelease (thanks, Lilith!)
     - marked [[track:the-sock-ruse]] ([[album:lofam4]]) newly as a rerelease (thanks, Lilith!)
     - marked [[track:fine-with-you]] ([[album:vast-error-vol-4]]) newly as a rerelease (thanks, Lilith!)
+    - marked [[track:through-the-haze-the-green-box-set-1]] ([[album:the-green-box-set-1]]) newly as a rerelease (thanks, Jebb!)
+    - marked [[track:in-the-deep-the-green-box-set-1]] ([[album:the-green-box-set-1]]) newly as a rerelease (thanks, Jebb!)
+    - marked [[track:off-the-path-the-green-box-set-1]] ([[album:the-green-box-set-1]]) newly as a rerelease (thanks, Jebb!)
+    - marked [[track:final-movement-the-green-box-set-1]] ([[album:the-green-box-set-1]]) newly as a rerelease (thanks, Jebb!)
     - marked [[track:moonslayer-lofam5a2]] ([[album:lofam5a2]]) newly as a rerelease (thanks, Lilith!)
     <!-- moved tracks, track section changes -->
     - moved [[track:gasters-theme-pga]] ([[album:perfectly-generic-album]]) from main track list to new "Removed in 2022 release" section (thanks, Tangle!)
@@ -205,6 +209,7 @@ Content: |-
     - fixed [[track:vaporwave-2016-track1]] not crediting [[artist:marcy-nabors]] as co-artist (thanks, Lilith!)
     - fixed [[track:hankage-fantazumu-2]] not crediting [[artist:difarem]] - nor anyone at all! - as artist (thanks, Lilith!)
     - fixed [[track:voids-edge]] not crediting [[artist:rainy]] as co-artist (thanks, Lilith!)
+    - fixed [[track:in-the-end]] crediting [[artist:limp-bizkit]] instead of [[artist:linkin-park]] (thanks, Cello, Jebb!)
     <!-- merged artists -->
     - fixed [[artist:corbin-pangilinan]] having some credits under another name (thanks, Lilith!)
     - fixed [[artist:rachel-lake]] having some credits under another name (thanks, Rainy, Lilith!)
@@ -356,6 +361,7 @@ Content: |-
     - added [[tag:hadron-kaleido]] tag to [[track:even-in-death-tmorras-belly-mix]] (thanks, Amberlina, Whisper, Lilith!)
     - added [[tag:pm]] and [[tag:jack-noir]] tags to [[track:grimbark]] (thanks, Lilith!)
     - added [[tag:charlie-davis-desynced]] tag to [[track:midnight-squared]] (thanks, Lilith!)
+    - added [[tag:prospit]] to [[track:until-my-blood-runs-dry]] and fixed [[tag:derse]] being tagged twice (thanks, Jebb!)
     - added [[tag:bowman]] tag to [[album:gravity-makes-the-flame-rise]] and [[album:ulterior-motives]]
     <!-- lyric fixes -->
     - fixed some lyrics in [[track:vs-bros]] (thanks, Lilith!)
@@ -372,6 +378,10 @@ Content: |-
     - removed country codes from Apple Music links, affecting albums [[album:funkstuck-24]] and [[album:references-beyond-homestuck]], and various artists (thanks, Lan!)
     <h3>directory changes</h3>
     <details><summary><b>Toggle Directorylog</b> (general changes)</summary>
+    - changed directory of [[track:through-the-haze-the-green-box-set-1]] from <code>through-the-haze</code> to <code>through-the-haze-the-green-box-set-1</code> (thanks, Jebb!)
+    - changed directory of [[track:in-the-deep-the-green-box-set-1]] from <code>in-the-deep</code> to <code>in-the-deep-the-green-box-set-1</code> (thanks, Jebb!)
+    - changed directory of [[track:off-the-path-the-green-box-set-1]] from <code>off-the-path</code> to <code>off-the-path-the-green-box-set-1</code> (thanks, Jebb!)
+    - changed directory of [[track:final-movement-the-green-box-set-1]] from <code>final-movement</code> to <code>final-movement-the-green-box-set-1</code> (thanks, Jebb!)
     - changed directory of [[track:f-climbing-lofam5]] from <code>f-climbing-lofam4</code> to <code>f-climbing-lofam5</code> (thanks, Lilith!)
     - changed directory of [[track:risk-repiton]] from <code>risk-vast-error</code> to <code>risk-repiton</code> (thanks, Lan!)
     - changed directory of [[track:his-honorable-tyranny-genesis-genocide]] from <code>his-honorable-tyranny-2</code> to <code>his-honorable-tyranny-genesis-genocide</code> (thanks, Lan!)
