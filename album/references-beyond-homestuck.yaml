@@ -7765,6 +7765,13 @@ Duration: '0:40'
 URLs:
 - https://www.youtube.com/watch?v=AAtGtY9-UCs
 ---
+Track: report_Bobdyfound #[sic]
+Artists:
+- Among Us
+Duration: '0:04'
+URLs:
+- https://www.youtube.com/watch?v=tswKwxzzEik
+---
 Track: The Reverse Will
 # Official release:
 #   サイレントヒル2 オリジナル・サウンドトラック
@@ -19203,6 +19210,18 @@ Lyrics: |-
 
     (Ooh, ooh, yech!)
 ---
+Track: Among Us Trap Remix (Among Us Drip Theme)
+Artists:
+- Leonz
+Duration: 1:12
+URLs:
+- https://www.youtube.com/watch?v=grd-K33tOSM
+Referenced Tracks:
+- report_Bobdyfound
+Sampled Tracks:
+- report_Bobdyfound
+- impostor_kill
+---
 Track: Andro
 Artists:
 - Oneohtrix Point Never
@@ -20586,6 +20605,14 @@ Lyrics: |-
     Da ba dee da ba di, da ba dee da ba di
     Da ba dee da ba di, da ba dee da ba di
 ---
+Track: Blue Zenith
+Artists:
+- xi
+Duration: '4:18'
+URLs:
+- https://diversesystem.bandcamp.com/track/blue-zenith
+- https://www.youtube.com/watch?v=vatcanQQJvQ
+---
 Track: Bodies
 Directory: bodies-drowning-pool
 Always Reference By Directory: true
@@ -21084,6 +21111,13 @@ Lyrics: |-
     (Da da da, dum dum)
     Now I gotta clean my teeth and get some sleep
     And then we take the shot!
+---
+Track: Brain Power
+Artists:
+- NOMA
+Duration: 1:58
+URLs:
+- https://noma113.bandcamp.com/track/brain-power
 ---
 Track: Brighton Rock
 Artists:
@@ -32205,6 +32239,15 @@ Lyrics: |-
     You better...
 
     You can do anything you set your mind to, man
+---
+Track: Lose Control
+Duration: 4:06
+Artists:
+- Missy Elliott
+- Ciara (featuring)
+- Fat Man Scoop (featuring)
+URLs:
+- https://www.youtube.com/watch?v=na7lIb09898
 ---
 Track: Loser
 Duration: '3:56'
@@ -46632,6 +46675,20 @@ Lyrics: |-
 Section: Other works originating outside of Homestuck
 Color: '#8ccaf1'
 ---
+Track: '[ASMR] Nyanners Makes Satisfying Slime Noises in Your Ears'
+Artists:
+- Nyatasha Nyanners
+Duration: '11:27'
+URLs:
+- https://www.youtube.com/watch?v=lLcBdvmlCx4
+---
+Track: Aireu 727 WYSI
+Artists:
+- Aireu
+Duration: '1:50'
+URLs:
+- https://www.youtube.com/watch?v=AaAF51Gwbxo
+---
 Track: all yor base r blong 2 us
 Artists:
 - Bad-CRC
@@ -46770,6 +46827,17 @@ Artists:
 URLs:
 - https://www.poetryfoundation.org/poems/49303/howl
 ---
+Track: impostor_kill
+Duration: '0:01'
+Artists:
+- Among Us
+---
+Track: Join Call
+Directory: join-call-discord
+Duration: '0:01'
+Artists:
+- Discord
+---
 Track: Jurassic Park
 Duration: 2:06:30
 Artists:
@@ -46831,6 +46899,12 @@ Commentary: |-
     ;*
     ;3
     (yo i know this is a opinion but makin plz no kill)
+---
+Track: Notification
+Directory: notification-whatsapp
+Artists:
+- WhatsApp
+Duration: '0:01'
 ---
 Track: Oh Shit! (for MSX)
 Artists:
@@ -47039,6 +47113,14 @@ Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor)
     Pack of 7 sounds.
 ---
+Track: U STOOPID
+Artists:
+- '@DREHUPEMSU @WESTROSECRAN'
+Duration: '0:06'
+URLs:
+- https://web.archive.org/web/20140902183145/https://vine.co/v/huwVJIEJW50
+- https://www.youtube.com/watch?v=gIqc4MQNDKA (reupload)
+---
 Track: Up-Hill
 Artists:
 - Christina Rossetti
@@ -47074,6 +47156,13 @@ Artists:
 Duration: 0:07
 URLs:
 - https://www.youtube.com/watch?v=rBfMEUiobfE
+---
+Track: WOW
+Artists:
+- Mother
+Duration: 0:01
+URLs:
+- https://www.youtube.com/watch?v=dQvacicf08A
 ---
 Track: When You Are Old
 Artists:
