@@ -25,6 +25,8 @@ Commentary: |-
     
     Made by the lovely Stalemate Music Team, this album is a celebration of 6 months of stalemate, and many more to come!
 ---
+Section: Main album
+---
 Track: And Now, For Something Entirely Different
 Has Cover Art: false
 Duration: '1:25'
@@ -169,3 +171,29 @@ Artists:
 - infinite
 Referenced Tracks:
 - Lament For An Empty Sky
+---
+Section: Bonus tracks
+---
+Track: 'AAGANOSTYL [AGANOSTYL Acoustic]'
+Duration: '1:49'
+Artists:
+- SpilledCereals
+Has Cover Art: false
+Referenced Tracks:
+- AGANOSTYL
+URLs:
+- https://www.youtube.com/watch?v=ESh9T4SQ2R4
+---
+Track: "Supra Praeceptum Max [Lumi's Memoria Natus Mix]"
+Duration: '2:39'
+Artists:
+- luminantAegis
+Has Cover Art: false
+Referenced Tracks:
+- Supra Praeceptum Max
+URLs:
+- https://www.youtube.com/watch?v=yDF_HcYRyT0
+Credit Sources: |-
+    <i>luminantAegis:</i> ([YouTube description](https://www.youtube.com/watch?v=yDF_HcYRyT0), excerpt, 9/10/2018)
+
+    🎼 Musician: [[artist:luminantaegis|luminantAegis]] (original by [[artist:grace-medley|[Grace Medley\]]]) [...]
