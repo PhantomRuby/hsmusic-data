@@ -141,6 +141,13 @@ URLs:
 Sampled Tracks:
 - Think (About It)
 - WOW
+Commentary: |-
+    <i>Camellia:</i> ([YouTube description](https://www.youtube.com/watch?v=LnkfOVHkVfo))
+    Btw we can't fit the track title because it's too long. The correct title, without abbreviation is:
+    Tentaclar Aliens' Epic Extraterretterrestrial Jungle Dance Party Inside Of A Super-Ultra-Mega-Gigantic U.F.O. (It Maybe U.U.F.O.) Silently Flying Over Illinois St.
+
+    <i>ruby:</i> (wiki editor)
+    because of the title length limit, the youtube upload is called "Tentaclar Aliens' Epic Extraterretterrestrial Jungle Dance Party"
 ---
 Track: FINAL BLENDERMAN APPEARED.
 Artists:
@@ -183,6 +190,7 @@ URLs:
 - https://cametek.bandcamp.com/track/area-52
 Sampled Tracks:
 - track:prologue-earthbound
+- Amen, Brother
 Lyrics: |-
     We need another sky
     Alien ships' now ready to fly
@@ -268,13 +276,16 @@ Track: The Cat Evolved Into The Microwave-proof Cat!
 Duration: '3:48'
 URLs:
 - https://cametek.bandcamp.com/track/the-cat-evolved-into-the-microwave-proof-cat
-
-# Track Art URL: https://f4.bcbits.com/img/a2760613898_10.jpg
-# Credits:
-#     Phase Plant (by Kilohearts) Preset Demosong
-#     https://kilohearts.com/products/phase_plant
+Commentary: |-
+    <i>Camellia:</i> ([YouTube description](https://www.youtube.com/watch?v=vkwYxBYBhx4))
+    https://kilohearts.com/banks/microwave_proof
+    So, long story short, this song was originally made for preview of Phase Plant presets made by me.
+    And finally it's out as [Microwave Proof] by Camellia! Please check it out, actually it proves almost every single sounds are made with Phase Plant, for real.
+    Also you can use the code CAM50 until the end of this month (Dec 2021) to get 50% discount. That's awesome! Thank you @Kilohearts ❤
 ---
 Track: ゾンビー・サーカス (ZOMBIE CIRCUS)
+Contributors:
+- Hatsune Miku (vocals)
 Duration: '4:04'
 URLs:
 - https://cametek.bandcamp.com/track/zombie-circus
@@ -411,17 +422,13 @@ Lyrics: |-
     Lala la la la la Lala la la la la la
     Lala la la la la Lala la la la
     Lala la la la la la la la la la la la la...)
-
-# Track Art URL: https://f4.bcbits.com/img/a2760613898_10.jpg
-# Credits:
-#     Vo: 初音ミク (Hatsune Miku)
 ---
 Track: t/a/n/a/s/i/n/n
 Duration: '3:24'
 URLs:
 - https://cametek.bandcamp.com/track/t-a-n-a-s-i-n-n
-
-# Track Art URL: https://f4.bcbits.com/img/a2760613898_10.jpg
+Sampled Tracks:
+- track:final-battle-earthbound
 ---
 Track: Purge My Existence Out Of This World
 Artists:
@@ -432,39 +439,32 @@ Contributors:
 Duration: '5:09'
 URLs:
 - https://cametek.bandcamp.com/track/purge-my-existence-out-of-this-world-feat-btmc
-
-# Track Art URL: https://f4.bcbits.com/img/a2760613898_10.jpg
-# Credits:
-#     Vo: BTMC
-#     
-#     https://www.twitch.tv/btmc
-#     https://www.youtube.com/channel/UCcHYmDcbHmGIebwGYgLQDOw
-#     https://twitter.com/btmclive
 ---
 Track: GHOUL
+Contributors:
+- DankruptMemer (naming)
+- woops (sampled voice)
 Duration: '4:31'
 URLs:
 - https://cametek.bandcamp.com/track/ghoul
-
-# Track Art URL: https://f4.bcbits.com/img/a2760613898_10.jpg
-# Credits:
-#     DankruptMemer (for naming)
-#     woops (for sampled voice)
+Referenced Tracks:
+- GHOST
+Sampled Tracks:
+- Amen, Brother
+Commentary: |-
+    <i>ruby:</i> (wiki editor)
+    this song samples a [artist:woops] stream. i haven't been able to find out which stream exactly.
+    here's an explanation: https://www.twitch.tv/videos/1083981829?t=1h28m50s
 ---
 Track: Myths You Forgot
 Artists:
 - Camellia
 - Toby Fox (featuring)
+Contributors:
+- Toby Fox (Co-composition)
 Duration: '4:15'
 URLs:
 - https://cametek.bandcamp.com/track/myths-you-forgot-feat-toby-fox
-
-# Track Art URL: https://f4.bcbits.com/img/a2760613898_10.jpg
-# Credits:
-#     Featuring Toby Fox
-#     
-#     https://twitter.com/tobyfox
-#     https://undertale.com/
 ---
 Section: Bonus Tracks
 ---
@@ -475,11 +475,8 @@ Additional Names:
 Duration: '5:11'
 URLs:
 - https://cametek.bandcamp.com/track/bonus-track-3-the-muzzle-facing-long-muzzled-version
-
-# Track Art URL: https://f4.bcbits.com/img/a3235778323_10.jpg
-# Credits:
-#     From WACCA (Marvelous Inc.)
-#     https://wacca.marv.jp/
+Referenced Tracks:
+- THE MUZZLE FACING
 ---
 Track: '#1f1e33 (#00102g version)'
 Additional Names:
@@ -488,7 +485,8 @@ Additional Names:
 Duration: '5:41'
 URLs:
 - https://cametek.bandcamp.com/track/bonus-track-4-1f1e33-00102g-version
-
+Referenced Tracks:
+- '#1f1e33'
 # Track Art URL: https://f4.bcbits.com/img/a2760613898_10.jpg
 # Credits:
 #     From Arcaea ©lowiro

@@ -1500,6 +1500,14 @@ URLs:
 ---
 Section: Music from video games
 ---
+Track: '#1f1e33'
+Artists:
+- Arcaea
+- Camellia
+Duration: '2:50'
+URLs:
+- https://www.youtube.com/watch?v=20Sl9KYtqR8
+---
 Track: '2:00 a.m. (Animal Crossing: Wild World)'
 # Reference:
 #   https://vgmdb.net/album/5720
@@ -4331,6 +4339,17 @@ Artists:
 Duration: 0:44
 URLs:
 - https://www.youtube.com/watch?v=hrJNgLGbYg0
+---
+Track: Final Battle
+# Reference
+#   https://vgmdb.net/album/800
+Directory: final-battle-earthbound
+Artists:
+- Mother
+- Hirokazu Tanaka
+Duration: 4:06
+URLs:
+- https://www.youtube.com/watch?v=I9GULl5vHTA
 ---
 Track: Fire Emblem Theme (Heroic Origins)
 # Reference:
@@ -7472,10 +7491,7 @@ Artists:
 - Hirokazu Tanaka
 Duration: '1:05'
 URLs:
-- https://www.youtube.com/watch?v=Rd7k_W1aQ2s
-- https://www.youtube.com/watch?v=QN4auugHLo4
-- https://www.youtube.com/watch?v=bQzYJBTBVEc
-- https://www.youtube.com/watch?v=ePst0Qle3B0
+- https://www.youtube.com/watch?v=EE6FocnZw0k
 Commentary: |-
     <i>Quasar Nebula:</i> (wiki editor)
 
@@ -9092,6 +9108,14 @@ Contributors:
 Duration: '2:45'
 URLs:
 - https://www.youtube.com/watch?v=NPFNUNkgh8w
+---
+Track: THE MUZZLE FACING
+Artists:
+- WACCA
+- Camellia
+Duration: '2:35'
+URLs:
+- https://www.youtube.com/watch?v=L-Yv4gUyvt4
 ---
 Track: The Primal Scene of Japan the Girl Saw
 # No official release of the in-game track
@@ -27200,6 +27224,14 @@ Lyrics: |-
     Movin' up and down, dancin' on the ground
     Feelin' kinda free, security
     House is the sound, that moves you from the ground
+---
+Track: GHOST
+Artists:
+- Camellia
+Duration: '5:49'
+URLs:
+- https://cametek.bandcamp.com/track/ghost
+- https://www.youtube.com/watch?v=45lv6T0YkCA
 ---
 Track: Girl You Need A Shot (Of B12 [Boyz 12])
 Duration: '2:02'
