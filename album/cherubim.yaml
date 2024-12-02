@@ -20,10 +20,12 @@ Banner Artists:
 Banner Dimensions: 1100x203
 Banner File Extension: png
 Additional Files:
-- Title: Album Credits
+- Title: Album credits
+  Description: >-
+    Included with the album download.
   Files:
   - TrackCredits.txt
-- Title: Bandcamp Banner
+- Title: Bandcamp banner
   Files:
   - banner.jpg
 Commentary: |-

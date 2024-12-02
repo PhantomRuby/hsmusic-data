@@ -29,11 +29,15 @@ Wallpaper Style: |-
     background-size: auto;
 Wallpaper File Extension: png
 Additional Files:
-- Title: Solo Album Month Bandcamp Banner and Background
+- Title: Solo Album Month Bandcamp banner & background
+  Description: >-
+    Greyscale theme used on Bandcamp throughout late 2012, with the releases of this album, [[album:one-year-older]], and [[album:genesis-frog]].
   Files:
   - banner.jpg
   - bg.jpg
-- Title: Album Cover Wallpaper (shared separately)
+- Title: Album cover wallpapers
+  Description: >-
+    Wallpapers shared by [[artist:tavia-morra]], the album cover artist, [on Tumblr](https://www.tumblr.com/seeyoutmorra/105491297899/symphony-impossible-to-play-by-clark-powell-cover).
   Files:
   - symphonyimpossibletoplaywallpaper1280x768.jpg
   - symphonyimpossibletoplaywallpaper1280x960.jpg
