@@ -33,7 +33,9 @@ Wallpaper Style: |-
     background-repeat: repeat;
     background-size: auto;
 Additional Files:
-- Title: Album Credits
+- Title: Album credits
+  Description: >-
+    Music and artwork credits, included with the album download.
   Files:
   - VOL_9_CREDITS.txt
 - Title: Bandcamp Banner and Background
