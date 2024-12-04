@@ -116,11 +116,16 @@ Sheet Music Files:
   Files:
   - 'Crystalmethequins - Do The Musicy Thing (piano score).pdf'
 Commentary: |-
-    <i>Clark Powell:</i>
+    <i>Clark Powell:</i> (via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt))
+
     Let me tell you of this song's origins, for I saw it unfold with mine own eyes.
+
     After our South by Southwest showcase concert, [[artist:riki-tsuji|Astro Kid]] and I both found ourselves back at his apartment. Still in our stage costumes we opened our cans of Dr. B and casually sat around his bedroom. Computers were turned on, subwoofers were turned up. And so it began that we started remixing.
+
     Nearly two months later we sat in the back of a van amongst instruments and gear on our way to play another concert, this time at a Houston anime convention. Computers were turned on, headphones were turned up. It was here that Crystalmethequins, begun so many weeks earlier, was finally completed.
+
     After deciding that the track art would not be a hastily photoshopped image of troll Bryan Cranston, I came to someone I trusted. Richard Gung is unarguably the master, and his track art was well worth the cost he took from me in that dark alley.
+
     The song was chosen from among its peers to open Volume 9. There it stands proudly to this day.
 ---
 Track: Anbroids V2.0
@@ -150,33 +155,60 @@ MIDI Project Files:
   Files:
   - 'Anbroids V2.0 - Unknown.mid'
 Commentary: |-
-    <i>Malcolm Brown:</i>
+    <i>Malcolm Brown:</i> (via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt))
+
     <code style="color: #e00707">DAVE: we are in the shit now<br>DAVE: we are motherfuckin entrenched in this bitch</code>
+
     That's right! It's time to talk about Anbroids 2.0! Hands up everyone who thought "Brobots" would've been a better name? Yeah that's what I thought... Still! Here we are so let's commence the proceedings:
+
     <b>THE CONCEPT</b>
+
     So much of the inspiration here comes directly from Davesprite, which I remember thinking "Oh god damn if that Yamaha YM2612 Genesis/Mega Driveness doesn't fit Dave quite well!".  Enter Dirk Strider and his robotic creations! Suddenly a synthy, retro chiptune doesn't sound so out of place.
+
     My idea was formed fairly early on after we'd learned a bit of his pastime.  I came up with the idea of having a kind of "Workshop" theme where Dirk would put some music on and get to work constructing some brobot or other.  From here there was a number of prerequisites:
-    <ol><li>Must be kinda funky. Dude's a Strider after all. So we're looking at a bit of a groove with the beat.</li> <li>Must have square waves, which is sort of the national instrument of Robonia.</li> <li>Solos!</li></ol>
+
+    1. Must be kinda funky. Dude's a Strider after all. So we're looking at a bit of a groove with the beat.
+    2. Must have square waves, which is sort of the national instrument of Robonia.
+    3. Solos!
+
     All this in mind, I nabbed a general purpose Genesis soundfont (Which seems to be comprised of voices mainly nabbed from Sonic, certainly the percussion is - You should be able to recognize the snare from the opening riff of Sonic the Hedgehog). And got to work.
+
     <b>NAME</b>
+
     Yeah, so I thought "Brobots" would've been a better name, especially because that became their canon name in the comic, but by then Hussie had used it in the comic under the name Anbroids, so it stuck :p I apended a 2.0 on it because the versions became fairly different.  I also figured some people might want the original version 1.0 used in the comic after the album came out.
+
     Speaking of which...
+
     <b>VERSION ONE</b>
+
     [\[LISTEN TO] IT HERE!](https://www.youtube.com/watch?v=2ICTFBDONdI)
+
     This was an in progress version that Hussie nabbed early on before I'd made changes to create the newer version.  I'll go into why it changed in a bit, but here's a good place to discuss the track at large:
+
     The main theme is there, but a bit... "Lazier" - It doesn't have a lot of the swing it'd later develop.  It also opens with just a percussive riff, which is probably most influenced by the likes of Toejam 'n Earl.  Overall I reckon this version lacked energy, so it needed a bit of a rework before I reckoned it was cool enough to be a Strider song...
+
     <b>VERSION TWO</b>
+
     The percussive intro was removed in favor of a "Booting up" thing (Just a pitch bended squave), followed by a not-so-subtle parody of the original Game Boy bootup noise.  The main "guitar" riff came back with a bit of stereo (Which I tried to use a bit more of).
+
     At 0:23 we jump into the first of various solos. One of the tricky parts of chiptune music is, yes you have limited channels, voices and often no polyphony (multiple notes on the same track at the same time) so if you want to make it sound realistically retro you need to abide by these laws, but that doesn't mean you can't play with pitch, modulation, stereo etc - The solos were effectively a lesson in mucking about with these to create something that sounded fairly dynamic for a sequenced solo.
+
     At 0:40, just before the main melody kicks in, we have the first "boot error" sound - Just a flat bass note on the square.  There's one at the end as well - The main concept was while he's building these brobots, occasionally something'll go wrong - It'll fail to start or it'll start going haywire - and so he has to unplug and start again trying something else.
+
     0:43 has the main melody.  It's similar to the original Version 1 but it's been funked up a bit - Mainly to avoid it sounded like other stuff (I'm looking at you, Lady Gaga's Alejandro). Again, bit of pitch wobbliness to give an air of a kind of hectic, technological mess.
+
     The second solo changes the key, and here the idea is Dirk's moved on to working on something else.  As the solo continues, it gets more and more hectic until it's just splattering notes everywhere, like the brobot's gone completely off the rails and it's flailing around the room - At 1:35 it's promptly shutdown and we bridge back into the main melody again (This bridge was removed from V1, but brought back in by, well, Rad's request :p I liked it too though, has a Sonic-y feel to it).
+
     Bit of harmonizing later (partially indicating that the Brobot Dirk's working on has started to play ball and is synchronizing with his personality). One last "Perfected" solo (1:58) which is actually a modified version of the original solo that's basically a lot "wilder", to show we've finally perfected the upgrade and ready to ship.
+
     So with that, everything's shut down, and the song ends.
+
     Granted, I probably didn't manage to get this little 'story' across with everybody, but this was the general thought process when I was making the thing.  Hopefully if you listen to it now you'll get some of the ideas I was going for. If not? Well... enjoy it however you like :p Or even come up with your own interpretation that's better than mine :p
+
     Johnathan Griffiths was the track art man of the hour - There's even a mega drive controller there! And how are those shades staying on? All round awesome :)
 
     <i>Jonathan Griffiths:</i>
+
     My track art for Anbroids V2.0 by Malcolm Brown off Homestuck Volume 9!
 
     The track reminded me a lot of Toejam & Earl, so I wanted to have some kind of ridiculous 90s background, and you can’t get more 90s than complementary colors, triangles, and color halftones. ;) Then I gave Squarewave a Genesis controller necklace for good measure. THE SHUTTER SHADES WERE A SPECIAL BONUS FOR ALL OF YOU <3
@@ -218,7 +250,8 @@ Art Tags:
 - John
 - LoWaS
 Commentary: |-
-    <i>Buzinkai:</i>
+    <i>Buzinkai:</i> (via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt))
+
     Firefly is a special song. I was walking through a small lot to my apartment in the summertime, and fireflies were all around me. And I just thought of the -perfect- theme for it, and I rushed in to my apartment as fast as I could to get it down. It's the only song that's come to me like that.
 ---
 Track: Whistling Jackhammer
@@ -259,7 +292,8 @@ Art Tags:
 Referenced Tracks:
 - Aggrieve (Violin Refrain)
 Commentary: |-
-    <i>Tavia Morra:</i>
+    <i>Tavia Morra:</i> (track artist, [Tumblr](https://www.tumblr.com/seeyoutmorra/24975873399/my-homestuck-volume-9-contributions), excerpt, 6/12/2012)
+
     RJ gave me the reins on this one. At first I was drawing it in the same style as a later track ([[Before the Beginning and After the End]]) I did art for, but then it quickly turned in to a painting. This palette in particular was fun and challenging to work with. I'm happy with the end result, since it looks like the Batterwitch is cackling as the world burns down around her.
 ---
 Track: Hate You
@@ -320,21 +354,36 @@ MIDI Project Files:
   Files:
   - "Pumpkin Party in Sea Hitler's Water Apocalypse - Caustic.mid"
 Commentary: |-
-    <i>Malcolm Brown:</i>
+    <i>Malcolm Brown:</i> (via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt))
+
     Aaah Pumpkin Party in Sea Hitler's Water Apocalypse. Or Pumpkin Party in Colony 413 or whatever I was calling it before I decided to go nuts.  The original working title was just "Pumpkin Party", so at the very least we started somewhere sensible.
+
     So let's have a chat about where this one came from.
+
     <b>THE CONCEPT</b>
+
     So around about [THIS PANEL](https://www.homestuck.com/story/4852) during Dirk's history lesson of the future, we got a glimpse as to what Roxy was up to - Helping the locals out in the post apocalyptic hell-future.  Some bizarre idea came about that herself and the Carapacians would get together and have a little underground party away from the watchful gaze of the Condensce and her drones and the like.  Gotta find some way to keep your spirits up, right? So with that incredibly vague concept the idea was born to come up with some small light of goodness and happiness in, well, "Sea Hitler's Water Apocalypse".
+
     <b>THE NAME</b>
+
     As mentioned this changed a few times, but this line sums up pretty much everything you need to know about the future:
+
     <code style="color: #1f9400">GT: Like what is even your day to day business like in sea hitlers water apocalypse??</code>
+
     <b>THE TRACK</b>
+
     As I recall, with this one it was mainly the instruments chosen that defined it.  The Banjo just struck the right kind of sound, and from there an accordion to give it a bit of a polka feel.  A lot of the crafting of this one was trying desperately not to have it ending up too much like the Ievan Polkka (Which thanks to a month of Project Diva on PSP is firmly embedded in my brain...).
+
     The idea of mixing Chiptune samples and real instruments is something I was playing with a lot this album (Encore does it as well, as did the dropped 'Mother') - I felt this was a kind of neat "This is where we were, and this is where we are now" concept.  HS is still about a game, and it's neat to embed some of the more obvious gamey elements now and then.  Plus it might just be me, but accordions and square waves go really well together :D
+
     The "Ooh!" "Ahh!" chants were added just to give it a bit more of a folk appeal, and the air-raid sirens were added last to build up the scene of this party going on while the world's gone to hell outside - perhaps some other colony's getting obliterated for whatever reason.  Either way, it bookends the song quite nicely, coming back now and then and returning at the end to signify the dance is over.
+
     My favorite bit of the whole thing is the solo at 1:56 - It's just so gosh darn happy!
+
     Overall though? It's a bit of a zany, dance-party track.  Completely juxtapositions the hell-nightmare outside, and in the end that's the point!  Of course things get worse, but "Red Miles In Sea Hitler's Water Apocalypse" will have to wait...
+
     Damn, I just realized I should've added some meows.  I've got like two cats sitting here ready for a vocal performance as well... Ah well, the road not taken.
+
     Once again the art is very spiffy so many thanks to Marina! Look at that dude in the corner? That pumpkin is so nom'd! :D
 ---
 Track: Skaianet
@@ -357,6 +406,10 @@ MIDI Project Files:
 - Title: MIDI by Twix Stix (from Sburbmon)
   Files:
   - 'Skaianet - Twix Stix.mid'
+Commentary: |-
+    <i>Mark J. Hadley:</i> (via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt))
+
+    I don't have a lot to say about this one, other than that it resembles my earlier pre-Homestuck work more than anything else (i.e., faced-paced and a little repetitive). I still kind of like it though
 ---
 Track: Another Jungle
 Artists:
@@ -386,7 +439,7 @@ MIDI Project Files:
   Files:
   - 'Another Jungle - Purple1222119 (flash version).mid'
 Commentary: |-
-    <i>Michael Guy Bowman:</i> (composer)
+    <i>Michael Guy Bowman:</i> (composer, via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt), excerpt)
 
     Before this track was [[flash:4665|used]] in Homestuck along with Beatfox's [[track:a-taste-for-adventure|"A Taste for Adventure"]], it was actually made for a nearly 3-year-old defunct fan project. Housetrapped was a story about an alternate Sburb session and "Another Jungle" was a the-same-but-different theme for the loading screen of that universe's Sburb client. Sound familiar?
 
@@ -499,7 +552,7 @@ Lyrics: |-
 
     (Awesome! That was totally rad to the max! I could just keep doing this all day... NOT! I've got games to play, and if you think I'm gonna slow down just to talk to a bunch of amateurs, then you need to seriously blow the dust out of your cartridges. But hey, girls, whenever you need to show those creepy boys who's boss, just remember that GameGrl's got your back. Look for me on specially-marked boxes of Betty Crocker brand snacks and have an adult call the toll-free number to subscribe to the exclusive girls-only GameGrl Magazine. Alright, check you later girlfriends!)
 Commentary: |-
-    <i>Michael Guy Bowman:</i> (composer)
+    <i>Michael Guy Bowman:</i> (composer, [Tumblr](https://www.tumblr.com/seeyoutmorra/25256571587/iambowman-everything-you-ever-wanted-to-know), around 6/16/2012)
 
     Originally we'd planned on doing a Homestuck album that was devoted entirely to the Sburb Alpha kids and their session, all of us doing tracks that would parallel earlier tracks in a same-but-different fashion. While this album became Homestuck Vol. 9, a lot of analogous tracks remained from the original concept, including this track as an alternative to [[track:gamebro-original-1990-mix|"GameBro (Original 1990 Mix)"]] from Homestuck Vol. 6: Heir Transparent.
 
@@ -517,7 +570,7 @@ Commentary: |-
 
     We took our pictures at the Japanese-style game center Arcade UFO. Outtakes can be found [here](https://seeyoutmorra.tumblr.com/post/24983253249/some-of-the-other-photos-from-the-gamegrl).
 
-    <i>Tavia Morra:</i> (vocalist, track artist)
+    <i>Tavia Morra:</i> (vocalist, track artist, [Tumblr](https://www.tumblr.com/seeyoutmorra/24975873399/my-homestuck-volume-9-contributions), excerpt, 6/12/2012)
 
     I don't even know where to start.
 
@@ -608,7 +661,7 @@ MIDI Project Files:
   Files:
   - 'Austin, Atlantis - silverseer (piano).mid'
 Commentary: |-
-    <i>Clark Powell:</i>
+    <i>Clark Powell:</i> (via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt))
 
     Nothing inspires me more than spaces, regardless of whether they are real or virtual. Examples include cities, mountains, buildings, individual rooms, even entire planets (see [[album:medium|Medium]]).
 
@@ -662,11 +715,11 @@ MIDI Project Files:
   Files:
   - 'Despot - adamus (piano).mid'
 Commentary: |-
-    <i>Erik Scheele:</i> (composer, [Tumblr](https://erikscheele.tumblr.com/post/24963696053/volume-9), excerpt)
+    <i>Erik Scheele:</i> (composer, [Tumblr](https://erikscheele.tumblr.com/post/24963696053/volume-9), excerpt, 6/12/2012)
 
     Started as a sequel to [[track:upward-movement-dave-owns|Upward Movement]], before [[artist:andrew-hussie|Hussie]] skipped over that entire sequence, which made me try to build it into a general Dirk theme. Sort of like a rise to power, from princehood to kinghood, or sommat. Maybe even a character theme, though I can't really make those calls.
 
-    <i>Tavia Morra:</i> (track artist)
+    <i>Tavia Morra:</i> (track artist, [Tumblr](https://www.tumblr.com/seeyoutmorra/24975873399/my-homestuck-volume-9-contributions), excerpt, 6/12/2012)
 
     This picture started with an innocent suggestion from [[artist:robert-j-lake|RJ]] who imagined Dirk riding a [super hang on motorcycle](https://en.wikipedia.org/wiki/Super_Hang-On) to this song. I took the idea over to [[artist:erik-scheele|Jit]] who then helped me develop the picture to what it became, suggesting the [FF7 motorcycle chase](https://www.youtube.com/watch?v=LUUbp-4kKMA) as inspiration and to turn the motorcycle in to Sawtooth.
 ---
@@ -688,18 +741,29 @@ Referenced Tracks:
 - Five-Four Stress
 Commentary: |-
     <i>Toby Fox:</i> ([Tumblr](https://web.archive.org/web/20130312050422/http://fwugradiation.tumblr.com/post/25866980984/stress-homestuck-vol-9-track-commentary))
+
     art by [[artist:p-ro]] at [nomorepros.tumblr.com](https://nomorepros.tumblr.com). P-RO always does a maximally amazing job so why I asked her to draw the art is a non-question.
+
     Stress is actually a pretty faithful arrangement of an [[track:five-four-stress|original track]] by Buzinkai. Buzinkai has been responsible for several HS-important melodies like [[Doctor]], [[Endless Climb]], and [[Explore]] and [her] work, for me, has always established a certain "essence" of what Homestuck is. My goal for this piece was actually to create a classic strife theme for Dirk with the core feeling of earlier pieces like [[Showtime (Original Mix)|Showtime]] or [[Doctor]], so basing the piece off of something with that "essence" was important.*
+
     I can't say why Buzinkai wrote this piece the way she did, so I'll instead highlight the differences between the original and my arrangement.
+
     - <p>Updated the instrumentation. Buzinkai's usage of PXTONE is indeed charming and nostalgic-sounding, but I wanted to push things bit further. One major difference is the arrangement of the strings - Buzinkai's PXTONE strings have an sharp attack to them, while mine come on a bit softer but are thicker. My strings then sound more "lush" but less "urgent."</p>
     - <p>I added a section between the original A section and B section with lower intensity. This was because the song got a bit too repetitive and static simply repeating like Buzinkai's. Oddly, the repeats didn't bother me in her track. I think this is partially because MY loop point, unlike Buzinkai's, lowers the intensity a LOT more by removing a bunch of instruments where hers simply flows into a repeat. I need to think about that more.</p>
     - <p>Added an introduction and a true ending to make it more of a proper start-to-finish song.</p>
+
     About the similarity to [[Teal Hunter]] and a fun syncopation lesson:
+
     - <p>This was unintentional - I not only started my arrangement of this song before the contest was conceived, Buzinkai made the original song back in 2010. THOUGH as soon as I heard Teal Hunter I KNEW people would call out the similarities because, surprise, there are plenty of them! Here's the big one:
+
     - <p>Both pieces are in 5/4 (5 beats per measure, try counting to 5 over and over on the beat) and use the SAME syncopation (syncopation = the division of notes into smaller off-beat rhythms within the measure) throughout the track. Actually, many many many pieces in 5/4 use this syncopation. See: [Hollow Bastion](https://www.youtube.com/watch?v=4nlCNVewMjA). Why do composers keep doing this? Two reasons: One, because it sounds awesome. Second, because the main way to compose in odd time signatures like 5/4 or 13/4** is actually to cut things into smaller units of 3, 2, or 4. Though each measure is comprised of 5 total beats, each measure in these songs is cut into 10 notes of half the length going 123-123-12-12. 3! 3! 2! 2!</p> <p>Wow, that was a very poor explanation. But please go to that Hollow Bastion video I linked and count "one-two-three-one-two-three-one-two-one-two" very quickly along with each note the harp plays. You'll get it. (And I'm just making things more confusing, but isn't it awesome how the syncopation switches at the end of the  4-measure phrase to "1234 12 12 12?" The little bit of contrast makes it feel complete.)</p> <p>So, why don't people just cut things up differently? like 3 2 2 3? it's definitely possible! Here's my theory about why people favor the syncopation they do: It seems like ending a measure with a shorter note ON the beat leads into the next measure more naturally. It even sounds like a leadin: dun-DUN! This is supported by the fact that one of the most popular syncopations in existence is the one in 4/4 that goes 3 3 2. This is probably the same principle.</p> <p>3 3 2: ON OFF ON<br>3 3 2 2: ON OFF ON ON</p>
+
     - <p>Besides the fact that the syncopation is identical, the chords and melody are similar and the way the strings are used are basically the same. I have no explanation for this other than... great minds think alike???</p> <p>RANDOM FUN FACT: [[Awakening]] is also in 5/4, go to 1:40 and sing the melody to Stress. Hell, [[media:misc/stresscombo.mp3|I'll do it for you.]] It fits!!! The main melody of awakening also starts with a similar rhythm as Stress. it's the curse of the 123 123 12 12's.</p>
+
     Wow, I really got off track here. But I hope you learned something today.
-    * Yes, [[artist:bill-bolin]] also started [[track:stress-speed-mix|an arrangement of this piece]] before he left the team. I think we were both attracted to the same "essence" present in Buzinkai's piece.
+
+    \* Yes, [[artist:bill-bolin]] also started [[track:stress-speed-mix|an arrangement of this piece]] before he left the team. I think we were both attracted to the same "essence" present in Buzinkai's piece.
+
     ** Bonus challenge: See if you can count out how I divided the measures in this song! If you can do this, you can easily understand how to compose in time signatures like this. It's actually VERY simple and derived directly from the other breakdowns I did.
 ---
 Track: Minihoof's Adventure
@@ -717,7 +781,7 @@ Cover Art File Extension: jpg
 Art Tags:
 - Maplehoof
 Commentary: |-
-    <i>Michael Guy Bowman:</i> (composer)
+    <i>Michael Guy Bowman:</i> (composer, via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt), excerpt)
 
     I get the feeling that down the line there will be an explanation for why exactly there's a tiny Maplehoof on Dirk Strider's desk and it will be one of the biggest plot revelations in all of Homestuck. For me it was a cue that there needed to be a Sburb Alpha universe parallel for the song [[track:maplehoofs-adventure]], which in itself was a spiritual sequel to [[Pony Chorale]]. It's sort of a reality check to realize that I have written not one, not two, but three songs for cartoon ponies now - I guess that's part of this disease we call the Internet.
 
@@ -727,9 +791,7 @@ Commentary: |-
 
     Out of all the tracks for Volume 9 I worked on, this one was a real breeze. I was on such a roll that I considered making it ten minutes long just to piss off everyone, but I knew that I'd most likely be asked to cut it down if I'd gone to that kind of excess, and I had other tracks to work on.
 
-    The track art was done by Tavia Morra.
-
-    <i>Tavia Morra:</i> (vocalist, track artist)
+    <i>Tavia Morra:</i> (vocalist, track artist, [Tumblr](https://www.tumblr.com/seeyoutmorra/24975873399/my-homestuck-volume-9-contributions), excerpt, 6/12/2012)
 
     Bowman and I quickly settled on the idea of a picture emphasizing the size of Minihoof, but couldn't decide on a specific way to show it. Maybe put a magnifying glass over the little pony? Having her next to Dirk's hand while he typed on the computer? The energy of the track made us think of little Minihoof running through an obstacle course Dirk set up for her on his desk, thus the stapler, the tacks, the brads, the pencils, and the GameBro Magazines. This was a super fun one for me since I had such a personal investment in it.
 
@@ -759,24 +821,39 @@ Referenced Tracks:
 - Lifdoff
 - Unite Synchronization
 Commentary: |-
-    <i>Malcolm Brown:</i>
+    <i>Malcolm Brown:</i> (composer, via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt))
+
     Let's talk about Encore! Or "Showtime 2: Encore".
+
     <b>THE CONCEPT.</b>
+
     So back in the early days of Volume 9, the idea was "The New Session".  The further idea was to take the tracks 'n themes of Volume 1/Act 1 and 're-scratch' em to come up with a parallel for the new session and the new kids.  Where this idea started to fall to bits was expecting the act to play similarly to Act 1, which it quickly didn't :)
+
     Still, by this point we had a decent collision of re imagined classic tracks and Strife/character themes for the new kids, so on with the show.
+
     Encore was a straight-up "Let's bring Showtime kicking and screaming into the new session, but a little bit mixed, yet still recognizable".
+
     <b>THE NAME.</b>
+
     Should be obvious. "Showtime" -> "Encore".
+
     <b>THE TRACK.</b>
+
     Making Showtime orchestral wasn't too hard.  The idea of a very pomp-y, brass, adventure-y/combat affair was formed fairly early on - I think the main channeling came from a Power Stone/Smash Brothers-esque "Zany combat" idea.
+
     Most of the voices come from EWQL's Symphonic Orchestra, with a bit of soundfonts for the later Showtime segment.
+
     The section at 0:22 has a bit of history - It was originally a straight up Lifdoff arrangement, but I pulled it back and made it considerably less obvious (I've became hesitant of Lifdoff since someone pointed out it sounds like the Bruce Lee story theme :p) - I *did* leave the little brass phrases that punctuated it, which unintentionally/subconsciously might be referencing Earthsea Borealis.  This wasn't intended, but it's probably close enough for it not just to be a coincidence, and enough people seem to be picking up on this accidental reference so what the hell :p
+
     Next it returns to the alternate Showtime and adds on Unite Synchronization.  Does a floaty little bridge afterwards, and then we get into the original Showtime.
+
     I pondered adding this for a while, since it felt a bit "Yes, we get it, this is a Showtime thing, y'don't need to actually add the thing in", but eventually I liked the idea of it smashing in, completely brazen with its NES-y soundfont and blaring the original track in the last section of the song.  We then wind down with the fast-paced percussion and the starting brass arrangement, just enough time for a post-battle ass-kicking pose, and then "Boom".
+
     I think writing tracks for characters like John/Jake's quite fun in that they've got this bottomless optimism and carefree attitude, plus they do silly things. Silly things are quite fun to score...
+
     And that's Encore! Hope ya'll enjoyed that little trip back down memory lane!
 
-    <i>Bea:</i> ([Tumblr](https://beesmygod.tumblr.com/post/24962863472/oh-ok-i-can-post-this-now))
+    <i>Bea:</i> (track artist, [Tumblr](https://beesmygod.tumblr.com/post/24962863472/oh-ok-i-can-post-this-now), 6/12/2012)
 
     oh ok i can post this now
 
@@ -800,11 +877,11 @@ Referenced Tracks:
 - English
 - Explore
 Commentary: |-
-    <i>Mark J. Hadley:</i> (composer)
+    <i>Mark J. Hadley:</i> (composer, via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt))
 
     As I've mentioned before, I really like finding ways to combine themes. In this case, I combined 'Explore' and 'English' in a style inspired by the sailing theme from 'Legend of Zelda: The Wind Waker'. (It's easy to miss the theme from 'English', since it's a lot more upbeat and in a major key.) I don't use brass a lot when I write, but I think it came out well here.
 
-    <i>EsfiArt:</i> (track artist, [Tumblr](https://web.archive.org/web/20180407051347/http://kiddybro.tumblr.com/post/24963870530))
+    <i>EsfiArt:</i> (track artist, [Tumblr](https://web.archive.org/web/20180407051347/http://kiddybro.tumblr.com/post/24963870530), 6/12/2012)
 
     WELP GUESS IT’S TIME TO POST THIS NOW
 
@@ -825,7 +902,7 @@ Art Tags:
 - Jake
 - Tavros' lusus
 Commentary: |-
-    <i>Michael Guy Bowman:</i> (composer, [Tumblr](https://www.tumblr.com/kitten-burrito/25391031646/iambowman-everything-you-ever-wanted-to-know), around 6/18/2012)
+    <i>Michael Guy Bowman:</i> (composer, [Tumblr](https://www.tumblr.com/kitten-burrito/25391031646/iambowman-everything-you-ever-wanted-to-know), excerpt, around 6/18/2012)
 
     This is pure Jake strife music - I started this project with the definite goal in mind to make something that sounded purely like video game music for a battle. Jake English is sort of the archetypal Roosevelt-type swashbuckler with all the bravado of a turn-of-the-century primitivist. For him, the palette of sounds is instantaneous: heavy percussion rumbling at a breakneck pace. I threw in chimes, timpani, xylophone, glockenspiel, cymbal crashes, and an uncompromising drum machine to get the atmosphere I wanted.
 
@@ -870,7 +947,8 @@ Cover Artists:
 Art Tags:
 - Dirk
 Commentary: |-
-    <i>Tavia Morra:</i>
+    <i>Tavia Morra:</i> (track artist, [Tumblr](https://www.tumblr.com/seeyoutmorra/24975873399/my-homestuck-volume-9-contributions), excerpt, 6/12/2012)
+
     You ever have one of those days where the pen and photoshop just seem to be behaving? I was having one of those days and as a result this picture of Dirk happened. He's holding a Derse flag with the pointy end coming at the viewer. This man means business.
 ---
 Track: Jane Dargason
@@ -892,15 +970,14 @@ Referenced Tracks:
 Sampled Tracks:
 - Life in Technicolor
 Commentary: |-
-    <i>Clark Powell:</i> ([Tumblr](https://plazmataz.tumblr.com/post/25536699941/jane-dargason-it-may-be-a-little-late-by-now-but))
+    <i>Clark Powell:</i> ([Tumblr](https://plazmataz.tumblr.com/post/25536699941/jane-dargason-it-may-be-a-little-late-by-now-but), 6/20/2012)
 
     It may be a little late by now, but I wanted to give one more of my songs from Volume 9 a post of its own.
 
     First let me say that [[artist:robert-j-lake|RJ Lake]] is a joy to work with. We sent Jane Dargason back and forth between us, remixing each other's remixes until the track was in its final state. For reference:
 
-    The original sketch put together by RJ [[track:jane-dragon|sounded like this]].
-
-    By the end of the process, things had evolved quite a bit.
+    - The original sketch put together by RJ [[track:jane-dragon|sounded like this]].
+    - By the end of the process, things had [evolved quite a bit](https://homestuck.bandcamp.com/track/jane-dargason-2).
 
     I also want to take a moment to say that my good friend [[artist:dawn-davis|Dawn]] did a spectacular job on the track art! She has a wondrous way with colors, and her drawings of the Homestuck kids have a childlike optimism about them. Nothing could have been a more perfect match for a track like this one!
 ---
@@ -922,7 +999,8 @@ Art Tags:
 Referenced Tracks:
 - Before Before the Beginning
 Commentary: |-
-    <i>Tavia Morra:</i>
+    <i>Tavia Morra:</i> (track artist, [Tumblr](https://www.tumblr.com/seeyoutmorra/24975873399/my-homestuck-volume-9-contributions), excerpt, 6/12/2012)
+
     This was one of the last track art pieces I did that I had a lot of fun with. I didn't really know what I was doing when I went in, but as soon as I had laid out what Alpha Kid went where, the colors instantly stood out in my mind. I really like the way this one came out.
 ---
 Track: Bridge of Stars
@@ -989,7 +1067,7 @@ Lyrics: |-
     FEEL FEEL FEEL FEEL GOOD GOOD GOOD GOOD<br>FEEL FEEL FEEL FEEL GOOD GOOD GOOD GOOD<br>(Bustin' makes me feel good!)<br>FEEL FEEL FEEL FEEL GOOD GOOD GOOD GOOD<br>FEEL FEEL FEEL FEEL GOOD GOOD GOOD GOOD<br>(Bustin' makes me feel good!)
     Bu-bu-bu-bustin' makes me feel good!<br>Bu-bu-bu-bustin'!<br>Bu-bu-bu-bu-bustin'!<br>Bu-bu-bu-bustin' makes me feel good!
 Commentary: |-
-    <i>Michael Guy Bowman:</i>
+    <i>Michael Guy Bowman:</i> (composer, via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt), excerpt)
 
     This track was an attempt to try something in the same vain as the soundtrack to Jet Set Radio Future which was recommended to me by friends [[artist:erik-scheele|Erik Scheele]] and [[artist:richard-gung|Richard Gung]]. Composer Hideki Naganuma has created some of the most intricate and engaging pieces of dance music I've ever heard - his signature approach is his construction of entire songs around only a handful of samples (check out ["Funky Dealer"](https://www.youtube.com/watch?v=XpAF8bGm-MM) for a good example).
 
@@ -1027,7 +1105,8 @@ Art Tags:
 - Carapacians
 - Earth
 Commentary: |-
-    <i>Tavia Morra:</i>
+    <i>Tavia Morra:</i> (track artist, [Tumblr](https://www.tumblr.com/seeyoutmorra/24975873399/my-homestuck-volume-9-contributions), excerpt, 6/12/2012)
+
     This is another one that RJ let me do whatever I wanted on. After thinking about the title of the track, I remembered the moment in Homestuck when we all finally found out the answer to the infamous question ["What Pumpkin?"](https://www.homestuck.com/story/4853) And what a heartwarming answer it was! To me, this was one of the most gentle tear-jerking moments in the comic to date. It just made sense to draw.
 ---
 Track: iRRRRRRRRECONCILA8LE
@@ -1048,7 +1127,7 @@ Art Tags:
 - Tavros
 - Vriska
 Commentary: |-
-    <i>Michael Guy Bowman:</i> (composer)
+    <i>Michael Guy Bowman:</i> (composer, via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt), excerpt)
 
     Before there was 20+ hours of music in the Homestuck catalog, the music team's task was to create new themes at a moment's notice for new elements of the story. When Tavrisprite appeared in the comic, I challenged myself to make a suitable theme at the same pace I might once have cobbled something together back in 2009. I posted the resulting demo track on my Soundcloud the same day as the character made its debut.
 
@@ -1126,7 +1205,7 @@ Lyrics: |-
     Early to bed, and you'll miss all the fun
     Bring your wife and trouble, it can never trouble you<br>Make her a member of the Midnight Crew!
 Commentary: |-
-    <i>Michael Guy Bowman:</i> (composer)
+    <i>Michael Guy Bowman:</i> (composer, via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt), excerpt)
 
     One of the things I'd always felt was curious about our re-appropriation of the [[track:im-a-member-of-the-midnight-crew|hundred-year-old vaudeville track]] by Eddie Morton was the complete contrast between its cheerful mood and the sinister nature of the characters it represents. The Midnight Crew, while fashion-savvy, are cold-blooded murderers, and I'd been curious as to what a darker version of their signature song might sound like.
 
@@ -1168,7 +1247,7 @@ MIDI Project Files:
   Files:
   - 'Three in the Morning (Aftermath) - Unknown.mid'
 Commentary: |-
-    <i>Erik Scheele:</i> (composer, [Tumblr](https://erikscheele.tumblr.com/post/24963696053/volume-9), excerpt)
+    <i>Erik Scheele:</i> (composer, [Tumblr](https://erikscheele.tumblr.com/post/24963696053/volume-9), excerpt, 6/12/2012)
 
     I don't remember how long ago it was that [[artist:clark-powell|Plaz]] asked me to do an improvisation around her [[track:three-in-the-morning|Three In The Morning]], but I did it, and here it is!
 ---
@@ -1269,14 +1348,25 @@ Cover Art File Extension: jpg
 Art Tags:
 - Roxy
 Commentary: |-
-    <i>Solatrus:</i>
+    <i>Solatrus:</i> (composer, via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt))
+
     Honestly, on all three, it was a lot of going with my gut because I hadn't quite gained the understanding of writing percussion that I now have. Though, having a good instinct for interesting rhythms definitely is why I seem to be so notorious for percussion/drum beats.
+
     That said, Portrait is a funny case in particular, and its weirdness is quite a bit more deliberate than the other two, simply because I was more experienced by the time of its release.
+
     The song is in mixed meter. Now, you certainly can hash it out to 14/4 and be happy with it, because it works out that way, but the song is actually written in alternating measures of 15/8 and 13/8. Or was it 13/8 and 15/8? It's been awhile. Either way, the song itself never sits still and shifts its pulse back and forth the entire way, and ends up making the later breakbeat/drum and bass part all the more crazy.
+
     And yet it still seemed to work!
+
     As for everything since Portrait, any weird percussion I do has been completely deliberate and thought out, because, as I said before, I understand my instincts on it. More importantly, I understand why those instincts work.
+
     TL;DR; In a past life, I was probably a drummer.
+
     :D
+
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    In the [commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt), this entry is annotated "semi commentary, ask for more".
 ---
 Track: Negative Aperture
 Artists:
@@ -1329,7 +1419,7 @@ Sheet Music Files:
   Files:
   - 'Red Miles - Purple1222119 (piano score).pdf'
 Commentary: |-
-    <i>James Dever:</i> ([Tumblr](https://web.archive.org/web/20120726133000/http://funkeecephalopod.tumblr.com/tagged/music), excerpt)
+    <i>James Dever:</i> ([Tumblr](https://web.archive.org/web/20120726133000/http://funkeecephalopod.tumblr.com/tagged/music), excerpt, 7/11/2012)
 
     <b>History</b><br>
     Igor Stravinsky has been a gigantic inspiration for me for a long time. My favorite piece of all time is his Firebird Suite, and not far behind is his other ballet the Rite of Spring. The latter is the main inspiration behind this track!
@@ -1391,10 +1481,14 @@ MIDI Project Files:
   Files:
   - 'Requited - IronInvoker47.mid'
 Commentary: |-
-    <i>Clark Powell:</i>
+    <i>Clark Powell:</i> (via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt))
+
     Back on Volume 8 I wrote a song called Serenade; the track art for it explains well what the song is about. In a great many ways it was an important song for me. For one, it was the first song I've ever written, by which I mean a short, lyrical work written in a structure including verses and choruses. On top of that the music and the melodies came unusually naturally to me, and it all felt organic and expressive of my situation in life at the time of writing. Serenade is by far the closest emotional connection I have to Homestuck.
+
     Naturally I wanted to do things properly if I was going to revisit a tune so personally significant. As part of a larger project I was tentatively calling "cellostuck" I decided to tackle Serenade and record a version with live cello parts, hopefully bringing rich textures and lyricism to the song to reflect the musical and personal progress I had made since writing the original. It came out beautifully, much more so than the other experiments I had tried with other songs. I called the final mix Requited, implying that the song can be seen from the opposite side.
+
     Consider Requited the pre-Scratch counterpart to Serenade.
+
     For the artwork on this track I asked my chum [[artist:dodostad|Dodostad]] to draw something up. Her style of whimsical, faded character art seemed the perfect match for the song, and she did a magnificent job.
 ---
 Track: Princess of Helium
@@ -1418,7 +1512,7 @@ MIDI Project Files:
   Files:
   - 'Princess of Helium - Zadira.mid'
 Commentary: |-
-    <i>Tavia Morra:</i>
+    <i>Tavia Morra:</i> (track artist, [Tumblr](https://www.tumblr.com/seeyoutmorra/24975873399/my-homestuck-volume-9-contributions), excerpt, 6/12/2012)
 
     This was the first track art I had done for Volume 9, but at the time I drew it I didn't know it was going to be on the upcoming album. [[artist:clark-powell|Plazmataz]] played [[track:jane-dargason|a track]] she'd been working on outloud for me and asked if I wanted to do art. I jumped on the opportunity and got a lot of painting practice in with this one. I'm super proud of this one, since it was the first picture in a while that had a strong palette.
 
@@ -1494,7 +1588,7 @@ MIDI Project Files:
   Files:
   - 'Candles and Clockwork (Alpha Version) - Twix Stix.mid'
 Commentary: |-
-    <i>James Dever:</i> (composer)
+    <i>James Dever:</i> (composer, via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt))
 
     <b>History</b>
 
@@ -1520,7 +1614,7 @@ Commentary: |-
 
     The art was done by the fantastic Worthikids who I only just recently discovered! They actually made it a while ago for the original Volume 5 version. I messaged them about using it for this version. Go check them out!
 
-    <i>Worthikids:</i> (track artist, [Tumblr](https://worthikids.tumblr.com/post/22111816772/i-wanted-to-make-something-for-candles-and))
+    <i>Worthikids:</i> (track artist, [Tumblr](https://worthikids.tumblr.com/post/22111816772/i-wanted-to-make-something-for-candles-and), 4/30/2012)
 
     I wanted to make something for [[Candles and Clockwork]],
 
@@ -1538,7 +1632,7 @@ Commentary: |-
 
     <small>#HEAVY BURN FILTER</small>
 
-    <i>Worthikids:</i> (track artist, [Tumblr](https://worthikids.tumblr.com/post/22141399172/messy-gif-version-the-texture-doesnt-loop), alternate artwork)
+    <i>Worthikids:</i> (track artist, [Tumblr](https://worthikids.tumblr.com/post/22141399172/messy-gif-version-the-texture-doesnt-loop), alternate artwork, 4/30/2012)
 
     <img src="media/misc/candles-and-clockwork-alpha-version-bonus.gif" width="300">
 
@@ -1577,7 +1671,8 @@ Art Tags:
 Referenced Tracks:
 - Courser
 Commentary: |-
-    <i>Alex Rosetti:</i>
+    <i>Alex Rosetti:</i> (composer, via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt))
+
     I wrote it to be the "alpha" version of Courser, another piece by myself and Beatfox. Where Courser is a theme for Bec, Coursing can be thought of as a theme for GCat, though in my mind it encompasses the idea of any First Guardian. It is not a "remix" or even an arrangement of Courser, but it is based off Courser's material and of course heavily references it and quotes it. I hope you enjoy! The track art is by the amazing Zilleniose. Thanks Zoey!
 ---
 Track: Cairo Overcoat
@@ -1601,7 +1696,7 @@ MIDI Project Files:
   Files:
   - 'Cairo Overcoat - asmolfirefly.mid'
 Commentary: |-
-    <i>Lauren Ross:</i> ([Tumblr](https://www.tumblr.com/luzerna/24965609113/track-art-for-cairo-overcoat-by-eidolon-orpheus-on))
+    <i>Lauren Ross:</i> (track artist, [Tumblr](https://www.tumblr.com/luzerna/24965609113/track-art-for-cairo-overcoat-by-eidolon-orpheus-on), 6/12/2012)
 
     Track art for Cairo Overcoat by [[artist:thomas-ferkol|Eidolon Orpheus]] on the new album!!
 
@@ -1654,7 +1749,7 @@ MIDI Project Files:
   Files:
   - 'Noirscape - asmolfirefly.mid'
 Commentary: |-
-    <i>David Ellis:</i> (composer, [Tumblr](https://ducksual.tumblr.com/post/25874791771/noirscape-homestuck-vol-9-track-commentary))
+    <i>David Ellis:</i> (composer, [Tumblr](https://ducksual.tumblr.com/post/25874791771/noirscape-homestuck-vol-9-track-commentary), 6/25/2012)
 
     This tune got some pretty cool art from [[artist:kendle-iulus]]. I don't really know anything other than 'wow, that's really cool'.
 
@@ -1680,7 +1775,7 @@ Commentary: |-
 
     <img src="media/misc/noirscape.png" width="300" warning="blood">
 
-    <i>Kendle Iulus:</i> ([Tumblr](https://tzepesh.tumblr.com/post/24963148538/album-art-for-noirscape-which-you-can-listen-to))
+    <i>Kendle Iulus:</i> ([Tumblr](https://tzepesh.tumblr.com/post/24963148538/album-art-for-noirscape-which-you-can-listen-to), 6/12/2012)
 
     album art for noirscape, which you can listen to [here](https://homestuck.bandcamp.com/track/noirscape-2)
 
@@ -1769,7 +1864,8 @@ MIDI Project Files:
   Files:
   - 'Stargaze - asmolfirefly.pdf'
 Commentary: |-
-    <i>Tavia Morra:</i>
+    <i>Tavia Morra:</i> (track artist, [Tumblr](https://www.tumblr.com/seeyoutmorra/24975873399/my-homestuck-volume-9-contributions), excerpt, 6/12/2012)
+
     Nick Smalley approached me about this one with a very specific image for this one. He wanted a night time version of Lexxy's wonderful [[media:misc/together.jpg|Beta Kids image]]. I had a lot of fun sprinkling details in to this image. I think the part that makes me smile most is little Minihoof curled up on Dirk's chest.
 ---
 Section: Bonus tracks
@@ -1790,7 +1886,7 @@ Art Tags:
 Referenced Tracks:
 - Another Jungle
 Commentary: |-
-    <i>Michael Guy Bowman:</i> (composer)
+    <i>Michael Guy Bowman:</i> (composer, via [early commentary collection](https://hsmusic.wiki/media/misc/commentary-collection.txt), excerpt)
 
     I've mentioned a few times that Homestuck Vol. 9, in its early planning stages, was conceived as an album that would be dedicated to the new session of Homestuck, and most of the tracks would mimic older songs re-imagined in the new universe presented in Act 6. "Another Countdown" was thus the sister song of [[track:sburban-countdown|"Sburban Countdown"]] - both are brief arrangements of their parent songs ([[track:another-jungle|"Another Jungle"]] and [[track:sburban-jungle|"Sburban Jungle"]] respectively) meant to crescendo towards a major climax.
 
