@@ -177,7 +177,7 @@ Content: |-
     - added citations for Bandcamp commentary blurbs on [[album:jailbreak-vol-1]] (thanks, Lilith, Lan!)
     <h3>data changes</h3>
     <!-- overarching presentation -->
-    - consolidated [[album:archive]] as a single album on the wiki, based on 2024 release/restoration (was previously two albums, <code>archive</code> from 2016 and <code>archive-2018</code> from 2018; thanks, Whisper, Lan, Bowman, Celeste, Niklink, Morris!)
+    - consolidated [[album:archive]] as a single album on the wiki, based on 2024 release/restoration (was previously two albums, <code>archive</code> from 2016 and <code>archive-2018</code> from 2018; thanks, Whisper, Lan, Bowman, Celeste, Niklink, ruby!)
         - added 2016 and 2018 release names to [[track:crimesters-theme]], [[track:crimesters-credits]], and [[track:awake-2013-version]]
         - added lots of commentary and context on the album page
         - added updated Bandcamp about and credits blurbs
@@ -547,7 +547,7 @@ Content: |-
     - added YouTube and SoundCloud listening links to [[track:capricious-mistress]], plus SoundCloud and Tumblr commentary (thanks, Lilith!)
     - added citation for Newgrounds commentary on [[track:endless-space]] (thanks, Lilith!)
     <h3>data fixes</h3>
-    - fixed [[track:octoroon-rangoon]] not referencing [[track:penumbra-phantasm]] (thanks, Morris, Makin, Celeste!) and referencing [[track:im-a-member-of-the-midnight-crew]]
+    - fixed [[track:octoroon-rangoon]] not referencing [[track:penumbra-phantasm]] (thanks, ruby, Makin, Celeste!) and referencing [[track:im-a-member-of-the-midnight-crew]]
     - fixed [[track:mspar-remember]] referencing instead of sampling its tracks; not sampling [[track:MeGaLoVania]] (thanks, vriska/leo!); and indicated that [[track:unite-synchronization]] sample is reversed (thanks, Rosetta Leijonde!)
     - fixed [[track:brofessor-layton-every-puzzle-has-a-brolution]] referencing [[track:laytons-theme]] and [[track:gamebro-original-1990-mix]] instead of sampling them
     - fixed [[track:ascend-famitracker]] referencing [[track:ascend]]
@@ -555,7 +555,7 @@ Content: |-
     - fixed [[track:bowmans-credit-score-a-rock-opera]] referencing [[track:showtime-original-mix]] instead of [[track:showtime-piano-refrain]], and referencing [[track:liquid-negrocity]] (thanks, Niklink!)
     - fixed [[track:vi-rulent-vi-ndication]] not referencing [[track:negative-feedback]] (thanks, Grace!)
     - fixed [[track:stuck]] not sampling [[track:better-saint-pepsi]] and [[track:when-the-sun-hits]] (thanks, Grace!)
-    - fixed [[track:megalovania-ssbu]] ([[album:super-smash-bros-ultimate]]) sampling [[track:megalovania-undertale]] ([[album:undertale-soundtrack]]; thanks, Morris!)
+    - fixed [[track:megalovania-ssbu]] ([[album:super-smash-bros-ultimate]]) sampling [[track:megalovania-undertale]] ([[album:undertale-soundtrack]]; thanks, ruby!)
     - fixed [[flash:rex-duodecim-angelus]] not featuring [[track:killed-by-br8k-spider]] (thanks, BUGFlower413!)
     - fixed YouTube link for [[flash:judgemant]] (was to [upload](https://www.youtube.com/watch?v=rcnV5COpgjQ) of [[flash:m8ke-h8r-p8y]]; thanks, BUGFlower413!)
     - fixed [[album:the-homestuck-strife-project-vol-1]] not having any art tags
@@ -591,7 +591,7 @@ Content: |-
         - thanks to [[artist:jebb|Jebb]] for adding the releases by [[artist:falkkone]], [[artist:richaadeb]], and [[artist:dvojka]], as well as [[album:on-the-rox]], [[album:terminal-mayonakas-theme]], and [[album:love-letters]]
         - thanks to [[artist:lilithtreasure|Lilith]] for adding [[album:the-strider-mixtape]] and [[album:the-nobles]], as well as [[album:puppeteer-beforus-single]], [[album:versus-hardmode-remix]], and the solo albums by [[artist:ducky-senpai]], plus initial work on [[album:stlap2]] and [[album:stlap3]]
         - thanks to [[artist:foreverflummoxed|FF]] for initial work and much research behind all [[group:redditstuck]] additions
-        - thanks to [[artist:ruby|Morris]] for adding ever-more [[group:toby-fox]] works, including [[album:pale-rain]], [[album:im-your-treasure-box]], and [[album:unknown-diva]]
+        - thanks to [[artist:ruby]] for adding ever-more [[group:toby-fox]] works, including [[album:pale-rain]], [[album:im-your-treasure-box]], and [[album:unknown-diva]]
     - added [[album:hammerkind-ost]] by [[artist:stephen-maxwell]]!
     - added [[album:bowmania-gordian]] by [[artist:gordian]]!
     - added [[album:intense-symphonic-metal-covers-vol-16]] by [[artist:falkkone]]!
@@ -698,7 +698,7 @@ Content: |-
     <h2 id="15-may-2024"><html:a href="#15-may-2024">[[date:15 May 2024]] - midmay mayhem</a></h2>
     <h3>additions</h3>
     - added commentary (Discord) from [[artist:maukustus]] to [[album-commentary:the-twilight-reverie]] (thanks, Maukustus!)
-    - added commentary (excerpt) from [[artist:toby-fox]] to [[track:megalovania-ebhh]], and commentary citations across [[album:earthbound-halloween-hack]] (thanks, leo/vriska, Morris!)
+    - added commentary (excerpt) from [[artist:toby-fox]] to [[track:megalovania-ebhh]], and commentary citations across [[album:earthbound-halloween-hack]] (thanks, leo/vriska, ruby!)
     - added commentary (Tumblr) from [[artist:toby-fox]] to [[album:the-greatest-living-show]] (thanks, vriska/leo!)
     <h3>data fixes</h3>
     - fixed [[track:the-twilight-reverie]] and [[track:the-twilight-reverie-extended-mix]] not sampling [[track:amen-brother]] (thanks, Maukustus!)
@@ -721,11 +721,11 @@ Content: |-
     - added [[flash:riddle-of-dixy-path-of-mind]] game (thanks, Jebb!)
     - updated [[album:what]] with new artwork (circa 2021-2023)
     <h3>data fixes</h3>
-    - fixed listening link for [[track:the-academy]] (was accidentally same link as [[track:your-dorm-room]]; thanks, Morris!)
-    - fixed various tracks referencing [[track:the-academy]] instead of [[track:south-province]], including: [[track:battle-titan]], [[track:a-new-power-for-your-ride]], [[track:alfornada]], [[track:the-gate-opens]], [[track:battle-koraidon-miraidon]], [[track:the-way-home]], [[track:get-a-little-more-fun-out-of-this-adventure]], [[track:celestial-toby-fox]] (thanks, Morris!)
+    - fixed listening link for [[track:the-academy]] (was accidentally same link as [[track:your-dorm-room]]; thanks, ruby!)
+    - fixed various tracks referencing [[track:the-academy]] instead of [[track:south-province]], including: [[track:battle-titan]], [[track:a-new-power-for-your-ride]], [[track:alfornada]], [[track:the-gate-opens]], [[track:battle-koraidon-miraidon]], [[track:the-way-home]], [[track:get-a-little-more-fun-out-of-this-adventure]], [[track:celestial-toby-fox]] (thanks, ruby!)
     - fixed [[track:negastrife]] not referencing [[track:mother]] (thanks, Lilith!)
-    - fixed [[track:starfall]] not sampling [[track:ascend]] (in addition to referencing it; thanks, Morris, Makin!)
-    - fixed [[track:to-the-great-crater-of-paldea]] not referencing [[track:south-province]] (in addition to [[track:the-academy]]; thanks, Morris!)
+    - fixed [[track:starfall]] not sampling [[track:ascend]] (in addition to referencing it; thanks, ruby, Makin!)
+    - fixed [[track:to-the-great-crater-of-paldea]] not referencing [[track:south-province]] (in addition to [[track:the-academy]]; thanks, ruby!)
     - fixed [[track:surrural-anthology-i]] being tagged with [[tag:lotam-desynced]] twice (thanks, Jebb!)
     - fixed [[artist:dvojka]] having some credits under another name (thanks, Jebb!)
     - fixed originally considered name and commentary being placed on [[track:echobo-colors-mayhem-vol-1]] instead of [[track:vvisko-wwisko]] (thanks, Jebb!)
@@ -769,8 +769,8 @@ Content: |-
     - fixed artists being credited as both "artist" and "contributor" on a track, with an annotation only on the latter, being mispresented as *only* contributing that part, by hiding annotation altogether ([[media:misc/changelog/artist-contrib-mispresentation-old.png|old]], [[media:misc/changelog/artist-contrib-mispresentation-new.png|new]])
     <h3 id="lets-make-this-a-thing-albums">albums</h3>
     - <b>album addition credits:</b>
-        - thanks to [[artist:ruby|Morris]] for unrelentingly documenting the complete soundtracks of every AAA game [[group:toby-fox]] has had even the slightest involvement in, as well as [[album:unbeatable-demo-tapes]] and the original version of [[album:archive]]
-        - thanks to vriska/leo for providing review input on Pokémon references from [[artist:ruby|Morris]]'s additions
+        - thanks to [[artist:ruby]] for unrelentingly documenting the complete soundtracks of every AAA game [[group:toby-fox]] has had even the slightest involvement in, as well as [[album:unbeatable-demo-tapes]] and the original version of [[album:archive]]
+        - thanks to vriska/leo for providing review input on Pokémon references from [[artist:ruby]]'s additions
         - thanks to Celeste and Lilith for collaborating on getting [[group:the-paradox-music-team]] onto the wiki, and the latter for adding both of [[artist:svix]]'s albums, [[album:from-beta-to-alpha]], and [[album:synthetica]]
         - thanks to [[artist:kobacat]] for adding all of the latest [[group:deconrecon]] albums
         - thanks to [[artist:witchs-cadence]] for interfacing with the [[group:desynced]] & [[group:oceanfalls]] teams to help us add their latest albums
@@ -1029,7 +1029,7 @@ Content: |-
     - fixed [[track:squiddles-in-paradise]] not referencing [[track:squiddles]] (thanks, ceruleanModulator!) and not sampling [[track:plumbthroat-gives-chase]] (plus a lyric adjustment)
     - fixed [[track:frost-vol6]] not referencing [[track:vertigo]] (thanks, Jebb!)
     - fixed [[track:umbral-ultimatum]] not referencing [[track:sburban-jungle]] (thanks, Mauskustus!)
-    - fixed [[track:MeGaLoVania]] not sampling [[track:megalovania-ebhh]] (thanks, Morris!)
+    - fixed [[track:MeGaLoVania]] not sampling [[track:megalovania-ebhh]] (thanks, ruby!)
     - fixed [[track:trollcops-radio-play]] referencing [[track:trollcops]], now the other way around
     - fixed [[track:havoc]] not referencing [[track:my-hibernation]] (thanks, Lilith!)
     - fixed [[track:judgment-day]] not referencing [[track:psych0ruins]] (thanks, Lilith!)
@@ -1074,7 +1074,7 @@ Content: |-
     - fixed [[track:galactic-incoherence-cosmic-nan-propagation]] not referencing [[track:umbral-ultimatum]] (thanks, Jebb!)
     - fixed [[track:dusksetter]] not referencing [[track:MeGaLoVania]] (thanks, Jebb!)
     - fixed [[track:im-a-member-of-the-midnight-crew-special-soapstone-version]] not referencing [[track:im-a-member-of-the-midnight-crew-soapstone]] (thanks, Jebb!)
-    - fixed [[track:penumbral-awakening]] directly referencing [[track:pseudumbra-phauxtasm]], and directly sampling [[track:typheus]] instead of [[track:penumbra-phantasm-morris]] (thanks, Morris, Rosetta Leijonde!)
+    - fixed [[track:penumbral-awakening]] directly referencing [[track:pseudumbra-phauxtasm]], and directly sampling [[track:typheus]] instead of [[track:penumbra-phantasm-ruby]] (thanks, ruby, Rosetta Leijonde!)
     - fixed [[track:caliborns-lament]] referencing [[track:ophiuchus-full-suite]] instead of [[track:spirals-including-illusions-of-freedom]], not sampling [[track:welcome-to-hell]], and placing [[track:carne-vale]] and [[track:the-rarest-and-most-interpretive-dance-meatcabre]] in the wrong spots (thanks, Grace, Jebb!)
     - fixed [[track:home-stuck]] not sampling [[track:home]] and [[track:stuck]] (thanks, Makin!)
     - fixed [[track:blue-blood-group]] not referencing [[track:vriskas-theme]] (thanks, Lilith!)
@@ -1128,9 +1128,9 @@ Content: |-
         - fixed [[track:to-ashes-it-returns]] not referencing [[track:right-hand]]
     - fixed [[track:megalo-strike-back]] not referencing [[track:prologue-earthbound]] (thanks, FF, Cello!)
     - fixed [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) not referencing [[track:fallen-down]] ([[album:i-miss-you-earthbound-2012]])
-    - fixed [[track:snowdin-town]] not referencing [[track:stage-7-kirbys-block-ball]] (thanks, Rosetta Leijonde, Jebb, Morris!)
-    - fixed [[track:bonetrousle]] referencing [[track:nyeh-heh-heh]], instead of the other way around (thanks, Morris!)
-    - fixed [[track:song-that-might-play-when-you-fight-sans]] and [[track:bring-it-in-guys]] referencing [[track:nyeh-heh-heh]] instead of [[track:bonetrousle]] (thanks, Morris!)
+    - fixed [[track:snowdin-town]] not referencing [[track:stage-7-kirbys-block-ball]] (thanks, Rosetta Leijonde, Jebb, ruby!)
+    - fixed [[track:bonetrousle]] referencing [[track:nyeh-heh-heh]], instead of the other way around (thanks, ruby!)
+    - fixed [[track:song-that-might-play-when-you-fight-sans]] and [[track:bring-it-in-guys]] referencing [[track:nyeh-heh-heh]] instead of [[track:bonetrousle]] (thanks, ruby!)
     - fixed [[track:before-the-story]] ([[album:undertale-soundtrack]]) being listed as a rerelease of [[track:before-the-story-ch1]] ([[album:deltarune-ch1-ost]]), instead of the other way around
     - fixed many [[track:undertale]] references: (thanks, vriska/leo!)
         - fixed [[track:memory-undertale]] referencing [[track:his-theme]] instead of [[track:undertale]]
@@ -1138,14 +1138,14 @@ Content: |-
         - fixed [[track:the-choice]] referencing [[track:once-upon-a-time]] and [[track:his-theme]], and not sampling [[track:undertale]]
         - fixed [[track:finale-undertale]] referencing [[track:his-theme]] instead of [[track:memory-undertale]]
         - fixed [[track:his-theme]] not referencing [[track:memory-undertale]]
-    - fixed [[track:beginning-deltarune]], [[track:school-deltarune]], [[track:field-of-hopes-and-dreams]], [[track:scarlet-forest]], [[track:the-world-revolving]], [[track:friendship-deltarune]], [[track:your-power]], [[track:a-town-called-hometown]], [[track:you-can-always-come-home]], [[track:faint-glow]] and [[track:the-dark-truth]] referencing [[track:dont-forget]] instead of [[track:game-main-theme-piano-sketch]] (thanks, Morris!)
-    - fixed [[track:dont-forget]] not referencing [[track:game-main-theme-piano-sketch]] (thanks, Morris!)
+    - fixed [[track:beginning-deltarune]], [[track:school-deltarune]], [[track:field-of-hopes-and-dreams]], [[track:scarlet-forest]], [[track:the-world-revolving]], [[track:friendship-deltarune]], [[track:your-power]], [[track:a-town-called-hometown]], [[track:you-can-always-come-home]], [[track:faint-glow]] and [[track:the-dark-truth]] referencing [[track:dont-forget]] instead of [[track:game-main-theme-piano-sketch]] (thanks, ruby!)
+    - fixed [[track:dont-forget]] not referencing [[track:game-main-theme-piano-sketch]] (thanks, ruby!)
     - fixed [[track:toby-fox-has-written-hundreds-of-unique-original-songs]] referencing [[track:nyeh-heh-heh]] instead of [[track:bonetrousle]]
-    - fixed [[track:lifelight]] not referencing [[track:lifelight-jp]] (thanks, Morris!)
+    - fixed [[track:lifelight]] not referencing [[track:lifelight-jp]] (thanks, ruby!)
     - fixed [[track:my-grand-dad-is-the-green-sun]] not sampling [[track:flare]] (thanks, Rosetta Leijonde!)
     - fixed [[track:old-skacret]] not referencing [[track:old-secret]], and added listening link (thanks, Rosetta Leijonde!)
     - fixed [[track:sunsetter-ska]] not referencing [[track:sunsetter]]
-    - fixed [[track:penumbra-phantasm-morris]] (by Morris) not referencing [[track:pseudumbra-phauxtasm]] & sampling [[track:typheus]] (thanks, Morris!)
+    - fixed [[track:penumbra-phantasm-ruby]] (by ruby) not referencing [[track:pseudumbra-phauxtasm]] & sampling [[track:typheus]] (thanks, ruby!)
     - fixed [[track:man-deltarune]] not referencing [[track:waltz-of-seccom-masada]] (thanks, Bo Tie!)
     - fixed [[track:spider-dance-from-undertale-but-now-its-ska-i-guess-yikes]] not referencing [[track:spider-dance]], and added a SoundCloud listening link (thanks, Rosetta Leijonde!)
     - fixed [[track:bright-spinning-planet]] not referencing [[track:haltmann-works-co-theme-song]] (thanks, FF!)
@@ -1154,7 +1154,7 @@ Content: |-
     - fixed [[track:dicko-mode]] not sampling [[track:sicko-mode]]
     - fixed [[track:goodbye-to-the-underground]] not sampling [[track:goodbye-to-a-world]], [[track:once-upon-a-time]] or [[track:hopes-and-dreams]] (thanks, vriska/leo!)
     - fixed [[track:grand-dads-secret-slide]] not sampling [[track:slider-super-mario-64]] (thanks, Rosetta Leijonde!)
-    - fixed [[track:mm2wood]] not referencing [[track:wood-man-stage]] (thanks, Morris!)
+    - fixed [[track:mm2wood]] not referencing [[track:wood-man-stage]] (thanks, ruby!)
     - fixed [[track:no-credit-card]] not sampling [[track:the-power-of-love]] (thanks, Rosetta Leijonde!)
     - fixed [[track:xmas-i-dont-know-such-a-thing]] not referencing [[track:the-one-horse-open-sleigh]] (thanks, Rosetta Leijonde!)
     - fixed [[album:hiveswap-act-2-ost]] being named "Hiveswap Act 2 OST"
@@ -1166,13 +1166,13 @@ Content: |-
     - fixed [[track:sillygoofysillygoofy]] being named "Sillygoofysillygoofy (Ft. Andrew Libman)" (was "Andrew", now "Andrea"; just a typo)
     - fixed [[track:life-liberated]] being named its working title, "Wind Waker", and filled in some details for it (thanks, Rainy, FF!)
     - fixed [[track:not-a-creature-was-stirring]] being named "not a creature was stirring"
-    - fixed [[track:beginning-castlevania-draculas-curse]] being named "Beginning" (thanks, Morris!)
-    - fixed [[track:bloody-tears-roads-by-day-bgm]] being named "Bloody Tears" (thanks, Morris!)
+    - fixed [[track:beginning-castlevania-draculas-curse]] being named "Beginning" (thanks, ruby!)
+    - fixed [[track:bloody-tears-roads-by-day-bgm]] being named "Bloody Tears" (thanks, ruby!)
     - fixed [[track:boss-battle-pokemon-typing-adventure]] being named "Boss Battle" only (thanks, Rosetta Leijonde!)
-    - fixed [[track:cosmic-eternity-believe-in-yourself]] being named "Cosmic Eternity ~ Believe in Yourself" (thanks, Morris!)
-    - fixed [[track:hydro-city-zone-act-2]] being named "Hydrocity Zone (Act 2)" (thanks, Morris!)
-    - fixed [[track:lights-camera-action-studiopolis-zone-act-1]] being named "Lights, Camera, Action! (Studiopolis Zone Act 1)" (thanks, Morris!)
-    - fixed [[track:main-theme-the-legend-of-zelda-breath-of-the-wild]] being named "Breath of the Wild Theme" (thanks, Morris!)
+    - fixed [[track:cosmic-eternity-believe-in-yourself]] being named "Cosmic Eternity ~ Believe in Yourself" (thanks, ruby!)
+    - fixed [[track:hydro-city-zone-act-2]] being named "Hydrocity Zone (Act 2)" (thanks, ruby!)
+    - fixed [[track:lights-camera-action-studiopolis-zone-act-1]] being named "Lights, Camera, Action! (Studiopolis Zone Act 1)" (thanks, ruby!)
+    - fixed [[track:main-theme-the-legend-of-zelda-breath-of-the-wild]] being named "Breath of the Wild Theme" (thanks, ruby!)
     - fixed [[track:windmill-hut]] being named "Song of Storms", and not referencing [[track:song-of-storms]]
     - fixed [[track:westminster-quarters]] being named "Westminister Quarters" (thanks, Circlejourney, Jebb!)
     - fixed [[artist:siivagunner]] being named "SilvaGunner" (thanks, Rosetta Leijonde!)
@@ -1196,7 +1196,7 @@ Content: |-
     - added [[artist:kawaiimochiora]] to credits for [[track:davekat-rappets]] and [[track:davekat-alt]]
     - added [[artist:riki-tsuji]] to credits for [[track:get-start]] (thanks, Lilith!)
     - added [[artist:siivagunner]] to credits for [[track:my-grand-dad-is-the-green-sun]] (thanks, Rosetta Leijonde!)
-    - added [[artist:naofumi-hataya]], [[artist:keiko-utoku]], and [[artist:casey-rankin]] to credits for [[track:cosmic-eternity-believe-in-yourself]], replacing [[artist:masafumi-ogata]], and updated its lyrics (thanks, Morris!)
+    - added [[artist:naofumi-hataya]], [[artist:keiko-utoku]], and [[artist:casey-rankin]] to credits for [[track:cosmic-eternity-believe-in-yourself]], replacing [[artist:masafumi-ogata]], and updated its lyrics (thanks, ruby!)
     - added [[artist:the-simpsons]] to credits for [[track:do-the-bartman]] and [[track:deep-deep-trouble]], and fixed the latter's placement in [[album:references-beyond-homestuck]] (thanks, Rosetta Leijonde!)
     - added [[artist:chris-headrick]], [[artist:danny-jacob]], and [[artist:dan-povenmire]] to credits for [[track:my-name-is-doof]] (thanks, FF!)
     - added [[artist:monogatari]], [[artist:megumi-hinata]], and [[artist:kana-hanazawa]] to credits for [[track:renai-circulation]] (thanks, FF!)
@@ -1207,12 +1207,12 @@ Content: |-
     - changed [[artist:nick-smalley]]'s credit on [[track:trollcops-radio-play]] from contributor to co-artist
     - changed [[artist:lauren-collis]] and [[artist:kdmanderson]]'s credits on [[track:the-land-of-wind-and-shade]] from artists to contributors
     - removed [[artist:andrew-huo]] from credits for [[track:skaian-skirmish]], per Vol. 5 booklet and [[track:skaian-skuffle]] commentary (thanks, Lilith!)
-    - removed [[artist:mariko-nanba]] from credits for [[track:evening-star]] (thanks, Morris!)
+    - removed [[artist:mariko-nanba]] from credits for [[track:evening-star]] (thanks, ruby!)
     - added credit annotations to [[album:prospit-and-derse]] (thanks, Lilith!), [[track:skaian-ride]] and [[track:marvelous-marauder]]
-    - added performance credits to [[track:lifelight]] and [[track:lifelight-jp]] (thanks, Morris!)
-    - added performance credits to [[track:fist-bump]], [[track:open-your-heart]], and [[track:unknown-from-me]] and updated their lyrics (thanks, Morris!)
+    - added performance credits to [[track:lifelight]] and [[track:lifelight-jp]] (thanks, ruby!)
+    - added performance credits to [[track:fist-bump]], [[track:open-your-heart]], and [[track:unknown-from-me]] and updated their lyrics (thanks, ruby!)
     - tidied details in artist credits for [[track:takeover-havoc]] (thanks, vriska/leo!)
-    - added franchise artists to credits for the following [[album:references-beyond-homestuck]] tracks: [[track:a-new-day]], [[track:aint-nothin-like-a-funky-beat]], [[track:behave-irrationally]], [[track:brown-puffle-lab]], [[track:dissonance-quincy-pringle]], [[track:dj-kk-aircheck]], [[track:gallant-gunshot]], [[track:game-over-dont-stop]], [[track:gettin-freaky]], [[track:one-hell-of-a-time]], [[track:main-theme-wii-shop-channel]], [[track:your-reality]], [[track:do-the-bartman]], [[track:deep-deep-trouble]], [[track:inspector-gadget-main-theme]], [[track:merry-go-round-of-life]], [[track:renai-circulation]], [[track:spatula-city]], [[track:superman-theme]], [[track:swordland]], [[track:this-is-halloween]] (thanks FF, Jebb, Morris, Rosetta Leijonde)
+    - added franchise artists to credits for the following [[album:references-beyond-homestuck]] tracks: [[track:a-new-day]], [[track:aint-nothin-like-a-funky-beat]], [[track:behave-irrationally]], [[track:brown-puffle-lab]], [[track:dissonance-quincy-pringle]], [[track:dj-kk-aircheck]], [[track:gallant-gunshot]], [[track:game-over-dont-stop]], [[track:gettin-freaky]], [[track:one-hell-of-a-time]], [[track:main-theme-wii-shop-channel]], [[track:your-reality]], [[track:do-the-bartman]], [[track:deep-deep-trouble]], [[track:inspector-gadget-main-theme]], [[track:merry-go-round-of-life]], [[track:renai-circulation]], [[track:spatula-city]], [[track:superman-theme]], [[track:swordland]], [[track:this-is-halloween]] (thanks FF, Jebb, ruby, Rosetta Leijonde)
     - fixed missing lyrics line in [[track:i-dont-want-to-miss-a-thing]] (thanks, Rosetta Leijonde!)
     - fixed mistaken lyrics in [[track:chain-of-prospit]] (thanks, Sgeo, FF!), [[track:shit-lets-be-santa]] (thanks, Rosetta Leijonde!), and [[track:boy-skylark]] (thanks, Grace!)
     - combined lyrics for rereleases, using more recent formatting for [[track:ugly-story]], [[track:fool]], and [[track:hors-lofam4]]
@@ -1231,7 +1231,7 @@ Content: |-
     - fixed domains for battleofthebits links on [[track:grrrarrr]] and [[artist:baron-knoxburry]] (thanks, Pyryte!)
     - moved [[track:old-skacret]] from [[album:references-beyond-homestuck]] to [[album:more-homestuck-fandom]] (thanks, Rosetta Leijonde!)
     - moved [[track:nv-strife]] and [[track:wanderlust-redditstuck]] from "From the Paradox Music Team" to "From the Cool and New Music Team" (thanks, Lilith!)
-    - moved [[track:a-new-day]] from "Other works originating outside of Homestuck" to "Music from video games" (thanks, Morris!)
+    - moved [[track:a-new-day]] from "Other works originating outside of Homestuck" to "Music from video games" (thanks, ruby!)
     - moved [[track:summer-vanilla]] from "Other works originating outside of Homestuck" to "Other music originating outside of Homestuck"
     - moved Bandcamp wallpaper/banner additional files from Archive (2018) to [[album:archive]] (original)
     - changed sheet music blueprint for [[track:narrative-command]] into proper sheet music file, instead of just linking from commentary
@@ -1242,10 +1242,10 @@ Content: |-
     - fixed outdated names or typos in commentary credits for across [[album:the-baby-is-you]], [[album:shortcuts]], [[album:cool-and-new-homestuck-2]], [[album:cool-and-new-homestuck-3]], [[album:v8lume]], [[album:jpeg]], [[album:lofam4]], [[album:cool-and-new-volume-3]]
     - fixed typos and minor tweaks in commentary for more tracks: [[track:stab-stab-stab-lofam5]], [[track:furthest-ringside]] (thanks, Jebb!)
     - added durations to [[track:baby-face-morgan]], [[track:the-pay-off]], and [[track:vinesauce-joel-insane-mario-bootleg-games-part-1]] (thanks, FF!)
-    - added release dates to [[album:undertale-soundtrack]] bonus tracks: [[track:mysterious-shrine]], [[track:absolutely-overfamiliar-shrine]], [[track:mad-mew-mew]], [[track:dating-start-fm-version]], [[track:bereavement]], [[track:bonetrousle-trailer-version]], [[track:before-the-story]], and [[track:dog-dating]] (thanks, Morris, vriska/leo!)
+    - added release dates to [[album:undertale-soundtrack]] bonus tracks: [[track:mysterious-shrine]], [[track:absolutely-overfamiliar-shrine]], [[track:mad-mew-mew]], [[track:dating-start-fm-version]], [[track:bereavement]], [[track:bonetrousle-trailer-version]], [[track:before-the-story]], and [[track:dog-dating]] (thanks, ruby, vriska/leo!)
     - removed fan-made, unofficial artworks from [[album:pesterquest-soundtrack]] and unreleased Pesterquest tracks (for now)
     - renamed second section of [[album:cool-and-new-volume-7]] from "2 Skid" to "2 skiD" (thanks, Rosetta Leijonde!)
-    - removed release date details from [[track:penumbra-phantasm-morris]] (until addressing individual-track release dates more broadly)
+    - removed release date details from [[track:penumbra-phantasm-ruby]] (until addressing individual-track release dates more broadly)
     - removed MIDIs by [[artist:toby-fox]] from [[track:liquid-negrocity]], [[track:atomyk-ebonpyre]], [[track:keepers]], and [[track:eridans-theme]] (for now)
     - removed SoundCloud close-matches, marked as original releases, for [[track:i-have-some-ideas]], [[track:blood-on-their-hands]], [[track:in-the-loop]], and [[track:love-song]] (now entered as additional names)
     - removed SoundCloud original releases for [[track:studio-space]], [[track:homestead]] and [[track:misbegotten]] (now entered as additional names)
@@ -1320,7 +1320,7 @@ Content: |-
     - changed directory of [[track:fallen-down-undertale]] ([[album:undertale-soundtrack]]) from <code>fallen-down</code> to <code>fallen-down-undertale</code>
     - changed directory of [[track:before-the-story]] ([[album:undertale-soundtrack]]) from <code>before-the-story-undertale</code> to <code>before-the-story</code>
     - changed directory of [[track:before-the-story-ch1]] ([[album:deltarune-ch1-ost]]) from <code>before-the-story</code> to <code>before-the-story-ch1</code>
-    - changed directory of [[track:megalovania-ssbu]] from <code>megalovania-smash-bros</code> to <code>megalovania-ssbu</code> (thanks, Morris!)
+    - changed directory of [[track:megalovania-ssbu]] from <code>megalovania-smash-bros</code> to <code>megalovania-ssbu</code> (thanks, ruby!)
     - changed directory of [[track:wanderlust-redditstuck]] from <code>wanderlust-paradox-music-team</code> to <code>wanderlust-canmt</code> (thanks, Lilith!)
     - changed directory of [[track:24-7-lo-fi-anime-beats-to-question-your-sexuality-to]] from <code>247-lo-fi-anime-beats-to-question-your-sexuality-to</code> to <code>24-7-lo-fi-anime-beats-to-question-your-sexuality-to</code>
     - changed directory of [[track:drone-pesterquest]] from <code>drone-pq</code> to <code>drone-pesterquest</code>
@@ -1617,7 +1617,7 @@ Content: |-
     - added Friday Night Funkin' mods (as flashes) from [[flash-act:sunday-night-strifin]], and a variety of [[flash-act:more-games|fan games]] too! (thanks, Jebb!)
     - added bonus track [[track:sortir-alpha-demo]] to [[album:vast-error-vol-1-3]]! (thanks, koba!)
     - added 2019 rerelease commentary to [[album:genesis-frog]] and [[album:one-year-older]] (thanks, Lilith!)
-    - added higher resolution cover artwork for [[album:alternia]] (thanks, Lilith and Morris!)
+    - added higher resolution cover artwork for [[album:alternia]] (thanks, Lilith and ruby!)
     - added piano score for [[track:alternia]] by BRPXQZME, originally part of concert band sheets, as its own individually downloadable piece (thanks, Warrigal!)
     - added lyrics to [[track:infidels]] (thanks, Jebb!)
     - added YouTube links to [[album:songs-unsung]] (thanks, Jebb!)
@@ -1655,7 +1655,7 @@ Content: |-
 
     <h2 id="23-sep-2023"><html:a href="#23-sep-2023">[[date:23 September 2023]] - jerry's theme for deltarune ch. 7</a></h2>
     <h3>other additions</h3>
-    - added [[track:penumbra-phantasm-morris]] by [[artist:ruby]], the base for [[track:penumbral-awakening]] in [[album:lofam5a2]] (thanks, Morris!)
+    - added [[track:penumbra-phantasm-ruby]] by [[artist:ruby]], the base for [[track:penumbral-awakening]] in [[album:lofam5a2]] (thanks, ruby!)
     - replaced heavyweight (\~2MB) background art for [[album:psycholonials]] (and EPs) with optimized version (\~200kB)
     <h3>data fixes</h3>
     - fixed [[track:bound-in-blood-beta]] not referencing [[track:doctor]] (thanks, Jebb!)
