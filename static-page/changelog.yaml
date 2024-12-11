@@ -255,13 +255,13 @@ Content: |-
         - fixed [[track:the-prelude]] being named "The Prelude"
         - fixed [[track:revelations-i]], [[track:revelations-ii]], and [[track:revelations-iii]] being named "Revelations I", "Revelations II", and "Revelations III" (no comma)
         - original names on Homestuck discography (also for [[track:lies-with-the-sea]] and [[track:chain-of-prospit]]) are included as additiional names
-    - fixed some [[group:fandom]] tracks' names not aligning with their own releases
-        - fixed [[track:in-the-beginning]] ([[album:the-genesis-project-vol-1]]) being named "In the Beginning" (lowercase "the"; thanks, Surge!)
-        - fixed [[track:configure-the-universe]] being named "Configure the Universe" (lowercase "the"; thanks, Surge!)
+    - fixed some [[group:fandom]] tracks' names not aligning with their own releases (thanks, Surge!)
+        - fixed [[track:in-the-beginning]] ([[album:the-genesis-project-vol-1]]) being named "In the Beginning" (lowercase "the")
+        - fixed [[track:configure-the-universe]] being named "Configure the Universe" (lowercase "the")
     - fixed some [[group:beyond]] tracks' names not aligning with composers' releases (thanks, Lilith!)
         - fixed [[track:north-walk-south-walk]] being named "North Walk / South Walk" (spaces around slashes)
         - fixed [[track:hues-tone]] being named "Hues / Tone" (spaces around slashes)
-    - <details><summary>fixed <b>some tracks' names</b> not aligning with the Nintendo Music app</summary><ul>
+    - <details><summary>fixed <b>some tracks' names</b> not aligning with the Nintendo Music app (thanks, ruby!)</summary><ul>
         <li>fixed [[track:welcome-to-paldea]] being named "Welcome to the Paldea region!"</li>
         <li>fixed [[track:across-the-skies-of-paldea]] being named "Soar through the Paldea Skies"</li>
         <li>fixed [[track:first-meeting]] being named "Meetings"</li>
