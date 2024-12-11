@@ -235,7 +235,9 @@ Content: |-
     - moved "The Straggler" additional file from [[album:lofam]] additional files to [[track:sburban-rush]]
     <!-- general removals -->
     - removed "Infection 2" and made this into an additional name on [[track:chronic-infection]] (and added commentary here; thanks, Lilith!)
-    - removed "Flare (Green Sun Remix)" and made this into an additional name on [[track:flare-insurrection-remix]] (which was previously listed as a rerelease)
+    - <s>removed "Flare (Green Sun Remix)" and made this into an additional name on [[track:flare-insurrection-remix]] (which was previously listed as a rerelease)</s>
+        - added release date and cover artwork to [[track:flare-green-sun-remix]] (thanks, Whisper!)
+        - added Tumblr commentary to [[track:flare-green-sun-remix]] (thanks, Lilith!)
     <h3>data fixes</h3>
     <!-- reference fixes -->
     - fixed [[track:fiduspawn-go]] not referencing [[track:title-screen-pokemon-red-blue]] (thanks, ruby!)
