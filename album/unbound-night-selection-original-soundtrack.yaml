@@ -10,6 +10,15 @@ URLs:
 Cover Artists:
 - KiddleScribbles
 Cover Art File Extension: png
+Wallpaper Artists:
+- KiddleScribbles
+- 'Quasar Nebula (edits for wiki: crop, gradient)'
+Wallpaper File Extension: png
+Wallpaper Style: |-
+    opacity: 0.55;
+    background-repeat: repeat-x;
+    background-size: auto 100vh;
+    background-size: auto 100lvh;
 Color: '#e01d4d'
 Groups:
 - The Paradox Music Team
