@@ -1635,7 +1635,9 @@ Track: A New Wind for Tomorrow
 Artists:
 - Kirby
 - Jun Ishikawa
+Duration: 1:35
 URLs:
+- https://m.nintendo.com/shared/US/tracks/dce2dfd1-3b78-42e0-802e-a9f730ba70f4
 - https://www.youtube.com/watch?v=IlgLQA416-4
 ---
 Track: A Trainer Appears (Girl Version) (Pokémon Red / Pokémon Blue)
@@ -1693,8 +1695,9 @@ Track: Afternoon on the Island (Tomodachi Collection)
 Artists:
 - Tomodachi Life
 - Daisuke Shiiba
-Duration: '1:41'
+Duration: '1:39'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/abd25125-01bc-4a96-bf3a-e35fa627ce82
 - https://www.youtube.com/watch?v=ENIz73EPXAM
 ---
 Track: Afternoon on the Island (Tomodachi Life)
@@ -1942,8 +1945,9 @@ Track: Apartment Hangout
 Artists:
 - Tomodachi Life
 - Daisuke Shiiba
-Duration: '3:25'
+Duration: '3:23'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/021bbef3-af43-49c1-b2c1-9f17225f885b
 - https://www.youtube.com/watch?v=NtuujEslrAE
 ---
 Track: Aquarius (Sunken City Stage)
@@ -2334,8 +2338,9 @@ Always Reference By Directory: true
 Artists:
 - nintendogs
 - Hajime Wakai
-##Duration: ''
+Duration: '2:53'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/5d7296fe-858d-413a-bf6c-b806aa43e540
 - https://www.youtube.com/watch?v=Kz9D-zxnXa0
 ---
 Track: Battle
@@ -3055,8 +3060,9 @@ Track: Bonus Room Blitz
 Artists:
 - Donkey Kong
 - David Wise
-Duration: '1:00'
+Duration: '0:59'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/39b72ed5-f0b2-48bb-94da-785b672610eb
 - https://www.youtube.com/watch?v=zXJtgIwPLTA
 ---
 Track: Bonus Round Fanfare (Mappy)
@@ -3535,14 +3541,15 @@ Duration: '0:02'
 URLs:
 - https://www.youtube.com/watch?v=Mi9kqrNiRrc
 ---
-Track: Crocodile Cacophony
+Track: Crocodile Cacophony (K. Rool's Theme)
 # Reference:
 #   https://vgmdb.net/album/1516
 Artists:
 - Donkey Kong
 - David Wise
-Duration: '1:33'
+Duration: '1:28'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/61bfe2b1-6c10-4461-8b59-ea32db5815fe
 - https://www.youtube.com/watch?v=J9c4yIvVq3c
 ---
 Track: Cross-Examination - Allegro 2001
@@ -4218,6 +4225,7 @@ Artists:
 - Koji Kondo
 Duration: '0:08'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/2e1e68bc-79bb-457e-80f3-bcc3d6a379ec
 - https://www.youtube.com/watch?v=1oNyPb5HsC0
 ---
 Track: Eternal Recurrence
@@ -4790,8 +4798,9 @@ Track: Gang-Plank Galleon
 Artists:
 - Donkey Kong
 - David Wise
-Duration: '1:50'
+Duration: '1:48'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/13915a51-50ee-4d6e-935f-3de500dbee92
 - https://www.youtube.com/watch?v=r5aeisPAzM4
 ---
 Track: Ganon Appear/Defeat Fanfare
@@ -5614,15 +5623,16 @@ URLs:
 - https://c418.bandcamp.com/track/intro
 - https://www.youtube.com/watch?v=y7sm01H0w9Y
 ---
-Track: Invincibility Theme (Super Mario Bros.)
+Track: Invincibility BGM (Super Mario Bros.)
 # Reference:
 #   https://vgmdb.net/album/533
-Directory: invincibility-theme-smb
+Directory: invincibility-bgm-smb
 Artists:
 - Super Mario
 - Koji Kondo
-Duration: '0:21'
+Duration: '0:15'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/c88e8237-95e2-43bf-bfda-1df67efc0c4a
 - https://www.youtube.com/watch?v=yBISfv-6hfo
 ---
 Track: Iron-Blue Intention (Stage 4 BGM · German Iron and Steel Factory)
@@ -5684,14 +5694,17 @@ Track: Jump Up, Super Star!
 #   https://vgmdb.net/album/72172
 Artists:
 - Super Mario
-- Naoto Kubo
+- Naoto Kubo (composer)
+- Yoichi Murata (arranger)
 - Nobuyoshi Suzuki (Japanese lyrics)
 - Rob Tunstall (English lyrics)
 Contributors:
 - Aimi Mukohara (Japanese vocals)
 - Kate Higgins (English vocals)
-Duration: '4:09'
+- The Super Mario Players (performance)
+Duration: '4:06'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/b3e49b01-3a69-42d9-b25e-998817fd909f
 - https://youtu.be/Pj_IqEMGJZ4
 Sampled Tracks:
 - super mario bros jump and coin collect sfx
@@ -5789,14 +5802,15 @@ Commentary: |-
 
     While the lyrics here are from the (probably known to you) English version of the song, the Japanese version was the first version to be created (although both launched simultaneously).
 ---
-Track: K. Rool Returns
+Track: K. Rool Returns (Title Theme)
 # Reference:
 #   https://vgmdb.net/album/1516
 Artists:
 - Donkey Kong
 - David Wise
-Duration: '0:43'
+Duration: '0:39'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/4f3129f1-01bb-4096-8b55-86c4e4140707
 - https://www.youtube.com/watch?v=pUUUWxBu_zU
 ---
 Track: Karma (Electric Fountain)
@@ -5818,18 +5832,20 @@ Track: Kass's Theme
 Artists:
 - The Legend of Zelda
 - Yasuaki Iwata
-Duration: '1:12'
+Duration: '1:08'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/8de8bd64-838d-40e1-8db4-e9e92382dd5a
 - https://www.youtube.com/watch?v=XrvZrBCR6-A
 ---
-Track: Kass's Theme (Song of the Hero ver.)
+Track: Kass's Theme (Song of the Hero Ver.)
 # Reference:
 #   https://vgmdb.net/album/75831
 Artists:
 - The Legend of Zelda
 - Yasuaki Iwata
-Duration: '1:03'
+Duration: '1:01'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/15c137f4-0ae7-4129-926b-8710ce7c9fc9
 - https://www.youtube.com/watch?v=1DAz_H4yzi0
 Referenced Tracks:
 - track:kasss-theme
@@ -5949,16 +5965,6 @@ Artists:
 Duration: '3:15'
 URLs:
 - https://www.youtube.com/watch?v=vK0w67B4EtU
----
-Track: Kraid's Chamber
-# Reference:
-#   https://vgmdb.net/album/883
-Artists:
-- Metroid
-- Hirokazu Tanaka
-Duration: '0:48'
-URLs:
-- https://www.youtube.com/watch?v=bz2_H5gizpQ
 ---
 Track: Kurikinton (America Stage I) Terry Bogard
 # Reference:
@@ -6390,8 +6396,9 @@ Track: 'Main Theme (The Legend of Zelda: Breath of the Wild)'
 Artists:
 - The Legend of Zelda
 - Manaka Kataoka
-Duration: '2:01'
+Duration: '1:58'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/db161ce5-745a-461c-a4de-a61b95268497
 - https://www.youtube.com/watch?v=GY4WjuVTdvY
 ---
 Track: 'Main Theme (The Legend of Zelda: Tri Force Heroes)'
@@ -6411,7 +6418,9 @@ Track: Main Theme (Wii Shop Channel)
 Artists:
 - Wii System Music
 - Kazumi Totaka
+Duration: 2:05
 URLs:
+- https://m.nintendo.com/shared/US/tracks/6030eb13-b55b-41b4-8a23-27887eca363f
 - https://www.youtube.com/watch?v=yyjUmv1gJEg
 ---
 Track: Main Theme (Yoshi's New Island)
@@ -6618,6 +6627,17 @@ Duration: '2:55'
 URLs:
 - https://www.youtube.com/watch?v=Nj6pkTO9AEA
 ---
+Track: 'Miniboss Hideout I: Kraid'
+# Reference:
+#   https://vgmdb.net/album/883
+Artists:
+- Metroid
+- Hirokazu Tanaka
+Duration: '1:45'
+URLs:
+- https://m.nintendo.com/shared/US/tracks/fff0e065-0c45-4de4-bb8f-18597f9bf003
+- https://www.youtube.com/watch?v=bz2_H5gizpQ
+---
 Track: Miss (Duck Hunt)
 # Reference:
 #   https://vgmdb.net/album/1424
@@ -6800,14 +6820,15 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=PTQBFoM_cVw
 ---
-Track: Nintendo Switch Presentation 2017 Trailer BGM
+Track: 2017 Nintendo Switch Presentation Trailer
 # Reference:
 #   https://vgmdb.net/album/75831
 Artists:
 - The Legend of Zelda
 - Kosuke Yamashita
-Duration: '3:25'
+Duration: '3:21'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/b48bcb8e-32bb-418f-a909-ffd9168fdb06
 - https://www.youtube.com/watch?v=V8RkqQ8fQs4
 Referenced Tracks:
 - 'Main Theme (The Legend of Zelda: Breath of the Wild)'
@@ -7242,6 +7263,17 @@ Artists:
 Duration: '1:21'
 URLs:
 - https://www.youtube.com/watch?v=ncg72VswyTs
+---
+Track: Parasite Queen Battle
+# Reference:
+#   https://vgmdb.net/album/412
+Artists:
+- Metroid
+- Kenji Yamamoto
+Duration: '1:36'
+URLs:
+- https://m.nintendo.com/shared/US/tracks/3ec0db74-6fc9-4632-a29e-c2c9dd5b6590
+- https://www.youtube.com/watch?v=TblxPu9JB2U
 ---
 Track: Pasta (Italy Stage) Andy Bogard
 # Reference:
@@ -8282,8 +8314,9 @@ Track: Simian Segue
 Artists:
 - Donkey Kong
 - Eveline Fischer
-Duration: '1:57'
+Duration: '1:51'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/1bf78585-61ea-4cea-b9a3-397396b79390
 - https://www.youtube.com/watch?v=nOcRCi7kuJ8
 ---
 Track: Sin Pausa (Mission Failed)
@@ -8454,14 +8487,15 @@ Duration: '1:33'
 URLs:
 - https://www.youtube.com/watch?v=ZqGLXispP08
 ---
-Track: Snakey Chantey
+Track: Snakey Chantey (Rattle Battle)
 # Reference:
 #   https://vgmdb.net/album/1516
 Artists:
 - Donkey Kong
 - David Wise
-Duration: '1:40'
+Duration: '1:34'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/000fbc34-341d-4fde-85b5-7b295ae79889
 - https://www.youtube.com/watch?v=Mr2cFY_3PT0
 Referenced Tracks:
 - track:gang-plank-galleon
@@ -8494,8 +8528,9 @@ Track: Song of Storms
 Artists:
 - The Legend of Zelda
 - Koji Kondo
-Duration: '0:08'
+Duration: '0:06'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/037c8a8a-3510-47b9-9dae-e085d5a8be4c
 - https://www.youtube.com/watch?v=m86VCw2JqOE
 ---
 Track: Sonic Electronic
@@ -8700,10 +8735,9 @@ Track: Steam Gardens
 Artists:
 - Super Mario
 - Koji Kondo
-Contributors:
-- The Super Mario Players (performance)
-Duration: '3:44'
+Duration: '3:41'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/27030ac3-58e3-4972-877f-21907c0dd2af
 - https://youtu.be/-rfoYSmx0rk
 ---
 Track: Stone Tower Temple
@@ -8748,8 +8782,9 @@ Track: Sun's Song
 Artists:
 - The Legend of Zelda
 - Koji Kondo
-Duration: '0:07'
+Duration: '0:05'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/7b2b976c-0a1e-4fb1-bccd-e0968d44ce51
 - https://www.youtube.com/watch?v=oLOyVDP_ckQ
 ---
 Track: Super Dry Dance
@@ -9392,6 +9427,7 @@ Artists:
 - Kazumi Totaka
 Duration: '2:23'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/3f8060ef-e0f4-499f-ace9-38723492fe78
 - https://www.youtube.com/watch?v=2qvAxPqy2wA
 ---
 Track: Title Theme (Wii Sports Club)
@@ -10019,16 +10055,6 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=hRM1YCQjkws
 ---
-Track: Vs. Parasite Queen
-# Reference:
-#   https://vgmdb.net/album/412
-Artists:
-- Metroid
-- Kenji Yamamoto
-Duration: '1:36'
-URLs:
-- https://www.youtube.com/watch?v=TblxPu9JB2U
----
 Track: Wake Up, Get Up, Get Out There
 # JP: Wake Up, Get Up, Get Out There
 # Official release:
@@ -10221,13 +10247,16 @@ Track: Windmill Hut
 #   Generally referred to as "Song of Storms" online, this track is the
 #   full song which is typically remixed or referenced. Not to be confused
 #   with the partial motif played on ocarina, track:ocarina-song-of-storms.
+# Update 2024-12-18 21:14 CET
+#   this song is called "Windmill Hut" in Nintendo Music.
 # Reference:
 #   https://vgmdb.net/album/293
 Artists:
 - The Legend of Zelda
 - Koji Kondo
-Duration: '0:53'
+Duration: '0:51'
 URLs:
+- https://m.nintendo.com/shared/US/tracks/5f453aef-10c7-4b57-855a-d74839a1576c
 - https://www.youtube.com/watch?v=mQLBEJ-Nj3A
 Referenced Tracks:
 - Song of Storms
