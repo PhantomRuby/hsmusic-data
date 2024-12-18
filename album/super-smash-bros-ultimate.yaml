@@ -636,7 +636,7 @@ Duration: '2:04'
 URLs:
 - https://www.youtube.com/watch?v=SbFIq256Pao
 Referenced Tracks:
-- track:snakey-chantey
+- Snakey Chantey (Rattle Battle)
 - track:gang-plank-galleon
 ---
 Track: Gang-Plank Galleon
@@ -657,8 +657,8 @@ Duration: '2:23'
 URLs:
 - https://www.youtube.com/watch?v=J2skbG1WHXw
 Referenced Tracks:
-- track:crocodile-cacophony
-- K. Rool Returns
+- Crocodile Cacophony (K. Rool's Theme)
+- K. Rool Returns (Title Theme)
 ---
 Section: The Legend of Zelda
 Color: '#f8d000'
@@ -734,7 +734,7 @@ Duration: '2:47'
 URLs:
 - https://www.youtube.com/watch?v=i4STlqB_AAw
 Referenced Tracks:
-- track:nintendo-switch-presentation-2017-trailer-bgm
+- 2017 Nintendo Switch Presentation Trailer
 - 'Main Theme (The Legend of Zelda: Breath of the Wild)'
 ---
 Track: 'Main Theme - The Legend of Zelda: Breath of the Wild'
@@ -769,7 +769,7 @@ Duration: '2:24'
 URLs:
 - https://www.youtube.com/watch?v=yadudv62LvA
 Referenced Tracks:
-- Kraid's Chamber
+- 'Miniboss Hideout I: Kraid'
 ---
 Track: Vs. Ridley
 Artists:
@@ -790,7 +790,7 @@ Duration: '2:31'
 URLs:
 - https://www.youtube.com/watch?v=OC_ZpiycKvQ
 Referenced Tracks:
-- track:vs-parasite-queen
+- Parasite Queen Battle
 ---
 Section: Yoshi
 Color: '#5ddd32'
@@ -2539,7 +2539,7 @@ URLs:
 - https://www.youtube.com/watch?v=yvHcvbm8u2U
 Referenced Tracks:
 - Famicom Disk System
-- Invincibility Theme (Super Mario Bros.)
+- Invincibility BGM (Super Mario Bros.)
 ---
 Track: Bathtime Theme
 Artists:
