@@ -45,6 +45,7 @@ Content: |-
     - added support for additional names to albums
     - added support for expand-collapse "details" elements, and spoiler text ala Discord or GameFAQs, to commentary
     - added new "Album cover for..." message beneath tag list when a track page is showing the album's cover artwork because the track itself has no unique artwork
+    - added secondary nav bar (by-group and by-series) to album commentary page, plus "stub" album commentary pages; also hid the track list on any album commentary page where none of the tracks have commentary, added album date at top of page, and added track dates where they differ from the album
     - revamp for "edits for wiki" credits, on banners and wallpapers: now shown in a "+ edits" tooltip; separate from main artwork lists, on artist info page; and excluded from artist gallery page; and support additional details, e.g. "crop" or "based on album cover"
     - made external links in commentary (with arrowheads) "absorb" immediately-following punctuation, so commas, periods, etc appear next to the word, instead of getting pushed past the arrow ([[media:misc/changelog/external-links-absorb-old.png|old]], [[media:misc/changelog/external-links-absorb-new.png|new]])
     - added dots between links in nav bar, instead of just a comma, for style and easier clicking; and made the first and last track in an album just dim out the "Previous" and "Next" links, instead of outright hiding them, so those nav links are positioned more consistently
