@@ -7,6 +7,7 @@ URLs:
 Cover Artists:
 - Ash Taylor
 Cover Art File Extension: png
+Track Art File Extension: png
 Color: '#3c85fb'
 Groups:
 - 8reath of light
@@ -18,8 +19,9 @@ Wallpaper Artists:
 - Lilithtreasure (edits for wiki)
 Wallpaper File Extension: png
 Wallpaper Style: |-
+    opacity: 0.3;
     background-repeat: no-repeat;
-    background-size: 1920x;
+    background-size: 1920px;
 Banner Dimensions: 975x180
 Banner File Extension: png
 Commentary: |-
@@ -152,7 +154,7 @@ Commentary: |-
 
     <i>Ash Taylor:</i> ([Bandcamp credits blurb](https://8reath-of-light.bandcamp.com/track/megalovania-reprise))
 
-    [[MeGaLoVania|original]] by [[artist:toby-fox]]
+    [[track:MeGaLoVania|original]] by [[artist:toby-fox]]
 ---
 Track: age of monsters
 Artists:

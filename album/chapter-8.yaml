@@ -4,6 +4,7 @@ URLs:
 - https://8reath-of-light.bandcamp.com/album/chapter-8
 Cover Artists:
 - Ash Taylor
+Cover Art File Extension: png
 Color: '#3b86fb'
 Groups:
 - 8reath of light
@@ -16,7 +17,7 @@ Wallpaper Artists:
 Wallpaper File Extension: png
 Wallpaper Style: |-
     background-repeat: no-repeat;
-    background-size: 1920x;
+    background-size: 1920px;
 Commentary: |-
     <i>Ash Taylor:</i> ([Bandcamp about blurb](https://8reath-of-light.bandcamp.com/album/chapter-8))
 
@@ -75,7 +76,7 @@ Commentary: |-
 
     <i>Ash Taylor:</i> ([Bandcamp credits blurb](https://8reath-of-light.bandcamp.com/track/apple-in-flight-2))
 
-    as featured in [[s] saturday 1](https://archiveofourown.org/works/22446544/chapters/82732354).
+    as featured in [\[s] saturday 1](https://archiveofourown.org/works/22446544/chapters/82732354).
 ---
 Track: EPIGONE
 Suffix Directory: true
@@ -100,7 +101,7 @@ Commentary: |-
     
     <i>Ash Taylor:</i> ([Bandcamp credits blurb](https://8reath-of-light.bandcamp.com/track/foreign-bodies-2))
 
-    as featured in [[s] saturday 2](https://archiveofourown.org/works/22446544/chapters/83017978).
+    as featured in [\[s] saturday 2](https://archiveofourown.org/works/22446544/chapters/83017978).
 ---
 Track: Fist of Achilles
 Artists:
@@ -125,3 +126,7 @@ URLs:
 - https://8reath-of-light.bandcamp.com/track/brain-ghost-egbert-bonus-track
 Referenced Tracks:
 - Doctor
+Commentary: |-
+    <i>Ash Taylor:</i> ([Bandcamp about blurb](https://8reath-of-light.bandcamp.com/track/brain-ghost-egbert-bonus-track))
+
+    fun track i made for a hypothetical godfeels friendsim!
