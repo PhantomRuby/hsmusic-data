@@ -576,6 +576,26 @@ Description: |-
 Category: Fandom projects
 Color: '#c466ff'
 ---
+Group: 8reath of light
+URLs:
+- https://8reath-of-light.bandcamp.com/
+Series:
+- Name: Albums
+  Albums:
+  - i dreamed of feeling better, vol. 1
+  - Chapter 8
+- Name: Solo singles
+  Albums:
+  - Unite Synchronization (Breach the Heavens Mix)
+  - apple in flight
+  - foreign bodies
+  - Flare (Space to Breathe Mix)
+Description: |-
+    fan music 8ased on [godfeels](https://archiveofourown.org/series/1475819), the canon-divergent homestuck fanfic by sarah zedig.
+    <hr class="split">
+    [Description via Bandcamp.](https://8reath-of-light.bandcamp.com/)<br>
+    Ran by and contributed to by [[artist:ash-taylor]].
+---
 Group: Deconreconstruction
 Directory: deconrecon
 URLs:
@@ -621,6 +641,13 @@ URLs:
 - https://desynced.xyz/
 Description: |-
     A fanventure by a talented team of authors, artists and musicians, in the works since 2017 and updating since early 2020!
+---
+Group: Freeroam
+URLs:
+- https://mspfa.com/?s=14778
+- https://freeroamfanventure.bandcamp.com/
+Description: |-
+    To-do description! Wow, this is tough.
 ---
 Group: Redditstuck
 URLs:
