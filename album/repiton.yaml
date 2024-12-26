@@ -6,6 +6,7 @@ Artists:
 URLs:
 - https://vasterror.bandcamp.com/album/repiton
 # - https://music.deconreconstruction.com/albums/repiton
+- https://www.youtube.com/playlist?list=PLBKFsSMpX3ut49CRMmcCH_dq6onS8hF7q
 Cover Artists:
 - Xamag
 Cover Art File Extension: png
@@ -24,6 +25,7 @@ Duration: '3:56'
 URLs:
 - https://vasterror.bandcamp.com/track/methodology
 # - https://music.deconreconstruction.com/albums/repiton?track=methodology
+- https://www.youtube.com/watch?v=VBnhzDmAmsI
 ---
 Track: Day After Day
 Cover Artists:
@@ -34,6 +36,7 @@ Duration: '4:20'
 URLs:
 - https://vasterror.bandcamp.com/track/day-after-day
 # - https://music.deconreconstruction.com/albums/repiton?track=day-after-day
+- https://www.youtube.com/watch?v=Tm4vT4PkWyI
 ---
 Track: Moment's Notice
 Cover Artists:
@@ -44,6 +47,7 @@ Duration: '3:37'
 URLs:
 - https://vasterror.bandcamp.com/track/moments-notice
 # - https://music.deconreconstruction.com/albums/repiton?track=moments-notice
+- https://www.youtube.com/watch?v=yXla2i-vjvk
 ---
 Track: Suckerpunch
 Cover Artists:
@@ -64,6 +68,7 @@ Duration: '3:22'
 URLs:
 - https://vasterror.bandcamp.com/track/thats-right
 # - https://music.deconreconstruction.com/albums/repiton?track=thats-right
+- https://www.youtube.com/watch?v=MGsaAxrdhLA
 Referenced Tracks:
 - track:september-earth-wind-fire
 Sampled Tracks:
@@ -83,6 +88,7 @@ Referenced Tracks:
 URLs:
 - https://vasterror.bandcamp.com/track/survival
 # - https://music.deconreconstruction.com/albums/repiton?track=survival
+- https://www.youtube.com/watch?v=xQLgbUvyK_Q
 ---
 Track: Home
 Suffix Directory: true
@@ -92,6 +98,7 @@ Duration: '2:08'
 URLs:
 - https://vasterror.bandcamp.com/track/home
 # - https://music.deconreconstruction.com/albums/repiton?track=home
+- https://www.youtube.com/watch?v=1QLicLzdZUs
 ---
 Track: 'INTERMISSION: Risk'
 Directory: risk
@@ -100,6 +107,7 @@ Duration: '4:17'
 URLs:
 - https://vasterror.bandcamp.com/track/intermission-risk
 # - https://music.deconreconstruction.com/albums/repiton?track=intermission-risk
+- https://www.youtube.com/watch?v=2wTjbu46_hE
 ---
 Track: Moonlight
 Suffix Directory: true
@@ -110,6 +118,7 @@ Duration: '3:01'
 URLs:
 - https://vasterror.bandcamp.com/track/moonlight
 # - https://music.deconreconstruction.com/albums/repiton?track=moonlight
+- https://www.youtube.com/watch?v=6gzdgiR1nx8
 ---
 Track: Through It All
 Cover Artists:
@@ -118,6 +127,7 @@ Duration: '4:37'
 URLs:
 - https://vasterror.bandcamp.com/track/through-it-all
 # - https://music.deconreconstruction.com/albums/repiton?track=through-it-all
+- https://www.youtube.com/watch?v=3nGf7bQTJNg
 ---
 Track: Tyrant
 Suffix Directory: true
@@ -129,6 +139,7 @@ Referenced Tracks:
 URLs:
 - https://vasterror.bandcamp.com/track/tyrant
 # - https://music.deconreconstruction.com/albums/repiton?track=tyrant
+- https://www.youtube.com/watch?v=6mLgwe5gu3g
 ---
 Track: Take The Shot
 Cover Artists:
@@ -139,6 +150,7 @@ Duration: '3:38'
 URLs:
 - https://vasterror.bandcamp.com/track/take-the-shot
 # - https://music.deconreconstruction.com/albums/repiton?track=take-the-shot
+- https://www.youtube.com/watch?v=EpF7yhxA0pA
 ---
 Track: Nailed It
 Cover Artists:
@@ -147,6 +159,7 @@ Duration: '3:22'
 URLs:
 - https://vasterror.bandcamp.com/track/nailed-it
 # - https://music.deconreconstruction.com/albums/repiton?track=nailed-it
+- https://www.youtube.com/watch?v=KLw6_2wtsaI
 ---
 Track: Remember?
 Suffix Directory: true
@@ -156,6 +169,7 @@ Duration: '3:10'
 URLs:
 - https://vasterror.bandcamp.com/track/remember
 # - https://music.deconreconstruction.com/albums/repiton?track=remember
+- https://www.youtube.com/watch?v=R5Rj5Sh0GSo
 ---
 Track: Promise
 Suffix Directory: true
@@ -167,6 +181,7 @@ Duration: '3:03'
 URLs:
 - https://vasterror.bandcamp.com/track/promise
 # - https://music.deconreconstruction.com/albums/repiton?track=promise
+- https://www.youtube.com/watch?v=C85-5CUgkTo
 ---
 Track: Only The Beginning
 Cover Artists:
@@ -177,6 +192,7 @@ Duration: '6:59'
 URLs:
 - https://vasterror.bandcamp.com/track/only-the-beginning
 # - https://music.deconreconstruction.com/albums/repiton?track=only-the-beginning
+- https://www.youtube.com/watch?v=yJZVKfDoK5s
 ---
 Section: Bonus track
 ---
@@ -194,3 +210,4 @@ Duration: '2:39'
 URLs:
 - https://vasterror.bandcamp.com/track/bonus-where-to-now
 # - https://music.deconreconstruction.com/albums/repiton?track=bonus-where-to-now
+- https://www.youtube.com/watch?v=c_k3r4j3Iu4
