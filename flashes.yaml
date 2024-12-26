@@ -3306,6 +3306,7 @@ URLs:
 Flash: '[S] Plink: Strife!'
 Directory: plink-strife
 Date: April 26, 2014
+Cover Art File Extension: png
 Featured Tracks:
 - track:resolve-loftlocked
 URLs:
@@ -3338,6 +3339,7 @@ Color: '#ff6305'
 Flash: '[S] [FREEROAM]'
 Directory: freeroam
 Date: July 21, 2016
+Cover Art File Extension: png
 Featured Tracks:
 - track:waiting-for-adventure-freeroam
 URLs:
