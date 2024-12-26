@@ -175,6 +175,34 @@ URLs:
 Referenced Tracks:
 - Candles and Clockwork
 ---
+Track: Cascade (Director's Cut)
+Artists:
+- Tensei
+Duration: '4:20'
+URLs:
+- https://www.youtube.com/watch?v=Ejw-E2HBtlY
+Referenced Tracks:
+- Cascade
+- Cascade1
+Commentary: |-
+    <i>Tensei:</i> ([YouTube description](https://www.youtube.com/watch?v=Ejw-E2HBtlY))
+    A slightly updated/different version of my section of Cascade. The most notable differences are the altered melodies at the start and numerous production improvements such as rerecorded guitars, improved string sections, etc.
+---
+Track: Cascade1
+Artists:
+- Toby Fox
+Duration: '1:04'
+URLs:
+- https://www.youtube.com/watch?v=oj0i7lXQ_mw
+Referenced Tracks:
+- Cascade (Beta)
+- track:sburban-jungle
+- track:beatdown-strider-style
+- track:explore
+Commentary: |-
+    <i>Jebb:</i> (Wiki editor)
+    This track actually samples some unknown nebulous OLDER version of Cascade which was made inbetween Cascade (Beta) and this one. From what it seems Toby's addition here are the instruments layered on top of the standard Cascade sounding thing, and the Sburban Jungle and Beatdown references are by [[artist:tensei]]. However, we do not have the original version of Cascade which this track samples, so as it is now we are using this track as the reference for [[track:cascade-directors-cut]], as it is the earliest known version of this track which has that little bit at the beginning.
+---
 Track: Cascading Events
 # No official name, this one is possibly fan-sourced?
 # Also known as "Descend2 Demo", "Freefall Beta" or "cascade2"
