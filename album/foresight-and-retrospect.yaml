@@ -13,7 +13,8 @@ Color: '#629ac8'
 Groups:
 - Oceanfalls
 - Beyond
-Art Tags:
+Art Tags: # tag order reflects booklet commentary for Foresight
+- Kotori (Oceanfalls)
 - Nino (Oceanfalls)
 Additional Files:
 - Title: Commentary booklet
@@ -47,13 +48,15 @@ Track: L00M1NG
 Additional Names:
 - Looming (normalized)
 Duration: 4:44
+Referenced Tracks:
+- Metal and Meat
 URLs:
 - https://nightslights.bandcamp.com/track/l00m1ng
 - https://www.youtube.com/watch?v=MqylWvdzkC0
 Commentary: |-
     <i>Wights End:</i> (booklet commentary)
 
-    This track is a dark synth remix of Metal and Meat off of Oceanfalls Volume Five. Since the original song was very light on actual melodic content, it gave me a lot of flexibility in how I built out the rest of the song; so much so that the similarities could easily be overlooked. Stylistically, I was really inspired by Carpenter Brut, and the retro, cyberpunk aesthetic that goes hand in hand with that sort of music style prompted me to reflect that in the album art as well.
+    This track is a dark synth remix of [[Metal and Meat]] off of Oceanfalls Volume Five. Since the original song was very light on actual melodic content, it gave me a lot of flexibility in how I built out the rest of the song; so much so that the similarities could easily be overlooked. Stylistically, I was really inspired by Carpenter Brut, and the retro, cyberpunk aesthetic that goes hand in hand with that sort of music style prompted me to reflect that in the album art as well.
 ---
 Track: An Unforetold Return
 Duration: 2:56
@@ -63,18 +66,21 @@ URLs:
 Commentary: |-
     <i>Wights End:</i> (booklet commentary)
 
-    This track I wrote way back in 2019 and never got around to publishing. The song is pretty shamelessly inspired by some of Joren "Tensei" De Bruin's work (but with the twist of being synth centric) which is why I've been so hesitant to release it, but at the end of the day, it wasn't doing any good burning a hole in my harddrive. I now associate this song with the Unforeseen, but coincidentally the title kind of reflects the track itself in a way.
+    This track I wrote way back in 2019 and never got around to publishing. The song is pretty shamelessly inspired by some of [[artist:tensei|Joren "Tensei" De Bruin's]] work (but with the twist of being synth centric) which is why I've been so hesitant to release it, but at the end of the day, it wasn't doing any good burning a hole in my harddrive. I now associate this song with the Unforeseen, but coincidentally the title kind of reflects the track itself in a way.
 ---
 Track: Fealty
 Suffix Directory: true
 Duration: 2:44
+Referenced Tracks:
+- Rozepiano
+- Right Hand
 URLs:
 - https://nightslights.bandcamp.com/track/fealty
 - https://www.youtube.com/watch?v=JwdG4aILgxA
 Commentary: |-
     <i>Wights End:</i> (booklet commentary)
 
-    This song was born from me smashing the motifs from Right Hand and Rainfalls together like barbie dolls and saying “now kiss.” Much to my surprise it worked way better than I expected, so I expanded it into a whole song.
+    This song was born from me smashing the motifs from [[Right Hand]] and [[Rainfalls]] together like barbie dolls and saying “now kiss.” Much to my surprise it worked way better than I expected, so I expanded it into a whole song.
 ---
 Track: Black Cat
 Duration: 2:40
@@ -94,16 +100,16 @@ URLs:
 Commentary: |-
     <i>Wights End:</i> (booklet commentary)
 
-    Inspired by the mental image of Solis doing his taxes, I really wanted to capture the droll vibe of his former position as a paralegal as well as the less exciting moments of his current vocation. This was one of the easiest times I’ve had writing a song in an odd time signature with the track being in 7/4 (which conveniently lent itself to the inclusion of a topical reference to Money by Pink Floyd.)
+    Inspired by the mental image of Solis doing his taxes, I really wanted to capture the droll vibe of his former position as a paralegal as well as the less exciting moments of his current vocation. This was one of the easiest times I’ve had writing a song in an odd time signature with the track being in 7/4 (which conveniently lent itself to the inclusion of a topical reference to [Money](https://www.youtube.com/watch?v=z3cg3IQzSqw) by Pink Floyd.)
 ---
 Track: Intermission
-Directory: intermission-foresight-and-retrospect
+Directory: intermission-foresight-and-retrospect # custom suffix
 Duration: 0:46
+Referenced Tracks:
+- Aeris Manus
 URLs:
 - https://nightslights.bandcamp.com/track/intermission
 - https://www.youtube.com/watch?v=QOuYXALlv7c
-Referenced Tracks:
-- Aeris Manus
 Commentary: |-
     <i>Wights End:</i> (booklet commentary)
 
@@ -127,9 +133,11 @@ URLs:
 Commentary: |-
     <i>Wights End:</i> (booklet commentary)
 
-    I love my slow–buildup song intros, but I figured it's good to change things up once in a while so I opted to start off this track as punchy as I could manage. The synth solo in the back half was heavily inspired by the solos in songs like Tornado of Souls, Cowboys From Hell and Aqualung as they all have great dynamic shifts. In terms of subject matter, this piece was designed to score a fight against spirits.
+    I love my slow–buildup song intros, but I figured it's good to change things up once in a while so I opted to start off this track as punchy as I could manage. The synth solo in the back half was heavily inspired by the solos in songs like [Tornado of Souls](https://www.youtube.com/watch?v=Mmbo4jQBKVU), [Cowboys From Hell](https://www.youtube.com/watch?v=kGNHwLicV2g) and [Aqualung](https://www.youtube.com/watch?v=ghi3JERO8_A) as they all have great dynamic shifts. In terms of subject matter, this piece was designed to score a fight against spirits.
 ---
 Track: Rondo of the Crimson Prince
+Additional Names:
+- In the Court of the Crimson Prince (original name)
 Duration: 7:06
 URLs:
 - https://nightslights.bandcamp.com/track/rondo-of-the-crimson-prince
@@ -142,10 +150,12 @@ Commentary: |-
 Track: Retrospect
 Suffix Directory: true
 Duration: 1:36
+Referenced Tracks:
+- Foresight
 URLs:
 - https://nightslights.bandcamp.com/track/retrospect
 - https://www.youtube.com/watch?v=SzQg-snV-Ms
 Commentary: |-
     <i>Wights End:</i> (booklet commentary)
 
-    The bookend was originally meant to be an expansion on the original piano piece with a bunch of additional acoustic instruments, but due to the major/minor ambiguity I was going for, I found it really difficult to effectively build on the track. Instead I opted for a simpler approach that reflects the visual presentation of the album and brings us back to where we started.
+    The bookend was originally meant to be an expansion on [[track:foresight-oceanfables|the original piano piece]] with a bunch of additional acoustic instruments, but due to the major/minor ambiguity I was going for, I found it really difficult to effectively build on the track. Instead I opted for a simpler approach that reflects the visual presentation of the album and brings us back to where we started.
