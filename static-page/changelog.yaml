@@ -523,7 +523,7 @@ Content: |-
     - added [[tag:charlie-davis-desynced]] tag to [[track:midnight-squared]] (thanks, Lilith!)
     - added [[tag:prospit]] to [[track:until-my-blood-runs-dry]] and fixed [[tag:derse]] being tagged twice (thanks, Jebb!)
     - added [[tag:bowman]] tag to [[album:gravity-makes-the-flame-rise]] and [[album:ulterior-motives]]
-    - added coprse and blood (abstract) warnings to [[track:frog-eater-lofam5a2]] artwork (thanks, Tangle, Lilith, Lan!)
+    - added corpse and blood (abstract) warnings to [[track:frog-eater-lofam5a2]] artwork (thanks, Tangle, Lilith, Lan!)
     <!-- lyric fixes -->
     - fixed some lyrics in [[track:vs-bros]] (thanks, Lilith!)
         - was missing "(JOHN: How much further can he go at this?)"
@@ -563,7 +563,7 @@ Content: |-
     </details>
     <details><summary><b>Toggle Directorylog</b> (Nintendo Music changes; thanks, ruby!)</summary>
     - changed directory of [[track:welcome-to-paldea]] from <code>welcome-to-the-paldea-region</code> to <code>welcome-to-paldea</code>
-    - changed directory of [[track:across-the-skies-of-paldea]] from <code>undefined</code> to <code>across-the-skies-of-paldea</code>
+    - changed directory of [[track:across-the-skies-of-paldea]] from <code>soar-through-the-paldea-skies</code> to <code>across-the-skies-of-paldea</code>
     - changed directory of [[track:first-meeting]] from <code>meetings</code> to <code>first-meeting</code>
     - changed directory of [[track:becoming-stronger]] from <code>lets-try-to-get-stronger</code> to <code>becoming-stronger</code>
     - changed directory of [[track:by-the-shore]] from <code>on-the-beach</code> to <code>by-the-shore</code>
@@ -599,7 +599,6 @@ Content: |-
     - changed directory of [[track:time-to-relax]] from <code>heartwarming-time</code> to <code>time-to-relax</code>
     - changed directory of [[track:battle-east-province-wild-pokemon]] from <code>battle-wild-pokemon-in-the-east</code> to <code>battle-east-province-wild-pokemon</code>
     - changed directory of [[track:the-iono-zone]] from <code>iono-zone</code> to <code>the-iono-zone</code>
-    - changed directory of [[track:ello-ello-hola-ciao-and-bonjour]] from <code>undefined</code> to <code>ello-ello-hola-ciao-and-bonjour</code>
     - changed directory of [[track:a-stroll-through-the-east-province]] from <code>walk-through-the-east-province</code> to <code>a-stroll-through-the-east-province</code>
     - changed directory of [[track:the-names-clive]] from <code>right-now-im-clive</code> to <code>the-names-clive</code>
     - changed directory of [[track:raiding-the-base]] from <code>cmon-lets-raid-the-place</code> to <code>raiding-the-base</code>
@@ -609,7 +608,7 @@ Content: |-
     - changed directory of [[track:the-opening-act]] from <code>opening-act</code> to <code>the-opening-act</code>
     - changed directory of [[track:mc-of-rip]] from <code>soulful-beat</code> to <code>mc-of-rip</code>
     - changed directory of [[track:a-stroll-through-the-north-province]] from <code>walk-through-the-north-province</code> to <code>a-stroll-through-the-north-province</code>
-    - changed directory of [[track:the-pokemon-league-interview]] from <code>undefined</code> to <code>the-pokemon-league-interview</code>
+    - changed directory of [[track:the-pokemon-league-interview]] from <code>pokemon-league-interview-phase</code> to <code>the-pokemon-league-interview</code>
     - changed directory of [[track:passed-the-interview]] from <code>you-passed-the-interview-phase</code> to <code>passed-the-interview</code>
     - changed directory of [[track:the-pokemon-league-pokemon-scarlet-violet]] from <code>pokemon-league-pokemon-scarlet-violet</code> to <code>the-pokemon-league-pokemon-scarlet-violet</code>
     - changed directory of [[track:together-with-nemona]] from <code>with-nemona</code> to <code>together-with-nemona</code>
@@ -658,7 +657,6 @@ Content: |-
     - changed directory of [[track:terapagos-reawakened]] from <code>terapagos-comes-back-to-life</code> to <code>terapagos-reawakened</code>
     - changed directory of [[track:what-the-hidden-treasure-needs]] from <code>conditions-of-the-hidden-treasure</code> to <code>what-the-hidden-treasure-needs</code>
     - changed directory of [[track:terapagos-goes-berserk]] from <code>terapagos-goes-rampage</code> to <code>terapagos-goes-berserk</code>
-    - changed directory of [[track:battle-terapagos-the-hidden-treasure-of-area-zero]] from <code>undefined</code> to <code>battle-terapagos-the-hidden-treasure-of-area-zero</code>
     - changed directory of [[track:caught-terapagos]] from <code>caught-the-terapagos</code> to <code>caught-terapagos</code>
     - changed directory of [[track:starting-over-from-zero]] from <code>once-again-starting-from-zero</code> to <code>starting-over-from-zero</code>
     - changed directory of [[track:studying-together-with-team-star]] from <code>star-training-centers-team-star</code> to <code>studying-together-with-team-star</code>
