@@ -4344,6 +4344,7 @@ Track: Final Battle
 # Reference
 #   https://vgmdb.net/album/800
 Directory: final-battle-earthbound
+Always Reference By Directory: true
 Artists:
 - Mother
 - Hirokazu Tanaka
@@ -6970,10 +6971,14 @@ URLs:
 - https://youtu.be/pOqsFMNFdDo
 ---
 Track: Onett
+# JP: オネットのテーマ
 # Official release:
 #   マザー2 ギーグの逆襲
+# Note:
+#   Translated name is via YouTube Music.
 # Reference:
 #   https://vgmdb.net/album/800
+#   https://music.youtube.com/watch?v=cC3RAh9-zvQ
 Artists:
 - Mother
 - Keiichi Suzuki
@@ -7502,8 +7507,6 @@ Commentary: |-
     This track scores parts of EarthBound's prologue. The first half, titled on soundtrack releases as 逆襲 ("Counterattack" or "Strike Back"), is the main menu opening; the second, 眠ってる場合じゃない ("This Is No Time to Be Sleeping"), plays during an in-game walkaround near the start of the game.
 
     The first half is known online as "The Evil Giygas Attacks!" (in two parts) and the second as "One Fateful Night..." and "Unidentified Falling Object". These names all appear to trace to [Starmen.net](https://starmen.net/mother2/music/) since around [June 2007](https://web.archive.org/web/20070621190644/http://starmen.net/mother2/music/), and previously to [SNESmusic.org](http://snesmusic.org/v2/profile.php?profile=set&selected=783) since [May 2004 or earlier](https://web.archive.org/web/20051222040706/http://snesmusic.org/v2/profile.php?profile=set&selected=783). The English name "Prologue" is given on the official 2016 vinyl release; the part names don't seem to have received official localization.
-
-    Since the official soundtrack release really isn't online anywhere, the YouTube links on this track are for the versions from Starmen: [The Evil Giygas Attacks! (Part 1)](https://starmen.net/mother2/music/002-%20Earthbound%20-%20The%20Evil%20Giygas%20Attacks!%20(Part%201).mp3), [The Evil Giygas Attacks! (Part 2)](https://starmen.net/mother2/music/003-%20Earthbound%20-%20The%20Evil%20Giygas%20Attacks!%20(Part%202).mp3), [One Fateful Night...](https://starmen.net/mother2/music/009-%20Earthbound%20-%20One%20Fateful%20Night___.mp3) and [Unidentified Flying Object](https://starmen.net/mother2/music/010-%20Earthbound%20-%20Unidentified%20Falling%20Object.mp3). The duration is taken from the 1994 soundtrack release.
 ---
 Track: Proto Man (Mega Man 3)
 # Reference:
@@ -46870,6 +46873,7 @@ Artists:
 ---
 Track: Join Call
 Directory: join-call-discord
+Always Reference By Directory: true
 Duration: '0:01'
 Artists:
 - Discord
@@ -46938,6 +46942,7 @@ Commentary: |-
 ---
 Track: Notification
 Directory: notification-whatsapp
+Always Reference By Directory: true
 Artists:
 - WhatsApp
 Duration: '0:01'
@@ -47187,13 +47192,19 @@ Referenced Tracks:
 - Sweet Victory
 ---
 Track: WOAH!
+Directory: woah-chris
+Always Reference By Directory: true
 Artists:
 - Chris Patstone
+Contributors:
+- Chris O'Niell (voice)
 Duration: 0:07
 URLs:
 - https://www.youtube.com/watch?v=rBfMEUiobfE
 ---
 Track: WOW
+Directory: wow-mother
+Always Reference By Directory: true
 Artists:
 - Mother
 Duration: 0:01

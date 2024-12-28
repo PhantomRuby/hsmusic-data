@@ -272,7 +272,7 @@ URLs:
 - https://music.apple.com/album/tentaclar-aliens-epic-extraterretterrestrial-jungle/1572224128?i=1572224355
 Sampled Tracks:
 - Think (About It)
-- WOW
+- track:wow-mother
 Commentary: |-
     <i>Camellia:</i> ([YouTube description](https://www.youtube.com/watch?v=LnkfOVHkVfo))
     Btw we can't fit the track title because it's too long. The correct title, without abbreviation is:
@@ -343,8 +343,8 @@ Referenced Tracks:
 Sampled Tracks:
 - Amen, Brother
 - Aireu 727 WYSI
-- Join Call
-- Notification
+- track:join-call-discord
+- track:notification
 Credit Sources: |-
     <i>Camellia:</i> ([Bandcamp credits blurb](https://cametek.bandcamp.com/track/wysi-when-you-see-it))
 

@@ -77,6 +77,7 @@ Content: |-
     - added [[album:improvised-touhou-music-with-annoying-commentary]] by [[group:toby-fox]]! (thanks, Lilith!)
     - added [[album:pills-ep]] by [[artist:alex-votl]]! (thanks, Lilith!)
     - added [[album:in-isolation]] by [[artist:david-ellis]]! (thanks, Lilith!)
+    - added [[album:uufo]] by [[artist:camellia]]! (thanks, ruby, Lan!)
     - added [[album:extermination-shock]] by [[group:what-is-lost-in-the-mines]]! (thanks, Jebb!)
     - added [[album:dead-maams-chest]] by [[artist:houshou-marine]]! (thanks, ruby!)
     <!-- team releases, subsections -->
@@ -357,6 +358,7 @@ Content: |-
     - fixed [[track:probable-cause]] not also sampling its referenced tracks (thanks, Lilith!)
     - fixed [[track:adventurous-ascent]] ([[album:lofam5a2]]) not referencing [[track:adventurous-ascent-single-version]] (thanks, Lilith!)
     - fixed [[track:anarchy-gravity-makes-the-flame-rise]] not sampling [[track:nothing-but-the-best]] (thanks, ruby!)
+    - fixed [[track:nows-your-chance-to-be-a]] and [[track:big-shot]] not sampling [[track:wow-mother]] (thanks, ruby!)
     - fixed [[track:festive-domain]] referencing [[track:rainfalls]] instead of [[track:rozepiano]] (thanks, Lan!)
     - fixed [[track:cheer-up-crabface-its-halloween]] not referencing [[track:crustacean]] and [[track:rex-duodecim-angelus]] (thanks, Lilith!)
     - fixed [[track:valor-toby-fox]] not referencing [[track:showtime-original-mix]] (thanks, Lilith!)
@@ -371,6 +373,7 @@ Content: |-
     - fixed [[track:voids-edge]] not crediting [[artist:rainy]] as co-artist (thanks, Lilith!)
     - fixed [[track:roundabout]] crediting Eddie Offord (as artist) in addition to [[artist:yes]] (thanks, Cello, Lan, Whisper!)
     - fixed [[track:in-the-end]] crediting [[artist:limp-bizkit]] instead of [[artist:linkin-park]] (thanks, Cello, Jebb!)
+    - fixed [[track:woah-chris]] not crediting [[artist:chris-oneill]] for voice (thanks, Lan!)
     <!-- merged artists -->
     - fixed [[artist:bright0n]] having some credits under another name (thanks, Lilith!)
     - fixed [[artist:corbin-pangilinan]] having some credits under another name (thanks, Lilith!)
@@ -515,6 +518,8 @@ Content: |-
     - fixed [[track:carbon-nadsat-cuestick-genius]] being named "Carbon Nadsat / Cuestick Genius" (spaces around slash; thanks, Pyryte, Lilith, Lan!)
     - fixed [[track:cheer-up-crabface-its-halloween]] being named "Cheer up, crabface, it's Halloween!", and added this as an additional name with details in commentary (thanks, Lilith!)
     - fixed [[track:feel-old-ver]] being named "Feel (Old. Ver)" (thanks, Whisper, Lilith!)
+    - fixed [[track:onett]] being named "Onett Theme" (thanks, ruby, Lan!)
+    - fixed [[track:relic-song-pokemon-black-pokemon-white]] being named "Relic Song (Pokémon Black 2 / Pokémon White 2)" (thanks, ruby!)
     - fixed [[track:touch-tone-telephone]] being named "Touchtone Telephone" (no dash; thanks, Lilith!)
     <!-- general data fixes -->
     - fixed duration of [[track:wanderlust-redditstuck]] (was 3:52, now 3:24; thanks, Lilith, Lan, Makin!)
@@ -562,6 +567,9 @@ Content: |-
     - changed directory of [[track:underground-path-dwellers-empty-path]] from <code>underground-path</code> to <code>underground-path-dwellers-empty-path</code>
     - changed directory of [[track:sans-ch2]] from <code>sans-deltarune-ch2</code> to <code>sans-ch2</code> (thanks, Lan!)
     - changed directory of [[track:oracle-unknown-diva]] from <code>oracle</code> to <code>oracle-unknown-diva</code>
+    - changed directory of [[track:onett]] from <code>onett-theme</code> to <code>onett</code> (thanks, ruby!)
+    - changed directory of [[track:relic-song-pokemon-black-pokemon-white]] from <code>relic-song-pokemon-black-2-pokemon-white-2</code> to <code>relic-song-pokemon-black-pokemon-white</code> (thanks, ruby!)
+    - changed directory of [[track:woah-chris]] from <code>woah</code> to <code>woah-chris</code> (thanks, Lan!)
     - changed directory of [[artist:avocado-canmt]] from <code>avocado</code> to <code>avocado-canmt</code>
     - changed directory of [[artist:takahiro-yamada-asian-kung-fu]] from <code>takahiro-yamada</code> to <code>takahiro-yamada-asian-kung-fu</code>
     </details>
@@ -2529,7 +2537,7 @@ Content: |-
     - added soundcloud links for [[track:star-i-never-caught]], [[track:someday-clark-powell]], and [[track:harrigan-we-are-all-satellites]] (thanks, FF!)
     - data fixes/tweaks throughout [[album:entertaining-sound]]:
         - [[track:2016-but-all-the-best-memes-happen-at-the-same-time]] references [[track:goodbye-to-the-underground]] (not [[track:good-night]]) and [[track:stone-halation]] (not [[track:snow-halation]])
-        - [[track:oh-2017]] references [[track:woah]]
+        - [[track:oh-2017]] references [[track:woah-chris]]
         - added [[track:sweet-victory]] as the track referenced (i.e. featured) in [[track:what-year-is-it]]
         - added bandcamp links to all referenced [[artist:siivagunner]] tracks
         - ty nata for reference fixes and vriska/leo for bandcamp links!
@@ -3171,7 +3179,7 @@ Content: |-
     - added another "flash", this one (indirectly) featuring [[Problem Sleuth Theme]]: [[flash:31]]
     - added [[Nic Cage Romance]] to the list of tracks featured in [[flash:2792]]
     - moved those last two tracks ([[Problem Sleuth Theme]], [[Nic Cage Romance]]) over to the "Tracks featured in Homestuck" section of [[album:unreleased-tracks]]
-    - added a new track [[Onett Theme]] to the list of tracks referenced in [[Secret ROM]]
+    - added a new track [[Onett]] to the list of tracks referenced in [[Secret ROM]]
     - hid [[album:unreleased-tracks]] from the [[site:list/albums/by-date/|Albums - by Date]] and [[site:list/tracks/by-date/|Tracks - by Date]] listings
 
     <h2 id="12-jun-20" class="major-release"><html:a href="#12-jun-20">[[date:12 June 2020]] - happy birthday karkat</a></h2>
