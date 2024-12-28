@@ -514,8 +514,8 @@ Content: |-
         <li>fixed [[track:title-screen-2-pokemon-scarlet-violet]] (the second one) being named "Title Screen 2"</li>
         <li>fixed [[track:apartment-hangout]] being named "In the Room"</li>
         <li>fixed [[track:bathing-nintendogs]] being named "Bathtime Theme"</li>
-        <li>fixed [[track:crocodile-cacophany-k-rools-theme]] being named "Crocodile Cacophony"</li>
-        <li>fixed [[track:invincibility-bgm-super-mario-bros]] being named "Invincibility Theme (Super Mario Bros.)"</li>
+        <li>fixed [[track:crocodile-cacophony-k-rools-theme]] being named "Crocodile Cacophony"</li>
+        <li>fixed [[track:invincibility-bgm-smb]] being named "Invincibility Theme (Super Mario Bros.)"</li>
         <li>fixed [[track:k-rool-returns-title-theme]] being named "K. Rool Returns"</li>
         <li>fixed [[track:kasss-theme-song-of-the-hero-ver]] being named "Kass's Theme (Song of the Hero ver.)" (lowercase "ver")</li>
         <li>fixed [[track:main-theme-wii-shop-channel]] being named "Wii Shop Channel"</li>
@@ -530,7 +530,7 @@ Content: |-
     - fixed [[track:cheer-up-crabface-its-halloween]] being named "Cheer up, crabface, it's Halloween!", and added this as an additional name with details in commentary (thanks, Lilith!)
     - fixed [[track:feel-old-ver]] being named "Feel (Old. Ver)" (thanks, Whisper, Lilith!)
     - fixed [[track:onett]] being named "Onett Theme" (thanks, ruby, Lan!)
-    - fixed [[track:relic-song-pokemon-black-pokemon-white]] being named "Relic Song (Pokémon Black 2 / Pokémon White 2)" (thanks, ruby!)
+    - fixed [[track:relic-song-pokemon-black-white]] being named "Relic Song (Pokémon Black 2 / Pokémon White 2)" (thanks, ruby!)
     - fixed [[track:touch-tone-telephone]] being named "Touchtone Telephone" (no dash; thanks, Lilith!)
     <!-- general data fixes -->
     - fixed duration of [[track:wanderlust-redditstuck]] (was 3:52, now 3:24; thanks, Lilith, Lan, Makin!)
@@ -579,12 +579,8 @@ Content: |-
     - changed directory of [[track:underground-path-dwellers-empty-path]] from <code>underground-path</code> to <code>underground-path-dwellers-empty-path</code>
     - changed directory of [[track:sans-ch2]] from <code>sans-deltarune-ch2</code> to <code>sans-ch2</code> (thanks, Lan!)
     - changed directory of [[track:oracle-unknown-diva]] from <code>oracle</code> to <code>oracle-unknown-diva</code>
-    - changed directory of [[track:2017-nintendo-switch-presentation-trailer]] from <code>nintendo-switch-presentation-2017-trailer-bgm</code> to <code>2017-nintendo-switch-presentation-trailer</code>
-    - changed directory of [[track:miniboss-hideout-i-kraid]] from <code>kraids-chamber</code> to <code>miniboss-hideout-i-kraid</code>
     - changed directory of [[track:onett]] from <code>onett-theme</code> to <code>onett</code> (thanks, ruby!)
-    - changed directory of [[track:parasite-queen-battle]] from <code>vs-parasite-queen</code> to <code>parasite-queen-battle</code>
-    - changed directory of [[track:snakey-chantey-rattle-battle]] from <code>snakey-chantey</code> to <code>snakey-chantey-rattle-battle</code>
-    - changed directory of [[track:relic-song-pokemon-black-pokemon-white]] from <code>relic-song-pokemon-black-2-pokemon-white-2</code> to <code>relic-song-pokemon-black-pokemon-white</code> (thanks, ruby!)
+    - changed directory of [[track:relic-song-pokemon-black-white]] from <code>relic-song-pokemon-black-2-white-2</code> to <code>relic-song-pokemon-black-white</code> (thanks, ruby!)
     - changed directory of [[track:woah-chris]] from <code>woah</code> to <code>woah-chris</code> (thanks, Lan!)
     - changed directory of [[artist:avocado-canmt]] from <code>avocado</code> to <code>avocado-canmt</code>
     - changed directory of [[artist:takahiro-yamada-asian-kung-fu]] from <code>takahiro-yamada</code> to <code>takahiro-yamada-asian-kung-fu</code>
@@ -692,7 +688,14 @@ Content: |-
     - changed directory of [[track:a-drone-a-pokemon-its-binding-mochi]] from <code>a-drone-a-pokemon-its-a-binding-mochi</code> to <code>a-drone-a-pokemon-its-binding-mochi</code>
     - changed directory of [[track:apartment-hangout]] from <code>in-the-room</code> to <code>apartment-hangout</code>
     - changed directory of [[track:bathing-nintendogs]] from <code>bathtime-theme</code> to <code>bathing-nintendogs</code> (thanks, Whisper!)
+    - changed directory of [[track:2017-nintendo-switch-presentation-trailer]] from <code>nintendo-switch-presentation-2017-trailer-bgm</code> to <code>2017-nintendo-switch-presentation-trailer</code>
+    - changed directory of [[track:crocodile-cacophony-k-rools-theme]] from <code>crocodile-cacophony</code> to <code>crocodile-cacophony-k-rools-theme</code>
+    - changed directory of [[track:k-rool-returns-title-theme]] from <code>k-rool-returns</code> to <code>k-rool-returns-title-theme</code>
+    - changed directory of [[track:invincibility-bgm-smb]] from <code>invincibility-theme-smb</code> to <code>invincibility-bgm-smb</code>
     - changed directory of [[track:main-theme-wii-shop-channel]] from <code>wii-shop-channel</code> to <code>main-theme-wii-shop-channel</code>
+    - changed directory of [[track:miniboss-hideout-i-kraid]] from <code>kraids-chamber</code> to <code>miniboss-hideout-i-kraid</code>
+    - changed directory of [[track:parasite-queen-battle]] from <code>vs-parasite-queen</code> to <code>parasite-queen-battle</code>
+    - changed directory of [[track:snakey-chantey-rattle-battle]] from <code>snakey-chantey</code> to <code>snakey-chantey-rattle-battle</code>
     - changed directory of [[track:song-of-storms]] from <code>ocarina-song-of-storms</code> to <code>song-of-storms</code>
     </details>
 
