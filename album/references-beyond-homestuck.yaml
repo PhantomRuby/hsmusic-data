@@ -1595,6 +1595,20 @@ Duration: '0:18'
 URLs:
 - https://www.youtube.com/watch?v=BU-ALxknLpU
 ---
+Track: 2017 Nintendo Switch Presentation Trailer
+# Reference:
+#   https://vgmdb.net/album/75831
+Artists:
+- The Legend of Zelda
+- Kosuke Yamashita
+Duration: '3:21'
+URLs:
+- https://m.nintendo.com/shared/US/tracks/b48bcb8e-32bb-418f-a909-ffd9168fdb06
+- https://www.youtube.com/watch?v=V8RkqQ8fQs4
+Referenced Tracks:
+- 'Main Theme (The Legend of Zelda: Breath of the Wild)'
+- Overworld Theme (The Legend of Zelda)
+---
 Track: A Bad Dream
 # From Earthbound, which had an official album release but this track isn't on it.
 # Reference:
@@ -6819,20 +6833,6 @@ Artists:
 - Hiroki Hashimoto
 URLs:
 - https://www.youtube.com/watch?v=PTQBFoM_cVw
----
-Track: 2017 Nintendo Switch Presentation Trailer
-# Reference:
-#   https://vgmdb.net/album/75831
-Artists:
-- The Legend of Zelda
-- Kosuke Yamashita
-Duration: '3:21'
-URLs:
-- https://m.nintendo.com/shared/US/tracks/b48bcb8e-32bb-418f-a909-ffd9168fdb06
-- https://www.youtube.com/watch?v=V8RkqQ8fQs4
-Referenced Tracks:
-- 'Main Theme (The Legend of Zelda: Breath of the Wild)'
-- Overworld Theme (The Legend of Zelda)
 ---
 Track: NLCtown
 # No official release

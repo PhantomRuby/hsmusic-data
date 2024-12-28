@@ -280,6 +280,7 @@ Content: |-
     - added YouTube listening links to [[album:running-for-eons]], [[album:repiton]], [[album:vast-error-vol-4]], [[album:catch-322]], and [[album:dead-shufflers-anything-goes]] (thanks, Lilith, Lan!)
     - added YouTube listening links to [[track:arcalicious]], [[track:kingdom-come]], and [[track:probable-cause]] (thanks, Lilith!)
     - added Spotify listening links across [[album:noirscape]] (thanks, Lilith!)
+    - added Nintendo Music listening links to [[album:pokemon-scarlet-violet-super-music-collection]] and many Nintendo tracks in [[album:references-beyond-homestuck]] (thanks, ruby, vriska/leo!)
     <!-- commentary citations -->
     - added citations to early commentary collection across all commentary under [[group:official]] which, on the wiki, originates from there, and hasn't yet had a specific source located (thanks, Jackie-Tangle, Surge!)
     - added citations to Tumblr commentary on [[track:sburban-jungle]] (thanks, Jackie-Tangle!)
@@ -513,7 +514,15 @@ Content: |-
         <li>fixed [[track:title-screen-2-pokemon-scarlet-violet]] (the second one) being named "Title Screen 2"</li>
         <li>fixed [[track:apartment-hangout]] being named "In the Room"</li>
         <li>fixed [[track:bathing-nintendogs]] being named "Bathtime Theme"</li>
+        <li>fixed [[track:crocodile-cacophany-k-rools-theme]] being named "Crocodile Cacophony"</li>
+        <li>fixed [[track:invincibility-bgm-super-mario-bros]] being named "Invincibility Theme (Super Mario Bros.)"</li>
+        <li>fixed [[track:k-rool-returns-title-theme]] being named "K. Rool Returns"</li>
+        <li>fixed [[track:kasss-theme-song-of-the-hero-ver]] being named "Kass's Theme (Song of the Hero ver.)" (lowercase "ver")</li>
         <li>fixed [[track:main-theme-wii-shop-channel]] being named "Wii Shop Channel"</li>
+        <li>fixed [[track:2017-nintendo-switch-presentation-trailer]] being named "Nintendo Switch Presentation 2017 Trailer BGM"</li>
+        <li>fixed [[track:miniboss-hideout-i-kraid]] being named "Kraid's Chamber"</li>
+        <li>fixed [[track:parasite-queen-battle]] being named "Vs. Parasite Queen"</li>
+        <li>fixed [[track:snakey-chantey-rattle-battle]] being named "Snakey Chantey"</li>
         <li>fixed [[track:song-of-storms]] being named 'Ocarina "Song of Storms"'</li>
     </ul></details>
     <!-- name fixes (single-lines) -->
@@ -525,6 +534,7 @@ Content: |-
     - fixed [[track:touch-tone-telephone]] being named "Touchtone Telephone" (no dash; thanks, Lilith!)
     <!-- general data fixes -->
     - fixed duration of [[track:wanderlust-redditstuck]] (was 3:52, now 3:24; thanks, Lilith, Lan, Makin!)
+    - fixed duration of many Nintendo tracks to align with Nintendo Music (thanks, ruby!)
     - fixed citations for "[BONUS]" additional names on [[track:pondsquatter-live-chamber-version]] and [[track:frogsong]] (was "album download", now "original release"; thanks, Lilith!)
     <!-- additional file fixes -->
     - fixed [[album:homestuck-vol-4]] not listing "Homestuck_Vol4_alt9.jpg" additional file (thanks, Lilith!)
@@ -569,7 +579,11 @@ Content: |-
     - changed directory of [[track:underground-path-dwellers-empty-path]] from <code>underground-path</code> to <code>underground-path-dwellers-empty-path</code>
     - changed directory of [[track:sans-ch2]] from <code>sans-deltarune-ch2</code> to <code>sans-ch2</code> (thanks, Lan!)
     - changed directory of [[track:oracle-unknown-diva]] from <code>oracle</code> to <code>oracle-unknown-diva</code>
+    - changed directory of [[track:2017-nintendo-switch-presentation-trailer]] from <code>nintendo-switch-presentation-2017-trailer-bgm</code> to <code>2017-nintendo-switch-presentation-trailer</code>
+    - changed directory of [[track:miniboss-hideout-i-kraid]] from <code>kraids-chamber</code> to <code>miniboss-hideout-i-kraid</code>
     - changed directory of [[track:onett]] from <code>onett-theme</code> to <code>onett</code> (thanks, ruby!)
+    - changed directory of [[track:parasite-queen-battle]] from <code>vs-parasite-queen</code> to <code>parasite-queen-battle</code>
+    - changed directory of [[track:snakey-chantey-rattle-battle]] from <code>snakey-chantey</code> to <code>snakey-chantey-rattle-battle</code>
     - changed directory of [[track:relic-song-pokemon-black-pokemon-white]] from <code>relic-song-pokemon-black-2-pokemon-white-2</code> to <code>relic-song-pokemon-black-pokemon-white</code> (thanks, ruby!)
     - changed directory of [[track:woah-chris]] from <code>woah</code> to <code>woah-chris</code> (thanks, Lan!)
     - changed directory of [[artist:avocado-canmt]] from <code>avocado</code> to <code>avocado-canmt</code>
