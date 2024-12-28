@@ -153,7 +153,7 @@ Lyrics: |-
 ---
 Track: I'm Your Treasure Box * You have found captain Marine in a treasure chest
 Originally Released As: track:im-your-treasure-box-you-have-found-captain-marine-in-a-treasure-chest
-Directory: im-your-treasure-box-you-have-found-captain-marine-in-a-treasure-chest-ahoy-youre-all-pirates
+Suffix Directory: true
 Duration: '4:15'
 URLs:
 - https://www.youtube.com/watch?v=vV-5W7SFHDc
@@ -162,7 +162,7 @@ URLs:
 ---
 Track: Dead Ma'am's Chest
 Originally Released As: track:dead-maams-chest
-Directory: dead-maams-chest-ahoy-youre-all-pirates
+Suffix Directory: true
 Duration: '4:23'
 URLs:
 - https://www.youtube.com/watch?v=QfGuQELt1Tk
@@ -967,6 +967,7 @@ Lyrics: |-
     最高にHAPPYな人生を･･･ みんなでHAPPYな人生を･･･
 ---
 Track: Unison
+Suffix Directory: true
 Artists:
 - Houshou Marine
 - Yunomi

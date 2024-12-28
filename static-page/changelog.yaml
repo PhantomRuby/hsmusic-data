@@ -79,7 +79,7 @@ Content: |-
     - added [[album:in-isolation]] by [[artist:david-ellis]]! (thanks, Lilith!)
     - added [[album:uufo]] by [[artist:camellia]]! (thanks, ruby, Lan!)
     - added [[album:extermination-shock]] by [[group:what-is-lost-in-the-mines]]! (thanks, Jebb!)
-    - added [[album:dead-maams-chest]] by [[artist:houshou-marine]]! (thanks, ruby!)
+    - added [[album:dead-maams-chest]] and [[album:ahoy-youre-all-pirates]] by [[artist:houshou-marine]]! (thanks, ruby!)
     <!-- team releases, subsections -->
     - added albums from [[group:deconrecon]]! (thanks, Tangle, Lan!)
         - added [[album:duodenary]] by [[group:cristata]]!
@@ -312,6 +312,7 @@ Content: |-
     - colorized tracks in [[album:rust-apocalypse]] (thanks, Lilith, Tangle!)
     - formatted lyrics for [[track:synchronise]] with links, like [[track:s-next-arrow]] (thanks, Lilith!)
     - adjusted spacing in lyrics for [[track:north-walk-south-walk]] (thanks, Lilith!)
+    - revised lyrics for [[track:im-your-treasure-box-you-have-found-captain-marine-in-a-treasure-chest]] (thanks, ruby!)
     - moved Bandcamp commentary for [[track:rust-apocalypse-anniversary-remaster]] to [[album:rust-apocalypse-anniversary-remaster|its album]] (thanks, Whisper!)
     - changed YouTube listening link for [[track:3-in-the-morning-pianokind]] to composer's upload (thanks, Surge!)
     - fixed contest-submitted name for [[track:teal-hunter]] per artist commentary (was "Bete Blanche", now "Bête Blanche"; thanks, Tangle!)
@@ -371,8 +372,9 @@ Content: |-
     - fixed [[track:vaporwave-2016-track1]] not crediting [[artist:marcy-nabors]] as co-artist (thanks, Lilith!)
     - fixed [[track:hankage-fantazumu-2]] not crediting [[artist:difarem]] - nor anyone at all! - as artist (thanks, Lilith!)
     - fixed [[track:voids-edge]] not crediting [[artist:rainy]] as co-artist (thanks, Lilith!)
-    - fixed [[track:roundabout]] crediting Eddie Offord (as artist) in addition to [[artist:yes]] (thanks, Cello, Lan, Whisper!)
+    - fixed all tracks in [[album:unknown-diva]], as well as [[track:betsu-sekai]], [[track:chuuko-no-niwa]], [[track:tenshi-no-agape]], and [[track:tokusya-seizon-wonder-la-der]], specifying "vocals" credits in artists instead of contributors (thanks, ruby!)
     - fixed [[track:in-the-end]] crediting [[artist:limp-bizkit]] instead of [[artist:linkin-park]] (thanks, Cello, Jebb!)
+    - fixed [[track:roundabout]] crediting Eddie Offord (as artist) in addition to [[artist:yes]] (thanks, Cello, Lan, Whisper!)
     - fixed [[track:woah-chris]] not crediting [[artist:chris-oneill]] for voice (thanks, Lan!)
     <!-- merged artists -->
     - fixed [[artist:bright0n]] having some credits under another name (thanks, Lilith!)
