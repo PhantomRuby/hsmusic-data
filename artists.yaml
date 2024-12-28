@@ -1134,6 +1134,8 @@ Artist: Barry Harman
 Artist: Bart Howard
 ---
 Artist: bart skrampson
+Aliases:
+- bart skrampsin
 URLs:
 - https://twitter.com/bartskrampson
 ---
@@ -1809,6 +1811,8 @@ URLs:
 - https://www.tumblr.com/captainquestionart
 ---
 Artist: captkirkland
+Aliases:
+- captinkirkland
 URLs:
 - https://twitter.com/captkirkland_
 - https://www.tumblr.com/finncent
@@ -3126,6 +3130,14 @@ Dead URLs:
 ---
 Artist: Disturbed
 ---
+Artist: Divo
+Aliases:
+- Oculusillusion
+URLs:
+- https://bsky.app/profile/oculusillusion.bsky.social
+- https://twitter.com/Oculusillusion
+- https://oculusillusion.carrd.co/
+---
 Artist: Dizzee Rascal
 ---
 Artist: dizzims.
@@ -4124,6 +4136,16 @@ Artist: Galaga
 Artist: Galaxy Goats
 URLs:
 - https://www.youtube.com/@GalaxyGoats
+---
+Artist: GalaxyMoo
+Aliases:
+- GalaxyMooing
+- Galaxy Moo
+URLs:
+- https://bsky.app/profile/galaxymoo.bsky.social
+- https://galaxymooart.tumblr.com
+- https://toyhou.se/GalaxyMoo
+- https://galaxymoo.carrd.co
 ---
 Artist: Gangsta Rap
 ---
@@ -6383,6 +6405,10 @@ URLs:
 - https://twitter.com/supershigi
 - https://www.laurashigihara.com/
 ---
+Artist: Laurence-Does-Art
+URLs:
+- https://www.tumblr.com/laurence-does-art
+---
 Artist: Lauren Bennett
 ---
 Artist: Lauren Collis
@@ -7845,6 +7871,14 @@ URLs:
 Dead URLs:
 - https://twitter.com/xLuDrawsx
 ---
+Artist: Nahu Pyrope
+URLs:
+- https://open.spotify.com/artist/3d0FQbV8rkvogZFkUkWWBu
+- https://x.com/NahuPyrope
+- https://bsky.app/profile/nahupyrope.bsky.social
+- https://www.youtube.com/@nahupyrope
+- https://linktr.ee/nahupyrope
+---
 Artist: Napster
 ---
 Artist: Natsumi Kameoka
@@ -8381,11 +8415,6 @@ URLs:
 - https://www.twitch.tv/octopimp
 Dead URLs:
 - http://octosmagiccastle.tumblr.com/
----
-Artist: Oculusillusion
-URLs:
-- https://twitter.com/Oculusillusion
-- https://oculusillusion.carrd.co/
 ---
 Artist: Oakley Haldeman
 ---
@@ -8955,6 +8984,11 @@ URLs:
 Artist: Pseudonym
 ---
 Artist: PSY
+---
+Artist: Psychymify
+# aka Julie
+URLs:
+- https://www.tumblr.com/psychymify
 ---
 Artist: PUNPEE
 ---
@@ -11597,6 +11631,8 @@ Context Notes: |-
     Early alias of [[artist:animeseinfeld]].
 ---
 Artist: TK
+Aliases:
+- freshsessiion
 URLs:
 - https://twitter.com/freshsessiion
 ---
