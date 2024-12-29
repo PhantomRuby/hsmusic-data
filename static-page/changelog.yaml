@@ -210,6 +210,7 @@ Content: |-
     - added Tumblr commentary to [[track:dawn-of-man]] (thanks, Lilith!)
     - added commentary blurbs from Bandcamp and YouTube, as well as additional names mostly from YouTube, across [[album:the-funk-mclovin-homestuck-experience]], [[album:class-act]], and [[album:class-act-b-side]]
     - added album release commentary to [[album:gravity-makes-the-flame-rise]] and [[album:ulterior-motives]]
+    - added Twitter commentary to [[track:welcome-to-the-city]] and [[track:lost-girl]] (thanks, Lan!)
     - added Tumblr commentary to [[track:horsecatska]] (thanks, Lilith!)
     - added SoundCloud commentary and additional name to [[track:hankage-fantazumu-2]] (thanks, Lilith!)
     - added Tumblr commentary and listening links to [[track:skaian-shuffle]], [[track:valor-toby-fox]], [[track:cheer-up-crabface-its-halloween]], and [[track:flight-of-the-white-wolf]] (thanks, Lilith, Whisper!)
@@ -360,6 +361,7 @@ Content: |-
     - fixed [[track:probable-cause]] not also sampling its referenced tracks (thanks, Lilith!)
     - fixed [[track:adventurous-ascent]] ([[album:lofam5a2]]) not referencing [[track:adventurous-ascent-single-version]] (thanks, Lilith!)
     - fixed [[track:anarchy-gravity-makes-the-flame-rise]] not sampling [[track:nothing-but-the-best]] (thanks, ruby!)
+    - fixed [[track:welcome-to-the-city]] referencing [[track:almost-to-the-guys]], instead of the other way around, and not referencing [[track:74]] (thanks, ruby, Cello, FF!)
     - fixed [[track:nows-your-chance-to-be-a]] and [[track:big-shot]] not sampling [[track:wow-mother]] (thanks, ruby!)
     - fixed [[track:festive-domain]] referencing [[track:rainfalls]] instead of [[track:rozepiano]] (thanks, Lan!)
     - fixed [[track:cheer-up-crabface-its-halloween]] not referencing [[track:crustacean]] and [[track:rex-duodecim-angelus]] (thanks, Lilith!)
@@ -373,6 +375,7 @@ Content: |-
     - fixed [[track:vaporwave-2016-track1]] not crediting [[artist:marcy-nabors]] as co-artist (thanks, Lilith!)
     - fixed [[track:hankage-fantazumu-2]] not crediting [[artist:difarem]] - nor anyone at all! - as artist (thanks, Lilith!)
     - fixed [[track:voids-edge]] not crediting [[artist:rainy]] as co-artist (thanks, Lilith!)
+    - fixed [[track:skies-forever-blue]] and [[track:off-vocal-skies-forever-blue]] not crediting [[artist:toby-fox]] and [[artist:itoki-hana]] with specific contributions (thanks, ruby!)
     - fixed all tracks in [[album:unknown-diva]], as well as [[track:betsu-sekai]], [[track:chuuku-no-niwa]], [[track:tenshi-no-agape]], and [[track:tokusya-seizon-wonder-la-der]], specifying "vocals" credits in artists instead of contributors (thanks, ruby!)
     - fixed [[track:in-the-end]] crediting [[artist:limp-bizkit]] instead of [[artist:linkin-park]] (thanks, Cello, Jebb!)
     - fixed [[track:roundabout]] crediting Eddie Offord (as artist) in addition to [[artist:yes]] (thanks, Cello, Lan, Whisper!)

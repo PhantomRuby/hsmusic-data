@@ -1,6 +1,6 @@
 Album: PRAY
 Artists:
-- Itoki Hana (all vocals, programming, mellotron, flute)
+- Itoki Hana
 Date: August 30, 2018
 Date Added: December 9, 2024
 URLs:
@@ -16,20 +16,28 @@ Groups:
 Wallpaper Artists:
 - ruby
 Wallpaper File Extension: png
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor)
+
+    This album is a CD release and also available on streaming platforms, but not completely on YouTube. We've included individual track links where available. The durations on this album are from the CD release; on streaming all tracks are around two seconds shorter.
+
+    Track 6, [[track:cycle-pray]], is listed on iTunes Store as an album-only track (it cannot be bought individually). It can't be streamed as part of the album on Apple Music and is excluded from the album on Spotify. The streaming links for this track are for its single/EP release instead.
 ---
 Track: きみでないのなら
-Additional Names:
-- Name: Kimidenainonara
-  Annotation: Apple Music (Romaji)
 Directory: kimidenainonara
-Artists:
-- Itoki Hana (vocals, lyrics, composition)
+Additional Names:
+- Name: >-
+    Kimidenainonara
+  Annotation: >-
+    [Apple Music](https://music.apple.com/album/kimidenainonara/1418425430?i=1418425437) (Romaji)
 Contributors:
+- Itoki Hana (vocals, lyrics, composition)
 - kidlit (arrangement, programming & piano)
 Duration: '4:35'
 URLs:
 - https://open.spotify.com/track/5XOoFnzpoNCEnRjZrNSTkF
 - https://music.apple.com/album/kimidenainonara/1418425430?i=1418425437
+- https://www.youtube.com/watch?v=Q6n3c2SI1ZE
 Lyrics: |-
     永遠でないのなら、いますぐに壊したい。
     もしも君でないのなら、誰もいなくていい。
@@ -58,12 +66,13 @@ Lyrics: |-
     もしも君でないのなら･･･
 ---
 Track: ROLE PLAY
-Artists:
+Contributors:
 - Itoki Hana (vocals, lyrics, composition, arrangement)
 Duration: '4:54'
 URLs:
 - https://open.spotify.com/track/6UbCyXkJW8WCbRywpi8iDz
 - https://music.apple.com/album/role-play/1418425430?i=1418425438
+- https://www.youtube.com/watch?v=UkIMcSJiffg
 Lyrics: |-
     『望んでくれるなら、ぼくは勇者になろう。
     ･･･代わりが もう、いるんだね。
@@ -116,15 +125,21 @@ Lyrics: |-
 ---
 Track: '74'
 Additional Names:
-- Name: Seventy Four
-  Annotation: Apple Music
+- Name: >-
+    Seventy Four
+  Annotation: >-
+    [Apple Music](https://music.apple.com/album/seventy-four/1418425430?i=1418425439)
 Artists:
+- Itoki Hana
+- Toby Fox
+Contributors:
 - Itoki Hana (vocals, lyrics, arrangement)
 - Toby Fox (vocals, lyrics, composition)
-Duration: '4:35'
+Duration: '3:35'
 URLs:
 - https://open.spotify.com/track/0Q2eLJmspNc9jUAtOhotAe
 - https://music.apple.com/album/seventy-four/1418425430?i=1418425439
+- https://www.youtube.com/watch?v=poKI_MY0Bkw
 Lyrics: |-
     Seventy-three
     時だけが過ぎてゆく
@@ -192,9 +207,8 @@ Lyrics: |-
     Seventy-four
 ---
 Track: Pillowman
-Artists:
-- Itoki Hana (vocals, lyrics, composition, arrangement)
 Contributors:
+- Itoki Hana (vocals, lyrics, composition, arrangement)
 - Naofumi Onoda (drums)
 Duration: '4:55'
 URLs:
@@ -266,12 +280,13 @@ Lyrics: |-
     Believin'in you
 ---
 Track: A love suicide
-Artists:
+Contributors:
 - Itoki Hana (vocals, arrangement)
 Duration: '3:29'
 URLs:
 - https://open.spotify.com/track/6IEkzYYw1XdaVKExfVvmyY
 - https://music.apple.com/album/a-love-suicide/1418425430?i=1418425441
+- https://www.youtube.com/watch?v=Xuhe0B5XDq0
 Referenced Tracks:
 - 'A love suicide~The theme of RULE of ROSE~'
 Lyrics: |-
@@ -314,13 +329,12 @@ Lyrics: |-
     It is pure white just like sin
 ---
 Track: 環 -cycle-
+Suffix Directory: true
 Additional Names:
 - Name: cycle
   Annotation: localized name
-Directory: cycle
-Artists:
-- Itoki Hana (vocals)
 Contributors:
+- Itoki Hana (vocals)
 - Koko Komine (lyrics)
 - Tomohiko Kira (composition, arrangement)
 - Yoko Ueno (arrangement)
@@ -335,7 +349,8 @@ Contributors:
 Duration: '3:43'
 URLs:
 - https://open.spotify.com/track/5xW5oJXwQTdfhvngvKpGN3
-- https://music.apple.com/album/cycle/1418425430?i=1418425442
+- https://music.apple.com/album/cycle/1297865208?i=1297865212
+- https://www.youtube.com/watch?v=SP-k9OeA2Ts
 Lyrics: |-
     枝に結ぶ実が熟す前に
     落ちてしまわぬよう
@@ -357,13 +372,14 @@ Lyrics: |-
     ここへ 迷わずに帰 れるはずだから
 ---
 Track: 不眠症ロンリーガール
-Additional Names:
-- Name: Fuminsho Lonely Girl
-  Annotation: Apple Music (Romaji)
 Directory: fuminsho-lonely-girl
-Artists:
-- Itoki Hana (vocals, lyrics, composition, arrangement)
+Additional Names:
+- Name: >-
+    Fuminsho Lonely Girl
+  Annotation: >-
+    [Apple Music](https://music.apple.com/album/fuminsho-lonely-girl/1418425430?i=1418425443) (Romaji)
 Contributors:
+- Itoki Hana (vocals, lyrics, composition, arrangement)
 - scndworks (arrangement, programming)
 Duration: '5:00'
 URLs:
@@ -425,11 +441,13 @@ Lyrics: |-
     あけてゆく空に 夢 ひびかせて
 ---
 Track: 忘却舞踏
-Additional Names:
-- Name: Boukyakubutou
-  Annotation: Apple Music (Romaji)
 Directory: boukyakubutou
-Artists:
+Additional Names:
+- Name: >-
+    Boukyakubutou
+  Annotation: >-
+    [Apple Music](https://music.apple.com/album/boukyakubutou/1418425430?i=1418425444) (Romaji)
+Contributors:
 - Itoki Hana (vocals, lyrics, composition, arrangement)
 Duration: '5:27'
 URLs:
@@ -489,11 +507,13 @@ Lyrics: |-
     わたしは 今 わたしに 出会う
 ---
 Track: 四角い世界
-Additional Names:
-- Name: Shikakuisekai
-  Annotation: Apple Music (Romaji)
 Directory: shikakuisekai
-Artists:
+Additional Names:
+- Name: >-
+    [Shikakuisekai](https://music.apple.com/album/shikakuisekai/1418425430?i=1418425445)
+  Annotation: >-
+    Apple Music (Romaji)
+Contributors:
 - Itoki Hana (vocals, lyrics, composition, arrangement)
 Duration: '4:25'
 URLs:
@@ -529,14 +549,15 @@ Lyrics: |-
     か細いひとすじの、虹を みつけたの
 ---
 Track: Wither
-Artists:
-- Itoki Hana (vocals, lyrics, composition, arrangement)
+Suffix Directory: true
 Contributors:
+- Itoki Hana (vocals, lyrics, composition, arrangement)
 - Ryo "Lefty" Miyata (programming)
 Duration: '5:10'
 URLs:
 - https://open.spotify.com/track/3YDvlDuVAKxGRlB1k5R1uu
 - https://music.apple.com/album/wither/1418425430
+- https://www.youtube.com/watch?v=yK3VWFZhUpg
 Lyrics: |-
     耳を ふさいでいた
     心が枯れる音 が、した。
@@ -569,19 +590,21 @@ Lyrics: |-
     あかいろが にじむ
 ---
 Track: 体内時計
-Additional Names:
-- Name: Tainaidokei
-  Annotation: Apple Music (Romaji)
 Directory: tainaidokei
-Artists:
-- Itoki Hana (vocals, lyrics, composition, arrangement)
+Additional Names:
+- Name: >-
+    [Tainaidokei](https://music.apple.com/album/tainaidokei/1418425430?i=1418425447)
+  Annotation: >-
+    Apple Music (Romaji)
 Contributors:
+- Itoki Hana (vocals, lyrics, composition, arrangement)
 - Tomoya.S (E. guitar)
 - Ryo "Lefty" Miyata (programming)
 Duration: '6:19'
 URLs:
 - https://open.spotify.com/track/18LHeucbhdsQOyeWhcOdkI
 - https://music.apple.com/album/tainaidokei/1418425430?i=1418425447
+- https://www.youtube.com/watch?v=ygd3SnVK8XM
 Lyrics: |-
     見たい夢も ない、と
     拗ねたように かたく 目を 閉じる
@@ -619,18 +642,20 @@ Lyrics: |-
     わたしの朝 は、 まだ、だよ。
 ---
 Track: あこがれ
-Additional Names:
-- Name: Akogare
-  Annotation: Apple Music (Romaji)
 Directory: akogare
-Artists:
-- Itoki Hana (vocals, lyrics, composition, arrangement)
+Additional Names:
+- Name: >-
+    Akogare
+  Annotation: >-
+    [Apple Music](https://music.apple.com/album/akogare/1418425430?i=1418425448) (Romaji)
 Contributors:
+- Itoki Hana (vocals, lyrics, composition, arrangement)
 - Naofumi Onoda (drums)
 Duration: '6:14'
 URLs:
 - https://open.spotify.com/track/2IA8qrfVaJuTZceXAoe1GY
 - https://music.apple.com/album/akogare/1418425430?i=1418425448
+- https://www.youtube.com/watch?v=5hpQJmEbhAg
 Lyrics: |-
     風が 季節を はこぶ
     鳥が あしたを うたう
