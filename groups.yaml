@@ -491,17 +491,13 @@ Series:
   - The Baby is You
   - Hiveswap Act 1 OST
   - 'HIVESWAP: ACT 2 Original Soundtrack'
-- Name: UNDERTALE & DELTARUNE
-  Albums:
-  - UNDERTALE Soundtrack
-  - DELTARUNE Chapter 1 OST
-  - DELTARUNE Chapter 2 OST
-- Name: Fanworks and original music
+- Name: Original projects
   Show Album Artists: true
   Albums:
   - Earthbound Halloween Hack
-  - improvised touhou music with annoying commentary
-  - made up yume nikkis
+  - UNDERTALE Soundtrack
+  - DELTARUNE Chapter 1 OST
+  - DELTARUNE Chapter 2 OST
   - Skies Forever Blue
   - The Greatest Living Show
 - Name: Full game soundtracks
@@ -512,18 +508,42 @@ Series:
   - Little Town Hero Original Soundtrack
   - Dweller's Empty Path OST
   - Soul of Sovereignty Prelude OST
-- Name: More musical contributions
+- Name: Even more Toby Fox
+  Show Album Artists: true
   Albums:
-  - Super Smash Bros. Ultimate
-  - 'Pokémon Sword & Pokémon Shield + Expansion Pass: Super Music Collection' # effectively 11/8/2019, via https://www.pokemon.com/us/pokemon-news/a-special-letter-and-song-from-undertale-game-creator-toby-fox
-  - PRAY
-  - U.U.F.O.
+  - improvised touhou music with annoying commentary
+  - made up yume nikkis
   - Pale Rain
+- Name: With Itoki Hana
+  Show Album Artists: true
+  Albums:
+  - PRAY
+  - Skies Forever Blue
+  - The Greatest Living Show
+- Name: With Temmie
+  Show Album Artists: true
+  Albums:
+  - Escaped Chasm
+  - Dweller's Empty Path OST
+- Name: With Camellia
+  Show Album Artists: true
+  Albums:
+  - Dweller's Empty Path OST
+  - U.U.F.O.
+  - Theatore Creatore
+- Name: With hololive
+  Show Album Artists: true
+  Albums:
   - I'm Your Treasure Box * You have found captain Marine in a treasure chest
-  - 'Pokémon Scarlet & Pokémon Violet + The Hidden Treasure of Area Zero: Super Music Collection'
   - Unknown DIVA
   - Dead Ma’am’s Chest
   - Ahoy!! You're All Pirates ♡
+- Name: With Nintendo & GAME FREAK
+  Albums:
+  - Super Smash Bros. Ultimate
+  - Little Town Hero Original Soundtrack
+  - 'Pokémon Sword & Pokémon Shield + Expansion Pass: Super Music Collection' # effectively 11/8/2019, via https://www.pokemon.com/us/pokemon-news/a-special-letter-and-song-from-undertale-game-creator-toby-fox
+  - 'Pokémon Scarlet & Pokémon Violet + The Hidden Treasure of Area Zero: Super Music Collection'
 ---
 Group: what is lost in the mines?
 Closely Linked Artists:
