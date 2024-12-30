@@ -41,7 +41,7 @@ Series:
   - The Wanderers
   - Cherubim
 - Name: Solo albums
-  Show Album Artists: true
+  Show Album Artists: all
   Albums:
   - Alternia
   - Strife!
@@ -182,7 +182,7 @@ Series:
   - 'Homestuck^2: Beyond CaNMT Vol. 1'
   - troleplanet
 - Name: Solo albums
-  Show Album Artists: true
+  Show Album Artists: all
   Albums:
   - Of Troles and Chiptumes
   - A Shade Of Blue
@@ -486,13 +486,14 @@ Description: |-
     Artist of well over 100 tracks in Homestuck's musical canon (including the elusive [[Penumbra Phantasm]]), Toby Fox went on to compose the much-renowned soundtracks to his games [[group:undertale-and-deltarune]], firmly planting his place in modern game and internet history.
 Series:
 - Name: Homestuck
+  Show Album Artists: differing
   Albums:
   - Alternia
   - The Baby is You
   - Hiveswap Act 1 OST
   - 'HIVESWAP: ACT 2 Original Soundtrack'
 - Name: Original projects
-  Show Album Artists: true
+  Show Album Artists: differing
   Albums:
   - Earthbound Halloween Hack
   - UNDERTALE Soundtrack
@@ -500,39 +501,84 @@ Series:
   - DELTARUNE Chapter 2 OST
   - Skies Forever Blue
   - The Greatest Living Show
-- Name: Full game soundtracks
-  Show Album Artists: true
+- Name: Noted contributions
+  Show Album Artists: all
   Albums:
   - Rose of Winter
   - Escaped Chasm
   - Little Town Hero Original Soundtrack
   - Dweller's Empty Path OST
+  - I'm Your Treasure Box * You have found captain Marine in a treasure chest
+  - 'Pokémon Scarlet & Pokémon Violet + The Hidden Treasure of Area Zero: Super Music Collection'
   - Soul of Sovereignty Prelude OST
-- Name: Even more Toby Fox
-  Show Album Artists: true
+  - Dead Ma’am’s Chest
+  - Theatore Creatore
+- Name: Guest appearances
+  Show Album Artists: all
+  Albums:
+  - PRAY
+  - Super Smash Bros. Ultimate
+  - 'Pokémon Sword & Pokémon Shield + Expansion Pass: Super Music Collection' # effectively 11/8/2019, via https://www.pokemon.com/us/pokemon-news/a-special-letter-and-song-from-undertale-game-creator-toby-fox
+  - U.U.F.O.
+  - Unknown DIVA
+  - Ahoy!! You're All Pirates ♡
+- Name: Game soundtracks
+  Albums:
+  - UNDERTALE Soundtrack
+  - Rose of Winter
+  - Hiveswap Act 1 OST
+  - DELTARUNE Chapter 1 OST
+  - Little Town Hero Original Soundtrack
+  - Dweller's Empty Path OST
+  - 'HIVESWAP: ACT 2 Original Soundtrack'
+  - DELTARUNE Chapter 2 OST
+  - 'Pokémon Sword & Pokémon Shield + Expansion Pass: Super Music Collection' # effectively 11/8/2019, via https://www.pokemon.com/us/pokemon-news/a-special-letter-and-song-from-undertale-game-creator-toby-fox
+  - 'Pokémon Scarlet & Pokémon Violet + The Hidden Treasure of Area Zero: Super Music Collection'
+  - Soul of Sovereignty Prelude OST
+- Name: Fan-compiled soundtracks
+  Albums:
+  - Earthbound Halloween Hack
+  - Super Smash Bros. Ultimate
+  - Escaped Chasm
+- Name: Standalone albums
+  Show Album Artists: all
+  Albums:
+  - PRAY
+  - U.U.F.O.
+  - Unknown DIVA
+  - Ahoy!! You're All Pirates ♡
+- Name: Standalone singles
+  Show Album Artists: all
+  Albums:
+  - Pale Rain
+  - I'm Your Treasure Box * You have found captain Marine in a treasure chest
+  - Skies Forever Blue
+  - The Greatest Living Show
+  - Dead Ma’am’s Chest
+  - Theatore Creatore
+- Name: toby tumblr
   Albums:
   - improvised touhou music with annoying commentary
   - made up yume nikkis
-  - Pale Rain
 - Name: With Itoki Hana
-  Show Album Artists: true
+  Show Album Artists: all
   Albums:
   - PRAY
   - Skies Forever Blue
   - The Greatest Living Show
 - Name: With Temmie
-  Show Album Artists: true
+  Show Album Artists: all
   Albums:
   - Escaped Chasm
   - Dweller's Empty Path OST
 - Name: With Camellia
-  Show Album Artists: true
+  Show Album Artists: all
   Albums:
   - Dweller's Empty Path OST
   - U.U.F.O.
   - Theatore Creatore
 - Name: With hololive
-  Show Album Artists: true
+  Show Album Artists: all
   Albums:
   - I'm Your Treasure Box * You have found captain Marine in a treasure chest
   - Unknown DIVA
@@ -647,7 +693,7 @@ Series:
   - Magnum Opus
   - In Medias Res
 - Name: Solo albums
-  Show Album Artists: true
+  Show Album Artists: all
   Albums:
   - Repiton
   - Reminders of You [Beta]
