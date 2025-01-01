@@ -200,24 +200,52 @@ Referenced Tracks:
 - track:beatdown-strider-style
 - track:explore
 Commentary: |-
-    <i>Jebb:</i> (Wiki editor)
+    <i>Jebb:</i> (wiki editor)
+
     This track actually samples some unknown nebulous OLDER version of Cascade which was made inbetween Cascade (Beta) and this one. From what it seems Toby's addition here are the instruments layered on top of the standard Cascade sounding thing, and the Sburban Jungle and Beatdown references are by [[artist:tensei]]. However, we do not have the original version of Cascade which this track samples, so as it is now we are using this track as the reference for [[track:cascade-directors-cut]], as it is the earliest known version of this track which has that little bit at the beginning.
 ---
-Track: Cascading Events
-# No official name, this one is possibly fan-sourced?
-# Also known as "Descend2 Demo", "Freefall Beta" or "cascade2"
+Track: Cascade2
 Artists:
 - Robert J! Lake
 Duration: '4:20'
+Referenced Tracks:
+- Descend2 (11/24)
+Sampled Tracks:
+- Descend2 (11/24)
+- track:frost-vol6
+- Sburban Jungle
 URLs:
 - https://spellmynamewithabang.tumblr.com/post/23058153189/at-one-point-kids-i-was-working-on-expanding
+- https://hsmusic.wiki/media/misc/archive/Cascade2.mp3
 Commentary: |-
-    <i>Robert J! Lake:</i> ([Tumblr](https://spellmynamewithabang.tumblr.com/post/23058153189/at-one-point-kids-i-was-working-on-expanding)
+    <i>Robert J! Lake:</i> ([Tumblr](https://spellmynamewithabang.tumblr.com/post/23058153189/at-one-point-kids-i-was-working-on-expanding), 5/14/2012)
+
     at one point, kids, i was working on expanding “descend2” (what would become cascade) into something bigger and longer. obviously that fell through and tensei finished his track as he wanted to do it, which is well and good, but hey.
 
     this is as far as i got. maybe i’ll finish it one day.  there are a buttload of problems here, most notably the sburban jungle samples in the lead up to the drop and the fact that i didn’t make it my own, enough, at this point.
 
     maybe this will get done for volume 9. i’d like that.
+
+    <i>Robert J! Lake:</i> ([Tumblr](https://spellmynamewithabang.tumblr.com/post/145792977128/spellmynamewithabang-at-one-point-kids-i-was), 6/12/2016)
+
+    psst [[track:freefall|https://homestuck.bandcamp.com/track/freefall]]
+
+    also, wow. i wrote this post when i was 18. disgusting.
+
+    <i>Quasar Nebula:</i> (wiki editor, 1/1/2025)
+
+    The name for this track is taken as [[artist:robert-j-lake]] refers to it in the booklet commentary for its complete version, [[track:freefall]]. As Makin noted in an in-data comment:
+
+    <i>Makin:</i> (wiki editor, data-file comment, 8/20/2023)
+
+    No official name, this one ["Cascading Events"] is possibly fan-sourced?<br>
+    Also known as "Descend2 Demo", "Freefall Beta" or "cascade2"
+
+    <i>Quasar Nebula:</i> (wiki editor, 1/1/2025)
+
+    The MP3 for this track (obtained directly from tumblr) has a date/year field of 2010. As RJ noted in Vol. 10's booklet commentary - this track is older than [[flash:4109]] itself! (There is no track / file name for the MP3 or as part of the original tumblr post.)
+
+    The Descend2 reference in this track, pointing to [[track:descend2-11-24]], is arbitrarily chosen. All versions of Descend2 were posted to Tindeck around the same date ([[date:11/24/2010]]), so we assume the latest, "most complete" version was sampled, but we haven't musically backed this up yet.
 ---
 Track: Cats
 Directory: cats-toby-fox
@@ -341,7 +369,8 @@ Artists:
 URLs:
 - https://hsmusic.wiki/media/misc/archive/Descend(Original%20Version).mp3
 Commentary: |-
-    <i>Quasar Nebula:</i> (wiki editor)
+    <i>Quasar Nebula:</i> (wiki editor, 12/14/2023)
+
     [Details from Tindeck.](https://web.archive.org/web/20110317051823/http://tindeck.com/listen/jkbc) The earliest version of [[Cascade (Beta)]].
 ---
 Track: Descend2 (11/23)
@@ -356,7 +385,8 @@ URLs:
 Referenced Tracks:
 - Descend(Original Version)
 Commentary: |-
-    <i>Quasar Nebula:</i> (wiki editor)
+    <i>Quasar Nebula:</i> (wiki editor, 12/14/2023)
+
     [Details from Tindeck.](https://web.archive.org/web/20110317051823/http://tindeck.com/listen/pycu) This track and [[Descend2 (11/24)]] had the exact same name, though they're spearate uploads.
 ---
 Track: Descend2 (11/24)
@@ -370,9 +400,17 @@ URLs:
 - https://hsmusic.wiki/media/misc/archive/Tensei-San%20-%20Descend2%20(2010-11-24).mp3
 Referenced Tracks:
 - Descend2 (11/23)
+- Descend
+Sampled Tracks:
+- Friendship Aneurysm
 Commentary: |-
-    <i>Quasar Nebula:</i> (wiki editor)
+    <i>Quasar Nebula:</i> (wiki editor, 12/14/2023)
+
     [Details from Tindeck.](https://web.archive.org/web/20110317051823/http://tindeck.com/listen/dvqu) This track and [[Descend2 (11/23)]] had the exact same name, though they're spearate uploads.
+
+    <i>Quasar Nebula:</i> (wiki editor, 1/1/2025)
+
+    The [[Descend]] reference here refers to the way this track cuts (with static) to [[track:friendship-aneurysm]].
 ---
 Track: Desperado
 Artists:

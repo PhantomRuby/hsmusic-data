@@ -214,6 +214,7 @@ Content: |-
     - added Twitter commentary to [[track:welcome-to-the-city]] and [[track:lost-girl]] (thanks, Lan!)
     - added Tumblr commentary to [[track:horsecatska]] (thanks, Lilith!)
     - added SoundCloud commentary and additional name to [[track:hankage-fantazumu-2]] (thanks, Lilith!)
+    - added Tumblr commentary to [[track:cascade2]] (thanks, Jebb, Lan!)
     - added Tumblr commentary and listening links to [[track:skaian-shuffle]], [[track:valor-toby-fox]], [[track:cheer-up-crabface-its-halloween]], and [[track:flight-of-the-white-wolf]] (thanks, Lilith, Whisper!)
     <!-- artworks -->
     - added better-quality alternate artwork to [[track:elephant-gun]] (thanks, Lilith!)
@@ -234,6 +235,7 @@ Content: |-
         - [[track:lies-with-the-sea]] and [[track:chain-of-prospit]] (original release, YouTube, Spotify, Apple Music)
         - [[track:the-prelude]], [[track:revelations-i]], [[track:revelations-ii]], and [[track:revelations-iii]] (original release, as these are newly renamed)
         - [[track:nightmare]] (working title)
+        - [[track:cascade-beta]] (original name)
         - [[track:pumpkin-party-in-sea-hitlers-water-apocalypse]] (Tumblr)
         - [[track:the-lyrist]] and [[track:the-lordling]] (Tumblr)
         - [[track:jackknive]] (planned, could've been, and working names)
@@ -348,7 +350,9 @@ Content: |-
     <h3>data fixes</h3>
     <!-- reference fixes -->
     - fixed [[track:fiduspawn-go]] not referencing [[track:title-screen-pokemon-red-blue]] (thanks, ruby!)
+    - fixed [[track:cascade-beta]] not referencing [[track:descend2-11-24]] (thanks, Tangle!)
     - fixed [[track:skaian-overdrive]] not referencing [[track:skaian-overdrive-original]] (original recording), and moved [[track:skaian-ride]] and [[track:sburban-jungle]] references to that track (thanks, Lilith!)
+    - fixed [[track:freefall]] referencing [[track:cascade-beta]] instead of [[track:cascade2]]
     - fixed [[track:feel-alive]] referencing [[track:feel-old-ver]] instead of [[track:feel-luke-benjamins]], and [[track:feel-old-ver]] referencing [[track:feel-luke-benjamins]] instead of the other way around (thanks, Lilith, Whisper, ruby!)
     - fixed [[track:teal-justice]] referencing [[track:teal-hunter]] instead of [[track:teal-hunter-white-dragon]] (thanks, Lilith!)
     - fixed [[track:hankage-fantazumu]] and [[track:penumbra]] referencing [[track:pseudumbra-phauxtasm]] instead of [[track:vaporwave-2016-track1]], and not also sampling this track (thanks, Lilith!)
@@ -365,6 +369,7 @@ Content: |-
     - fixed [[track:welcome-to-the-city]] referencing [[track:almost-to-the-guys]], instead of the other way around, and not referencing [[track:74]] (thanks, ruby, Cello, FF!)
     - fixed [[track:nows-your-chance-to-be-a]] and [[track:big-shot]] not sampling [[track:wow-mother]] (thanks, ruby!)
     - fixed [[track:festive-domain]] referencing [[track:rainfalls]] instead of [[track:rozepiano]] (thanks, Lan!)
+    - fixed [[track:cascade2]] not referencing or sampling any tracks (thanks, Lan!)
     - fixed [[track:cheer-up-crabface-its-halloween]] not referencing [[track:crustacean]] and [[track:rex-duodecim-angelus]] (thanks, Lilith!)
     - fixed [[track:valor-toby-fox]] not referencing [[track:showtime-original-mix]] (thanks, Lilith!)
     - fixed [[track:final-savage-all-voice]] ([[artist:beat-throat-mario]]) referencing [[track:un-owen-was-her]] instead of [[track:final-savage-sister-flandre-s]] (thanks, Lilith!)
@@ -531,6 +536,7 @@ Content: |-
     </ul></details>
     <!-- name fixes (single-lines) -->
     - fixed [[track:carbon-nadsat-cuestick-genius]] being named "Carbon Nadsat / Cuestick Genius" (spaces around slash; thanks, Pyryte, Lilith, Lan!)
+    - fixed [[track:cascade2]] being named "Cascading Events" (thanks, Lan!)
     - fixed [[track:cheer-up-crabface-its-halloween]] being named "Cheer up, crabface, it's Halloween!", and added this as an additional name with details in commentary (thanks, Lilith!)
     - fixed [[track:feel-old-ver]] being named "Feel (Old. Ver)" (thanks, Whisper, Lilith!)
     - fixed [[track:onett]] being named "Onett Theme" (thanks, ruby, Lan!)
