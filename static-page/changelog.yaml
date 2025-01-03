@@ -546,6 +546,7 @@ Content: |-
     <!-- general data fixes -->
     - fixed duration of [[track:wanderlust-redditstuck]] (was 3:52, now 3:24; thanks, Lilith, Lan, Makin!)
     - fixed duration of many Nintendo tracks to align with Nintendo Music (thanks, ruby!)
+    - fixed formatting of "original name" additional name on [[track:showtime-original-mix]] (was wrapped in parentheses; thanks, Surge!)
     - fixed citations for "[BONUS]" additional names on [[track:pondsquatter-live-chamber-version]] and [[track:frogsong]] (was "album download", now "original release"; thanks, Lilith!)
     <!-- additional file fixes -->
     - fixed [[album:homestuck-vol-4]] not listing "Homestuck_Vol4_alt9.jpg" additional file (thanks, Lilith!)
