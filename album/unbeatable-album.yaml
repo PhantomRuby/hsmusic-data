@@ -11,6 +11,16 @@ Cover Art File Extension: png
 Color: '#FF467F'
 URLs:
 - https://dcellgames.bandcamp.com/album/album
+Cover Artwork:
+- Date: July 27, 2026
+- Label: Digital distribution cover art
+  Directory: digital-distribution
+  Attach Above: true
+  Date: July 27, 2026
+  Source: >-
+    [Apple Music](https://music.apple.com/us/album/album/6793498601)
+- Label: Original cover art
+  Directory: original
 Groups:
 - UNBEATABLE
 - rj lake
@@ -21,13 +31,10 @@ Banner File Extension: png
 Banner Dimensions: 975x180
 Banner Style: |-
     --short-banner-alignment: 45%;
+Wallpaper File Extension: png
 Wallpaper Artists:
-- ruby (edits for wiki)
-Wallpaper Parts:
-- Asset: none
-  Style: |-
-    background-color: #FFFFFF;
-    opacity: 1;
+- Andrew Tsai
+- bit (edits for wiki)
 Commentary: |-
     @@ [Bandcamp about blurb](https://dcellgames.bandcamp.com/album/album)
 
