@@ -11,6 +11,28 @@ Color: '#FF467F'
 #Date Added: August 21, 2025
 URLs:
 - https://dcellgames.bandcamp.com/album/unbeatable-ost
+Cover Artwork:
+- Date: July 27, 2026
+- Label: Digital distribution disc one
+  Directory: digital-distribution-disc-one
+  Attach Above: true
+  Date: July 27, 2026
+  Source: >-
+    [Apple Music](https://music.apple.com/us/album/unbeatable-ost-disc-one/6797390274)
+- Label: Digital distribution disc two
+  Directory: digital-distribution-disc-two
+  Date: July 27, 2026
+  Source: >-
+    [Apple Music](https://music.apple.com/us/album/unbeatable-ost-disc-two/6802425517)
+- Label: Digital distribution disc three
+  Directory: digital-distribution-disc-three
+  Date: July 27, 2026
+  Source: >-
+    [Apple Music](https://music.apple.com/us/album/unbeatable-ost-disc-three/6802088640)
+- Label: Original cover art
+  Directory: original
+  Artists:
+  - Andrew Tsai
 Groups:
 - UNBEATABLE
 - rj lake
@@ -21,13 +43,10 @@ Banner File Extension: png
 Banner Dimensions: 975x180
 Banner Style: |-
     --short-banner-alignment: 45%;
+Wallpaper File Extension: png
 Wallpaper Artists:
-- ruby (edits for wiki)
-Wallpaper Parts:
-- Asset: none
-  Style: |-
-    background-color: #FFFFFF;
-    opacity: 1;
+- Andrew Tsai
+- bit (edits for wiki)
 Commentary: |-
     @@ [Bandcamp about blurb](https://dcellgames.bandcamp.com/album/unbeatable-ost)
 
@@ -42,7 +61,17 @@ Commentary: |-
     [[artist:clara-maddux|clara maddux]] - composition, arrangement, lead performer<br>
     [[artist:vasily-nikolaev|vasily nikolaev]] - composition, arrangement, mastering
 
+    album art by [[artist:andrew-tsai|andrew tsai]]
+
     btw yes the game is out
+Crediting Sources: |-
+    <i>bit:</i> ([Bluesky](https://bsky.app/profile/bit-uint32.bsky.social/post/3myfobsi7vc2i), 10/21/2026)
+
+    did @pixelhavokk.dcellgames.com draw all of these covers too? on the bandcamp credits it says he did the covers but that's just album and ost disc one, but i was curious on who worked on the other two just in case it wasn't just him too
+
+    <i>Andrew Tsai:</i> ([Bluesky](https://bsky.app/profile/pixelhavokk.dcellgames.com/post/3myfoeajym227), 10/21/2026)
+
+    i did all of them!
 ---
 Track: MIC CHECK
 Bandcamp Track ID: 669817492
